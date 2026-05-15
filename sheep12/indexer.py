@@ -24,8 +24,8 @@ def run():
     print("🐑 SHEEP 12: Activating News Signal Engine...")
     
     # 1. Ping Sitemaps (Standard & News)
-    ping_google_sitemap("https://cutbar.in/sitemap.xml")
-    ping_google_sitemap("https://cutbar.in/news-sitemap.xml")
+    ping_google_sitemap("https://autoflock.cutbar.in/sitemap.xml")
+    ping_google_sitemap("https://autoflock.cutbar.in/news-sitemap.xml")
 
     # 2. Attempt Indexing API (Selective)
     if not os.path.exists(KEY_FILE):
@@ -53,7 +53,7 @@ def _run_api_indexing():
     for article in articles:
         # Use filename without .html as Cloudflare Pages/Wrangler likely redirects
         filename = article.get('filename', '').replace('.html', '')
-        url = f"https://cutbar.in/{filename}"
+        url = f"https://autoflock.cutbar.in/{filename}"
         print(f"   API Indexing: {url}")
         payload = {"url": url, "type": "URL_UPDATED"}
         headers = {"Content-Type": "application/json", "Authorization": f"Bearer {access_token}"}
