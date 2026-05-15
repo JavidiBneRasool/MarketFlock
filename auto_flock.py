@@ -33,10 +33,10 @@ def run_sync():
 
 if __name__ == "__main__":
     os.makedirs(os.path.join(PROJECT_DIR, "logs"), exist_ok=True)
-    print("🚀 Autoflock 3-Hour Automation Started.")
+    print("🚀 Autoflock 1-Hour Automation Started.")
     print(f"📝 Logging to: {LOG_FILE}")
     
     while True:
         run_sync()
-        print("⏳ Sleeping for 3 hours (10800s)...")
-        time.sleep(10800)
+        print("⏳ Sleeping for 1 hour (3600s)...")
+        time.sleep(3600)
