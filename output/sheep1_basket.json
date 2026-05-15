@@ -1,19 +1,19 @@
 [
   {
-    "title": "Explore Wikipedia Like a Windows XP Desktop",
-    "url": "https://explorer.samismith.com/",
+    "title": "RelaxAI \u2013 UK sovereign LLM inference at 80% cheaper than OpenAI/Claude",
+    "url": "https://relax.ai/docs",
     "source": "Hacker News",
     "category": "Terminal/Dev",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48146129\">Comments</a>",
-    "found_at": "2026-05-15T15:37:24.434633"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48146424\">Comments</a>",
+    "found_at": "2026-05-15T15:58:07.438617"
   },
   {
-    "title": "AgentRail",
-    "url": "https://www.producthunt.com/products/agentrail",
+    "title": "Noeth",
+    "url": "https://www.producthunt.com/products/noeth",
     "source": "Product Hunt",
     "category": "AI Tools",
-    "summary": "<p>\n            A local control plane for AI coding agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/agentrail?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146987?app_id=339\">Link</a>\n          </p>",
-    "found_at": "2026-05-15T15:37:25.074350"
+    "summary": "<p>\n            The coding interview AI that lets you bring your own API key\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/noeth?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146746?app_id=339\">Link</a>\n          </p>",
+    "found_at": "2026-05-15T15:58:08.105474"
   },
   {
     "title": "A Kid With a Fake Mustache Tricked an Online Age-Verification Tool",
@@ -21,7 +21,7 @@
     "source": "Wired Security",
     "category": "Automation/Sec",
     "summary": "To stop children from bypassing its age checks, Meta is revamping its age-verification tools with an AI system that analyzes images and videos for \u201cvisual cues,\u201d such as height and bone structure.",
-    "found_at": "2026-05-15T15:37:25.680846"
+    "found_at": "2026-05-15T15:58:09.085190"
   },
   {
     "title": "Modelling Human Routines: Conceptualising Social Practice Theory for Agent-Based Simulation",
@@ -29,7 +29,7 @@
     "source": "ArXiv AI",
     "category": "AI Research",
     "summary": "Our routines play an important role in a wide range of social challenges such as climate change, disease outbreaks and coordinating staff and patients in a hospital. To use agent-based simulations (ABS) to understand the role of routines in social challenges we need an agent framework that integrates routines. This paper provides the domain-independent Social Practice Agent (SoPrA) framework that satisfies requirements from the literature to simulate our routines. By choosing the appropriate concepts from the literature on agent theory, social psychology and social practice theory we ensure SoPrA correctly depicts current evidence on routines. By creating a consistent, modular and parsimonious framework suitable for multiple domains we enhance the usability of SoPrA. SoPrA provides ABS researchers with a conceptual, formal and computational framework to simulate routines and gain new insights into social systems.",
-    "found_at": "2026-05-15T15:37:26.599236"
+    "found_at": "2026-05-15T15:58:10.687599"
   },
   {
     "title": "How NVIDIA engineers and researchers build with Codex",
@@ -37,7 +37,7 @@
     "source": "OpenAI Blog",
     "category": "Agents/AI",
     "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
-    "found_at": "2026-05-15T15:37:28.579920"
+    "found_at": "2026-05-15T15:58:12.147951"
   },
   {
     "title": "8 Gemini tips for organizing your space (and life)",
@@ -45,7 +45,7 @@
     "source": "Google AI Blog",
     "category": "AI Research",
     "summary": "Black screen with illustrations including a laptop with document and email icons streaming out, a smiling person holding a phone and looking at a checklist, and a user activating Gemini Live",
-    "found_at": "2026-05-15T15:37:29.888706"
+    "found_at": "2026-05-15T15:58:13.514936"
   },
   {
     "title": "Cisco cuts nearly 4,000 jobs to spend more on AI, reports \u2018record quarterly revenue\u2019",
@@ -53,15 +53,15 @@
     "source": "TechCrunch AI",
     "category": "AI Business",
     "summary": "This is Cisco's latest layoff in recent years, while the company's chief executive touts record revenue and growth.",
-    "found_at": "2026-05-15T15:37:30.288681"
+    "found_at": "2026-05-15T15:58:13.840151"
   },
   {
-    "title": "Automatic Playlist Generation for Music?",
-    "url": "https://www.reddit.com/r/selfhosted/comments/1tdoctz/automatic_playlist_generation_for_music/",
+    "title": "Anyone else ever look at their environment and realize how far you've come?",
+    "url": "https://www.reddit.com/r/selfhosted/comments/1tdn3pz/anyone_else_ever_look_at_their_environment_and/",
     "source": "Reddit SelfHosted",
     "category": "Automation",
-    "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hi all! I'm trying to reduce my reliance on my phone and subscriptions, so have been getting my music library organised and automated - here's my current setup:</p> <p>- Lidarr w/ Usenet and slskd</p> <p>- iPod 4th gen (flash modded) with Rockbox</p> <p>- Simple script that rsyncs my music directory to my iPod</p> <p>What's the best way to automate playlist creation on different 'vibes' similar to Spotify etc. that can be synced on my iPod? Ideally I'd like to just 'set and forget', so that when new music is added the playlists are also updated.</p> <p>I've seen AudioMuse around, but haven't seen too much on how that would work with an offline playlist.</p> <p>Any help would be massively appreciated! Thank you</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/cleanshirtuk\"> /u/cleanshirtuk </a> <br /> <span><a href=\"https://www.reddit.com/r/selfhosted/comments/1tdoctz/automatic_playlist_generation_for_music/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/selfhosted/comments/1tdoctz/automatic_playlist_generation_for_music/\">[comments]</a></span>",
-    "found_at": "2026-05-15T15:37:31.730322"
+    "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/selfhosted/comments/1tdn3pz/anyone_else_ever_look_at_their_environment_and/\"> <img alt=\"Anyone else ever look at their environment and realize how far you've come?\" src=\"https://preview.redd.it/z1r98x0no81h1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=53e8c81d76de423a389ad7103a5811c8951b0e3f\" title=\"Anyone else ever look at their environment and realize how far you've come?\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I remember when I was first starting out, I tried Proxmox as a recommendation from someone on Reddit, and I was very intimidated. This was before I started in IT, before college, certs, etc. I ended up going with a Windows Server 2022 build using hyper-V after a few botched Debian server implementations and data losses. </p> <p>I went to school, got my degree, started in IT, finished my degree, and now I work as a (my title is Assistant Director, I direct the department and implement policy, but i much prefer the work I do as sysadmin there) Systems Administrator. </p> <p>I looked at my stack as I threw my pi in the cluster today and was really happy with how far Ive come in the past years.</p> <p>Anyone else know what I mean?</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/scarlet__panda\"> /u/scarlet__panda </a> <br /> <span><a href=\"https://i.redd.it/z1r98x0no81h1.png\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/selfhosted/comments/1tdn3pz/anyone_else_ever_look_at_their_environment_and/\">[comments]</a></span> </td></tr></table>",
+    "found_at": "2026-05-15T15:58:15.264657"
   },
   {
     "title": "ocr File Management",
@@ -69,6 +69,6 @@
     "source": "Reddit Commandline",
     "category": "Terminal",
     "summary": "<!-- SC_OFF --><div class=\"md\"><p>Hello all. New to Homebrew and already having fun. I used ChatGPT to help me create more usable versions out of my large collection of official automotive service manuals. These are all relatively long detailed technical guides and workshop procedures with some small detailed images. Previously, the original documents were hard to copy and paste from and took hours to return search results using command + F or the search bar. I used the following line in MacOS terminal in order to create these more user friendly versions:</p> <p>Base Script:<br /> ocrmypdf --force-ocr --optimize 3 \u2018Input Pathname' \u2018Output Pathname'</p> <p>Here is an example:<br /> ocrmypdf --force-ocr --optimize 3 '/Users/christophersutton/Desktop/old Service &amp; Repair Manuals/old Repair Manuals/Direct Shift Gearbox.pdf' '/Users/christophersutton/Desktop/fixed Service &amp; Repair Manuals/fixed Repair Manuals/fixed Direct Shift Gearbox.pdf'</p> <p>These are better version from what I had before because I can now search for keywords without crashing my Macbook however, there are a few caveats I\u2019ve listed below in order of significance:</p> <p>- the new file sizes are on the order of GB compared to the original files which didn\u2019t exceed Mb.</p> <p>- there are a handful of areas where diagrams had been that are now blank boxes</p> <p>- I can copy selected text from the new files but when I paste the selection someplace, I get strange symbols instead of the selected text</p> <p>- they are also lower resolution compared to the fine sharp edges on the originals</p> <p>I\u2019m hoping to get a little guidance on how to remake these or adjust the current versions to alleviate at least the first 3 issues on my list.</p> <p>Thank you!</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/coloured_ivory_owl\"> /u/coloured_ivory_owl </a> <br /> <span><a href=\"https://www.reddit.com/r/commandline/comments/1tbqnrx/ocr_file_management/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/commandline/comments/1tbqnrx/ocr_file_management/\">[comments]</a></span>",
-    "found_at": "2026-05-15T15:37:33.329377"
+    "found_at": "2026-05-15T15:58:16.850628"
   }
 ]
