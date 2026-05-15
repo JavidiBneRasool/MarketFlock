@@ -2,67 +2,55 @@
   {
     "template": "suspense",
     "layout": "HOOK\u2192SCENE\u2192TENSION\u2192REVEAL\u2192AFTERMATH",
-    "category": "World",
+    "category": "Terminal/Dev",
     "ai_tag": "\ud83e\udd16 AI-GENERATED IMAGE"
   },
   {
     "template": "suspense",
     "layout": "HOOK\u2192SCENE\u2192TENSION\u2192REVEAL\u2192AFTERMATH",
-    "category": "Politics",
+    "category": "AI Tools",
     "ai_tag": "\ud83e\udd16 AI-GENERATED IMAGE"
   },
   {
     "template": "suspense",
     "layout": "HOOK\u2192SCENE\u2192TENSION\u2192REVEAL\u2192AFTERMATH",
-    "category": "Business",
+    "category": "Automation/Sec",
     "ai_tag": "\ud83e\udd16 AI-GENERATED IMAGE"
   },
   {
     "template": "suspense",
     "layout": "HOOK\u2192SCENE\u2192TENSION\u2192REVEAL\u2192AFTERMATH",
-    "category": "Technology",
+    "category": "AI Research",
     "ai_tag": "\ud83e\udd16 AI-GENERATED IMAGE"
   },
   {
     "template": "suspense",
     "layout": "HOOK\u2192SCENE\u2192TENSION\u2192REVEAL\u2192AFTERMATH",
-    "category": "Science",
+    "category": "Agents/AI",
     "ai_tag": "\ud83e\udd16 AI-GENERATED IMAGE"
   },
   {
     "template": "suspense",
     "layout": "HOOK\u2192SCENE\u2192TENSION\u2192REVEAL\u2192AFTERMATH",
-    "category": "Health",
+    "category": "AI Research",
     "ai_tag": "\ud83e\udd16 AI-GENERATED IMAGE"
   },
   {
     "template": "suspense",
     "layout": "HOOK\u2192SCENE\u2192TENSION\u2192REVEAL\u2192AFTERMATH",
-    "category": "Crypto",
+    "category": "AI Business",
     "ai_tag": "\ud83e\udd16 AI-GENERATED IMAGE"
   },
   {
     "template": "suspense",
     "layout": "HOOK\u2192SCENE\u2192TENSION\u2192REVEAL\u2192AFTERMATH",
-    "category": "War News",
+    "category": "Automation",
     "ai_tag": "\ud83e\udd16 AI-GENERATED IMAGE"
   },
   {
     "template": "suspense",
     "layout": "HOOK\u2192SCENE\u2192TENSION\u2192REVEAL\u2192AFTERMATH",
-    "category": "Middle East",
-    "ai_tag": "\ud83e\udd16 AI-GENERATED IMAGE"
-  },
-  {
-    "template": "suspense",
-    "layout": "HOOK\u2192SCENE\u2192TENSION\u2192REVEAL\u2192AFTERMATH",
-    "category": "India",
-    "ai_tag": "\ud83e\udd16 AI-GENERATED IMAGE"
-  },
-  {
-    "template": "suspense",
-    "layout": "HOOK\u2192SCENE\u2192TENSION\u2192REVEAL\u2192AFTERMATH",
-    "category": "Engineering",
+    "category": "Terminal",
     "ai_tag": "\ud83e\udd16 AI-GENERATED IMAGE"
   }
 ]
