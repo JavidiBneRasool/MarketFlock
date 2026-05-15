@@ -1,4 +1,4 @@
-# NEWS HOUR FLOCK - Hourly Automation Script
+# AUTOFLOCK - 3-Hour Automation Script
 import time
 import subprocess
 import sys
@@ -8,16 +8,16 @@ from datetime import datetime
 PROJECT_DIR = os.path.dirname(os.path.abspath(__file__))
 LOG_FILE = os.path.join(PROJECT_DIR, "logs", "auto_run.log")
 
-def run_flock():
+def run_sync():
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    print(f"[{timestamp}] 🐑 Starting Hourly Flock Cycle...")
+    print(f"[{timestamp}] 🤖 Starting 3-Hour Autoflock Sync...")
     
     with open(LOG_FILE, "a") as log:
-        log.write(f"\n--- CYCLE START: {timestamp} ---\n")
+        log.write(f"\n--- SYNC START: {timestamp} ---\n")
         try:
-            # Run the master orchestrator
+            # Run the master sync script
             result = subprocess.run(
-                [sys.executable, "run_flock.py"],
+                ["bash", "sync.sh"],
                 cwd=PROJECT_DIR,
                 capture_output=True,
                 text=True
@@ -25,18 +25,18 @@ def run_flock():
             log.write(result.stdout)
             if result.stderr:
                 log.write(f"\nERRORS:\n{result.stderr}")
-            print(f"[{datetime.now().strftime('%H:%M:%S')}] ✅ Cycle Complete.")
+            print(f"[{datetime.now().strftime('%H:%M:%S')}] ✅ Sync Complete.")
         except Exception as e:
             log.write(f"CRITICAL ERROR: {str(e)}")
             print(f"❌ Critical Error: {str(e)}")
-        log.write(f"\n--- CYCLE END ---\n")
+        log.write(f"\n--- SYNC END ---\n")
 
 if __name__ == "__main__":
     os.makedirs(os.path.join(PROJECT_DIR, "logs"), exist_ok=True)
-    print("🚀 NewsHour Flock Hourly Automation Started.")
+    print("🚀 Autoflock 3-Hour Automation Started.")
     print(f"📝 Logging to: {LOG_FILE}")
     
     while True:
-        run_flock()
-        print("⏳ Sleeping for 60 minutes...")
-        time.sleep(3600)
+        run_sync()
+        print("⏳ Sleeping for 3 hours (10800s)...")
+        time.sleep(10800)
