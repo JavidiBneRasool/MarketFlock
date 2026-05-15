@@ -13,7 +13,8 @@ def run():
         token = cf["api_token"]
         headers = {"Authorization": f"Bearer {token}"}
         
-        url = f"https://api.cloudflare.com/client/v4/accounts/{account_id}/pages/projects/newshour/deployments"
+        pages_project = os.environ.get("AUTOFLOCK_CLOUDFLARE_PROJECT", "autoflock")
+        url = f"https://api.cloudflare.com/client/v4/accounts/{account_id}/pages/projects/{pages_project}/deployments"
         r = requests.get(url, headers=headers)
         deployments = r.json().get("result", [])
         

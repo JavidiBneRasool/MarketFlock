@@ -3,7 +3,7 @@ import json, os
 
 PROJECT = os.path.dirname(os.path.abspath(__file__))
 OUTPUT = f"{PROJECT}/output"
-SITE_DIR = os.path.join(os.path.dirname(PROJECT), "newshour-site")
+SITE_DIR = os.path.join(os.path.dirname(PROJECT), "autoflock/publish")
 
 MOCK_PATTERNS = [
     "Markets Rally as Economic Indicators",

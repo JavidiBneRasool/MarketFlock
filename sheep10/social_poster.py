@@ -105,7 +105,7 @@ def run():
     except FileNotFoundError:
         print("🐑 SHEEP 10: No articles!"); return None
     
-    base_url = "https://www.autoflock.cutbar.in"
+    base_url = "https://autoflock.cutbar.in"
     results = []
 
     # Post top 3 articles

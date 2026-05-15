@@ -18,7 +18,7 @@ def run():
         body = article["body"]
         errors = [p for p in PLACEHOLDERS if p.lower() in body.lower()]
         if len(body) < 300: errors.append("TOO_SHORT")
-        if "AI-Generated" not in body and "NewsHour Flock" not in body and "NewsHour Signal" not in body:
+        if "AI-Generated" not in body and "Auto Flock" not in body and "Auto Flock Signal" not in body:
             errors.append("MISSING_TAG")
         
         article["errors"] = len(errors)

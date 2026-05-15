@@ -93,6 +93,24 @@ def get_flock_name():
     elif 18 <= hour < 22: return "Evening Flock"
     else: return "Night Flock"
 
+def _normalize_autoflock_article(article):
+    replacements = {
+        "NewsHour Intelligence": "Auto Flock Intelligence",
+        "NewsHour Signal Engine": "Auto Flock Signal Engine",
+        "NewsHour Flock": "Auto Flock",
+        "News Hour Flock": "Auto Flock",
+        "https://newshour.cutbar.in": "https://autoflock.cutbar.in",
+        "https://www.newshour.cutbar.in": "https://autoflock.cutbar.in",
+        "https://cutbar.in/": "https://autoflock.cutbar.in/",
+    }
+    for key in ("body", "summary", "description"):
+        value = article.get(key)
+        if isinstance(value, str):
+            for old, new in replacements.items():
+                value = value.replace(old, new)
+            article[key] = value
+    return article
+
 def run():
     print(f"🐑 SHEEP 8: Publishing {get_flock_name()}...")
     os.makedirs(OUTPUT, exist_ok=True)
@@ -142,6 +160,8 @@ def run():
         with open(HISTORY_FILE, "r") as f:
             history = json.load(f)
     
+    current_articles = [_normalize_autoflock_article(a) for a in current_articles]
+    history = [_normalize_autoflock_article(a) for a in history]
     history = current_articles + history
     history = history[:150]
     
@@ -262,15 +282,15 @@ def _build_index(latest, archive, flock_name, date_str, ads_config=None):
         <div class="logo-text f-logo">Auto <span>Flock</span></div>
         <p style="color: var(--text-dim)">Autonomous Journalism for the Agentic Era</p>
         <div class="legal">
-            🤖 Engine: Auto Flock Agent • Network: <a href="https://newshour.cutbar.in" style="color: var(--accent-secondary); text-decoration: none; font-weight: 700;">News Hour Flock</a> • &copy; 2026
+            🤖 Engine: Auto Flock Agent • Domain: <a href="https://autoflock.cutbar.in" style="color: var(--accent-secondary); text-decoration: none; font-weight: 700;">autoflock.cutbar.in</a> • &copy; 2026
         </div>
         <div style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border-glow);">
-            <p style="font-size: 0.7rem; letter-spacing: 2px; text-transform: uppercase; color: var(--text-dim); margin-bottom: 1rem;">Our Global Network</p>
-            <a href="https://newshour.cutbar.in" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; gap: 10px; background: rgba(255,255,255,0.05); padding: 10px 20px; border-radius: 12px; border: 1px solid rgba(255,51,68,0.2); transition: var(--transition);">
-                <div style="width: 30px; height: 30px; background: #ff3344; border-radius: 6px; display: flex; align-items: center; justify-content: center; color: white; font-weight: 900; font-size: 0.8rem;">NH</div>
+            <p style="font-size: 0.7rem; letter-spacing: 2px; text-transform: uppercase; color: var(--text-dim); margin-bottom: 1rem;">Autoflock Network</p>
+            <a href="https://autoflock.cutbar.in" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; gap: 10px; background: rgba(255,255,255,0.05); padding: 10px 20px; border-radius: 12px; border: 1px solid rgba(255,51,68,0.2); transition: var(--transition);">
+                <div style="width: 30px; height: 30px; background: #00ff88; border-radius: 6px; display: flex; align-items: center; justify-content: center; color: white; font-weight: 900; font-size: 0.8rem;">AF</div>
                 <div style="text-align: left;">
-                    <div style="color: white; font-weight: 800; font-size: 0.9rem;">News Hour <span>Flock</span></div>
-                    <div style="color: #666; font-size: 0.6rem;">Main Journalism Hub</div>
+                    <div style="color: white; font-weight: 800; font-size: 0.9rem;">Auto <span>Flock</span></div>
+                    <div style="color: #666; font-size: 0.6rem;">AI & Terminal Intelligence Hub</div>
                 </div>
             </a>
         </div>
@@ -339,12 +359,12 @@ def _build_article_page(a, ads_config=None):
     <footer>
         <div class="logo-text f-logo">Auto <span>Flock</span></div>
         <div class="legal">
-            🤖 Engine: Auto Flock Agent • Network: <a href="https://newshour.cutbar.in" style="color: var(--accent-secondary); text-decoration: none; font-weight: 700;">News Hour Flock</a>
+            🤖 Engine: Auto Flock Agent • Domain: <a href="https://autoflock.cutbar.in" style="color: var(--accent-secondary); text-decoration: none; font-weight: 700;">autoflock.cutbar.in</a>
         </div>
         <div style="margin-top: 2rem;">
-            <a href="https://newshour.cutbar.in" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; gap: 10px; background: rgba(255,255,255,0.05); padding: 10px 20px; border-radius: 12px; border: 1px solid rgba(255,51,68,0.2); transition: var(--transition);">
-                <div style="width: 25px; height: 25px; background: #ff3344; border-radius: 4px; display: flex; align-items: center; justify-content: center; color: white; font-weight: 900; font-size: 0.7rem;">NH</div>
-                <div style="color: white; font-weight: 800; font-size: 0.8rem;">News Hour <span>Flock</span></div>
+            <a href="https://autoflock.cutbar.in" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; gap: 10px; background: rgba(255,255,255,0.05); padding: 10px 20px; border-radius: 12px; border: 1px solid rgba(255,51,68,0.2); transition: var(--transition);">
+                <div style="width: 25px; height: 25px; background: #00ff88; border-radius: 4px; display: flex; align-items: center; justify-content: center; color: white; font-weight: 900; font-size: 0.7rem;">AF</div>
+                <div style="color: white; font-weight: 800; font-size: 0.8rem;">Auto <span>Flock</span></div>
             </a>
         </div>
     </footer>

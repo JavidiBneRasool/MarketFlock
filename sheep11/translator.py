@@ -35,13 +35,13 @@ def run():
 
     # 1. Static UI elements
     ui_texts = {
-        "site_title": "NewsHour with CUTBAR - Breaking News & Latest Updates",
+        "site_title": "Auto Flock - AI & Terminal Intelligence",
         "latest_stories": "Latest Stories",
         "past_editions": "Past Editions",
         "show_more": "Show More Articles",
         "breaking": "BREAKING",
         "live": "LIVE",
-        "back_home": "Back to NewsHour Home",
+        "back_home": "Back to Auto Flock Home",
         "ai_flock": "AI Flock",
         "politics": "Politics",
         "business": "Business",

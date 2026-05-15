@@ -4,7 +4,7 @@ from datetime import datetime
 
 PROJECT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUTPUT = f"{PROJECT}/output"
-SITE_DIR = os.path.join(os.path.dirname(PROJECT), "newshour-site")
+SITE_DIR = os.path.join(os.path.dirname(PROJECT), "autoflock/publish")
 
 def get_sha256(content):
     return hashlib.sha256(content).hexdigest()
@@ -45,7 +45,7 @@ def run():
         
     ACCOUNT_ID = cf["account_id"]
     TOKEN = cf["api_token"]
-    PROJECT_NAME = "newshour"
+    PROJECT_NAME = "autoflock"
     
     headers = {"Authorization": f"Bearer {TOKEN}"}
     base_url = f"https://api.cloudflare.com/client/v4/accounts/{ACCOUNT_ID}/pages"

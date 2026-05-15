@@ -23,7 +23,7 @@ def run():
 
     # 2. Market Alpha Signal (The Earning Channel - Lead Magnet)
     alpha_lines = [
-        "<h1>🚀 NewsHour Alpha Signal: Premium Intelligence</h1>",
+        "<h1>🚀 Auto Flock Alpha Signal: AI & Terminal Intelligence</h1>",
         f"<p>Generated at: {datetime.now().strftime('%B %d, %Y')}</p>",
         "<hr>",
         "<h2>🎯 Top Strategic Opportunities</h2>"
