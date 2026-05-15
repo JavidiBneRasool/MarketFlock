@@ -1,5 +1,23 @@
 [
   {
+    "headline": "\ud83d\udd2e SIGNAL: From siloed data to unified insights: Cross-account Athena Access for  \u2014 Analysis",
+    "url": "https://autoflock.cutbar.in/20260515-181716-3",
+    "source_url": "https://aws.amazon.com/blogs/machine-learning/from-siloed-data-to-unified-insights-cross-account-athena-access-for-amazon-quick",
+    "success": true
+  },
+  {
+    "headline": "\ud83d\udea8 WARNING: We're launching two specialized TPUs for the agentic era. \u2014 Risk Report",
+    "url": "https://autoflock.cutbar.in/20260515-181716-2",
+    "source_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next",
+    "success": true
+  },
+  {
+    "headline": "\ud83d\udcc8 OPPORTUNITY: How enterprises are scaling AI \u2014 Strategy",
+    "url": "https://autoflock.cutbar.in/20260515-181716-1",
+    "source_url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+    "success": true
+  },
+  {
     "headline": "\ud83d\udd2e SIGNAL: Here\u2019s how our TPUs power increasingly demanding AI workloads. \u2014 Analysis",
     "url": "https://autoflock.cutbar.in/20260515-161214-3",
     "source_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu",
