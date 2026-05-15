@@ -14,10 +14,11 @@ echo "------------------------------------------"
 echo "🐑 Step 1: Running AI Pipeline & Social Posting..."
 python3 run_flock.py
 
-# 2. Add, Commit, and Push to GitHub (Triggers Cloudflare Web Update)
+# 2. Pull, Add, Commit, and Push to GitHub (Triggers Cloudflare Web Update)
 echo "🚀 Step 2: Syncing to Web (GitHub/Cloudflare)..."
+git pull origin main --rebase
 git add .
-git commit -m "Autoflock Update: $(date +'%Y-%m-%d %H:%M')"
+git commit -m "Autoflock Update: $(date +'%Y-%m-%d %H:%M')" || echo "No changes to commit"
 git push origin main
 
 echo "------------------------------------------"
