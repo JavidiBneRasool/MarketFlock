@@ -11,102 +11,110 @@
 </head>
 <body>
     <div id="bg-canvas">
-        <div class="glow-orb" style="top: 10%; left: 20%;"></div>
-        <div class="glow-orb" style="top: 60%; left: 70%; background: radial-gradient(circle, rgba(180, 143, 255, 0.05) 0%, transparent 70%);"></div>
+        <div class="orb" style="top: 10%; left: 10%; width: 400px; height: 400px; background: var(--accent-primary);"></div>
+        <div class="orb" style="bottom: 10%; right: 10%; width: 300px; height: 300px; background: var(--accent-secondary);"></div>
     </div>
 
     <header>
-        <div class="logo-container">
+        <a href="/" class="logo-wrap">
             <div class="logo-icon">
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
             </div>
             <div class="logo-text">Auto <span>Flock</span></div>
+        </a>
+        <div class="nav-actions">
+            <button class="mode-toggle" id="mode-btn" onclick="toggleMode()">🌙</button>
         </div>
-        <nav>
-            <a href="index.html">Intelligence</a>
-            <a href="about.html">Architecture</a>
-            <a href="contact.html">Terminal</a>
-        </nav>
     </header>
 
-    <section class="hero">
-        <div class="badge">System Operational</div>
-        <h1>Autonomous AI <span>Signals</span></h1>
-        <p>Real-time intelligence on AI tools, agentic workflows, and terminal mastery. Curated by 9 autonomous journalist bots.</p>
-    </section>
-
     <div class="container">
-        <div class="grid" id="article-grid">
+        <div style="text-align: center; margin-bottom: 5rem;">
+            <div class="tag" style="margin-bottom: 1rem; color: var(--accent-primary)">System Operational</div>
+            <h1 style="font-size: clamp(2.5rem, 8vw, 4.5rem); font-weight: 900; letter-spacing: -2px; line-height: 0.9;">
+                Autonomous <br><span style="color: var(--accent-primary)">AI Signals</span>
+            </h1>
+        </div>
+
+        <div class="pro-grid">
             
-            <div class="card" onclick="window.location.href='20260515-105624-1.html'">
-                <div class="card-tag">Terminal/Dev</div>
-                <h3>📈 OPPORTUNITY: A few words on DS4 — Strategy</h3>
-                <div class="card-meta">
-                    <span>Source: Hacker News</span>
+            <div class="pro-card" onclick="window.location.href='20260515-110223-1.html'">
+                <div class="tag">Terminal/Dev</div>
+                <h3>📈 OPPORTUNITY: Details of the Daring Airdrop at Tristan Da Cunha — Strategy</h3>
+                <p>📈 OPPORTUNITY: Details of the Daring Airdrop at Tristan Da Cunha — Strategy  NewsHour Intelligence | May 15, 2026  ---  ...</p>
+                <div class="card-foot">
+                    <span>Hacker News</span>
                     <span>May 15, 2026</span>
                 </div>
             </div>
-            <div class="card" onclick="window.location.href='20260515-105624-2.html'">
-                <div class="card-tag">AI Tools</div>
-                <h3>🚨 WARNING: Spellar 3.0 — Risk Report</h3>
-                <div class="card-meta">
-                    <span>Source: Product Hunt</span>
+            <div class="pro-card" onclick="window.location.href='20260515-110223-2.html'">
+                <div class="tag">AI Tools</div>
+                <h3>🚨 WARNING: Sherloq — Risk Report</h3>
+                <p>🚨 WARNING: Sherloq — Risk Report  NewsHour Intelligence | May 15, 2026  ---   🔮 The Intelligence Signal <p>             ...</p>
+                <div class="card-foot">
+                    <span>Product Hunt</span>
                     <span>May 15, 2026</span>
                 </div>
             </div>
-            <div class="card" onclick="window.location.href='20260515-105624-3.html'">
-                <div class="card-tag">Automation/Sec</div>
-                <h3>🔮 SIGNAL: How to Disable Google's Gemini in Chrome — Analysis</h3>
-                <div class="card-meta">
-                    <span>Source: Wired Security</span>
+            <div class="pro-card" onclick="window.location.href='20260515-110223-3.html'">
+                <div class="tag">Automation/Sec</div>
+                <h3>🔮 SIGNAL: Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the — Analysis</h3>
+                <p>🔮 SIGNAL: Thousands of Vibe-Coded Apps Expose Corporate and Personal Data on the — Analysis  NewsHour Intelligence | May...</p>
+                <div class="card-foot">
+                    <span>Wired Security</span>
                     <span>May 15, 2026</span>
                 </div>
             </div>
-            <div class="card" onclick="window.location.href='20260515-105624-4.html'">
-                <div class="card-tag">AI Research</div>
-                <h3>📈 OPPORTUNITY: Generalization in portfolio-based algorithm selection — Strategy</h3>
-                <div class="card-meta">
-                    <span>Source: ArXiv AI</span>
+            <div class="pro-card" onclick="window.location.href='20260515-110223-4.html'">
+                <div class="tag">AI Research</div>
+                <h3>📈 OPPORTUNITY: I like fish, especially dolphins: Addressing Contradictions in Dialogu — Strategy</h3>
+                <p>📈 OPPORTUNITY: I like fish, especially dolphins: Addressing Contradictions in Dialogu — Strategy  NewsHour Intelligence ...</p>
+                <div class="card-foot">
+                    <span>ArXiv AI</span>
                     <span>May 15, 2026</span>
                 </div>
             </div>
-            <div class="card" onclick="window.location.href='20260515-105624-5.html'">
-                <div class="card-tag">Agents/AI</div>
-                <h3>🚨 WARNING: Building a safe, effective sandbox to enable Codex on Windows — Risk Report</h3>
-                <div class="card-meta">
-                    <span>Source: OpenAI Blog</span>
+            <div class="pro-card" onclick="window.location.href='20260515-110223-5.html'">
+                <div class="tag">Agents/AI</div>
+                <h3>🚨 WARNING: Our response to the TanStack npm supply chain attack — Risk Report</h3>
+                <p>🚨 WARNING: Our response to the TanStack npm supply chain attack — Risk Report  NewsHour Intelligence | May 15, 2026  ---...</p>
+                <div class="card-foot">
+                    <span>OpenAI Blog</span>
                     <span>May 15, 2026</span>
                 </div>
             </div>
-            <div class="card" onclick="window.location.href='20260515-105624-6.html'">
-                <div class="card-tag">AI Research</div>
-                <h3>🔮 SIGNAL: Google is partnering with XPRIZE and Range Media Partners on the $3.5  — Analysis</h3>
-                <div class="card-meta">
-                    <span>Source: Google AI Blog</span>
+            <div class="pro-card" onclick="window.location.href='20260515-110223-6.html'">
+                <div class="tag">AI Research</div>
+                <h3>🔮 SIGNAL: The latest AI news we announced in April 2026 — Analysis</h3>
+                <p>🔮 SIGNAL: The latest AI news we announced in April 2026 — Analysis  NewsHour Intelligence | May 15, 2026  ---   🔮 The In...</p>
+                <div class="card-foot">
+                    <span>Google AI Blog</span>
                     <span>May 15, 2026</span>
                 </div>
             </div>
-            <div class="card" onclick="window.location.href='20260515-105624-7.html'">
-                <div class="card-tag">AI Business</div>
-                <h3>📈 OPPORTUNITY: What happens when AI starts building itself? — Strategy</h3>
-                <div class="card-meta">
-                    <span>Source: TechCrunch AI</span>
+            <div class="pro-card" onclick="window.location.href='20260515-110223-7.html'">
+                <div class="tag">AI Business</div>
+                <h3>📈 OPPORTUNITY: OpenAI is reportedly preparing legal action against Apple; it wouldn’t — Strategy</h3>
+                <p>📈 OPPORTUNITY: OpenAI is reportedly preparing legal action against Apple; it wouldn’t — Strategy  NewsHour Intelligence ...</p>
+                <div class="card-foot">
+                    <span>TechCrunch AI</span>
                     <span>May 15, 2026</span>
                 </div>
             </div>
-            <div class="card" onclick="window.location.href='20260515-105624-8.html'">
-                <div class="card-tag">Automation</div>
-                <h3>🚨 WARNING: Update on the "Help Me Escape From Belarus" Server Logs — Risk Report</h3>
-                <div class="card-meta">
-                    <span>Source: Reddit SelfHosted</span>
+            <div class="pro-card" onclick="window.location.href='20260515-110223-8.html'">
+                <div class="tag">Automation</div>
+                <h3>🚨 WARNING: Euro-office Setup with Filebrowser Quantum — Risk Report</h3>
+                <p>🚨 WARNING: Euro-office Setup with Filebrowser Quantum — Risk Report  NewsHour Intelligence | May 15, 2026  ---   🔮 The I...</p>
+                <div class="card-foot">
+                    <span>Reddit SelfHosted</span>
                     <span>May 15, 2026</span>
                 </div>
             </div>
-            <div class="card" onclick="window.location.href='20260515-105624-9.html'">
-                <div class="card-tag">Terminal</div>
-                <h3>🔮 SIGNAL: bigfiles | a small parallel disk scanner — Analysis</h3>
-                <div class="card-meta">
-                    <span>Source: Reddit Commandline</span>
+            <div class="pro-card" onclick="window.location.href='20260515-110223-9.html'">
+                <div class="tag">Terminal</div>
+                <h3>🔮 SIGNAL: pinstar - TUI .canvas editor — Analysis</h3>
+                <p>🔮 SIGNAL: pinstar - TUI .canvas editor — Analysis  NewsHour Intelligence | May 15, 2026  ---   🔮 The Intelligence Signal...</p>
+                <div class="card-foot">
+                    <span>Reddit Commandline</span>
                     <span>May 15, 2026</span>
                 </div>
             </div>
@@ -114,12 +122,32 @@
     </div>
 
     <footer>
-        <div class="logo-text" style="font-size: 1.2rem;">Auto <span>Flock</span></div>
-        <p style="margin-top: 10px; color: #666;">Autonomous Journalism for the Modern Developer</p>
-        <div class="footer-info">
-            🤖 Generated by Auto Flock Agent • Running on Termux + Cloudflare Pages<br>
-            &copy; 2026 Auto Flock. All signals encrypted.
+        <div class="logo-text f-logo">Auto <span>Flock</span></div>
+        <p style="color: var(--text-dim)">Autonomous Journalism for the Agentic Era</p>
+        <div class="legal">
+            🤖 Engine: Auto Flock Agent • Core: Termux + Cloudflare • &copy; 2026
         </div>
     </footer>
+    
+<script>
+    function toggleMode() {
+        const body = document.body;
+        const btn = document.getElementById('mode-btn');
+        body.classList.toggle('light-mode');
+        const isLight = body.classList.contains('light-mode');
+        localStorage.setItem('flock-theme', isLight ? 'light' : 'dark');
+        btn.innerText = isLight ? '☀️' : '🌙';
+    }
+
+    function initMode() {
+        const theme = localStorage.getItem('flock-theme') || 'dark';
+        if (theme === 'light') {
+            document.body.classList.add('light-mode');
+            document.getElementById('mode-btn').innerText = '☀️';
+        }
+    }
+    window.onload = initMode;
+</script>
+
 </body>
 </html>

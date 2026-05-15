@@ -203,138 +203,37 @@ COMMON_CSS = """
 
 COMMON_JS = """
 <script>
-    let TRANSLATIONS = {};
-    fetch('/translations.json').then(r => r.json()).catch(()=>{}).then(data => { if(data) TRANSLATIONS = data; applyLang(); });
-
-    function toggleTheme() {
-        document.body.classList.toggle('light-mode');
-        const isLight = document.body.classList.contains('light-mode');
-        localStorage.setItem('theme', isLight ? 'light' : 'dark');
-        document.getElementById('themeToggle').innerText = isLight ? '☀️' : '🌙';
+    function toggleMode() {
+        const body = document.body;
+        const btn = document.getElementById('mode-btn');
+        body.classList.toggle('light-mode');
+        const isLight = body.classList.contains('light-mode');
+        localStorage.setItem('flock-theme', isLight ? 'light' : 'dark');
+        btn.innerText = isLight ? '☀️' : '🌙';
     }
 
-    function applyTheme() {
-        const theme = localStorage.getItem('theme') || 'dark';
+    function initMode() {
+        const theme = localStorage.getItem('flock-theme') || 'dark';
         if (theme === 'light') {
             document.body.classList.add('light-mode');
-            const toggle = document.getElementById('themeToggle');
-            if(toggle) toggle.innerText = '☀️';
+            document.getElementById('mode-btn').innerText = '☀️';
         }
     }
-    applyTheme();
-
-    async function applyLang() {
-        const lang = localStorage.getItem('lang') || 'en';
-        document.body.classList.toggle('ur', lang === 'ur');
-        const btnEn = document.getElementById('btn-en');
-        const btnUr = document.getElementById('btn-ur');
-        if(btnEn) btnEn.classList.toggle('active', lang === 'en');
-        if(btnUr) btnUr.classList.toggle('active', lang === 'ur');
-        
-        const nodes = document.querySelectorAll('[data-trans]');
-        
-        if (lang === 'en') {
-            nodes.forEach(el => {
-                if (el.hasAttribute('data-original')) {
-                    el.innerHTML = el.getAttribute('data-original');
-                } else {
-                    const key = el.getAttribute('data-trans');
-                    if (TRANSLATIONS['en'] && TRANSLATIONS['en'][key]) el.innerHTML = TRANSLATIONS['en'][key];
-                }
-            });
-            return;
-        }
-
-        for(let el of nodes) {
-            const key = el.getAttribute('data-trans');
-            const originalText = el.getAttribute('data-original') || key;
-            
-            if (TRANSLATIONS[lang] && TRANSLATIONS[lang][key]) {
-                el.innerHTML = TRANSLATIONS[lang][key];
-            } else if (originalText && originalText.length > 1 && originalText !== 'AI Flock' && (!TRANSLATIONS[lang] || !TRANSLATIONS[lang][key])) {
-                try {
-                    const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=${lang}&dt=t&q=${encodeURIComponent(originalText)}`;
-                    const res = await fetch(url);
-                    const data = await res.json();
-                    let translated = '';
-                    if(data && data[0]) {
-                        data[0].forEach(part => {
-                            if(part[0]) translated += part[0];
-                        });
-                    }
-                    if(translated) {
-                        if(!TRANSLATIONS[lang]) TRANSLATIONS[lang] = {};
-                        TRANSLATIONS[lang][key] = translated;
-                        el.innerHTML = translated;
-                    }
-                } catch(e) {
-                    console.error('Translation failed for', originalText);
-                    el.innerHTML = originalText;
-                }
-            }
-        }
-    }
-
-    function setLang(lang) {
-        localStorage.setItem('lang', lang);
-        applyLang();
-    }
-
-    // Admin Button Logic
-    (function() {
-        const API_URL = 'http://localhost:8765';
-        const adminBtn = document.getElementById('adminBtn');
-        if (!adminBtn) return;
-
-        // Check if local API is running
-        fetch(API_URL)
-            .then(r => r.json())
-            .then(data => {
-                if (data.name === 'NewsHour Flock API') {
-                    adminBtn.style.display = 'block';
-                }
-            })
-            .catch(() => {
-                // API not reachable, keep button hidden
-            });
-
-        window.triggerFlock = function() {
-            if (adminBtn.classList.contains('running')) return;
-            
-            adminBtn.classList.add('running');
-            adminBtn.innerText = 'RUNNING FLOCK...';
-
-            fetch(API_URL + '/api/run-flock')
-                .then(r => r.json())
-                .then(data => {
-                    if (data.success) {
-                        alert('✅ Flock Cycle Complete!');
-                        location.reload();
-                    } else {
-                        alert('❌ Error: ' + (data.error || 'Unknown error'));
-                    }
-                })
-                .catch(err => {
-                    alert('❌ Connection failed to local API');
-                })
-                .finally(() => {
-                    adminBtn.classList.remove('running');
-                    adminBtn.innerText = 'TRIGGER FLOCK';
-                });
-        };
-    })();
+    window.onload = initMode;
 </script>
 """
 
 def _build_index(latest, archive, flock_name, date_str, ads_config=None):
     articles_html = ""
     for a in latest:
+        excerpt = a.get("body", "").replace('#','').replace('*','').replace('\n',' ').strip()[:120] + "..."
         articles_html += f"""
-            <div class="card" onclick="window.location.href='{a['filename']}'">
-                <div class="card-tag">{a['category']}</div>
+            <div class="pro-card" onclick="window.location.href='{a['filename']}'">
+                <div class="tag">{a['category']}</div>
                 <h3>{a['headline']}</h3>
-                <div class="card-meta">
-                    <span>Source: {a['source']}</span>
+                <p>{excerpt}</p>
+                <div class="card-foot">
+                    <span>{a['source']}</span>
                     <span>{a['date_display']}</span>
                 </div>
             </div>"""
@@ -349,47 +248,45 @@ def _build_index(latest, archive, flock_name, date_str, ads_config=None):
 </head>
 <body>
     <div id="bg-canvas">
-        <div class="glow-orb" style="top: 10%; left: 20%;"></div>
-        <div class="glow-orb" style="top: 60%; left: 70%; background: radial-gradient(circle, rgba(180, 143, 255, 0.05) 0%, transparent 70%);"></div>
+        <div class="orb" style="top: 10%; left: 10%; width: 400px; height: 400px; background: var(--accent-primary);"></div>
+        <div class="orb" style="bottom: 10%; right: 10%; width: 300px; height: 300px; background: var(--accent-secondary);"></div>
     </div>
 
     <header>
-        <div class="logo-container">
+        <a href="/" class="logo-wrap">
             <div class="logo-icon">
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
             </div>
             <div class="logo-text">Auto <span>Flock</span></div>
+        </a>
+        <div class="nav-actions">
+            <button class="mode-toggle" id="mode-btn" onclick="toggleMode()">🌙</button>
         </div>
-        <nav>
-            <a href="index.html">Intelligence</a>
-            <a href="about.html">Architecture</a>
-            <a href="contact.html">Terminal</a>
-        </nav>
     </header>
 
-    <section class="hero">
-        <div class="badge">System Operational</div>
-        <h1>Autonomous AI <span>Signals</span></h1>
-        <p>Real-time intelligence on AI tools, agentic workflows, and terminal mastery. Curated by 9 autonomous journalist bots.</p>
-    </section>
-
     <div class="container">
-        <div class="grid" id="article-grid">
+        <div style="text-align: center; margin-bottom: 5rem;">
+            <div class="tag" style="margin-bottom: 1rem; color: var(--accent-primary)">System Operational</div>
+            <h1 style="font-size: clamp(2.5rem, 8vw, 4.5rem); font-weight: 900; letter-spacing: -2px; line-height: 0.9;">
+                Autonomous <br><span style="color: var(--accent-primary)">AI Signals</span>
+            </h1>
+        </div>
+
+        <div class="pro-grid">
             {articles_html}
         </div>
     </div>
 
     <footer>
-        <div class="logo-text" style="font-size: 1.2rem;">Auto <span>Flock</span></div>
-        <p style="margin-top: 10px; color: #666;">Autonomous Journalism for the Modern Developer</p>
-        <div class="footer-info">
-            🤖 Generated by Auto Flock Agent • Running on Termux + Cloudflare Pages<br>
-            &copy; 2026 Auto Flock. All signals encrypted.
+        <div class="logo-text f-logo">Auto <span>Flock</span></div>
+        <p style="color: var(--text-dim)">Autonomous Journalism for the Agentic Era</p>
+        <div class="legal">
+            🤖 Engine: Auto Flock Agent • Core: Termux + Cloudflare • &copy; 2026
         </div>
     </footer>
+    {COMMON_JS}
 </body>
 </html>"""
-
 
 def _build_article_page(a, ads_config=None):
     bh_html = ""
@@ -399,11 +296,11 @@ def _build_article_page(a, ads_config=None):
         if not p: continue
         clean_p = p.replace('*', '')
         if clean_p.startswith('# '):
-            bh_html += f'<h2 class="subheading">{clean_p[2:]}</h2>'
+            bh_html += f'<h2 style="color: #fff; margin-top: 3rem; margin-bottom: 1.5rem;">{clean_p[2:]}</h2>'
         elif clean_p.startswith('## '):
-            bh_html += f'<h3 class="subheading">{clean_p[3:]}</h3>'
+            bh_html += f'<h3 style="color: var(--accent-primary); margin-top: 2rem; margin-bottom: 1rem;">{clean_p[3:]}</h3>'
         else:
-            bh_html += f'<p>{clean_p}</p>'
+            bh_html += f'<p style="color: var(--text-dim); font-size: 1.25rem; margin-bottom: 1.5rem; line-height: 1.8;">{clean_p}</p>'
 
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -413,36 +310,49 @@ def _build_article_page(a, ads_config=None):
     <title>{a['headline']} | Auto Flock</title>
     {COMMON_CSS}
     <style>
-        .article-body {{ max-width: 800px; margin: 0 auto; padding: 4rem 5%; }}
-        .article-body h1 {{ font-size: 3rem; margin-bottom: 2rem; color: #fff; }}
-        .article-body p {{ margin-bottom: 1.5rem; color: #aaa; font-size: 1.2rem; }}
-        .article-body .subheading {{ color: var(--accent-primary); margin-top: 2rem; margin-bottom: 1rem; }}
-        .back-btn {{ display: inline-block; margin-bottom: 2rem; color: var(--accent-secondary); text-decoration: none; font-weight: 700; }}
+        .art-wrap {{ max-width: 900px; margin: 4rem auto; padding: 0 5%; }}
+        .back-link {{ display: inline-block; margin-bottom: 3rem; color: var(--accent-secondary); text-decoration: none; font-weight: 700; text-transform: uppercase; font-size: 0.8rem; letter-spacing: 1px; }}
+        h1 {{ font-size: clamp(2rem, 6vw, 3.5rem); font-weight: 900; line-height: 1.1; margin-bottom: 2rem; color: #fff; }}
     </style>
 </head>
 <body>
     <div id="bg-canvas">
-        <div class="glow-orb" style="top: -10%; left: -10%;"></div>
+        <div class="orb" style="top: -10%; right: -10%; width: 600px; height: 600px; background: var(--accent-glow);"></div>
     </div>
-    
-    <div class="article-body">
-        <a href="index.html" class="back-btn">&larr; Back to Intelligence</a>
-        <div class="card-tag">{a['category']}</div>
-        <h1>{a['headline']}</h1>
-        <div class="card-meta" style="margin-bottom: 3rem;">
-            <span>Source: {a['source']}</span> | <span>{a['date_display']}</span>
+
+    <header>
+        <a href="/" class="logo-wrap">
+            <div class="logo-icon">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
+            </div>
+            <div class="logo-text">Auto <span>Flock</span></div>
+        </a>
+        <div class="nav-actions">
+            <button class="mode-toggle" id="mode-btn" onclick="toggleMode()">🌙</button>
         </div>
-        {bh_html}
+    </header>
+    
+    <div class="art-wrap">
+        <a href="index.html" class="back-link">&larr; Return to Signals</a>
+        <div class="tag" style="margin-bottom: 1rem;">{a['category']}</div>
+        <h1>{a['headline']}</h1>
+        <div class="card-foot" style="margin-bottom: 4rem; border-top: none; padding-top: 0;">
+            <span>Source: {a['source']}</span>
+            <span>{a['date_display']}</span>
+        </div>
+        <div class="content">
+            {bh_html}
+        </div>
     </div>
 
     <footer>
-        <div class="logo-text" style="font-size: 1.2rem;">Auto <span>Flock</span></div>
-        <div class="footer-info">
-            🤖 Generated by Auto Flock Agent
-        </div>
+        <div class="logo-text f-logo">Auto <span>Flock</span></div>
+        <div class="legal">🤖 Generated by Auto Flock Agent</div>
     </footer>
+    {COMMON_JS}
 </body>
 </html>"""
+
 
 
 def _generate_sitemap(history, site_dir):
