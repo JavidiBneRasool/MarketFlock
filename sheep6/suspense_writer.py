@@ -34,44 +34,39 @@ def run():
         # Financial Niche Monetization Logic
         adsense_code = '<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-1473583694933213" data-ad-slot="3952378980"></ins>\n<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>'
 
-        # Dynamic Amazon Recommendations (cutbar-21)
+        # AI & Terminal Niche Monetization Logic
         cat = a.get('category', '').lower()
         amazon_block = ""
-        if 'tech' in cat or 'gadget' in cat:
+        if 'tech' in cat or 'terminal' in cat:
             amazon_block = """
-• **Tech Optimization:** Protect your digital infrastructure with top-rated security hardware.
-"View Recommended Security Gear" (https://www.amazon.in/s?k=security+camera+wifi+outdoor&tag=cutbar-21)
+• **Terminal Mastery:** Enhance your CLI workflow with the ultimate developer hardware.
+"View Pro Developer Gear" (https://www.amazon.in/s?k=mechanical+keyboard+coding&tag=cutbar-21)
 """
-        elif 'business' in cat or 'market' in cat:
+        elif 'ai' in cat or 'agent' in cat:
             amazon_block = """
-• **Executive Productivity:** Upgrade your workspace with ergonomic high-performance tools.
-"View Professional Office Gear" (https://www.amazon.in/s?k=mechanical+keyboard+for+coding&tag=cutbar-21)
-"""
-        elif 'health' in cat or 'science' in cat:
-            amazon_block = """
-• **Bio-Optimization:** Track your vitals with precision health monitoring technology.
-"View Health Monitoring Tools" (https://www.amazon.in/s?k=smart+watch+with+ecg&tag=cutbar-21)
+• **Neural Hardware:** Run local LLMs with high-performance GPU-accelerated workstations.
+"View AI Compute Hardware" (https://www.amazon.in/s?k=nvidia+rtx+gpu&tag=cutbar-21)
 """
         else:
             amazon_block = """
-• **Daily Intelligence:** Stay prepared with the latest high-utility EDC (Everyday Carry) tools.
-"View Essential Utility Gear" (https://www.amazon.in/s?k=leatherman+multitool&tag=cutbar-21)
+• **Agentic Tools:** Stay prepared with the latest high-utility automation and tech gear.
+"View Essential Tech Tools" (https://www.amazon.in/s?k=leatherman+multitool&tag=cutbar-21)
 """
 
         affiliate_block = f"""
-• **High-Yield Savings:** Don't let your capital sit idle.
-"Compare Top Savings Rates" (https://cutbar.in/finance-recommends/savings)
+• **Frontier AI Models:** Deploy advanced agents with low-latency API access.
+"Access AI Developer Portals" (https://autoflock.cutbar.in/recommend/ai-api)
 
-• **Precision Trading:** Execute on these signals with low-fee institutional-grade platforms.
-"View Trading Platforms" (https://cutbar.in/finance-recommends/trading)
+• **GPU Cloud Compute:** Scale your training and inference on institutional-grade infrastructure.
+"View Cloud GPU Platforms" (https://autoflock.cutbar.in/recommend/gpu-cloud)
 {amazon_block}
-• **Debt Restructuring:** If interest rates are affecting your overhead, consider a strategic refinance.
-"Check Refinance Options" (https://cutbar.in/finance-recommends/refi)
+• **Workflow Automation:** If overhead is high, consider a strategic automation build.
+"Check Automation Services" (https://autoflock.cutbar.in/recommend/automation)
 """
 
         body = f"""# {h}
 
-*NewsHour Intelligence | {datetime.now().strftime('%B %d, %Y')}*
+*Auto Flock Intelligence | {datetime.now().strftime('%B %d, %Y')}*
 
 ---
 
@@ -87,17 +82,17 @@ This story is critical because it highlights shifting dynamics in {a.get('catego
 
 ## 🛠️ Actionable Strategy Checklist
 If you are affected by this news, here are your next steps:
-• **Assess Risk:** Evaluate how this development impacts your current portfolio or career path.
+• **Assess Impact:** Evaluate how this development impacts your current technical stack or career path.
 • **Stay Informed:** Monitor real-time updates on {a.get('source', 'original sources')} to catch shifts before they go mainstream.
 • **Pivot Fast:** Prepare a contingency plan for the next 48 hours as the situation stabilizes.
 
 {adsense_code}
 
 ## 🧠 Expert Prediction
-Industry veterans suggest that the timing of this event is no coincidence. "We are seeing a convergence of factors that point towards a new normal," noted one senior analyst. **The Signal:** Watch for regional power shifts in the next quarter.
+Industry veterans suggest that the timing of this event is no coincidence. "We are seeing a convergence of factors that point towards a new normal," noted one senior analyst. **The Signal:** Watch for regional technical shifts in the next quarter.
 
 ---
-🤖 Published by NewsHour Signal Engine | Category: {a['category']} | Source: {a['source']}"""
+🤖 Published by Auto Flock Signal Engine | Category: {a['category']} | Source: {a['source']}"""
         
         articles.append({
             "category": item["category"],

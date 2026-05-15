@@ -7,27 +7,27 @@ OUTPUT = f"{PROJECT}/output"
 
 OFFERS = [
     {
-        "name": "High-Yield Savings Accounts",
-        "description": "Earn up to 5.25% APY on your liquid cash with top-tier FDIC-insured banks.",
-        "link": "https://cutbar.in/finance-recommends/savings",
-        "cta": "Compare APYs"
+        "name": "Cloud GPU Cluster Access",
+        "description": "Deploy A100/H100 clusters for heavy AI training with per-second billing and zero egress fees.",
+        "link": "https://autoflock.cutbar.in/recommend/gpu-cloud",
+        "cta": "Scale Compute"
     },
     {
-        "name": "Institutional-Grade Trading Platforms",
-        "description": "Access global markets with 0% commission and advanced technical indicators.",
-        "link": "https://cutbar.in/finance-recommends/trading",
-        "cta": "Open Account"
+        "name": "Agentic API Endpoints",
+        "description": "Unified access to frontier models (Claude 3.5, GPT-4o, Gemini 1.5) with built-in agentic reasoning.",
+        "link": "https://autoflock.cutbar.in/recommend/ai-api",
+        "cta": "Get API Key"
     },
     {
-        "name": "Business Credit & Capital",
-        "description": "Unlock up to $250k in business credit lines with 0% introductory APR for 12 months.",
-        "link": "https://cutbar.in/finance-recommends/capital",
-        "cta": "Check Eligibility"
+        "name": "Custom Automation Builds",
+        "description": "Unlock efficiency with custom-coded Python/Node agents for scraping, data mining, and social media.",
+        "link": "https://autoflock.cutbar.in/recommend/automation",
+        "cta": "Build Agent"
     }
 ]
 
 def run():
-    print("🐑 SHEEP 13: Generating Financial Comparison Tables...")
+    print("🐑 SHEEP 13: Generating AI Stack Comparison Tables...")
     try:
         with open(f"{OUTPUT}/sheep6_articles.json") as f:
             articles = json.load(f)
@@ -39,18 +39,18 @@ def run():
         top_article = articles[0]
         
         comparison_table = """
-| Financial Service | Advantage | Action |
+| AI Professional Stack | Core Advantage | Strategic Action |
 | :--- | :--- | :--- |
 """
         for offer in OFFERS:
             comparison_table += f"| **{offer['name']}** | {offer['description']} | [{offer['cta']}]({offer['link']}) |\n"
 
-        top_article["body"] += f"\n\n## 📊 Comparative Intelligence: Financial Solutions\n{comparison_table}\n"
+        top_article["body"] += f"\n\n## 📊 Comparative Intelligence: AI Stack Solutions\n{comparison_table}\n"
         
         with open(f"{OUTPUT}/sheep6_articles.json", "w") as f:
             json.dump(articles, f, indent=2)
             
-    print("🐑 SHEEP 13: Financial tables injected into core articles ✓")
+    print("🐑 SHEEP 13: AI comparison tables injected into core articles ✓")
 
 if __name__ == "__main__":
     run()
