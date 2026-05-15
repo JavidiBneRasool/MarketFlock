@@ -1,74 +1,74 @@
 [
   {
-    "title": "How Claude Code works in large codebases",
-    "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
+    "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+    "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
     "source": "Hacker News",
     "category": "Terminal/Dev",
-    "summary": "<a href=\"https://news.ycombinator.com/item?id=48144494\">Comments</a>",
-    "found_at": "2026-05-15T10:46:05.996106"
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48138136\">Comments</a>",
+    "found_at": "2026-05-15T10:50:12.551318"
   },
   {
-    "title": "Raindrop Workshop",
-    "url": "https://www.producthunt.com/products/raindrop",
+    "title": "Fei Design Mode",
+    "url": "https://www.producthunt.com/products/autonomyai",
     "source": "Product Hunt",
     "category": "AI Tools",
-    "summary": "<p>\n            Open source, free, local debugger for AI agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/raindrop?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1146672?app_id=339\">Link</a>\n          </p>",
-    "found_at": "2026-05-15T10:46:06.559252"
+    "summary": "<p>\n            Directly edit and tweak UI pixels live with AI agents\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/autonomyai?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"https://www.producthunt.com/r/p/1139893?app_id=339\">Link</a>\n          </p>",
+    "found_at": "2026-05-15T10:50:13.080071"
   },
   {
-    "title": "WhatsApp Adds Meta AI Chats That Are Built to Be Fully Private",
-    "url": "https://www.wired.com/story/whatsapp-incognito-chat-meta-ai/",
+    "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
+    "url": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
     "source": "Wired Security",
     "category": "Automation/Sec",
-    "summary": "The company says its new Incognito Chat allows you to use its AI chatbot without anyone else\u2014including Meta\u2014being able to access your conversations.",
-    "found_at": "2026-05-15T10:46:07.242525"
+    "summary": "Plus: Meta officially kills encrypted Instagram DMs, the Trump administration targets \u201cviolent left wing extremists,\u201d leaked documents reveal Russia's school for elite hackers, and more.",
+    "found_at": "2026-05-15T10:50:13.688969"
   },
   {
-    "title": "Rethink AI-based Power Grid Control: Diving Into Algorithm Design",
-    "url": "https://arxiv.org/abs/2012.13026v1",
+    "title": "Fuzzy Commitments Offer Insufficient Protection to Biometric Templates Produced by Deep Learning",
+    "url": "https://arxiv.org/abs/2012.13293v1",
     "source": "ArXiv AI",
     "category": "AI Research",
-    "summary": "Recently, deep reinforcement learning (DRL)-based approach has shown promisein solving complex decision and control problems in power engineering domain.In this paper, we present an in-depth analysis of DRL-based voltage control fromaspects of algorithm selection, state space representation, and reward engineering.To resolve observed issues, we propose a novel imitation learning-based approachto directly map power grid operating points to effective actions without any interimreinforcement learning process. The performance results demonstrate that theproposed approach has strong generalization ability with much less training time.The agent trained by imitation learning is effective and robust to solve voltagecontrol problem and outperforms the former RL agents.",
-    "found_at": "2026-05-15T10:46:07.805477"
+    "summary": "In this work, we study the protection that fuzzy commitments offer when they are applied to facial images, processed by the state of the art deep learning facial recognition systems. We show that while these systems are capable of producing great accuracy, they produce templates of too little entropy. As a result, we present a reconstruction attack that takes a protected template, and reconstructs a facial image. The reconstructed facial images greatly resemble the original ones. In the simplest attack scenario, more than 78% of these reconstructed templates succeed in unlocking an account (when the system is configured to 0.1% FAR). Even in the \"hardest\" settings (in which we take a reconstructed image from one system and use it in a different system, with different feature extraction process) the reconstructed image offers 50 to 120 times higher success rates than the system's FAR.",
+    "found_at": "2026-05-15T10:50:14.605921"
   },
   {
-    "title": "Work with Codex from anywhere",
-    "url": "https://openai.com/index/work-with-codex-from-anywhere",
+    "title": "Helping ChatGPT better recognize context in sensitive conversations",
+    "url": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
     "source": "OpenAI Blog",
     "category": "Agents/AI",
-    "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
-    "found_at": "2026-05-15T10:46:09.560276"
+    "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+    "found_at": "2026-05-15T10:50:16.325376"
   },
   {
-    "title": "See what happens when creative legends use AI to make ads for small businesses.",
-    "url": "https://blog.google/company-news/inside-google/company-announcements/the-small-brief/",
+    "title": "5 gardening tips you can try right in Search",
+    "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
     "source": "Google AI Blog",
     "category": "AI Research",
-    "summary": "black and white card with headshots of susan credle, jayonta jenkins and tiffany rolfe",
-    "found_at": "2026-05-15T10:46:10.757155"
+    "summary": "An abstract background featuring soft, stippled illustrations of flowers and a butterfly in a bright palette of blue, green, and red. In the center of the image is a white circle containing a magnifying glass.",
+    "found_at": "2026-05-15T10:50:17.537501"
   },
   {
-    "title": "Elon Musk\u2019s SpaceXAI has been bleeding staff since its merger",
-    "url": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+    "title": "OpenAI says Codex is coming to your phone",
+    "url": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
     "source": "TechCrunch AI",
     "category": "AI Business",
-    "summary": "More than 50 employees have reportedly left Elon Musk\u2019s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
-    "found_at": "2026-05-15T10:46:11.058697"
+    "summary": "The update gives users enhanced flexibility over how they can manage their workflows.",
+    "found_at": "2026-05-15T10:50:17.872074"
   },
   {
-    "title": "New Project Megathread - Week of 14 May 2026",
-    "url": "https://www.reddit.com/r/selfhosted/comments/1tdcr03/new_project_megathread_week_of_14_may_2026/",
+    "title": "Built myself a tiny daily homelab monitor receipt to report on self hosted services",
+    "url": "https://www.reddit.com/r/selfhosted/comments/1tddmqq/built_myself_a_tiny_daily_homelab_monitor_receipt/",
     "source": "Reddit SelfHosted",
     "category": "Automation",
-    "summary": "<!-- SC_OFF --><div class=\"md\"><p>Welcome to the <strong>New Project Megathread!</strong></p> <p>This weekly thread is the new official home for sharing your new projects (younger than three months) with the community.</p> <p>To keep the subreddit feed from being overwhelmed (particularly with the rapid influx of AI-generated projects) all new projects can only be posted here.</p> <p><strong>How this thread works:</strong></p> <ul> <li><strong>A new thread will be posted every Friday.</strong></li> <li><strong>You can post here ANY day of the week.</strong> You do not have to wait until Friday to share your new project.</li> <li><strong>Standalone new project posts will be removed</strong> and the author will be redirected to the current week's megathread.</li> </ul> <p>To find past New Project Megathreads just use the <a href=\"https://www.reddit.com/r/selfhosted/search/?q=%22New%20Project%20Megathread%20-%22&amp;type=posts&amp;sort=new\">search</a>.</p> <h1>Posting a New Project</h1> <p>We recommend to use the following template (or include this information) in your top-level comment:</p> <ul> <li><strong>Project Name:</strong></li> <li><strong>Repo/Website Link:</strong> (GitHub, GitLab, Codeberg, etc.)</li> <li><strong>Description:</strong> (What does it do? What problem does it solve? What features are included? How is it beneficial for users who may try it?)</li> <li><strong>Deployment:</strong> (App must be released and available for users to download/try. App must have some minimal form of documentation explaining how to install or use your app. Is there a Docker image? Docker-compose example? How can I selfhost the app?)</li> <li><strong>AI Involvement:</strong> (Please be transparent.)</li> </ul> <p>Please keep our rules on self promotion in mind as well.</p> <p>Cheers,</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/AutoModerator\"> /u/AutoModerator </a> <br /> <span><a href=\"https://www.reddit.com/r/selfhosted/comments/1tdcr03/new_project_megathread_week_of_14_may_2026/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/selfhosted/comments/1tdcr03/new_project_megathread_week_of_14_may_2026/\">[comments]</a></span>",
-    "found_at": "2026-05-15T10:46:12.434095"
+    "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/selfhosted/comments/1tddmqq/built_myself_a_tiny_daily_homelab_monitor_receipt/\"> <img alt=\"Built myself a tiny daily homelab monitor receipt to report on self hosted services\" src=\"https://preview.redd.it/h5nweri6k61h1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=9e8b38291bdc0ce95b40c093ffd8fc9003c008c9\" title=\"Built myself a tiny daily homelab monitor receipt to report on self hosted services\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>Needed daily home lab health reports.</p> <p>Had a thermal printer laying around so I put it to use.</p> <p>Still a work in progress, next is weekly maintenance reports and eventually AI to handle exception reporting.</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/sowhatidoit\"> /u/sowhatidoit </a> <br /> <span><a href=\"https://i.redd.it/h5nweri6k61h1.jpeg\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/selfhosted/comments/1tddmqq/built_myself_a_tiny_daily_homelab_monitor_receipt/\">[comments]</a></span> </td></tr></table>",
+    "found_at": "2026-05-15T10:50:19.660731"
   },
   {
-    "title": "[OC] Yet another terminal animation tool - GoTermFX",
-    "url": "https://www.reddit.com/r/commandline/comments/1tdf5vs/oc_yet_another_terminal_animation_tool_gotermfx/",
+    "title": "lsmon - host pick and agentless multi-host Linux monitoring over SSH/SFTP",
+    "url": "https://www.reddit.com/r/commandline/comments/1td1ent/lsmon_host_pick_and_agentless_multihost_linux/",
     "source": "Reddit Commandline",
     "category": "Terminal",
-    "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/commandline/comments/1tdf5vs/oc_yet_another_terminal_animation_tool_gotermfx/\"> <img alt=\"[OC] Yet another terminal animation tool - GoTermFX\" src=\"https://preview.redd.it/6eqvstq9t61h1.gif?frame=1&amp;width=140&amp;height=70&amp;auto=webp&amp;s=f34c8c2e261e7547849959ce22d9e4c8a021670c\" title=\"[OC] Yet another terminal animation tool - GoTermFX\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>I wanted to create a tool to easily run animations/sequences in the terminal, either for fun or for automations.</p> <p>I built it in Go and designed it to be easily expandable, so more animations (complex or simple) can be added effortlessly.</p> <p>Current Animations (8 total):</p> <ul> <li>Matrix: Kinda a must.</li> <li>WikiDecrypt: Inspired by the movie <em>Sneakers</em> and <code>no-more-secrets</code>. It grabs a random article from Wikipedia and runs a decryption animation.</li> <li>WarGhost: Inspired by the movie <em>WarGames</em>.</li> <li>Rain</li> <li>Snow</li> <li>Fireworks</li> <li>Starfield</li> <li>Hyperspace</li> </ul> <p>I would love some feedback and possible contributions for more fun animations<br /> <a href=\"https://github.com/mohamedation/gotermfx\">https://github.com/mohamedation/gotermfx</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/mohamedation\"> /u/mohamedation </a> <br /> <span><a href=\"https://www.reddit.com/gallery/1tdf5vs\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/commandline/comments/1tdf5vs/oc_yet_another_terminal_animation_tool_gotermfx/\">[comments]</a></span> </td></tr></table>",
-    "found_at": "2026-05-15T10:46:13.995915"
+    "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/commandline/comments/1td1ent/lsmon_host_pick_and_agentless_multihost_linux/\"> <img alt=\"lsmon - host pick and agentless multi-host Linux monitoring over SSH/SFTP\" src=\"https://preview.redd.it/71bkrzzpb41h1.gif?width=640&amp;crop=smart&amp;s=a3321d80abadef5c87faea443089eb9207e70872\" title=\"lsmon - host pick and agentless multi-host Linux monitoring over SSH/SFTP\" /> </a> </td><td> <!-- SC_OFF --><div class=\"md\"><p>This project is partially supported by CodeX.</p> <p>lsmon is an agentless TUI monitor for comparing multiple Linux hosts side by side.</p> <p>Agentless monitoring is achieved by using the SFTP protocol to read the /proc directory. Therefore, the target hosts are limited to Linux only.</p> <p><code>bash go install github.com/blacknon/lssh/cmd/lsmon@latest </code></p> <p>This command is subcommand of my SSH and remote access suite project <a href=\"https://github.com/blacknon/lssh\">lssh</a>. The lssh project itself has been in development for 10 years, and this command was implemented 3 years ago. However, recently I refactored it and added some features, with some Codex assistance.</p> <p><a href=\"https://github.com/blacknon/lssh/blob/master/cmd/lsmon/README.md\">https://github.com/blacknon/lssh/blob/master/cmd/lsmon/README.md</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/Blacknon\"> /u/Blacknon </a> <br /> <span><a href=\"https://i.redd.it/71bkrzzpb41h1.gif\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/commandline/comments/1td1ent/lsmon_host_pick_and_agentless_multihost_linux/\">[comments]</a></span> </td></tr></table>",
+    "found_at": "2026-05-15T10:50:20.890373"
   }
 ]
