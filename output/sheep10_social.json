@@ -1,14 +1,20 @@
 [
   {
-    "headline": "\ud83d\udcc8 OPPORTUNITY: RelaxAI \u2013 UK sovereign LLM inference at 80% cheaper than OpenAI/Claude \u2014 Strategy",
+    "headline": "\ud83d\udcc8 OPPORTUNITY: How ChatGPT adoption broadened in early 2026 \u2014 Strategy",
+    "url": "https://autoflock.cutbar.in/20260515-161214-1",
+    "source_url": "https://openai.com/signals/research/2026q1-update",
     "success": true
   },
   {
-    "headline": "\ud83d\udea8 WARNING: Noeth \u2014 Risk Report",
+    "headline": "\ud83d\udea8 WARNING: OpenAI Campus Network: Student club interest form \u2014 Risk Report",
+    "url": "https://autoflock.cutbar.in/20260515-161214-2",
+    "source_url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
     "success": true
   },
   {
-    "headline": "\ud83d\udd2e SIGNAL: A Kid With a Fake Mustache Tricked an Online Age-Verification Tool \u2014 Analysis",
+    "headline": "\ud83d\udd2e SIGNAL: Here\u2019s how our TPUs power increasingly demanding AI workloads. \u2014 Analysis",
+    "url": "https://autoflock.cutbar.in/20260515-161214-3",
+    "source_url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu",
     "success": true
   }
 ]
