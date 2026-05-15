@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+    "url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+    "source": "Hacker News",
+    "category": "Terminal/Dev",
+    "summary": "<a href=\"https://news.ycombinator.com/item?id=48138136\">Comments</a>",
+    "found_at": "2026-05-15T08:04:58.117305"
+  },
+  {
+    "title": "Spellar 3.0",
+    "url": "https://www.producthunt.com/products/spellar",
+    "source": "Product Hunt",
+    "category": "AI Tools",
+    "summary": "<p>\n            AI Meeting companion with cross-meeting memory\n          </p>\n          <p>\n            <a href=\"https://www.producthunt.com/products/spellar?utm_campaign=producthunt-atom-posts-feed&amp;utm_medium=rss-feed&amp;utm_source=producthunt-atom-posts-feed\">Discussion</a>\n            |\n            <a href=\"http://www.producthunt.com/r/p/1058199?app_id=339\">Link</a>\n          </p>",
+    "found_at": "2026-05-15T08:04:58.777075"
+  },
+  {
+    "title": "DHS Plans Experiment Running \u2018Reconnaissance\u2019 Drones Along the US-Canada Border",
+    "url": "https://www.wired.com/story/dhs-plans-experiment-running-reconnaissance-drones-along-the-us-canada-border/",
+    "source": "Wired Security",
+    "category": "Automation/Sec",
+    "summary": "Autonomous drones and ground vehicles will stream \u201cbattlefield intelligence\u201d over 5G along the US-Canada border in a bilateral DHS experiment this fall.",
+    "found_at": "2026-05-15T08:04:59.495532"
+  },
+  {
+    "title": "A Deep Reinforcement Learning Approach for Ramp Metering Based on Traffic Video Data",
+    "url": "https://arxiv.org/abs/2012.12104v1",
+    "source": "ArXiv AI",
+    "category": "AI Research",
+    "summary": "Ramp metering that uses traffic signals to regulate vehicle flows from the on-ramps has been widely implemented to improve vehicle mobility of the freeway. Previous studies generally update signal timings in real-time based on predefined traffic measures collected by point detectors, such as traffic volumes and occupancies. Comparing with point detectors, traffic cameras-which have been increasingly deployed on road networks-could cover larger areas and provide more detailed traffic information. In this work, we propose a deep reinforcement learning (DRL) method to explore the potential of traffic video data in improving the efficiency of ramp metering. The proposed method uses traffic video frames as inputs and learns the optimal control strategies directly from the high-dimensional visual inputs. A real-world case study demonstrates that, in comparison with a state-of-the-practice method, the proposed DRL method results in 1) lower travel times in the mainline, 2) shorter vehicle queues at the on-ramp, and 3) higher traffic flows downstream of the merging area. The results suggest that the proposed method is able to extract useful information from the video data for better ramp metering controls.",
+    "found_at": "2026-05-15T08:05:00.535472"
+  },
+  {
+    "title": "Work with Codex from anywhere",
+    "url": "https://openai.com/index/work-with-codex-from-anywhere",
+    "source": "OpenAI Blog",
+    "category": "Agents/AI",
+    "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
+    "found_at": "2026-05-15T08:05:02.123825"
+  },
+  {
+    "title": "The new AI-powered Google Finance is expanding to Europe.",
+    "url": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
+    "source": "Google AI Blog",
+    "category": "AI Research",
+    "summary": "A screenshot of the AI-powered experience on Google Finance.",
+    "found_at": "2026-05-15T08:05:03.397672"
+  },
+  {
+    "title": "What the jury will actually decide in the case of Elon Musk vs. Sam Altman",
+    "url": "https://techcrunch.com/2026/05/14/what-the-jury-will-actually-decide-in-the-case-of-elon-musk-vs-sam-altman/",
+    "source": "TechCrunch AI",
+    "category": "AI Business",
+    "summary": "Here's what the biggest tech court case of the year is all about.",
+    "found_at": "2026-05-15T08:05:03.736387"
+  },
+  {
+    "title": "Quarter 2 Update - Revisiting Rules. Again.",
+    "url": "https://www.reddit.com/r/selfhosted/comments/1sey9ch/quarter_2_update_revisiting_rules_again/",
+    "source": "Reddit SelfHosted",
+    "category": "Automation",
+    "summary": "<!-- SC_OFF --><div class=\"md\"><h1>April Post - 2nd Quarter Intro</h1> <p>Welcome to Quarter 2 2026! The moderators are here and grateful for everyone's participation and feedback.</p> <p>Let's get right into it.</p> <h1>Previous Rules Changes</h1> <p>After review of many of the responsive, constructive, and thoughtful comments and mod mails regarding the most recent <a href=\"https://www.reddit.com/r/selfhosted/comments/1rmt39o/rules_update_new_project_friday_here_to_stay/\">rules change</a>, it's clear that we missed the mark on this one. AI is taking the world by storm, and applying such a universally &quot;uninvolved&quot; perspective, showcased by the rules we last implemented, is inconsistent with the subreddit's long-term goals.</p> <p>Here are the next steps we want to implement to wrangle the shotgun of AI-created tools and software we've been flooded with since AI chatbots became prevalent:</p> <h1>New Project Megathread</h1> <p>A new megathread will be introduced each Friday.</p> <p>This megathread will feature New Projects. Each Friday, the thread will replace itself, keeping the page fresh and easy to navigate. Notably, those who wish to share their new projects may make a top-level comment in this megathread any day of the week, but they must utilize this post.</p> <h1>AI-Compliance Auto Comment</h1> <p>The bot we implement will also feature a new mode in which most new posts will be automatically removed and a comment added. The OP will be required to reply to the bot stating how AI is involved, even if AI is <em>not</em> actively involved in the post. Upon responding to the bot, the post will be automatically approved.</p> <h1>AI Flairs</h1> <p>While moderating this has proven to be difficult, it is clear that AI-related flairs are desired. Unfortunately, we can only apply a single flair per post, and having an &quot;AI&quot; version for every existing flair would just become daunting and unwieldy.</p> <p>Needless to say, we're going to refactor the flair system and are looking for insight on what the community wants in terms of flair.</p> <p>We aim to keep at least a few different versions of flairs that indicate AI involvement, but with the top-level pinned bot comment giving insight into the AI involvement info, flairs involving AI may become unnecessary. But we still seek feedback from the community at large.</p> <h1>Conclusion</h1> <p>We hope this new stage in Post-AI <a href=\"https://www.reddit.com/r/selfhosted\">r/selfhosted</a> will work out better, but as always, we are open to feedback and try our best to work with the community to improve the experience here as best we can.</p> <p>For now, we will be continuing to monitor things and assessing how this works for the benefit of the community.</p> <p>As always,</p> <p>Happy (self)Hosting</p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/kmisterk\"> /u/kmisterk </a> <br /> <span><a href=\"https://www.reddit.com/r/selfhosted/comments/1sey9ch/quarter_2_update_revisiting_rules_again/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/selfhosted/comments/1sey9ch/quarter_2_update_revisiting_rules_again/\">[comments]</a></span>",
+    "found_at": "2026-05-15T08:05:05.555763"
+  },
+  {
+    "title": "Please Read The Rules",
+    "url": "https://www.reddit.com/r/commandline/comments/1t8pkj7/please_read_the_rules/",
+    "source": "Reddit Commandline",
+    "category": "Terminal",
+    "summary": "<!-- SC_OFF --><div class=\"md\"><p>This post contains content not supported on old Reddit. <a href=\"https://sh.reddit.com/r/commandline/comments/1t8pkj7\">Click here to view the full post</a></p> </div><!-- SC_ON --> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/read-the-rules\"> /u/read-the-rules </a> <br /> <span><a href=\"https://www.reddit.com/r/commandline/comments/1t8pkj7/please_read_the_rules/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/commandline/comments/1t8pkj7/please_read_the_rules/\">[comments]</a></span>",
+    "found_at": "2026-05-15T08:05:07.121895"
+  }
+]

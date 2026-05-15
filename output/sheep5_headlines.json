@@ -1,0 +1,211 @@
+[
+  {
+    "category": "World",
+    "headline": "\ud83d\udcc8 OPPORTUNITY: Flattery and fanfare as Trump welcomed to China - but thorny issues re \u2014 Strategy",
+    "image_url": "https://loremflickr.com/1200/630/united%2Cnations%2Cassembly?lock=698454&t=1778772961",
+    "image_fallback": "https://image.pollinations.ai/prompt/professional%20photojournalism%20photo%20of%20united%20nations%20assembly%2C%20sharp%20focus%2C%20dramatic%20lighting%2C%20national%20geographic%20style%2C%20ref%3A6bc778f2?width=800&height=600&nologo=true&seed=698454&model=turbo",
+    "article": {
+      "title": "Flattery and fanfare as Trump welcomed to China - but thorny issues remain",
+      "url": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "category": "World",
+      "summary": "The leaders of the world's two superpowers were all smiles for the cameras during the US president's visit to Beijing.",
+      "found_at": "2026-05-14T21:05:50.326911",
+      "credibility": "TRUSTED",
+      "score": 10,
+      "verdict": "PASS",
+      "decision": "PASS",
+      "flags": []
+    }
+  },
+  {
+    "category": "Politics",
+    "headline": "\ud83d\udea8 WARNING: 'Where we need vision, we have a vacuum' - read Streeting's resignatio \u2014 Risk Report",
+    "image_url": "https://loremflickr.com/1200/630/election%2Cvoting%2Cbooth?lock=553365&t=1778772961",
+    "image_fallback": "https://image.pollinations.ai/prompt/professional%20photojournalism%20photo%20of%20election%20voting%20booth%2C%20sharp%20focus%2C%20dramatic%20lighting%2C%20national%20geographic%20style%2C%20ref%3A9fdd426c?width=800&height=600&nologo=true&seed=553365&model=turbo",
+    "article": {
+      "title": "'Where we need vision, we have a vacuum' - read Streeting's resignation letter in full",
+      "url": "https://www.bbc.com/news/articles/ce8p7p83vdzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Politics",
+      "category": "Politics",
+      "summary": "Health Secretary Wes Streeting has announced his resignation from government.",
+      "found_at": "2026-05-14T21:05:51.078883",
+      "credibility": "TRUSTED",
+      "score": 10,
+      "verdict": "PASS",
+      "decision": "PASS",
+      "flags": []
+    }
+  },
+  {
+    "category": "Business",
+    "headline": "\ud83d\udd2e SIGNAL: UK economy sees surprise growth in March despite Iran war \u2014 Analysis",
+    "image_url": "https://loremflickr.com/1200/630/corporate%2Cboardroom?lock=833530&t=1778772961",
+    "image_fallback": "https://image.pollinations.ai/prompt/professional%20photojournalism%20photo%20of%20corporate%20boardroom%2C%20sharp%20focus%2C%20dramatic%20lighting%2C%20national%20geographic%20style%2C%20ref%3Ab244bd21?width=800&height=600&nologo=true&seed=833530&model=turbo",
+    "article": {
+      "title": "UK economy sees surprise growth in March despite Iran war",
+      "url": "https://www.bbc.com/news/articles/cx213n20njzo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "category": "Business",
+      "summary": "The economy grew by 0.3% in the month, official figures show, confounding  analysts' forecasts of a small contraction.",
+      "found_at": "2026-05-14T21:05:51.679351",
+      "credibility": "TRUSTED",
+      "score": 10,
+      "verdict": "PASS",
+      "decision": "PASS",
+      "flags": []
+    }
+  },
+  {
+    "category": "Technology",
+    "headline": "\ud83d\udcc8 OPPORTUNITY: HMRC to use AI from British tech firm to spot fraud and tax return err \u2014 Strategy",
+    "image_url": "https://loremflickr.com/1200/630/data%2Ccenter%2Cservers?lock=226181&t=1778772961",
+    "image_fallback": "https://image.pollinations.ai/prompt/professional%20photojournalism%20photo%20of%20data%20center%20servers%2C%20sharp%20focus%2C%20dramatic%20lighting%2C%20national%20geographic%20style%2C%20ref%3A30402f47?width=800&height=600&nologo=true&seed=226181&model=turbo",
+    "article": {
+      "title": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
+      "url": "https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Technology",
+      "category": "Technology",
+      "summary": "Quantexa, a financial data platform, won the \u00a3175m contract to spot fraud and tax return errors.",
+      "found_at": "2026-05-14T21:05:52.905754",
+      "credibility": "TRUSTED",
+      "score": 10,
+      "verdict": "PASS",
+      "decision": "PASS",
+      "flags": []
+    }
+  },
+  {
+    "category": "Science",
+    "headline": "\ud83d\udea8 WARNING: First ever talks to ditch fossil fuels as UN deadlock deepens \u2014 Risk Report",
+    "image_url": "https://loremflickr.com/1200/630/microscope%2Cbacteria?lock=408385&t=1778772961",
+    "image_fallback": "https://image.pollinations.ai/prompt/professional%20photojournalism%20photo%20of%20microscope%20bacteria%2C%20sharp%20focus%2C%20dramatic%20lighting%2C%20national%20geographic%20style%2C%20ref%3A13da9b91?width=800&height=600&nologo=true&seed=408385&model=turbo",
+    "article": {
+      "title": "First ever talks to ditch fossil fuels as UN deadlock deepens",
+      "url": "https://www.bbc.com/news/articles/cx2rq92yv4vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Science",
+      "category": "Science",
+      "summary": "Some 60 countries are meeting in Colombia as frustration grows with lack of progress in tackling climate change",
+      "found_at": "2026-05-14T21:05:53.555020",
+      "credibility": "TRUSTED",
+      "score": 10,
+      "verdict": "PASS",
+      "decision": "PASS",
+      "flags": []
+    }
+  },
+  {
+    "category": "Health",
+    "headline": "\ud83d\udd2e SIGNAL: 'We're right on track,' says Streeting as key target for hospital wait \u2014 Analysis",
+    "image_url": "https://loremflickr.com/1200/630/vaccine%2Cvial%2Ccloseup?lock=39522&t=1778772961",
+    "image_fallback": "https://image.pollinations.ai/prompt/professional%20photojournalism%20photo%20of%20vaccine%20vial%20closeup%2C%20sharp%20focus%2C%20dramatic%20lighting%2C%20national%20geographic%20style%2C%20ref%3A153a56df?width=800&height=600&nologo=true&seed=39522&model=turbo",
+    "article": {
+      "title": "'We're right on track,' says Streeting as key target for hospital waiting times hit",
+      "url": "https://www.bbc.com/news/articles/cvgzv0j19vvo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Health",
+      "category": "Health",
+      "summary": "Government his its interim target of 65% of patients in England being treated within 18 weeks.",
+      "found_at": "2026-05-14T21:05:54.364605",
+      "credibility": "TRUSTED",
+      "score": 10,
+      "verdict": "PASS",
+      "decision": "PASS",
+      "flags": []
+    }
+  },
+  {
+    "category": "Crypto",
+    "headline": "\ud83d\udcc8 OPPORTUNITY: Kraken to replace LayerZero with Chainlink to bridge assets across blo \u2014 Strategy",
+    "image_url": "https://loremflickr.com/1200/630/nft%2Cgallery?lock=516075&t=1778772961",
+    "image_fallback": "https://image.pollinations.ai/prompt/professional%20photojournalism%20photo%20of%20nft%20gallery%2C%20sharp%20focus%2C%20dramatic%20lighting%2C%20national%20geographic%20style%2C%20ref%3Aa6e79c6c?width=800&height=600&nologo=true&seed=516075&model=turbo",
+    "article": {
+      "title": "Kraken to replace LayerZero with Chainlink to bridge assets across blockchains",
+      "url": "https://www.coindesk.com/business/2026/05/14/kraken-to-replace-layerzero-with-chainlink-to-bridge-assets-across-blockchains",
+      "source": "CoinDesk",
+      "category": "Crypto",
+      "summary": "",
+      "found_at": "2026-05-14T21:05:55.511659",
+      "credibility": "UNKNOWN",
+      "score": 5,
+      "verdict": "WARNING",
+      "decision": "PASS",
+      "flags": []
+    }
+  },
+  {
+    "category": "War News",
+    "headline": "\ud83d\udea8 WARNING: Your iPhone Gets Stolen. Then the Hacking Begins \u2014 Risk Report",
+    "image_url": "https://loremflickr.com/1200/630/military%2Cdrone%2Cflight?lock=453390&t=1778772961",
+    "image_fallback": "https://image.pollinations.ai/prompt/professional%20photojournalism%20photo%20of%20military%20drone%20flight%2C%20sharp%20focus%2C%20dramatic%20lighting%2C%20national%20geographic%20style%2C%20ref%3A7afab7e9?width=800&height=600&nologo=true&seed=453390&model=turbo",
+    "article": {
+      "title": "Your iPhone Gets Stolen. Then the Hacking Begins",
+      "url": "https://www.wired.com/story/your-iphone-gets-stolen-then-the-hacking-begins/",
+      "source": "Wired Security",
+      "category": "War News",
+      "summary": "A bustling underground ecosystem is providing criminals with the tools to unlock iPhones\u2014and wage phishing attacks against their contacts to access bank accounts and more.",
+      "found_at": "2026-05-14T21:05:56.539591",
+      "credibility": "UNKNOWN",
+      "score": 5,
+      "verdict": "WARNING",
+      "decision": "PASS",
+      "flags": []
+    }
+  },
+  {
+    "category": "Middle East",
+    "headline": "\ud83d\udd2e SIGNAL: No Exit From El Fasher \u2014 Analysis",
+    "image_url": "https://loremflickr.com/1200/630/beirut%2Cmediterranean?lock=57320&t=1778772961",
+    "image_fallback": "https://image.pollinations.ai/prompt/professional%20photojournalism%20photo%20of%20beirut%20mediterranean%2C%20sharp%20focus%2C%20dramatic%20lighting%2C%20national%20geographic%20style%2C%20ref%3Ae5bccacc?width=800&height=600&nologo=true&seed=57320&model=turbo",
+    "article": {
+      "title": "No Exit From El Fasher",
+      "url": "https://www.aljazeera.com/video/fault-lines/2026/5/14/no-exit-from-el-fasher?traffic_source=rss",
+      "source": "Al Jazeera",
+      "category": "Middle East",
+      "summary": "Fault Lines and Lighthouse investigate the siege of Sudan\u2019s el-Fasher, where civilians were trapped, starved and killed.",
+      "found_at": "2026-05-14T21:05:56.864179",
+      "credibility": "TRUSTED",
+      "score": 10,
+      "verdict": "PASS",
+      "decision": "PASS",
+      "flags": []
+    }
+  },
+  {
+    "category": "India",
+    "headline": "\ud83d\udcc8 OPPORTUNITY: \"Arvind Kejriwal Cannot Intimidate Me\": High Court Initiates Contempt  \u2014 Strategy",
+    "image_url": "https://loremflickr.com/1200/630/chennai%2Cmarina?lock=304389&t=1778772961",
+    "image_fallback": "https://image.pollinations.ai/prompt/professional%20photojournalism%20photo%20of%20chennai%20marina%2C%20sharp%20focus%2C%20dramatic%20lighting%2C%20national%20geographic%20style%2C%20ref%3A9071eabe?width=800&height=600&nologo=true&seed=304389&model=turbo",
+    "article": {
+      "title": "\"Arvind Kejriwal Cannot Intimidate Me\": High Court Initiates Contempt Action",
+      "url": "https://www.ndtv.com/india-news/arvind-kejriwal-cannot-intimidate-me-high-court-initiates-contempt-action-11495792#publisher=newsstand",
+      "source": "NDTV",
+      "category": "India",
+      "summary": "\"Arvind Kejriwal Cannot Intimidate Me\": High Court Initiates Contempt Action",
+      "found_at": "2026-05-14T21:05:58.903488",
+      "credibility": "UNKNOWN",
+      "score": 5,
+      "verdict": "WARNING",
+      "decision": "PASS",
+      "flags": []
+    }
+  },
+  {
+    "category": "Engineering",
+    "headline": "\ud83d\udea8 WARNING: AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Delive \u2014 Risk Report",
+    "image_url": "https://loremflickr.com/1200/630/blueprint%2Carchitecture?lock=456148&t=1778772961",
+    "image_fallback": "https://image.pollinations.ai/prompt/professional%20photojournalism%20photo%20of%20blueprint%20architecture%2C%20sharp%20focus%2C%20dramatic%20lighting%2C%20national%20geographic%20style%2C%20ref%3A90bf9b5d?width=800&height=600&nologo=true&seed=456148&model=turbo",
+    "article": {
+      "title": "AI Promised the Audemars Piguet x Swatch Wristwatch. China Will Deliver It",
+      "url": "https://www.wired.com/story/ai-ruined-the-audemars-piguet-x-swatch-collaboration-china-could-save-it/",
+      "source": "Wired Gear",
+      "category": "Engineering",
+      "summary": "Watch fans spent a week falling in love with colorful Royal Oak wristwatches that didn\u2019t exist\u2014then the real thing arrived. Now, fantasy is becoming a manufacturing opportunity.",
+      "found_at": "2026-05-14T21:05:59.254571",
+      "credibility": "UNKNOWN",
+      "score": 5,
+      "verdict": "WARNING",
+      "decision": "PASS",
+      "flags": []
+    }
+  }
+]
