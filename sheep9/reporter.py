@@ -10,7 +10,7 @@ def run():
     os.makedirs(LOGS, exist_ok=True)
     
     # 1. Technical Mission Report
-    lines = ["="*50, "🐑 NEWS HOUR FLOCK - MISSION REPORT", "="*50,
+    lines = ["="*50, "🤖 AUTOFLOCK - AI MISSION REPORT", "="*50,
              f"Time: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}", ""]
     
     try:
