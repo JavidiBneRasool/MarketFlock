@@ -170,28 +170,9 @@ def run():
     for a in history:
         content = _build_article_page(a, ads_config)
         with open(f"{SITE_DIR}/{a['filename']}", "w", encoding="utf-8") as f: f.write(content)
-            
-    cf = _load_config(f"{PROJECT}/config/cloudflare.json")
-    env = os.environ.copy()
-    env["CLOUDFLARE_API_TOKEN"] = cf["api_token"]
-    env["CLOUDFLARE_ACCOUNT_ID"] = cf["account_id"]
-    env["WRANGLER_SKIP_WORKERD_INSTALL"] = "1"
-    
-    wrangler_cmd = "wrangler" if shutil.which("wrangler") else "npx -y wrangler@2"
-    cmd = f"{wrangler_cmd} pages publish {SITE_DIR} --project-name newshour --branch main --commit-dirty=true"
-    
-    print(f"🐑 SHEEP 8: Uploading assets...")
-    try:
-        result = subprocess.run(cmd, env=env, capture_output=True, text=True, shell=True, timeout=120)
-        if result.returncode == 0:
-            print(f"🐑 SHEEP 8: Success! {flock_name} is LIVE.")
-            return {"published": True}
-        else:
-            print(f"🐑 SHEEP 8: Wrangler Error: {result.stderr or result.stdout}")
-            return {"published": False}
-    except Exception as e:
-        print(f"🐑 SHEEP 8: Failed: {e}")
-        return {"published": False}
+
+    print(f"🐑 SHEEP 8: Files generated in {SITE_DIR}. Ready for Git Sync.")
+    return {"published": True}
 
 def _load_config(path):
     with open(path) as f: return json.load(f)
@@ -380,7 +361,7 @@ def _generate_sitemap(history, site_dir):
         news_sitemap += f'    <loc>https://autoflock.cutbar.in/{a["filename"]}</loc>\n'
         news_sitemap += '    <news:news>\n'
         news_sitemap += '      <news:publication>\n'
-        news_sitemap += '        <news:name>NewsHour Intelligence</news:name>\n'
+        news_sitemap += '        <news:name>Auto Flock Intelligence</news:name>\n'
         news_sitemap += '        <news:language>en</news:language>\n'
         news_sitemap += '      </news:publication>\n'
         news_sitemap += f'      <news:publication_date>{pub_date}</news:publication_date>\n'
