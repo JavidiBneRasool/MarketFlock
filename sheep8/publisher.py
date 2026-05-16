@@ -99,9 +99,9 @@ def _normalize_marketflock_article(article):
         "NewsHour Signal Engine": "MarketFlock Signal Engine",
         "NewsHour Flock": "MarketFlock",
         "News Hour Flock": "MarketFlock",
-        "https://newshour.cutbar.in": "https://marketflock.cutbar.in",
-        "https://www.newshour.cutbar.in": "https://marketflock.cutbar.in",
-        "https://cutbar.in/": "https://marketflock.cutbar.in/",
+        "https://newshour.cutbar.in": "https://market.cutbar.in",
+        "https://www.newshour.cutbar.in": "https://market.cutbar.in",
+        "https://cutbar.in/": "https://market.cutbar.in/",
     }
     for key in ("body", "summary", "description"):
         value = article.get(key)
@@ -185,7 +185,7 @@ def run():
     _generate_sitemap(history, SITE_DIR)
     # Generate robots.txt
     with open(f"{SITE_DIR}/robots.txt", "w") as f:
-        f.write("User-agent: *\nAllow: /\nSitemap: https://marketflock.cutbar.in/sitemap.xml")
+        f.write("User-agent: *\nAllow: /\nSitemap: https://market.cutbar.in/sitemap.xml")
 
     for a in history:
         content = _build_article_page(a, ads_config)
@@ -330,11 +330,11 @@ def _build_index(latest, archive, flock_name, date_str, ads_config=None):
         <div class="logo-text f-logo">Market<span>Flock</span></div>
         <p style="color: var(--text-dim)">AI-Powered Market & Crypto Intelligence</p>
         <div class="legal">
-            🤖 Engine: MarketFlock Agent • Domain: <a href="https://marketflock.cutbar.in" style="color: var(--accent-secondary); text-decoration: none; font-weight: 700;">marketflock.cutbar.in</a> • &copy; 2026
+            🤖 Engine: MarketFlock Agent • Domain: <a href="https://market.cutbar.in" style="color: var(--accent-secondary); text-decoration: none; font-weight: 700;">market.cutbar.in</a> • &copy; 2026
         </div>
         <div style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border-glow);">
             <p style="font-size: 0.7rem; letter-spacing: 2px; text-transform: uppercase; color: var(--text-dim); margin-bottom: 1rem;">MarketFlock Network</p>
-            <a href="https://marketflock.cutbar.in" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; gap: 10px; background: rgba(255,255,255,0.05); padding: 10px 20px; border-radius: 12px; border: 1px solid rgba(255,51,68,0.2); transition: var(--transition);">
+            <a href="https://market.cutbar.in" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; gap: 10px; background: rgba(255,255,255,0.05); padding: 10px 20px; border-radius: 12px; border: 1px solid rgba(255,51,68,0.2); transition: var(--transition);">
                 <div style="width: 30px; height: 30px; background: #00b894; border-radius: 6px; display: flex; align-items: center; justify-content: center; color: white; font-weight: 900; font-size: 0.8rem;">AF</div>
                 <div style="text-align: left;">
                     <div style="color: white; font-weight: 800; font-size: 0.9rem;">Market<span>Flock</span></div>
@@ -407,10 +407,10 @@ def _build_article_page(a, ads_config=None):
     <footer>
         <div class="logo-text f-logo">Market<span>Flock</span></div>
         <div class="legal">
-            🤖 Engine: MarketFlock Agent • Domain: <a href="https://marketflock.cutbar.in" style="color: var(--accent-secondary); text-decoration: none; font-weight: 700;">marketflock.cutbar.in</a>
+            🤖 Engine: MarketFlock Agent • Domain: <a href="https://market.cutbar.in" style="color: var(--accent-secondary); text-decoration: none; font-weight: 700;">market.cutbar.in</a>
         </div>
         <div style="margin-top: 2rem;">
-            <a href="https://marketflock.cutbar.in" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; gap: 10px; background: rgba(255,255,255,0.05); padding: 10px 20px; border-radius: 12px; border: 1px solid rgba(255,51,68,0.2); transition: var(--transition);">
+            <a href="https://market.cutbar.in" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; gap: 10px; background: rgba(255,255,255,0.05); padding: 10px 20px; border-radius: 12px; border: 1px solid rgba(255,51,68,0.2); transition: var(--transition);">
                 <div style="width: 25px; height: 25px; background: #00b894; border-radius: 4px; display: flex; align-items: center; justify-content: center; color: white; font-weight: 900; font-size: 0.7rem;">AF</div>
                 <div style="color: white; font-weight: 800; font-size: 0.8rem;">Market<span>Flock</span></div>
             </a>
@@ -424,9 +424,9 @@ def _build_article_page(a, ads_config=None):
 
 def _generate_sitemap(history, site_dir):
     # 1. Standard Sitemap
-    urls = ['https://marketflock.cutbar.in/']
+    urls = ['https://market.cutbar.in/']
     for a in history:
-        urls.append(f"https://marketflock.cutbar.in/{a['filename']}")
+        urls.append(f"https://market.cutbar.in/{a['filename']}")
 
     sitemap = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
     for url in urls:
@@ -444,7 +444,7 @@ def _generate_sitemap(history, site_dir):
     for a in history[:15]:
         pub_date = a.get('published_at', datetime.now().isoformat())
         news_sitemap += '  <url>\n'
-        news_sitemap += f'    <loc>https://marketflock.cutbar.in/{a["filename"]}</loc>\n'
+        news_sitemap += f'    <loc>https://market.cutbar.in/{a["filename"]}</loc>\n'
         news_sitemap += '    <news:news>\n'
         news_sitemap += '      <news:publication>\n'
         news_sitemap += '        <news:name>MarketFlock Intelligence</news:name>\n'
