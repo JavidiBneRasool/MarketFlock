@@ -93,15 +93,15 @@ def get_flock_name():
     elif 18 <= hour < 22: return "Evening Flock"
     else: return "Night Flock"
 
-def _normalize_autoflock_article(article):
+def _normalize_marketflock_article(article):
     replacements = {
-        "NewsHour Intelligence": "Auto Flock Intelligence",
-        "NewsHour Signal Engine": "Auto Flock Signal Engine",
-        "NewsHour Flock": "Auto Flock",
-        "News Hour Flock": "Auto Flock",
-        "https://newshour.cutbar.in": "https://autoflock.cutbar.in",
-        "https://www.newshour.cutbar.in": "https://autoflock.cutbar.in",
-        "https://cutbar.in/": "https://autoflock.cutbar.in/",
+        "NewsHour Intelligence": "MarketFlock Intelligence",
+        "NewsHour Signal Engine": "MarketFlock Signal Engine",
+        "NewsHour Flock": "MarketFlock",
+        "News Hour Flock": "MarketFlock",
+        "https://newshour.cutbar.in": "https://marketflock.cutbar.in",
+        "https://www.newshour.cutbar.in": "https://marketflock.cutbar.in",
+        "https://cutbar.in/": "https://marketflock.cutbar.in/",
     }
     for key in ("body", "summary", "description"):
         value = article.get(key)
@@ -160,8 +160,8 @@ def run():
         with open(HISTORY_FILE, "r") as f:
             history = json.load(f)
     
-    current_articles = [_normalize_autoflock_article(a) for a in current_articles]
-    history = [_normalize_autoflock_article(a) for a in history]
+    current_articles = [_normalize_marketflock_article(a) for a in current_articles]
+    history = [_normalize_marketflock_article(a) for a in history]
     history = current_articles + history
     history = history[:150]
     
@@ -185,7 +185,7 @@ def run():
     _generate_sitemap(history, SITE_DIR)
     # Generate robots.txt
     with open(f"{SITE_DIR}/robots.txt", "w") as f:
-        f.write("User-agent: *\nAllow: /\nSitemap: https://autoflock.cutbar.in/sitemap.xml")
+        f.write("User-agent: *\nAllow: /\nSitemap: https://marketflock.cutbar.in/sitemap.xml")
 
     for a in history:
         content = _build_article_page(a, ads_config)
@@ -198,8 +198,56 @@ def _load_config(path):
     with open(path) as f: return json.load(f)
 
 COMMON_CSS = """
-<link rel="stylesheet" href="style.css">
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;900&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #0a0e17;
+  --surface: #111827;
+  --card: #1a2235;
+  --border: rgba(0,200,100,0.15);
+  --accent: #00c864;
+  --accent2: #00a8ff;
+  --gold: #f59e0b;
+  --red: #ef4444;
+  --text: #e2e8f0;
+  --muted: #64748b;
+  --font: 'Inter', sans-serif;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { background: var(--bg); color: var(--text); font-family: var(--font); min-height: 100vh; }
+header { display: flex; justify-content: space-between; align-items: center; padding: 1rem 5%; border-bottom: 1px solid var(--border); position: sticky; top: 0; background: rgba(10,14,23,0.95); backdrop-filter: blur(10px); z-index: 100; }
+.logo-wrap { display: flex; align-items: center; gap: 10px; text-decoration: none; }
+.logo-icon { width: 32px; height: 32px; background: var(--accent); border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #000; font-weight: 900; font-size: 14px; }
+.logo-text { font-size: 1.1rem; font-weight: 800; color: var(--text); }
+.logo-text span { color: var(--accent); }
+.ticker-bar { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0.4rem 0; overflow: hidden; white-space: nowrap; }
+.ticker-inner { display: inline-block; animation: ticker 30s linear infinite; }
+.ticker-item { display: inline-block; margin: 0 2rem; font-size: 0.75rem; font-weight: 600; }
+.ticker-up { color: var(--accent); }
+.ticker-down { color: var(--red); }
+@keyframes ticker { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
+.container { max-width: 1200px; margin: 0 auto; padding: 2rem 5%; }
+.hero { text-align: center; padding: 3rem 0 2rem; }
+.hero-badge { display: inline-block; background: rgba(0,200,100,0.1); border: 1px solid rgba(0,200,100,0.3); color: var(--accent); padding: 0.3rem 1rem; border-radius: 20px; font-size: 0.75rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 1rem; }
+.hero h1 { font-size: clamp(2rem, 6vw, 3.5rem); font-weight: 900; line-height: 1.1; margin-bottom: 1rem; }
+.hero h1 span { color: var(--accent); }
+.market-stats { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin: 1.5rem 0; }
+.stat-pill { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 0.5rem 1rem; font-size: 0.8rem; }
+.stat-pill .val { font-weight: 700; color: var(--accent); }
+.pro-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 1.5rem; }
+.pro-card { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 1.5rem; cursor: pointer; transition: all 0.2s; }
+.pro-card:hover { border-color: var(--accent); transform: translateY(-2px); }
+.tag { display: inline-block; background: rgba(0,200,100,0.1); color: var(--accent); border: 1px solid rgba(0,200,100,0.2); padding: 0.2rem 0.6rem; border-radius: 4px; font-size: 0.7rem; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 0.75rem; }
+.pro-card h3 { font-size: 1rem; font-weight: 700; line-height: 1.4; margin-bottom: 0.5rem; color: var(--text); }
+.pro-card p { font-size: 0.85rem; color: var(--muted); line-height: 1.6; margin-bottom: 1rem; }
+.card-foot { display: flex; justify-content: space-between; font-size: 0.75rem; color: var(--muted); border-top: 1px solid var(--border); padding-top: 0.75rem; }
+.mode-toggle { background: var(--surface); border: 1px solid var(--border); color: var(--text); padding: 0.4rem 0.8rem; border-radius: 6px; cursor: pointer; font-size: 0.85rem; }
+footer { border-top: 1px solid var(--border); padding: 3rem 5%; text-align: center; margin-top: 4rem; }
+footer .f-logo { font-size: 1.3rem; font-weight: 800; margin-bottom: 0.5rem; }
+.legal { font-size: 0.75rem; color: var(--muted); margin-top: 1rem; }
+.legal a { color: var(--accent); }
+body.light-mode { --bg: #f8fafc; --surface: #ffffff; --card: #ffffff; --text: #0f172a; --muted: #64748b; --border: rgba(0,150,80,0.2); }
+</style>
 """
 
 COMMON_JS = """
@@ -244,7 +292,7 @@ def _build_index(latest, archive, flock_name, date_str, ads_config=None):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Auto Flock | AI & Terminal Intelligence</title>
+    <title>MarketFlock | Market & Crypto Intelligence</title>
     {COMMON_CSS}
 </head>
 <body>
@@ -258,7 +306,7 @@ def _build_index(latest, archive, flock_name, date_str, ads_config=None):
             <div class="logo-icon">
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
             </div>
-            <div class="logo-text">Auto <span>Flock</span></div>
+            <div class="logo-text">Market<span>Flock</span></div>
         </a>
         <div class="nav-actions">
             <button class="mode-toggle" id="mode-btn" onclick="toggleMode()">🌙</button>
@@ -267,9 +315,9 @@ def _build_index(latest, archive, flock_name, date_str, ads_config=None):
 
     <div class="container">
         <div style="text-align: center; margin-bottom: 5rem;">
-            <div class="tag" style="margin-bottom: 1rem; color: var(--accent-primary)">System Operational</div>
+            <div class="tag" style="margin-bottom: 1rem; color: var(--accent-primary)">Markets Live</div>
             <h1 style="font-size: clamp(2.5rem, 8vw, 4.5rem); font-weight: 900; letter-spacing: -2px; line-height: 0.9;">
-                Autonomous <br><span style="color: var(--accent-primary)">AI Signals</span>
+                Market <br><span style="color: var(--accent-primary)">Intelligence</span>
             </h1>
         </div>
 
@@ -279,18 +327,18 @@ def _build_index(latest, archive, flock_name, date_str, ads_config=None):
     </div>
 
     <footer>
-        <div class="logo-text f-logo">Auto <span>Flock</span></div>
-        <p style="color: var(--text-dim)">Autonomous Journalism for the Agentic Era</p>
+        <div class="logo-text f-logo">Market<span>Flock</span></div>
+        <p style="color: var(--text-dim)">AI-Powered Market & Crypto Intelligence</p>
         <div class="legal">
-            🤖 Engine: Auto Flock Agent • Domain: <a href="https://autoflock.cutbar.in" style="color: var(--accent-secondary); text-decoration: none; font-weight: 700;">autoflock.cutbar.in</a> • &copy; 2026
+            🤖 Engine: MarketFlock Agent • Domain: <a href="https://marketflock.cutbar.in" style="color: var(--accent-secondary); text-decoration: none; font-weight: 700;">marketflock.cutbar.in</a> • &copy; 2026
         </div>
         <div style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border-glow);">
-            <p style="font-size: 0.7rem; letter-spacing: 2px; text-transform: uppercase; color: var(--text-dim); margin-bottom: 1rem;">Autoflock Network</p>
-            <a href="https://autoflock.cutbar.in" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; gap: 10px; background: rgba(255,255,255,0.05); padding: 10px 20px; border-radius: 12px; border: 1px solid rgba(255,51,68,0.2); transition: var(--transition);">
-                <div style="width: 30px; height: 30px; background: #00ff88; border-radius: 6px; display: flex; align-items: center; justify-content: center; color: white; font-weight: 900; font-size: 0.8rem;">AF</div>
+            <p style="font-size: 0.7rem; letter-spacing: 2px; text-transform: uppercase; color: var(--text-dim); margin-bottom: 1rem;">MarketFlock Network</p>
+            <a href="https://marketflock.cutbar.in" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; gap: 10px; background: rgba(255,255,255,0.05); padding: 10px 20px; border-radius: 12px; border: 1px solid rgba(255,51,68,0.2); transition: var(--transition);">
+                <div style="width: 30px; height: 30px; background: #00b894; border-radius: 6px; display: flex; align-items: center; justify-content: center; color: white; font-weight: 900; font-size: 0.8rem;">AF</div>
                 <div style="text-align: left;">
-                    <div style="color: white; font-weight: 800; font-size: 0.9rem;">Auto <span>Flock</span></div>
-                    <div style="color: #666; font-size: 0.6rem;">AI & Terminal Intelligence Hub</div>
+                    <div style="color: white; font-weight: 800; font-size: 0.9rem;">Market<span>Flock</span></div>
+                    <div style="color: #666; font-size: 0.6rem;">Market & Crypto Intelligence Hub</div>
                 </div>
             </a>
         </div>
@@ -318,7 +366,7 @@ def _build_article_page(a, ads_config=None):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{a['headline']} | Auto Flock</title>
+    <title>{a['headline']} | MarketFlock</title>
     {COMMON_CSS}
     <style>
         .art-wrap {{ max-width: 900px; margin: 4rem auto; padding: 0 5%; }}
@@ -336,7 +384,7 @@ def _build_article_page(a, ads_config=None):
             <div class="logo-icon">
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
             </div>
-            <div class="logo-text">Auto <span>Flock</span></div>
+            <div class="logo-text">Market<span>Flock</span></div>
         </a>
         <div class="nav-actions">
             <button class="mode-toggle" id="mode-btn" onclick="toggleMode()">🌙</button>
@@ -357,14 +405,14 @@ def _build_article_page(a, ads_config=None):
     </div>
 
     <footer>
-        <div class="logo-text f-logo">Auto <span>Flock</span></div>
+        <div class="logo-text f-logo">Market<span>Flock</span></div>
         <div class="legal">
-            🤖 Engine: Auto Flock Agent • Domain: <a href="https://autoflock.cutbar.in" style="color: var(--accent-secondary); text-decoration: none; font-weight: 700;">autoflock.cutbar.in</a>
+            🤖 Engine: MarketFlock Agent • Domain: <a href="https://marketflock.cutbar.in" style="color: var(--accent-secondary); text-decoration: none; font-weight: 700;">marketflock.cutbar.in</a>
         </div>
         <div style="margin-top: 2rem;">
-            <a href="https://autoflock.cutbar.in" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; gap: 10px; background: rgba(255,255,255,0.05); padding: 10px 20px; border-radius: 12px; border: 1px solid rgba(255,51,68,0.2); transition: var(--transition);">
-                <div style="width: 25px; height: 25px; background: #00ff88; border-radius: 4px; display: flex; align-items: center; justify-content: center; color: white; font-weight: 900; font-size: 0.7rem;">AF</div>
-                <div style="color: white; font-weight: 800; font-size: 0.8rem;">Auto <span>Flock</span></div>
+            <a href="https://marketflock.cutbar.in" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; gap: 10px; background: rgba(255,255,255,0.05); padding: 10px 20px; border-radius: 12px; border: 1px solid rgba(255,51,68,0.2); transition: var(--transition);">
+                <div style="width: 25px; height: 25px; background: #00b894; border-radius: 4px; display: flex; align-items: center; justify-content: center; color: white; font-weight: 900; font-size: 0.7rem;">AF</div>
+                <div style="color: white; font-weight: 800; font-size: 0.8rem;">Market<span>Flock</span></div>
             </a>
         </div>
     </footer>
@@ -376,9 +424,9 @@ def _build_article_page(a, ads_config=None):
 
 def _generate_sitemap(history, site_dir):
     # 1. Standard Sitemap
-    urls = ['https://autoflock.cutbar.in/']
+    urls = ['https://marketflock.cutbar.in/']
     for a in history:
-        urls.append(f"https://autoflock.cutbar.in/{a['filename']}")
+        urls.append(f"https://marketflock.cutbar.in/{a['filename']}")
 
     sitemap = '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
     for url in urls:
@@ -396,10 +444,10 @@ def _generate_sitemap(history, site_dir):
     for a in history[:15]:
         pub_date = a.get('published_at', datetime.now().isoformat())
         news_sitemap += '  <url>\n'
-        news_sitemap += f'    <loc>https://autoflock.cutbar.in/{a["filename"]}</loc>\n'
+        news_sitemap += f'    <loc>https://marketflock.cutbar.in/{a["filename"]}</loc>\n'
         news_sitemap += '    <news:news>\n'
         news_sitemap += '      <news:publication>\n'
-        news_sitemap += '        <news:name>Auto Flock Intelligence</news:name>\n'
+        news_sitemap += '        <news:name>MarketFlock Intelligence</news:name>\n'
         news_sitemap += '        <news:language>en</news:language>\n'
         news_sitemap += '      </news:publication>\n'
         news_sitemap += f'      <news:publication_date>{pub_date}</news:publication_date>\n'

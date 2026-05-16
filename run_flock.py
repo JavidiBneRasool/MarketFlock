@@ -1,4 +1,5 @@
 # MASTER ORCHESTRATOR - Full Pipeline
+from dotenv import load_dotenv; load_dotenv()
 import subprocess, sys, json, os
 
 HOME = os.path.expanduser("~")
