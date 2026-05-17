@@ -204,84 +204,66 @@ COMMON_CSS = """
   --bg: #0a0e17;
   --surface: #111827;
   --card: #1a2235;
-  --border: rgba(0,200,100,0.15);
+  --border: rgba(0,200,100,0.12);
   --accent: #00c864;
-  --accent2: #00a8ff;
-  --gold: #f59e0b;
   --red: #ef4444;
+  --gold: #f59e0b;
   --text: #e2e8f0;
   --muted: #64748b;
   --font: 'Inter', sans-serif;
 }
 * { margin: 0; padding: 0; box-sizing: border-box; }
-body { background: var(--bg); color: var(--text); font-family: var(--font); min-height: 100vh; }
-header { display: flex; justify-content: space-between; align-items: center; padding: 1rem 5%; border-bottom: 1px solid var(--border); position: sticky; top: 0; background: rgba(10,14,23,0.95); backdrop-filter: blur(10px); z-index: 100; }
+body { background: var(--bg); color: var(--text); font-family: var(--font); }
+header { display: flex; justify-content: space-between; align-items: center; padding: 0.75rem 5%; border-bottom: 1px solid var(--border); background: rgba(10,14,23,0.98); position: sticky; top: 0; z-index: 100; }
 .logo-wrap { display: flex; align-items: center; gap: 10px; text-decoration: none; }
-.logo-icon { width: 32px; height: 32px; background: var(--accent); border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #000; font-weight: 900; font-size: 14px; }
+.logo-icon { width: 34px; height: 34px; background: var(--accent); border-radius: 8px; display: flex; align-items: center; justify-content: center; }
+.logo-icon svg { width: 18px; height: 18px; }
 .logo-text { font-size: 1.1rem; font-weight: 800; color: var(--text); }
 .logo-text span { color: var(--accent); }
-.ticker-bar { background: var(--surface); border-bottom: 1px solid var(--border); padding: 0.4rem 0; overflow: hidden; white-space: nowrap; }
-.ticker-inner { display: inline-block; animation: ticker 30s linear infinite; }
-.ticker-item { display: inline-block; margin: 0 2rem; font-size: 0.75rem; font-weight: 600; }
-.ticker-up { color: var(--accent); }
-.ticker-down { color: var(--red); }
-@keyframes ticker { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
-.container { max-width: 1200px; margin: 0 auto; padding: 2rem 5%; }
-.hero { text-align: center; padding: 3rem 0 2rem; }
-.hero-badge { display: inline-block; background: rgba(0,200,100,0.1); border: 1px solid rgba(0,200,100,0.3); color: var(--accent); padding: 0.3rem 1rem; border-radius: 20px; font-size: 0.75rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 1rem; }
-.hero h1 { font-size: clamp(2rem, 6vw, 3.5rem); font-weight: 900; line-height: 1.1; margin-bottom: 1rem; }
+.ticker-wrap { background: #0d1420; border-bottom: 1px solid var(--border); padding: 0.35rem 0; overflow: hidden; white-space: nowrap; }
+.ticker-inner { display: inline-block; animation: scroll 40s linear infinite; }
+@keyframes scroll { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
+.t-item { display: inline-block; margin: 0 1.5rem; font-size: 0.72rem; font-weight: 600; }
+.t-up { color: var(--accent); }
+.t-dn { color: var(--red); }
+.t-na { color: var(--muted); }
+.container { max-width: 1100px; margin: 0 auto; padding: 2rem 5%; }
+.hero { text-align: center; padding: 2.5rem 0 2rem; border-bottom: 1px solid var(--border); margin-bottom: 2rem; }
+.live-badge { display: inline-flex; align-items: center; gap: 6px; background: rgba(0,200,100,0.08); border: 1px solid rgba(0,200,100,0.25); color: var(--accent); padding: 0.25rem 0.8rem; border-radius: 20px; font-size: 0.7rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 1rem; }
+.live-dot { width: 6px; height: 6px; background: var(--accent); border-radius: 50%; animation: pulse 1.5s infinite; }
+@keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.3; } }
+.hero h1 { font-size: clamp(1.8rem, 5vw, 3rem); font-weight: 900; line-height: 1.1; }
 .hero h1 span { color: var(--accent); }
-.market-stats { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; margin: 1.5rem 0; }
-.stat-pill { background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 0.5rem 1rem; font-size: 0.8rem; }
-.stat-pill .val { font-weight: 700; color: var(--accent); }
-.pro-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 1.5rem; }
-.pro-card { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 1.5rem; cursor: pointer; transition: all 0.2s; }
-.pro-card:hover { border-color: var(--accent); transform: translateY(-2px); }
-.tag { display: inline-block; background: rgba(0,200,100,0.1); color: var(--accent); border: 1px solid rgba(0,200,100,0.2); padding: 0.2rem 0.6rem; border-radius: 4px; font-size: 0.7rem; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 0.75rem; }
-.pro-card h3 { font-size: 1rem; font-weight: 700; line-height: 1.4; margin-bottom: 0.5rem; color: var(--text); }
-.pro-card p { font-size: 0.85rem; color: var(--muted); line-height: 1.6; margin-bottom: 1rem; }
-.card-foot { display: flex; justify-content: space-between; font-size: 0.75rem; color: var(--muted); border-top: 1px solid var(--border); padding-top: 0.75rem; }
-.mode-toggle { background: var(--surface); border: 1px solid var(--border); color: var(--text); padding: 0.4rem 0.8rem; border-radius: 6px; cursor: pointer; font-size: 0.85rem; }
-footer { border-top: 1px solid var(--border); padding: 3rem 5%; text-align: center; margin-top: 4rem; }
-footer .f-logo { font-size: 1.3rem; font-weight: 800; margin-bottom: 0.5rem; }
-.legal { font-size: 0.75rem; color: var(--muted); margin-top: 1rem; }
-.legal a { color: var(--accent); }
-body.light-mode { --bg: #f8fafc; --surface: #ffffff; --card: #ffffff; --text: #0f172a; --muted: #64748b; --border: rgba(0,150,80,0.2); }
+.stats-row { display: flex; gap: 0.75rem; justify-content: center; flex-wrap: wrap; margin-top: 1.25rem; }
+.s-pill { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 0.4rem 0.9rem; font-size: 0.75rem; display: flex; gap: 6px; align-items: center; }
+.s-pill .val { color: var(--accent); font-weight: 700; }
+.s-pill .dn { color: var(--red); font-weight: 700; }
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 1rem; }
+.card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 1.25rem; cursor: pointer; transition: border-color 0.2s, transform 0.2s; }
+.card:hover { border-color: var(--accent); transform: translateY(-2px); }
+.cat-tag { display: inline-block; padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.65rem; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 0.6rem; background: rgba(0,200,100,0.08); color: var(--accent); border: 1px solid rgba(0,200,100,0.2); }
+.card h3 { font-size: 0.95rem; font-weight: 700; line-height: 1.4; margin-bottom: 0.5rem; }
+.card p { font-size: 0.8rem; color: var(--muted); line-height: 1.6; margin-bottom: 0.75rem; }
+.card-meta { display: flex; justify-content: space-between; font-size: 0.7rem; color: var(--muted); border-top: 1px solid var(--border); padding-top: 0.6rem; }
+.mode-toggle { background: var(--surface); border: 1px solid var(--border); color: var(--text); padding: 0.35rem 0.7rem; border-radius: 6px; cursor: pointer; font-size: 0.8rem; }
+footer { border-top: 1px solid var(--border); padding: 2rem 5%; text-align: center; margin-top: 3rem; }
+.f-brand { font-size: 1.1rem; font-weight: 800; margin-bottom: 0.4rem; }
+.f-brand span { color: var(--accent); }
+.f-legal { font-size: 0.7rem; color: var(--muted); margin-top: 0.5rem; }
+.f-legal a { color: var(--accent); text-decoration: none; }
+body.light-mode { --bg: #f1f5f9; --surface: #fff; --card: #fff; --text: #0f172a; --muted: #64748b; --border: rgba(0,150,80,0.15); }
 </style>
 """
-
-COMMON_JS = """
-<script>
-    function toggleMode() {
-        const body = document.body;
-        const btn = document.getElementById('mode-btn');
-        body.classList.toggle('light-mode');
-        const isLight = body.classList.contains('light-mode');
-        localStorage.setItem('flock-theme', isLight ? 'light' : 'dark');
-        btn.innerText = isLight ? '☀️' : '🌙';
-    }
-
-    function initMode() {
-        const theme = localStorage.getItem('flock-theme') || 'dark';
-        if (theme === 'light') {
-            document.body.classList.add('light-mode');
-            document.getElementById('mode-btn').innerText = '☀️';
-        }
-    }
-    window.onload = initMode;
-</script>
-"""
-
 def _build_index(latest, archive, flock_name, date_str, ads_config=None):
     articles_html = ""
     for a in latest:
         excerpt = a.get("body", "").replace('#','').replace('*','').replace('\n',' ').strip()[:120] + "..."
         articles_html += f"""
-            <div class="pro-card" onclick="window.location.href='{a['filename']}'">
-                <div class="tag">{a['category']}</div>
+            <div class="card" onclick="window.location.href='{a['filename']}'">
+                <div class="cat-tag">{a['category']}</div>
                 <h3>{a['headline']}</h3>
                 <p>{excerpt}</p>
-                <div class="card-foot">
+                <div class="card-meta">
                     <span>{a['source']}</span>
                     <span>{a['date_display']}</span>
                 </div>
@@ -296,32 +278,52 @@ def _build_index(latest, archive, flock_name, date_str, ads_config=None):
     {COMMON_CSS}
 </head>
 <body>
-    <div id="bg-canvas">
-        <div class="orb" style="top: 10%; left: 10%; width: 400px; height: 400px; background: var(--accent-primary);"></div>
-        <div class="orb" style="bottom: 10%; right: 10%; width: 300px; height: 300px; background: var(--accent-secondary);"></div>
-    </div>
-
     <header>
         <a href="/" class="logo-wrap">
             <div class="logo-icon">
-                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="16 18 22 12 16 6"></polyline><polyline points="8 6 2 12 8 18"></polyline></svg>
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 7 13.5 15.5 8.5 10.5 2 17"></polyline><polyline points="16 7 22 7 22 13"></polyline></svg>
             </div>
             <div class="logo-text">Market<span>Flock</span></div>
         </a>
-        <div class="nav-actions">
-            <button class="mode-toggle" id="mode-btn" onclick="toggleMode()">🌙</button>
-        </div>
+        <button class="mode-toggle" id="mode-btn" onclick="toggleMode()">🌙</button>
     </header>
 
+    <div class="ticker-wrap">
+        <div class="ticker-inner">
+            <span class="t-item">BTC <span class="t-up">▲</span> Live</span>
+            <span class="t-item">ETH <span class="t-up">▲</span> Live</span>
+            <span class="t-item">BNB <span class="t-up">▲</span> Live</span>
+            <span class="t-item">Gold <span class="t-na">◆</span> Spot</span>
+            <span class="t-item">NSE <span class="t-up">▲</span> Live</span>
+            <span class="t-item">BSE <span class="t-up">▲</span> Live</span>
+            <span class="t-item">USD/INR <span class="t-na">◆</span> Forex</span>
+            <span class="t-item">Crude Oil <span class="t-dn">▼</span> Live</span>
+            <span class="t-item">S&P 500 <span class="t-up">▲</span> Live</span>
+            <span class="t-item">BTC <span class="t-up">▲</span> Live</span>
+            <span class="t-item">ETH <span class="t-up">▲</span> Live</span>
+            <span class="t-item">BNB <span class="t-up">▲</span> Live</span>
+            <span class="t-item">Gold <span class="t-na">◆</span> Spot</span>
+            <span class="t-item">NSE <span class="t-up">▲</span> Live</span>
+            <span class="t-item">BSE <span class="t-up">▲</span> Live</span>
+            <span class="t-item">USD/INR <span class="t-na">◆</span> Forex</span>
+            <span class="t-item">Crude Oil <span class="t-dn">▼</span> Live</span>
+            <span class="t-item">S&P 500 <span class="t-up">▲</span> Live</span>
+        </div>
+    </div>
+
     <div class="container">
-        <div style="text-align: center; margin-bottom: 5rem;">
-            <div class="tag" style="margin-bottom: 1rem; color: var(--accent-primary)">Markets Live</div>
-            <h1 style="font-size: clamp(2.5rem, 8vw, 4.5rem); font-weight: 900; letter-spacing: -2px; line-height: 0.9;">
-                Market <br><span style="color: var(--accent-primary)">Intelligence</span>
-            </h1>
+        <div class="hero">
+            <div class="live-badge"><span class="live-dot"></span> MARKETS LIVE</div>
+            <h1>Market <span>Intelligence</span><br>Powered by AI</h1>
+            <div class="stats-row">
+                <div class="s-pill">Crypto <span class="val">Live</span></div>
+                <div class="s-pill">Stocks <span class="val">BSE/NSE</span></div>
+                <div class="s-pill">Forex <span class="val">24/7</span></div>
+                <div class="s-pill">Commodity <span class="val">Gold/Oil</span></div>
+            </div>
         </div>
 
-        <div class="pro-grid">
+        <div class="grid">
             {articles_html}
         </div>
     </div>

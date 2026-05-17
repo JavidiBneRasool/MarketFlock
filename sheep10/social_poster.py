@@ -6,7 +6,7 @@ PROJECT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUTPUT = f"{PROJECT}/output"
 HISTORY_FILE = f"{PROJECT}/history.json"
 POSTED_FILE = f"{OUTPUT}/social_posted.json"
-BASE_URL = "https://autoflock.cutbar.in"
+BASE_URL = "https://market.cutbar.in"
 TRACKING_PARAMS = {"utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content", "fbclid", "gclid", "ref"}
 
 
@@ -79,7 +79,7 @@ def post_to_telegram(bot_token, channel_id, headline, article_url, category, sou
 Source: {source}
 🔗 {article_url}
 
-#Autoflock #AI #Terminal #Automation
+#MarketFlock #Crypto #Markets #Finance
 """
     api_url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
     payload = {"chat_id": channel_id, "text": post_text, "parse_mode": "HTML", "disable_web_page_preview": False}
@@ -92,7 +92,7 @@ Source: {source}
 
 def post_to_whatsapp(instance_id, access_token, phone_number, headline, article_url):
     url = f"https://api.ultramsg.com/{instance_id}/messages/chat"
-    message = f"*🤖 {headline}*\n\nRead more: {article_url}\n\n#Autoflock #AI"
+    message = f"*🤖 {headline}*\n\nRead more: {article_url}\n\n#MarketFlock #Crypto #Markets"
     payload = {"token": access_token, "to": phone_number, "body": message}
     try:
         response = requests.post(url, data=payload)
@@ -104,11 +104,11 @@ def post_to_whatsapp(instance_id, access_token, phone_number, headline, article_
 def post_to_facebook(page_id, access_token, headline, article_url, category):
     triggers = [
         f"🚀 {category} signal: {headline}",
-        f"🤖 New Autoflock intelligence: {headline}",
+        f"🤖 New MarketFlock signal: {headline}",
         f"⚡ Developer and automation watch: {headline}",
-        f"🔧 Practical AI signal: {headline}"
+        f"🔧 📊 MarketFlock signal: {headline}"
     ]
-    message = f"🤖 {headline}\n\n{random.choice(triggers)}\n\nRead more: {article_url}\n\n#Autoflock #AI #Automation"
+    message = f"🤖 {headline}\n\n{random.choice(triggers)}\n\nRead more: {article_url}\n\n#MarketFlock #Crypto #Markets #Finance"
     api_url = f"https://graph.facebook.com/{page_id}/feed"
     payload = {"message": message, "link": article_url, "access_token": access_token}
     try:
@@ -162,7 +162,7 @@ def run():
         headline = article.get("headline") or article.get("title")
         article_url = _article_url(article)
         category = article.get("category", "Tech")
-        source = article.get("source", "Autoflock")
+        source = article.get("source", "MarketFlock")
         source_url = article.get("source_url") or article.get("url") or ""
         print(f"   Social Post: {headline[:50]}...")
 
