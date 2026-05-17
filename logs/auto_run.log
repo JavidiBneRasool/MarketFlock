@@ -5049,3 +5049,256 @@ fatal: empty ident name (for <runner@runnervmrw5os.e3zk2pzlrrleboh20n41ic2nra.bx
 Everything up-to-date
 
 --- SYNC END ---
+
+--- SYNC START: 2026-05-17 22:42:19 ---
+------------------------------------------
+🤖 Starting MarketFlock Sync: Sun May 17 22:42:19 UTC 2026
+------------------------------------------
+🔄 Step 0: Syncing with GitHub (Main)...
+📥 Pulling latest changes...
+Already up to date.
+🐑 Step 1: Running AI Pipeline & Social Posting...
+
+╔════════════════════════════════╗
+║   🤖 MARKETFLOCK AI AGENT    ║
+║   10 Sources • Social Hub   ║
+╚════════════════════════════════╝
+
+
+========================================
+RUNNING Sheep 1 (Scout)...
+========================================
+🐑 SHEEP 1: Scouting market, crypto, and finance sources...
+   [Crypto] Bernstein says Figure's Q1 results shows uniqueness of block...
+   [Crypto] Saylor signals BTC buy as retail holders get push on STRC di...
+   [Markets] Oil Climbs as Iran War Shows No Sign of Ending: Markets Wrap...
+   [Markets] Oil Extends Gains as Trump Says Clock Is Ticking for Iran De...
+   [Crypto] Bitcoin Open Heads to Iconic Glen Abbey Golf Club for June 8...
+   [Crypto] Abu Dhabi’s Mubadala Raises Bitcoin ETF Stake 16% to $566 Mi...
+   [Crypto] What Is Arc? The Stablecoin Blockchain From USDC Issuer Circ...
+   [Crypto] Justin Sun-Led Liberland Micronation Awards Ethereum Founder...
+   [Crypto] Alleged Forsage co-founder extradited from Thailand, pleads ...
+   [Crypto] Japan’s SBI, Rakuten developing crypto investment trusts in-...
+   [Markets] Iran energy crisis enters new phase as peak summer season ap...
+   [Markets] The looming energy crunch...
+🐑 SHEEP 1: 12 articles from 22 sources ✓
+
+
+========================================
+RUNNING Sheep 2 (Verifier)...
+========================================
+🐑 SHEEP 2: Verifying source authenticity...
+🐑 SHEEP 2: 0/12 trusted, 0 blocked ✓
+
+
+========================================
+RUNNING Sheep 3 (Compliance)...
+========================================
+🐑 SHEEP 3: Checking...
+🐑 SHEEP 3: 12 passed, 0 blocked
+
+
+========================================
+RUNNING Sheep 4 (Designer)...
+========================================
+🐑 SHEEP 4: Designing...
+🐑 SHEEP 4: 12 templates ready ✓
+
+
+========================================
+RUNNING Sheep 5 (Headlines)...
+========================================
+🐑 SHEEP 5: Headlines & Images (AI-powered)...
+  → Headline 1/12...
+[AI] Failed: HTTP Error 401: Unauthorized
+  → Headline 2/12...
+[AI] Failed: HTTP Error 401: Unauthorized
+  → Headline 3/12...
+[AI] Failed: HTTP Error 401: Unauthorized
+  → Headline 4/12...
+[AI] Failed: HTTP Error 401: Unauthorized
+  → Headline 5/12...
+[AI] Failed: HTTP Error 401: Unauthorized
+  → Headline 6/12...
+[AI] Failed: HTTP Error 401: Unauthorized
+  → Headline 7/12...
+[AI] Failed: HTTP Error 401: Unauthorized
+  → Headline 8/12...
+[AI] Failed: HTTP Error 401: Unauthorized
+  → Headline 9/12...
+[AI] Failed: HTTP Error 401: Unauthorized
+  → Headline 10/12...
+[AI] Failed: HTTP Error 401: Unauthorized
+  → Headline 11/12...
+[AI] Failed: HTTP Error 401: Unauthorized
+  → Headline 12/12...
+[AI] Failed: HTTP Error 401: Unauthorized
+🐑 SHEEP 5: 12 AI headlines ready ✓
+
+
+========================================
+RUNNING Sheep 6 (Writer)...
+========================================
+
+⚠ Sheep 6 (Writer) ERROR: Traceback (most recent call last):
+  File "/home/runner/work/MarketFlock/MarketFlock/sheep6/suspense_writer.py", line 3, in <module>
+    from slugify import slugify
+ModuleNotFoundError: No module named 'slugify'
+
+
+========================================
+RUNNING Sheep 7 (Auditor)...
+========================================
+🐑 SHEEP 7: Auditing (Digital Analyst Gate)...
+   [FAILURE] DeFi's new front: VerifiedX bets bitcoin... Score: 28 Errors: ['SEO_FAIL']
+   [FAILURE] Japan's SBI Securities, Rakuten Securiti... Score: 28 Errors: ['SEO_FAIL']
+   [FAILURE] Here’s what happened in crypto today... Score: 31 Errors: ['SEO_FAIL']
+   [FAILURE] SBI, Rakuten, Nomura line up to launch c... Score: 30 Errors: ['SEO_FAIL']
+   [FAILURE] Bloomberg This Weekend 5/17/2026... Score: 30 Errors: ['SEO_FAIL']
+   [FAILURE] Gundlach Says It’s ‘Just Not Possible’ f... Score: 31 Errors: ['SEO_FAIL']
+   [FAILURE] Bitcoin Open Heads to Iconic Glen Abbey ... Score: 32 Errors: ['SEO_FAIL']
+   [FAILURE] Abu Dhabi’s Mubadala Raises Bitcoin ETF ... Score: 33 Errors: ['SEO_FAIL']
+   [FAILURE] Justin Sun-Led Liberland Micronation Awa... Score: 27 Errors: ['SEO_FAIL']
+   [FAILURE] What Is AI Jailbreaking? A Beginner's Gu... Score: 27 Errors: ['SEO_FAIL']
+   [FAILURE] Iran energy crisis enters new phase as p... Score: 31 Errors: ['SEO_FAIL']
+   [FAILURE] The looming energy crunch... Score: 30 Errors: ['SEO_FAIL']
+🐑 SHEEP 7: 0 clean, 12 with errors ✓
+
+
+========================================
+RUNNING Sheep 11 (Translator)...
+========================================
+🐑 SHEEP 11: Generating Urdu translations...
+   Translating intelligence signals...
+🐑 SHEEP 11: 232 Urdu strings ready ✓
+
+
+========================================
+RUNNING Sheep 13 (Monetizer)...
+========================================
+🐑 SHEEP 13: Generating Market Comparison Tables...
+🐑 SHEEP 13: Market comparison tables injected into 12 articles ✓
+
+
+========================================
+RUNNING Cleanup (Delete old deployments)...
+========================================
+🐑 Cleanup: Deleting old deployments...
+   Cleanup skipped: [Errno 2] No such file or directory: '/home/runner/work/MarketFlock/MarketFlock/config/cloudflare.json'
+
+
+========================================
+RUNNING Sheep 8 (Publisher)...
+========================================
+🐑 SHEEP 8: Publishing Expert Signals...
+
+⚠ Sheep 8 (Publisher) ERROR: Traceback (most recent call last):
+  File "/home/runner/work/MarketFlock/MarketFlock/sheep8/publisher.py", line 186, in <module>
+    run()
+  File "/home/runner/work/MarketFlock/MarketFlock/sheep8/publisher.py", line 60, in run
+    content = _build_article_page(a)
+  File "/home/runner/work/MarketFlock/MarketFlock/sheep8/publisher.py", line 157, in _build_article_page
+    import markdown
+ModuleNotFoundError: No module named 'markdown'
+
+
+========================================
+RUNNING Sheep 9 (Reporter)...
+========================================
+🐑 SHEEP 9: Generating Intelligence Reports...
+==================================================
+🤖 AUTOFLOCK - AI MISSION REPORT
+==================================================
+Time: 2026-05-17 22:42:52
+
+  [Crypto] DeFi's new front: VerifiedX bets bitcoin's next chapter is p...
+  [Crypto] Japan's SBI Securities, Rakuten Securities plan to offer cry...
+  [Crypto] Here’s what happened in crypto today...
+  [Crypto] SBI, Rakuten, Nomura line up to launch crypto investment tru...
+  [Markets] Bloomberg This Weekend 5/17/2026...
+  [Markets] Gundlach Says It’s ‘Just Not Possible’ for the Fed to Cut Ra...
+  [Crypto] Bitcoin Open Heads to Iconic Glen Abbey Golf Club for June 8...
+  [Crypto] Abu Dhabi’s Mubadala Raises Bitcoin ETF Stake 16% to $566 Mi...
+  [Crypto] Justin Sun-Led Liberland Micronation Awards Ethereum Founder...
+  [Crypto] What Is AI Jailbreaking? A Beginner's Guide to the Cat-and-M...
+  [Markets] Iran energy crisis enters new phase as peak summer season lo...
+  [Markets] The looming energy crunch...
+
+==================================================
+✅ SHEEP 1 (Scout)
+✅ SHEEP 2 (Verifier)
+✅ SHEEP 3 (Compliance)
+✅ SHEEP 5 (Headlines)
+✅ SHEEP 6 (Writer)
+✅ SHEEP 7 (Auditor)
+✅ SHEEP 8 (Publisher)
+✅ SHEEP 9 (Reporter)
+
+🐑 Alpha Signal & Mission Report Complete
+
+
+========================================
+RUNNING Sheep 10 (Social)...
+========================================
+🐑 SHEEP 10: Posting Analyst Hooks to Social Hub...
+   Posting Hook: Euro Leaders Face $1Trn Debt Crisis Deadline...
+   Posting Hook: Stocks Plunge 5% Amid Iran Conflict Escalation...
+🐑 SHEEP 10: Digital Analyst Social Feed updated ✓
+
+
+========================================
+RUNNING Sheep 12 (Indexer)...
+========================================
+🐑 SHEEP 12: Activating News Signal Engine...
+   Pinging Google Sitemap: https://market.cutbar.in/sitemap.xml
+      DEBUG: Sending GET to https://www.google.com/ping?sitemap=https://market.cutbar.in/sitemap.xml
+      ! Ping response: 404
+   Pinging Google Sitemap: https://market.cutbar.in/news-sitemap.xml
+      DEBUG: Sending GET to https://www.google.com/ping?sitemap=https://market.cutbar.in/news-sitemap.xml
+      ! Ping response: 404
+   ! Google Indexing key not found. Skipping API.
+
+
+========================================
+RUNNING Sheep 14 (SEO)...
+========================================
+🐑 SHEEP 14: Updating Sitemap & SEO Index...
+✅ Sitemap updated with 0 URLs.
+✅ robots.txt generated.
+
+
+========================================
+RUNNING Sheep 15 (GSC Indexer)...
+========================================
+🐑 SHEEP 15: Google Indexing API Force-Push...
+❌ GSC Key missing. Skipping.
+
+
+✅ ORCHESTRATOR FINISHED
+🚀 Step 2: Syncing to Web (GitHub/Cloudflare)...
+Commit failed
+📤 Pushing to GitHub...
+------------------------------------------
+✅ SYNC COMPLETE: Your AI tools are live!
+🌐 URL: https://market.cutbar.in
+------------------------------------------
+
+ERRORS:
+From https://github.com/JavidiBneRasool/MarketFlock
+ * branch            main       -> FETCH_HEAD
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: empty ident name (for <runner@runnervmrw5os.1ulu1jd0ufcuhdc2rce11ouqxb.cx.internal.cloudapp.net>) not allowed
+Everything up-to-date
+
+--- SYNC END ---
