@@ -369,11 +369,19 @@ def _build_index(latest, archive, flock_name, date_str, ads_config=None):
 
 def _build_article_page(a, ads_config=None):
     bh_html = ""
+    skip_patterns = [
+        a.get("headline", ""),
+        "MarketFlock Intelligence",
+        "Auto Flock Intelligence",
+        "Published by MarketFlock",
+    ]
     content_parts = a["body"].split('\n')
     for p in content_parts:
         p = p.strip()
         if not p: continue
+        if p == "---" or p == "---\n": continue
         clean_p = p.replace('*', '')
+        if any(sp in clean_p for sp in skip_patterns if sp): continue
         if clean_p.startswith('# '):
             bh_html += f'<h2 style="color: #fff; margin-top: 3rem; margin-bottom: 1.5rem;">{clean_p[2:]}</h2>'
         elif clean_p.startswith('## '):
