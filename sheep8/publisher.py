@@ -275,7 +275,7 @@ window.onload = function() {
 def _build_index(latest, archive, flock_name, date_str, ads_config=None):
     articles_html = ""
     for a in latest:
-        excerpt = a.get("body", "").replace('#','').replace('*','').replace('\n',' ').strip()[:120] + "..."
+        excerpt = " ".join([l.strip() for l in a.get("body","").split("\n") if l.strip() and not l.startswith("#") and not l.startswith("*") and not l.startswith("-") and not l.startswith("|") and "MarketFlock Intelligence" not in l and "---" not in l])[:150] + "..."
         articles_html += f"""
             <div class="card" onclick="window.location.href='{a['filename']}'">
                 <div class="cat-tag">{a['category']}</div>
