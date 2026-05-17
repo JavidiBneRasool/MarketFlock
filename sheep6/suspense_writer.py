@@ -1,114 +1,111 @@
-import json, os, random
+import json, os, sys
 from datetime import datetime
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from config.ai import ask_with_delay
 
 PROJECT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUTPUT = f"{PROJECT}/output"
 
-HOOKS = ["It started quietly.", "Nobody saw it coming.", "The signs were there.", "What happened next stunned everyone."]
-REVEALS = ["Here is what happened:", "The truth emerged:", "Sources confirmed:"]
-ENDINGS = ["What happens next?", "This story is far from over.", "The world watches and waits."]
+ADSENSE = '''<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-1473583694933213" data-ad-slot="3952378980"></ins>
+<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>'''
+
+def get_affiliate(category):
+    cat = category.lower()
+    if "crypto" in cat or "bitcoin" in cat:
+        return """• **Trade Crypto:** [Start on Binance](https://www.binance.com) | [CoinDCX India](https://coindcx.com)
+• **Cold Storage:** [Ledger Hardware Wallet](https://www.amazon.in/s?k=ledger+hardware+wallet&tag=cutbar-21)"""
+    elif "stock" in cat or "nse" in cat or "bse" in cat or "india" in cat:
+        return """• **Stock Trading:** [Zerodha](https://zerodha.com) | [Groww](https://groww.in)
+• **Market Tools:** [View Trading Books](https://www.amazon.in/s?k=stock+market+books&tag=cutbar-21)"""
+    elif "commodity" in cat or "gold" in cat or "oil" in cat:
+        return """• **Commodity Trading:** [Angel One](https://angelone.in) | [ICICI Direct](https://icicidirect.com)
+• **Gold Investment:** [View Gold ETF Guide](https://www.amazon.in/s?k=gold+etf+investing&tag=cutbar-21)"""
+    elif "forex" in cat:
+        return """• **Forex Trading:** [Forex.com](https://forex.com) | [HDFC Forex](https://hdfcbank.com)
+• **Forex Books:** [View Forex Trading Books](https://www.amazon.in/s?k=forex+trading+books&tag=cutbar-21)"""
+    else:
+        return """• **Market Analysis:** [TradingView](https://tradingview.com) | [Investing.com](https://investing.com)
+• **Finance Books:** [View Best Finance Books](https://www.amazon.in/s?k=finance+investing+books&tag=cutbar-21)"""
+
+def write_article(headline, summary, category, source):
+    prompt = f"""Write a professional market intelligence article.
+Headline: {headline}
+Category: {category}
+Summary: {summary}
+Source: {source}
+
+Write in this structure:
+1. Opening hook (2 sentences, data-driven)
+2. Key market developments (3 bullet points with specific numbers/percentages where possible)
+3. Market impact analysis (2-3 sentences)
+4. Expert outlook (1 quote-style insight)
+
+Rules: financial journalism tone, specific and factual, max 250 words, no generic filler."""
+
+    result = ask_with_delay(
+        prompt,
+        system="You are a senior market analyst at a top financial news desk. Write precise, data-driven market intelligence. No fluff.",
+        delay=2
+    )
+    if result:
+        if "</think>" in result:
+            result = result.split("</think>")[-1].strip()
+        return result
+    return f"{summary}\n\nThis market development is being closely monitored by analysts."
 
 def run():
-    print("🐑 SHEEP 6: Writing articles...")
+    print("🐑 SHEEP 6: Writing AI market articles...")
     try:
         with open(f"{OUTPUT}/sheep5_headlines.json") as f:
             headlines = json.load(f)
     except FileNotFoundError:
         print("🐑 SHEEP 6: No input!"); return None
-    
+
     articles = []
-    for item in headlines:
+    for i, item in enumerate(headlines):
+        print(f"  → Writing article {i+1}/{len(headlines)}...")
         h = item["headline"]
         a = item["article"]
-        iu = item["image_url"]
-        fb = item.get("image_fallback", "")
-        
-        summary_text = a.get('summary', 'Details are unfolding. Stay tuned for updates on this developing story.')
-        
-        # Heuristic "Deepening"
-        takeaways = [f"• {line.strip()}" for line in summary_text.split('.') if len(line.strip()) > 10][:3]
-        if not takeaways: takeaways = ["• Significant developments reported in this sector.", "• Strategic implications for global stakeholders.", "• Ongoing monitoring required by analysts."]
-        
-        takeaways_html = "\n".join(takeaways)
-        
-        # Financial Niche Monetization Logic
-        adsense_code = '<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-1473583694933213" data-ad-slot="3952378980"></ins>\n<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>'
+        summary = a.get("summary", "Market developments are unfolding.")
+        category = a.get("category", "Markets")
+        source = a.get("source", "MarketFlock")
 
-        # AI & Terminal Niche Monetization Logic
-        cat = a.get('category', '').lower()
-        amazon_block = ""
-        if 'tech' in cat or 'terminal' in cat:
-            amazon_block = """
-• **Terminal Mastery:** Enhance your CLI workflow with the ultimate developer hardware.
-"View Pro Developer Gear" (https://www.amazon.in/s?k=mechanical+keyboard+coding&tag=cutbar-21)
-"""
-        elif 'ai' in cat or 'agent' in cat:
-            amazon_block = """
-• **Neural Hardware:** Run local LLMs with high-performance GPU-accelerated workstations.
-"View AI Compute Hardware" (https://www.amazon.in/s?k=nvidia+rtx+gpu&tag=cutbar-21)
-"""
-        else:
-            amazon_block = """
-• **Agentic Tools:** Stay prepared with the latest high-utility automation and tech gear.
-"View Essential Tech Tools" (https://www.amazon.in/s?k=leatherman+multitool&tag=cutbar-21)
-"""
-
-        affiliate_block = f"""
-• **Frontier AI Models:** Deploy advanced agents with low-latency API access.
-"Access AI Developer Portals" (https://autoflock.cutbar.in/recommend/ai-api)
-
-• **GPU Cloud Compute:** Scale your training and inference on institutional-grade infrastructure.
-"View Cloud GPU Platforms" (https://autoflock.cutbar.in/recommend/gpu-cloud)
-{amazon_block}
-• **Workflow Automation:** If overhead is high, consider a strategic automation build.
-"Check Automation Services" (https://autoflock.cutbar.in/recommend/automation)
-"""
+        ai_body = write_article(h, summary, category, source)
+        affiliate = get_affiliate(category)
 
         body = f"""# {h}
 
-*Auto Flock Intelligence | {datetime.now().strftime('%B %d, %Y')}*
+*MarketFlock Intelligence | {datetime.now().strftime("%B %d, %Y")}*
 
 ---
 
-## 🔮 The Intelligence Signal
-{summary_text}
+{ai_body}
 
-{adsense_code}
-
-## 💡 Why This Matters (The Deep Dive)
-This story is critical because it highlights shifting dynamics in {a.get('category', 'this sector')}. Our analysis suggests this development could serve as a precursor to even larger structural changes in the coming weeks.
-
-{affiliate_block}
-
-## 🛠️ Actionable Strategy Checklist
-If you are affected by this news, here are your next steps:
-• **Assess Impact:** Evaluate how this development impacts your current technical stack or career path.
-• **Stay Informed:** Monitor real-time updates on {a.get('source', 'original sources')} to catch shifts before they go mainstream.
-• **Pivot Fast:** Prepare a contingency plan for the next 48 hours as the situation stabilizes.
-
-{adsense_code}
-
-## 🧠 Expert Prediction
-Industry veterans suggest that the timing of this event is no coincidence. "We are seeing a convergence of factors that point towards a new normal," noted one senior analyst. **The Signal:** Watch for regional technical shifts in the next quarter.
+{ADSENSE}
 
 ---
-🤖 Published by Auto Flock Signal Engine | Category: {a['category']} | Source: {a['source']}"""
-        
+
+## 📊 Market Resources
+{affiliate}
+
+---
+🤖 Published by MarketFlock Signal Engine | Category: {category} | Source: {source}"""
+
         articles.append({
-            "category": item["category"],
+            "category": category,
             "headline": h,
-            "image_url": iu,
-            "image_fallback": fb,
+            "image_url": item.get("image_url", ""),
+            "image_fallback": item.get("image_fallback", ""),
             "body": body,
-            "source": a["source"],
-            "source_url": a["url"],
+            "source": source,
+            "source_url": a.get("url", ""),
             "written_at": datetime.now().isoformat()
         })
-    
+
     with open(f"{OUTPUT}/sheep6_articles.json", "w") as f:
         json.dump(articles, f, indent=2)
-    
-    print(f"🐑 SHEEP 6: {len(articles)} articles written ✓")
+
+    print(f"🐑 SHEEP 6: {len(articles)} AI market articles written ✓")
     return articles
 
 if __name__ == "__main__":
