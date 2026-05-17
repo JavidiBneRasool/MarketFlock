@@ -6,16 +6,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-17T20:50:44.278508+00:00"
+    "fetched_at": "2026-05-17T21:43:34.545632+00:00"
   },
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+    "title": "SBI, Rakuten, Nomura line up to launch crypto investment trusts: Report",
+    "url": "https://cointelegraph.com/news/sbi-rakuten-nomura-line-up-to-launch-crypto-investment-trusts-report",
+    "summary": "Japan\u2019s biggest brokerages are racing to bring crypto investment trusts to retail investors, as regulators move to formally allow crypto-holding funds by 2028.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-17T20:50:44.278577+00:00"
+    "fetched_at": "2026-05-17T21:43:34.545707+00:00"
+  },
+  {
+    "title": "One Hedge Fund Holds the Keys to Ukraine\u2019s Wartime Industries",
+    "url": "https://www.bloomberg.com/news/features/2026-05-17/hedge-fund-vr-capital-holds-sway-in-ukraine-s-wartime-economy",
+    "summary": "VR Capital has built a powerful position in Ukrainian bonds, giving it enormous influence as companies key to the war effort try to restructure their debt.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-05-17T21:43:35.335192+00:00"
   },
   {
     "title": "Stocks in Focus After Bonds Send Inflation Alarm",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-17T20:50:45.470944+00:00"
-  },
-  {
-    "title": "Hundreds Swarm Swatch Stores for \"Royal Pop\" Release",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-17/hundreds-swarm-swatch-stores-for-royal-pop-release-video",
-    "summary": "After queuing for days to get their hands on the new Audemars Piguet-Swatch collaboration, fans on Saturday finally got their chance, but heaving crowds stopped some stores from opening their doors and prompted pleas for calm. Bloomberg's Chris Rovzar explains.  (Source: Bloomberg)",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-05-17T20:50:45.470996+00:00"
+    "fetched_at": "2026-05-17T21:43:35.335246+00:00"
   },
   {
     "title": "Bitcoin Open Heads to Iconic Glen Abbey Golf Club for June 8, 2026 Event",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-17T20:50:44.704879+00:00"
+    "fetched_at": "2026-05-17T21:43:34.793995+00:00"
   },
   {
     "title": "Abu Dhabi\u2019s Mubadala Raises Bitcoin ETF Stake 16% to $566 Million in Q1 2026",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-17T20:50:44.704945+00:00"
+    "fetched_at": "2026-05-17T21:43:34.794066+00:00"
   },
   {
     "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-17T20:50:44.831136+00:00"
+    "fetched_at": "2026-05-17T21:43:34.873278+00:00"
   },
   {
     "title": "Justin Sun-Led Liberland Micronation Awards Ethereum Founder Vitalik Buterin Its Top Honor",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-17T20:50:44.831190+00:00"
+    "fetched_at": "2026-05-17T21:43:34.873335+00:00"
   },
   {
     "title": "Alleged Forsage co-founder extradited from Thailand, pleads not guilty in $340 million Ponzi case",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-17T20:50:44.963915+00:00"
+    "fetched_at": "2026-05-17T21:43:34.967729+00:00"
   },
   {
     "title": "Japan\u2019s SBI, Rakuten developing crypto investment trusts in-house: Nikkei",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-17T20:50:44.963978+00:00"
+    "fetched_at": "2026-05-17T21:43:34.967810+00:00"
   },
   {
     "title": "Iran energy crisis enters new phase as peak summer season approaches",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-17T20:50:46.518228+00:00"
+    "fetched_at": "2026-05-17T21:43:36.012970+00:00"
   },
   {
     "title": "The looming energy crunch",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-17T20:50:46.518271+00:00"
+    "fetched_at": "2026-05-17T21:43:36.013020+00:00"
   }
 ]
