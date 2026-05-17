@@ -1,30 +1,30 @@
 [
   {
+    "title": "Here\u2019s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-05-17T23:45:46.468853+00:00"
+  },
+  {
     "title": "Bernstein says Figure's Q1 results shows uniqueness of blockchain marketplaces",
     "url": "https://cointelegraph.com/news/bernstein-say-figures-q1-shows-uniqueness-of-blockchain-marketplaces",
     "summary": "Figure Technology Solutions latest quarterly results showed Bernstein analysts just how different it is from most balance sheet-based fintech lending platforms.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-17T22:42:20.541168+00:00"
+    "fetched_at": "2026-05-17T23:45:46.468930+00:00"
   },
   {
-    "title": "Saylor signals BTC buy as retail holders get push on STRC dividend vote",
-    "url": "https://cointelegraph.com/news/saylor-signals-btc-buy-as-retail-holders-get-push-on-strc-dividend-vote",
-    "summary": "Michael Saylor signaled another Bitcoin buy on Sunday while urging retail investors to vote on a proxy measure enabling semi-monthly STRC dividend payouts.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-05-17T22:42:20.541245+00:00"
-  },
-  {
-    "title": "Oil Climbs as Iran War Shows No Sign of Ending: Markets Wrap",
+    "title": "Oil Gains, Treasury Futures Slip on Iran Deadlock: Markets Wrap",
     "url": "https://www.bloomberg.com/news/articles/2026-05-17/oil-climbs-as-iran-war-shows-no-sign-of-ending-markets-wrap",
-    "summary": "Oil extended gains from last week as the US and Iran remained deadlocked over a deal to end weeks of conflict and restore shipping through the crucial Strait of Hormuz.",
+    "summary": "Oil extended gains and Treasury futures slipped as the US and Iran remained deadlocked in efforts to end nearly three months of conflict and restore shipping through the Strait of Hormuz.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-17T22:42:21.497702+00:00"
+    "fetched_at": "2026-05-17T23:45:47.176507+00:00"
   },
   {
     "title": "Oil Extends Gains as Trump Says Clock Is Ticking for Iran Deal",
@@ -33,7 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-17T22:42:21.497759+00:00"
+    "fetched_at": "2026-05-17T23:45:47.176566+00:00"
   },
   {
     "title": "Bitcoin Open Heads to Iconic Glen Abbey Golf Club for June 8, 2026 Event",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-17T22:42:20.941566+00:00"
+    "fetched_at": "2026-05-17T23:45:46.676198+00:00"
   },
   {
     "title": "Abu Dhabi\u2019s Mubadala Raises Bitcoin ETF Stake 16% to $566 Million in Q1 2026",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-17T22:42:20.941659+00:00"
+    "fetched_at": "2026-05-17T23:45:46.676277+00:00"
   },
   {
     "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-17T22:42:21.071953+00:00"
+    "fetched_at": "2026-05-17T23:45:46.767380+00:00"
   },
   {
     "title": "Justin Sun-Led Liberland Micronation Awards Ethereum Founder Vitalik Buterin Its Top Honor",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-17T22:42:21.072011+00:00"
+    "fetched_at": "2026-05-17T23:45:46.767441+00:00"
   },
   {
     "title": "Alleged Forsage co-founder extradited from Thailand, pleads not guilty in $340 million Ponzi case",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-17T22:42:21.185393+00:00"
+    "fetched_at": "2026-05-17T23:45:46.843706+00:00"
   },
   {
     "title": "Japan\u2019s SBI, Rakuten developing crypto investment trusts in-house: Nikkei",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-17T22:42:21.185461+00:00"
+    "fetched_at": "2026-05-17T23:45:46.843775+00:00"
   },
   {
     "title": "Iran energy crisis enters new phase as peak summer season approaches",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-17T22:42:22.276686+00:00"
+    "fetched_at": "2026-05-17T23:45:47.757247+00:00"
   },
   {
     "title": "The looming energy crunch",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-17T22:42:22.276736+00:00"
+    "fetched_at": "2026-05-17T23:45:47.757297+00:00"
   }
 ]
