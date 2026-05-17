@@ -253,6 +253,10 @@ footer { border-top: 1px solid var(--border); padding: 2rem 5%; text-align: cent
 .f-legal a { color: var(--accent); text-decoration: none; }
 body.light-mode { --bg: #f0fdf4; --surface: #ffffff; --card: #ffffff; --text: #0f172a; --muted: #475569; --border: rgba(0,150,80,0.2); --accent: #16a34a; }
 body.light-mode header { background: rgba(240,253,244,0.98); }
+body.light-mode .f-logo { color: #0f172a; }
+body.light-mode .f-logo span { color: #16a34a; }
+body.light-mode .legal { color: #475569; }
+body.light-mode .legal a { color: #16a34a; }
 body.light-mode .logo-text { color: #0f172a; }
 body.light-mode .ticker-wrap { background: #dcfce7; }
 </style>
@@ -355,15 +359,8 @@ def _build_index(latest, archive, flock_name, date_str, ads_config=None):
         <div class="legal">
             🤖 Engine: MarketFlock Agent • Domain: <a href="https://market.cutbar.in" style="color: var(--accent-secondary); text-decoration: none; font-weight: 700;">market.cutbar.in</a> • &copy; 2026
         </div>
-        <div style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border-glow);">
-            <p style="font-size: 0.7rem; letter-spacing: 2px; text-transform: uppercase; color: var(--text-dim); margin-bottom: 1rem;">MarketFlock Network</p>
-            <a href="https://market.cutbar.in" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center; gap: 10px; background: rgba(255,255,255,0.05); padding: 10px 20px; border-radius: 12px; border: 1px solid rgba(255,51,68,0.2); transition: var(--transition);">
-                <div style="width: 30px; height: 30px; background: #00b894; border-radius: 6px; display: flex; align-items: center; justify-content: center; color: white; font-weight: 900; font-size: 0.8rem;">MF</div>
-                <div style="text-align: left;">
-                    <div style="color: white; font-weight: 800; font-size: 0.9rem;">Market<span>Flock</span></div>
-                    <div style="color: #666; font-size: 0.6rem;">Market & Crypto Intelligence Hub</div>
-                </div>
-            </a>
+        <div style="margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid var(--border); font-size: 0.7rem; color: var(--muted); letter-spacing: 2px; text-transform: uppercase;">
+            MARKETFLOCK NETWORK
         </div>
     </footer>
     {COMMON_JS}
