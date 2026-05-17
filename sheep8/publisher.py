@@ -254,6 +254,24 @@ footer { border-top: 1px solid var(--border); padding: 2rem 5%; text-align: cent
 body.light-mode { --bg: #f1f5f9; --surface: #fff; --card: #fff; --text: #0f172a; --muted: #64748b; --border: rgba(0,150,80,0.15); }
 </style>
 """
+
+COMMON_JS = """
+<script>
+function toggleMode() {
+    document.body.classList.toggle('light-mode');
+    const isLight = document.body.classList.contains('light-mode');
+    localStorage.setItem('mf-theme', isLight ? 'light' : 'dark');
+    document.getElementById('mode-btn').innerText = isLight ? '☀️' : '🌙';
+}
+window.onload = function() {
+    if (localStorage.getItem('mf-theme') === 'light') {
+        document.body.classList.add('light-mode');
+        document.getElementById('mode-btn').innerText = '☀️';
+    }
+}
+</script>
+"""
+
 def _build_index(latest, archive, flock_name, date_str, ads_config=None):
     articles_html = ""
     for a in latest:
