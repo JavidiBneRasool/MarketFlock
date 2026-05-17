@@ -1,5 +1,65 @@
 [
   {
+    "headline": "Moscow Refinery Hit, 3 Dead, Oil Prices Spike",
+    "url": "https://market.cutbar.in/20260517-143546-5",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-05-17/record-drone-attack-on-moscow-kills-three-targets-refinery",
+    "success": true
+  },
+  {
+    "headline": "MicroStrategy Mulls $1B Bitcoin Sale Amid Loss Fears",
+    "url": "https://market.cutbar.in/20260517-143546-3",
+    "source_url": "https://cointelegraph.com/news/strategy-mstr-michael-saylor-bitcoin-sell-statement-btc",
+    "success": true
+  },
+  {
+    "headline": "Russia's $1B Stablecoin Defies Sanctions Threat",
+    "url": "https://market.cutbar.in/20260517-143546-1",
+    "source_url": "https://www.coindesk.com/policy/2026/05/24/a-russian-stablecoin-built-to-dodge-sanctions-says-it-can-survive-even-if-they-re-lifted",
+    "success": true
+  },
+  {
+    "headline": "\ud83d\udea8 WARNING: Malaysia, Norway Tensions Deepen Over Scrapped Missile Deal \u2014 Risk Report",
+    "url": "https://market.cutbar.in/20260517-092336-5",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-05-17/malaysia-norway-tensions-deepen-over-scrapped-missile-deal",
+    "success": true
+  },
+  {
+    "headline": "\ud83d\udea8 WARNING: Securing AI agents: How AWS and Cisco AI Defense scale MCP and A2A dep \u2014 Risk Report",
+    "url": "https://market.cutbar.in/20260516-224242-5",
+    "source_url": "https://aws.amazon.com/blogs/machine-learning/securing-ai-agents-how-aws-and-cisco-ai-defense-scale-mcp-and-a2a-deployments",
+    "success": true
+  },
+  {
+    "headline": "\ud83d\udd2e SIGNAL: Malaysia Unveils Measures to Help Airlines Hit by Iran War \u2014 Analysis",
+    "url": "https://market.cutbar.in/20260517-090538-6",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-05-17/malaysia-unveils-measures-to-help-airlines-hit-by-iran-war",
+    "success": true
+  },
+  {
+    "headline": "\ud83d\udea8 WARNING: Philippines Asks Court to Deny Petition of Senator Sought by ICC \u2014 Risk Report",
+    "url": "https://market.cutbar.in/20260517-090538-5",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-05-17/philippines-asks-court-to-deny-petition-of-senator-sought-by-icc",
+    "success": true
+  },
+  {
+    "headline": "\ud83d\udcc8 OPPORTUNITY: Restrict access to sensitive documents in your Amazon Quick knowledge  \u2014 Strategy",
+    "url": "https://market.cutbar.in/20260516-224242-4",
+    "source_url": "https://aws.amazon.com/blogs/machine-learning/restrict-access-to-sensitive-documents-in-your-amazon-quick-knowledge-bases-for-amazon-s3",
+    "success": true
+  },
+  {
+    "headline": "\ud83d\udd2e SIGNAL: Returning from China, Trump is Ambiguous Over Taiwan \u2014 Analysis",
+    "url": "https://market.cutbar.in/20260516-233033-6",
+    "source_url": "https://www.bloomberg.com/news/videos/2026-05-16/returning-from-china-trump-is-ambiguous-over-taiwan-video",
+    "success": true
+  },
+  {
+    "headline": "\ud83d\udd2e SIGNAL: Why birth rates are falling everywhere all at once \u2014 Analysis",
+    "url": "https://market.cutbar.in/20260517-085602-12",
+    "source_url": "https://www.ft.com/content/fba35eca-df3a-4ad6-b42d-eb08eb7c9ad3",
+    "success": true
+  },
+  {
     "headline": "\ud83d\udea8 WARNING: Nato to press Europe\u2019s arms makers to boost investment and production \u2014 Risk Report",
     "url": "https://market.cutbar.in/20260517-085312-11",
     "source_url": "https://www.ft.com/content/d6ec23af-9b0e-49cd-b53d-a8a1786d5f5e",
