@@ -1,24 +1,24 @@
 [
   {
+    "title": "Saylor signals BTC buy as retail holders get push on STRC dividend vote",
+    "url": "https://cointelegraph.com/news/saylor-signals-btc-buy-as-retail-holders-get-push-on-strc-dividend-vote",
+    "summary": "Michael Saylor signaled another Bitcoin buy on Sunday while urging retail investors to vote on a proxy measure enabling semi-monthly STRC dividend payouts.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-05-17T18:51:09.287549+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "Here\u2019s what happened in crypto today",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-17T17:46:03.765123+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "SBI, Rakuten, Nomura line up to launch crypto investment trusts: Report",
-    "url": "https://cointelegraph.com/news/sbi-rakuten-nomura-line-up-to-launch-crypto-investment-trusts-report",
-    "summary": "Japan\u2019s biggest brokerages are racing to bring crypto investment trusts to retail investors, as regulators move to formally allow crypto-holding funds by 2028.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-05-17T17:46:03.765181+00:00",
+    "fetched_at": "2026-05-17T18:51:09.287621+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,7 +30,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-17T17:46:04.616847+00:00",
+    "fetched_at": "2026-05-17T18:51:10.199613+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -42,7 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-17T17:46:04.616898+00:00",
+    "fetched_at": "2026-05-17T18:51:10.199674+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-17T17:46:03.962532+00:00",
+    "fetched_at": "2026-05-17T18:51:09.613533+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-17T17:46:03.962587+00:00",
+    "fetched_at": "2026-05-17T18:51:09.613606+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-17T17:46:04.056560+00:00",
+    "fetched_at": "2026-05-17T18:51:09.704896+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,19 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-17T17:46:04.056610+00:00",
+    "fetched_at": "2026-05-17T18:51:09.704959+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Japan\u2019s SBI, Rakuten developing crypto investment trusts in-house: Nikkei",
+    "url": "https://www.theblock.co/post/401561/japans-sbi-rakuten-developing-crypto-investment-trusts-in-house-nikkei",
+    "summary": "The push comes after Japan's cabinet approved a bill last month that would reclassify crypto under the Financial Instruments and Exchange Act.\u00a0",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-05-17T18:51:09.780677+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,19 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-17T17:46:04.145911+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "VanEck, Grayscale file fresh BNB ETF amendments as race for next altcoin spot ETF accelerates",
-    "url": "https://www.theblock.co/post/401553/vaneck-grayscale-file-fresh-bnb-etf-amendments-as-race-for-next-altcoin-spot-etf-accelerates",
-    "summary": "Canary Capital, meanwhile, continues to push forward on its first-of-its-kind staked TRX ETF, also filing an amendment on Friday. ",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-05-17T17:46:04.145965+00:00",
+    "fetched_at": "2026-05-17T18:51:09.780749+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-17T17:46:05.350937+00:00",
+    "fetched_at": "2026-05-17T18:51:10.767420+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-17T17:46:05.350978+00:00",
+    "fetched_at": "2026-05-17T18:51:10.767469+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
