@@ -3,229 +3,187 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MarketFlock | Market & Crypto Intelligence</title>
-    
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;900&display=swap" rel="stylesheet">
-<style>
-:root {
-  --bg: #0a0e17;
-  --surface: #111827;
-  --card: #1a2235;
-  --border: rgba(0,200,100,0.12);
-  --accent: #00c864;
-  --red: #ef4444;
-  --gold: #f59e0b;
-  --text: #e2e8f0;
-  --muted: #64748b;
-  --font: 'Inter', sans-serif;
-}
-* { margin: 0; padding: 0; box-sizing: border-box; }
-body { background: var(--bg); color: var(--text); font-family: var(--font); }
-header { display: flex; justify-content: space-between; align-items: center; padding: 0.75rem 5%; border-bottom: 1px solid var(--border); background: rgba(10,14,23,0.98); position: sticky; top: 0; z-index: 100; }
-.logo-wrap { display: flex; align-items: center; gap: 10px; text-decoration: none; }
-.logo-icon { width: 34px; height: 34px; background: var(--accent); border-radius: 8px; display: flex; align-items: center; justify-content: center; }
-.logo-icon svg { width: 18px; height: 18px; }
-.logo-text { font-size: 1.1rem; font-weight: 800; color: var(--text); }
-.logo-text span { color: var(--accent); }
-.ticker-wrap { background: #0d1420; border-bottom: 1px solid var(--border); padding: 0.35rem 0; overflow: hidden; white-space: nowrap; }
-.ticker-inner { display: inline-block; animation: scroll 40s linear infinite; }
-@keyframes scroll { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
-.t-item { display: inline-block; margin: 0 1.5rem; font-size: 0.72rem; font-weight: 600; }
-.t-up { color: var(--accent); }
-.t-dn { color: var(--red); }
-.t-na { color: var(--muted); }
-.container { max-width: 1100px; margin: 0 auto; padding: 2rem 5%; }
-.hero { text-align: center; padding: 2.5rem 0 2rem; border-bottom: 1px solid var(--border); margin-bottom: 2rem; }
-.live-badge { display: inline-flex; align-items: center; gap: 6px; background: rgba(0,200,100,0.08); border: 1px solid rgba(0,200,100,0.25); color: var(--accent); padding: 0.25rem 0.8rem; border-radius: 20px; font-size: 0.7rem; font-weight: 700; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 1rem; }
-.live-dot { width: 6px; height: 6px; background: var(--accent); border-radius: 50%; animation: pulse 1.5s infinite; }
-@keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.3; } }
-.hero h1 { font-size: clamp(1.8rem, 5vw, 3rem); font-weight: 900; line-height: 1.1; }
-.hero h1 span { color: var(--accent); }
-.stats-row { display: flex; gap: 0.75rem; justify-content: center; flex-wrap: wrap; margin-top: 1.25rem; }
-.s-pill { background: var(--surface); border: 1px solid var(--border); border-radius: 6px; padding: 0.4rem 0.9rem; font-size: 0.75rem; display: flex; gap: 6px; align-items: center; }
-.s-pill .val { color: var(--accent); font-weight: 700; }
-.s-pill .dn { color: var(--red); font-weight: 700; }
-.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 1rem; }
-.card { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 1.25rem; cursor: pointer; transition: border-color 0.2s, transform 0.2s; }
-.card:hover { border-color: var(--accent); transform: translateY(-2px); }
-.cat-tag { display: inline-block; padding: 0.2rem 0.5rem; border-radius: 4px; font-size: 0.65rem; font-weight: 700; letter-spacing: 1px; text-transform: uppercase; margin-bottom: 0.6rem; background: rgba(0,200,100,0.08); color: var(--accent); border: 1px solid rgba(0,200,100,0.2); }
-.card h3 { font-size: 0.95rem; font-weight: 700; line-height: 1.4; margin-bottom: 0.5rem; }
-.card p { font-size: 0.8rem; color: var(--muted); line-height: 1.6; margin-bottom: 0.75rem; }
-.card-meta { display: flex; justify-content: space-between; font-size: 0.7rem; color: var(--muted); border-top: 1px solid var(--border); padding-top: 0.6rem; }
-.mode-toggle { background: var(--surface); border: 1px solid var(--border); color: var(--text); padding: 0.35rem 0.7rem; border-radius: 6px; cursor: pointer; font-size: 0.8rem; }
-footer { border-top: 1px solid var(--border); padding: 2rem 5%; text-align: center; margin-top: 3rem; }
-.f-brand { font-size: 1.1rem; font-weight: 800; margin-bottom: 0.4rem; }
-.f-brand span { color: var(--accent); }
-.f-legal { font-size: 0.7rem; color: var(--muted); margin-top: 0.5rem; }
-.f-legal a { color: var(--accent); text-decoration: none; }
-body.light-mode { --bg: #f0fdf4; --surface: #ffffff; --card: #ffffff; --text: #0f172a; --muted: #475569; --border: rgba(0,150,80,0.2); --accent: #16a34a; }
-body.light-mode header { background: rgba(240,253,244,0.98); }
-body.light-mode .f-logo { color: #0f172a; }
-body.light-mode .f-logo span { color: #16a34a; }
-body.light-mode .legal { color: #475569; }
-body.light-mode .legal a { color: #16a34a; }
-body.light-mode .logo-text { color: #0f172a; }
-body.light-mode .ticker-wrap { background: #dcfce7; }
-</style>
-
+    <title>MarketFlock | AI Intelligence Hub</title>
+    <link rel="stylesheet" href="style.css">
 </head>
-<body>
-    <header>
-        <a href="/" class="logo-wrap">
-            <div class="logo-icon">
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><polyline points="22 7 13.5 15.5 8.5 10.5 2 17"></polyline><polyline points="16 7 22 7 22 13"></polyline></svg>
+<body class="dark-theme">
+    
+    <header class="ai-header">
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;700&display=swap');
+            .ai-header {
+                position: sticky; top: 0; z-index: 9999; width: 100%;
+                background: rgba(5, 5, 5, 0.75); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);
+                border-bottom: 1px solid rgba(0, 255, 255, 0.15);
+                font-family: 'Space Grotesk', sans-serif;
+            }
+            .ai-header-content {
+                max-width: 1200px; margin: 0 auto; padding: 0.75rem 1.5rem;
+                display: flex; justify-content: space-between; align-items: center;
+            }
+            .ai-logo { text-decoration: none; display: flex; flex-direction: column; }
+            .ai-logo-text { font-size: 1.25rem; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: -0.5px; }
+            .ai-logo-text span { color: #0ff; text-shadow: 0 0 12px rgba(0, 255, 255, 0.4); }
+            .ai-tagline { font-size: 0.65rem; color: rgba(255, 255, 255, 0.4); text-transform: uppercase; letter-spacing: 1.5px; margin-top: 2px; }
+            .ai-status-pill {
+                padding: 0.35rem 0.75rem; background: rgba(0, 255, 255, 0.05); border: 1px solid rgba(0, 255, 255, 0.1);
+                border-radius: 100px; font-size: 0.7rem; color: #fff; font-weight: 500;
+                display: flex; align-items: center; gap: 0.5rem;
+            }
+            @media (max-width: 640px) { .ai-tagline { display: none; } }
+        </style>
+        <div class="ai-header-content">
+            <a href="/" class="ai-logo">
+                <div class="ai-logo-text">Market <span>Flock</span></div>
+                <div class="ai-tagline">Autonomous Journalism for the Agentic Era</div>
+            </a>
+            <div class="ai-status-pill">
+                <span style="color: #0ff;">🟢</span> Engine: ⚡ MarketFlock Agent
             </div>
-            <div class="logo-text">Market<span>Flock</span></div>
-        </a>
-        <button class="mode-toggle" id="mode-btn" onclick="toggleMode()">🌙</button>
+        </div>
     </header>
 
-    <div class="ticker-wrap">
-        <div class="ticker-inner">
-            <span class="t-item">BTC <span class="t-up">▲</span> Live</span>
-            <span class="t-item">ETH <span class="t-up">▲</span> Live</span>
-            <span class="t-item">BNB <span class="t-up">▲</span> Live</span>
-            <span class="t-item">Gold <span class="t-na">◆</span> Spot</span>
-            <span class="t-item">NSE <span class="t-up">▲</span> Live</span>
-            <span class="t-item">BSE <span class="t-up">▲</span> Live</span>
-            <span class="t-item">USD/INR <span class="t-na">◆</span> Forex</span>
-            <span class="t-item">Crude Oil <span class="t-dn">▼</span> Live</span>
-            <span class="t-item">S&P 500 <span class="t-up">▲</span> Live</span>
-            <span class="t-item">BTC <span class="t-up">▲</span> Live</span>
-            <span class="t-item">ETH <span class="t-up">▲</span> Live</span>
-            <span class="t-item">BNB <span class="t-up">▲</span> Live</span>
-            <span class="t-item">Gold <span class="t-na">◆</span> Spot</span>
-            <span class="t-item">NSE <span class="t-up">▲</span> Live</span>
-            <span class="t-item">BSE <span class="t-up">▲</span> Live</span>
-            <span class="t-item">USD/INR <span class="t-na">◆</span> Forex</span>
-            <span class="t-item">Crude Oil <span class="t-dn">▼</span> Live</span>
-            <span class="t-item">S&P 500 <span class="t-up">▲</span> Live</span>
-        </div>
-    </div>
-
     <div class="container">
-        <div class="hero">
-            <div class="live-badge"><span class="live-dot"></span> MARKETS LIVE</div>
-            <h1>Market <span>Intelligence</span><br>Powered by AI</h1>
-            <div class="stats-row">
-                <div class="s-pill">Crypto <span class="val">Live</span></div>
-                <div class="s-pill">Stocks <span class="val">BSE/NSE</span></div>
-                <div class="s-pill">Forex <span class="val">24/7</span></div>
-                <div class="s-pill">Commodity <span class="val">Gold/Oil</span></div>
-            </div>
-        </div>
-
-        <div class="grid">
+        <div class="pro-grid">
             
-            <div class="card" onclick="window.location.href='20260517-213402-1.html'">
-                <div class="cat-tag">Crypto</div>
-                <h3>$1B DeFi Push: Bitcoin Goes Programmable</h3>
-                <p>The Bitcoin network has witnessed a surge in decentralized finance (DeFi) activity, with the total value locked (TVL) in Bitcoin DeFi protocols reachi...</p>
-                <div class="card-meta">
+            <div class="pro-card" onclick="window.location.href='verifiedx-bets-bitcoin-s-next-chapter-is-programmable-private.html'">
+                <div class="tag">Crypto</div>
+                <h3>DeFi's new front: VerifiedX bets bitcoin's next chapter is programmable, private</h3>
+                <p>DeFi's new front: VerifiedX bets bitcoin's next chapter is programmable, private
+
+MarketFlock Lead Analyst | May 17, 2026...</p>
+                <div class="card-foot">
                     <span>CoinDesk</span>
-                    <span>May 17, 2026</span>
                 </div>
             </div>
-            <div class="card" onclick="window.location.href='20260517-213402-2.html'">
-                <div class="cat-tag">Crypto</div>
-                <h3>Japan Brokers Launch $1B Crypto Trusts</h3>
-                <p>Japan's cryptocurrency market has seen a significant surge, with brokers launching $1 billion in cryptocurrency trusts, a 300% increase from the previ...</p>
-                <div class="card-meta">
+            <div class="pro-card" onclick="window.location.href='japan-s-sbi-securities-rakuten-securities-plan-to-offer-crypto-investment-trust.html'">
+                <div class="tag">Crypto</div>
+                <h3>Japan's SBI Securities, Rakuten Securities plan to offer crypto investment trust</h3>
+                <p>Japan's SBI Securities, Rakuten Securities plan to offer crypto investment trust
+
+MarketFlock Lead Analyst | May 17, 2026...</p>
+                <div class="card-foot">
                     <span>CoinDesk</span>
-                    <span>May 17, 2026</span>
                 </div>
             </div>
-            <div class="card" onclick="window.location.href='20260517-213402-3.html'">
-                <div class="cat-tag">Crypto</div>
-                <h3>Crypto Plunges 8% Amid Market Turmoil</h3>
-                <p>The crypto market experienced a significant downturn, with the overall market capitalization plummeting 8% to $1.23 trillion, as Bitcoin's price dropp...</p>
-                <div class="card-meta">
+            <div class="pro-card" onclick="window.location.href='heres-what-happened-in-crypto-today.html'">
+                <div class="tag">Crypto</div>
+                <h3>Here’s what happened in crypto today</h3>
+                <p>Here’s what happened in crypto today
+
+MarketFlock Lead Analyst | May 17, 2026...</p>
+                <div class="card-foot">
                     <span>CoinTelegraph</span>
-                    <span>May 17, 2026</span>
                 </div>
             </div>
-            <div class="card" onclick="window.location.href='20260517-213402-4.html'">
-                <div class="cat-tag">Crypto</div>
-                <h3>3 Giants Eye Crypto Trusts Launch</h3>
-                <p>Japan's largest brokerages, including Nomura, Mitsubishi UFJ, and Sumitomo Mitsui, are poised to launch crypto investment trusts, with the country's c...</p>
-                <div class="card-meta">
+            <div class="pro-card" onclick="window.location.href='report.html'">
+                <div class="tag">Crypto</div>
+                <h3>SBI, Rakuten, Nomura line up to launch crypto investment trusts: Report</h3>
+                <p>SBI, Rakuten, Nomura line up to launch crypto investment trusts: Report
+
+MarketFlock Lead Analyst | May 17, 2026...</p>
+                <div class="card-foot">
                     <span>CoinTelegraph</span>
-                    <span>May 17, 2026</span>
                 </div>
             </div>
-            <div class="card" onclick="window.location.href='20260517-213402-5.html'">
-                <div class="cat-tag">Markets</div>
-                <h3>Markets Plummet 300 Points Amid Global Turmoil</h3>
-                <p>The Dow Jones Industrial Average plummeted 300 points, or 0.9%, to 33,500, as global markets reacted to escalating geopolitical tensions and economic ...</p>
-                <div class="card-meta">
+            <div class="pro-card" onclick="window.location.href='bloomberg-this-weekend-5-17-2026.html'">
+                <div class="tag">Markets</div>
+                <h3>Bloomberg This Weekend 5/17/2026</h3>
+                <p>Bloomberg This Weekend 5/17/2026
+
+MarketFlock Lead Analyst | May 17, 2026...</p>
+                <div class="card-foot">
                     <span>Bloomberg Markets</span>
-                    <span>May 17, 2026</span>
                 </div>
             </div>
-            <div class="card" onclick="window.location.href='20260517-213402-6.html'">
-                <div class="cat-tag">Markets</div>
-                <h3>$1Bn Market Shift Expected After Redistricting Ruling</h3>
-                <p>The recent Supreme Court ruling on Louisiana's congressional districting is poised to trigger a $1 billion market shift, with potential repercussions ...</p>
-                <div class="card-meta">
+            <div class="pro-card" onclick="window.location.href='gundlach-says-its-just-not-possible-for-the-fed-to-cut-rates.html'">
+                <div class="tag">Markets</div>
+                <h3>Gundlach Says It’s ‘Just Not Possible’ for the Fed to Cut Rates</h3>
+                <p>Gundlach Says It’s ‘Just Not Possible’ for the Fed to Cut Rates
+
+MarketFlock Lead Analyst | May 17, 2026...</p>
+                <div class="card-foot">
                     <span>Bloomberg Markets</span>
-                    <span>May 17, 2026</span>
                 </div>
             </div>
-            <div class="card" onclick="window.location.href='20260517-213402-7.html'">
-                <div class="cat-tag">Crypto</div>
-                <h3>Bitcoin Sponsors June 8 Golf Event at Glen Abbey</h3>
-                <p>The Bitcoin Open is set to tee off at Glen Abbey Golf Club on June 8, 2026, marking a significant event in the crypto calendar, with Bitcoin's market ...</p>
-                <div class="card-meta">
+            <div class="pro-card" onclick="window.location.href='bitcoin-open-heads-to-iconic-glen-abbey-golf-club-for-june-8-2026-event.html'">
+                <div class="tag">Crypto</div>
+                <h3>Bitcoin Open Heads to Iconic Glen Abbey Golf Club for June 8, 2026 Event</h3>
+                <p>Bitcoin Open Heads to Iconic Glen Abbey Golf Club for June 8, 2026 Event
+
+MarketFlock Lead Analyst | May 17, 2026...</p>
+                <div class="card-foot">
                     <span>Bitcoin Magazine</span>
-                    <span>May 17, 2026</span>
                 </div>
             </div>
-            <div class="card" onclick="window.location.href='20260517-213402-8.html'">
-                <div class="cat-tag">Crypto</div>
-                <h3>Mubadala Boosts Bitcoin ETF Stake 16% to $566M</h3>
-                <p>As of Q1 2026, Mubadala Investment Company's stake in the iShares Bitcoin Trust has surged to $566 million, marking a 16% increase from the previous q...</p>
-                <div class="card-meta">
+            <div class="pro-card" onclick="window.location.href='abu-dhabis-mubadala-raises-bitcoin-etf-stake-16-to-566-million-in-q1-2026.html'">
+                <div class="tag">Crypto</div>
+                <h3>Abu Dhabi’s Mubadala Raises Bitcoin ETF Stake 16% to $566 Million in Q1 2026</h3>
+                <p>Abu Dhabi’s Mubadala Raises Bitcoin ETF Stake 16% to $566 Million in Q1 2026
+
+MarketFlock Lead Analyst | May 17, 2026...</p>
+                <div class="card-foot">
                     <span>Bitcoin Magazine</span>
-                    <span>May 17, 2026</span>
                 </div>
             </div>
-            <div class="card" onclick="window.location.href='20260517-213402-9.html'">
-                <div class="cat-tag">Crypto</div>
-                <h3>Ethereum Founder Wins Liberland's $1M Top Award</h3>
-                <p>Ethereum's market capitalization has surged by 12% in the past quarter, reaching $235 billion, as the blockchain ecosystem continues to expand. This g...</p>
-                <div class="card-meta">
+            <div class="pro-card" onclick="window.location.href='justin-sun-led-liberland-micronation-awards-ethereum-founder-vitalik-buterin-its.html'">
+                <div class="tag">Crypto</div>
+                <h3>Justin Sun-Led Liberland Micronation Awards Ethereum Founder Vitalik Buterin Its</h3>
+                <p>Justin Sun-Led Liberland Micronation Awards Ethereum Founder Vitalik Buterin Its
+
+MarketFlock Lead Analyst | May 17, 2026...</p>
+                <div class="card-foot">
                     <span>Decrypt</span>
-                    <span>May 17, 2026</span>
+                </div>
+            </div>
+            <div class="pro-card" onclick="window.location.href='what-is-ai-jailbreaking-a-beginner-s-guide-to-the-cat-and-mouse-game-behind-eve.html'">
+                <div class="tag">Crypto</div>
+                <h3>What Is AI Jailbreaking? A Beginner's Guide to the Cat-and-Mouse Game Behind Eve</h3>
+                <p>What Is AI Jailbreaking? A Beginner's Guide to the Cat-and-Mouse Game Behind Eve
+
+MarketFlock Lead Analyst | May 17, 2026...</p>
+                <div class="card-foot">
+                    <span>Decrypt</span>
+                </div>
+            </div>
+            <div class="pro-card" onclick="window.location.href='iran-energy-crisis-enters-new-phase-as-peak-summer-season-looms.html'">
+                <div class="tag">Markets</div>
+                <h3>Iran energy crisis enters new phase as peak summer season looms</h3>
+                <p>Iran energy crisis enters new phase as peak summer season looms
+
+MarketFlock Lead Analyst | May 17, 2026...</p>
+                <div class="card-foot">
+                    <span>Financial Times</span>
+                </div>
+            </div>
+            <div class="pro-card" onclick="window.location.href='the-looming-energy-crunch.html'">
+                <div class="tag">Markets</div>
+                <h3>The looming energy crunch</h3>
+                <p>The looming energy crunch
+
+MarketFlock Lead Analyst | May 17, 2026...</p>
+                <div class="card-foot">
+                    <span>Financial Times</span>
                 </div>
             </div>
         </div>
     </div>
-
-    <footer>
-        <div class="logo-text f-logo">Market<span>Flock</span></div>
-        <p style="color: var(--text-dim)">AI-Powered Market & Crypto Intelligence</p>
-        <div class="legal">
-            🤖 Engine: MarketFlock Agent • Domain: <a href="https://market.cutbar.in" style="color: var(--accent-secondary); text-decoration: none; font-weight: 700;">market.cutbar.in</a> • &copy; 2026
-        </div>
-        <div style="margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid var(--border); font-size: 0.7rem; color: var(--muted); letter-spacing: 2px; text-transform: uppercase;">
-            MARKETFLOCK NETWORK
-        </div>
-    </footer>
     
-<script>
-function toggleMode() {
-    document.body.classList.toggle('light-mode');
-    const isLight = document.body.classList.contains('light-mode');
-    localStorage.setItem('mf-theme', isLight ? 'light' : 'dark');
-    document.getElementById('mode-btn').innerText = isLight ? '☀️' : '🌙';
-}
-window.onload = function() {
-    if (localStorage.getItem('mf-theme') === 'light') {
-        document.body.classList.add('light-mode');
-        document.getElementById('mode-btn').innerText = '☀️';
-    }
-}
-</script>
+    <footer class="ai-footer">
+        <style>
+            .ai-footer {
+                padding: 4rem 1.5rem; background: #050505; border-top: 1px solid rgba(255, 255, 255, 0.05);
+                font-family: 'Space Grotesk', sans-serif; text-align: center;
+            }
+            .ai-footer-logo { font-size: 1.1rem; font-weight: 700; color: #fff; text-transform: uppercase; margin-bottom: 0.5rem; }
+            .ai-footer-logo span { color: #0ff; }
+            .ai-footer-text { font-size: 0.8rem; color: rgba(255, 255, 255, 0.3); margin-bottom: 1.5rem; line-height: 1.6; }
+            .ai-footer-bottom { font-size: 0.65rem; color: rgba(255, 255, 255, 0.15); text-transform: uppercase; letter-spacing: 2px; }
+        </style>
+        <div class="ai-footer-logo">Market <span>Flock</span></div>
+        <p class="ai-footer-text">© 2026 AI Flock Empire — MarketFlock Network | Autonomous Infrastructure</p>
+        <div class="ai-footer-bottom">System Status: Optimal • Protocol: X-7 Neural</div>
+    </footer>
 
 </body>
 </html>
