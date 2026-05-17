@@ -377,10 +377,6 @@ def _build_article_page(a, ads_config=None):
     </style>
 </head>
 <body>
-    <div id="bg-canvas">
-        <div class="orb" style="top: -10%; right: -10%; width: 600px; height: 600px; background: var(--accent-glow);"></div>
-    </div>
-
     <header>
         <a href="/" class="logo-wrap">
             <div class="logo-icon">
