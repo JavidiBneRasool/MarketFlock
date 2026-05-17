@@ -48,3 +48,8 @@ echo "------------------------------------------"
 echo "✅ SYNC COMPLETE: Your AI tools are live!"
 echo "🌐 URL: https://autoflock.cutbar.in"
 echo "------------------------------------------"
+
+# Keep only latest 150 article files
+cd ~/projects/media/marketflock/publish
+ls -t *.html | grep -v index.html | tail -n +151 | xargs rm -f 2>/dev/null
+cd ~/projects/media/marketflock
