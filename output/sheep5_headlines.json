@@ -2,8 +2,8 @@
   {
     "category": "Crypto",
     "headline": "Saylor signals BTC buy as retail holders get push on STRC dividend vote",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1779043876",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1779043876",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1779047965",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1779047965",
     "article": {
       "title": "Saylor signals BTC buy as retail holders get push on STRC dividend vote",
       "url": "https://cointelegraph.com/news/saylor-signals-btc-buy-as-retail-holders-get-push-on-strc-dividend-vote",
@@ -11,7 +11,7 @@
       "source": "CoinTelegraph",
       "category": "Crypto",
       "tier": 10,
-      "fetched_at": "2026-05-17T18:51:09.287549+00:00",
+      "fetched_at": "2026-05-17T19:59:17.661029+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -22,8 +22,8 @@
   {
     "category": "Crypto",
     "headline": "Here\u2019s what happened in crypto today",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1779043879",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1779043879",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1779047968",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1779047968",
     "article": {
       "title": "Here\u2019s what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
@@ -31,7 +31,27 @@
       "source": "CoinTelegraph",
       "category": "Crypto",
       "tier": 10,
-      "fetched_at": "2026-05-17T18:51:09.287621+00:00",
+      "fetched_at": "2026-05-17T19:59:17.661133+00:00",
+      "credibility": "REVIEW",
+      "score": 6,
+      "verdict": "WARNING",
+      "decision": "PASS",
+      "flags": []
+    }
+  },
+  {
+    "category": "Markets",
+    "headline": "Hundreds Swarm Swatch Stores for \"Royal Pop\" Release",
+    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1779047971",
+    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1779047971",
+    "article": {
+      "title": "Hundreds Swarm Swatch Stores for \"Royal Pop\" Release",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-17/hundreds-swarm-swatch-stores-for-royal-pop-release-video",
+      "summary": "After queuing for days to get their hands on the new Audemars Piguet-Swatch collaboration, fans on Saturday finally got their chance, but heaving crowds stopped some stores from opening their doors and prompted pleas for calm. Bloomberg's Chris Rovzar explains.  (Source: Bloomberg)",
+      "source": "Bloomberg Markets",
+      "category": "Markets",
+      "tier": 10,
+      "fetched_at": "2026-05-17T19:59:18.830886+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -42,8 +62,8 @@
   {
     "category": "Markets",
     "headline": "Bloomberg This Weekend 5/17/2026",
-    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1779043882",
-    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1779043882",
+    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1779047975",
+    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1779047975",
     "article": {
       "title": "Bloomberg This Weekend 5/17/2026",
       "url": "https://www.bloomberg.com/news/videos/2026-05-17/bloomberg-this-weekend-5-17-2026-video",
@@ -51,27 +71,7 @@
       "source": "Bloomberg Markets",
       "category": "Markets",
       "tier": 10,
-      "fetched_at": "2026-05-17T18:51:10.199613+00:00",
-      "credibility": "REVIEW",
-      "score": 6,
-      "verdict": "WARNING",
-      "decision": "PASS",
-      "flags": []
-    }
-  },
-  {
-    "category": "Markets",
-    "headline": "Gundlach Says It\u2019s \u2018Just Not Possible\u2019 for the Fed to Cut Rates",
-    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1779043885",
-    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1779043885",
-    "article": {
-      "title": "Gundlach Says It\u2019s \u2018Just Not Possible\u2019 for the Fed to Cut Rates",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-17/gundlach-says-it-s-just-not-possible-for-the-fed-to-cut-rates",
-      "summary": "Investors won\u2019t see a rate cut out of the next Federal Reserve policy meeting, according to DoubleLine Capital LP chief executive officer Jeffrey Gundlach.",
-      "source": "Bloomberg Markets",
-      "category": "Markets",
-      "tier": 10,
-      "fetched_at": "2026-05-17T18:51:10.199674+00:00",
+      "fetched_at": "2026-05-17T19:59:18.830939+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -82,8 +82,8 @@
   {
     "category": "Crypto",
     "headline": "Bitcoin Open Heads to Iconic Glen Abbey Golf Club for June 8, 2026 Event",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1779043888",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1779043888",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1779047978",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1779047978",
     "article": {
       "title": "Bitcoin Open Heads to Iconic Glen Abbey Golf Club for June 8, 2026 Event",
       "url": "https://bitcoinmagazine.com/culture/bitcoin-open-heads-to-iconic-glen-abbey-golf-club-for-june-8-2026-event",
@@ -91,7 +91,7 @@
       "source": "Bitcoin Magazine",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-05-17T18:51:09.613533+00:00",
+      "fetched_at": "2026-05-17T19:59:17.973921+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -102,8 +102,8 @@
   {
     "category": "Crypto",
     "headline": "Abu Dhabi\u2019s Mubadala Raises Bitcoin ETF Stake 16% to $566 Million in Q1 2026",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1779043891",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1779043891",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1779047981",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1779047981",
     "article": {
       "title": "Abu Dhabi\u2019s Mubadala Raises Bitcoin ETF Stake 16% to $566 Million in Q1 2026",
       "url": "https://bitcoinmagazine.com/news/abu-dhabis-mubadala-raises-bitcoin-stake",
@@ -111,7 +111,7 @@
       "source": "Bitcoin Magazine",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-05-17T18:51:09.613606+00:00",
+      "fetched_at": "2026-05-17T19:59:17.973992+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -122,8 +122,8 @@
   {
     "category": "Crypto",
     "headline": "Justin Sun-Led Liberland Micronation Awards Ethereum Founder Vitalik Buterin Its",
-    "image_url": "https://loremflickr.com/1200/630/crypto%2Ctrading?lock=1779043894",
-    "image_fallback": "https://image.pollinations.ai/prompt/crypto%2Ctrading%20professional%20photo?width=800&height=600&nologo=true&seed=1779043894",
+    "image_url": "https://loremflickr.com/1200/630/crypto%2Ctrading?lock=1779047984",
+    "image_fallback": "https://image.pollinations.ai/prompt/crypto%2Ctrading%20professional%20photo?width=800&height=600&nologo=true&seed=1779047984",
     "article": {
       "title": "Justin Sun-Led Liberland Micronation Awards Ethereum Founder Vitalik Buterin Its Top Honor",
       "url": "https://decrypt.co/368116/justin-sun-liberland-awards-ethereum-founder-vitalik-buterin-top-honor",
@@ -131,7 +131,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-05-17T18:51:09.704896+00:00",
+      "fetched_at": "2026-05-17T19:59:18.100369+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -142,8 +142,8 @@
   {
     "category": "Crypto",
     "headline": "What Is AI Jailbreaking? A Beginner's Guide to the Cat-and-Mouse Game Behind Eve",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Cgold%2Ccoin?lock=1779043897",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Cgold%2Ccoin%20professional%20photo?width=800&height=600&nologo=true&seed=1779043897",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Cgold%2Ccoin?lock=1779047987",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Cgold%2Ccoin%20professional%20photo?width=800&height=600&nologo=true&seed=1779047987",
     "article": {
       "title": "What Is AI Jailbreaking? A Beginner's Guide to the Cat-and-Mouse Game Behind Every Chatbot",
       "url": "https://decrypt.co/resources/what-is-ai-jailbreaking-explained",
@@ -151,7 +151,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-05-17T18:51:09.704959+00:00",
+      "fetched_at": "2026-05-17T19:59:18.100435+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -162,8 +162,8 @@
   {
     "category": "Crypto",
     "headline": "Japan\u2019s SBI, Rakuten developing crypto investment trusts in-house: Nikkei",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1779043900",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1779043900",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1779047990",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1779047990",
     "article": {
       "title": "Japan\u2019s SBI, Rakuten developing crypto investment trusts in-house: Nikkei",
       "url": "https://www.theblock.co/post/401561/japans-sbi-rakuten-developing-crypto-investment-trusts-in-house-nikkei",
@@ -171,7 +171,7 @@
       "source": "The Block",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-05-17T18:51:09.780677+00:00",
+      "fetched_at": "2026-05-17T19:59:18.249583+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -182,8 +182,8 @@
   {
     "category": "Crypto",
     "headline": "House Agriculture leaders press Trump to appoint CFTC commissioners as CLARITY A",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1779043903",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1779043903",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1779047993",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1779047993",
     "article": {
       "title": "House Agriculture leaders press Trump to appoint CFTC commissioners as CLARITY Act advances in Senate",
       "url": "https://www.theblock.co/post/401558/house-agriculture-leaders-press-trump-to-appoint-cftc-commissioners-as-clarity-act-advances-in-senate",
@@ -191,7 +191,7 @@
       "source": "The Block",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-05-17T18:51:09.780749+00:00",
+      "fetched_at": "2026-05-17T19:59:18.249655+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -202,8 +202,8 @@
   {
     "category": "Markets",
     "headline": "Iran energy crisis enters new phase as peak summer season approaches",
-    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1779043906",
-    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1779043906",
+    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1779047996",
+    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1779047996",
     "article": {
       "title": "Iran energy crisis enters new phase as peak summer season approaches",
       "url": "https://www.ft.com/content/f636f726-b185-4f6a-91d2-75ea3d1b9beb",
@@ -211,7 +211,7 @@
       "source": "Financial Times",
       "category": "Markets",
       "tier": 9,
-      "fetched_at": "2026-05-17T18:51:10.767420+00:00",
+      "fetched_at": "2026-05-17T19:59:19.702060+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -222,8 +222,8 @@
   {
     "category": "Markets",
     "headline": "The looming energy crunch",
-    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1779043909",
-    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1779043909",
+    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1779047999",
+    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1779047999",
     "article": {
       "title": "The looming energy crunch",
       "url": "https://www.ft.com/content/08665686-f673-46ca-9dba-fd34e1546e7c",
@@ -231,7 +231,7 @@
       "source": "Financial Times",
       "category": "Markets",
       "tier": 9,
-      "fetched_at": "2026-05-17T18:51:10.767469+00:00",
+      "fetched_at": "2026-05-17T19:59:19.702118+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
