@@ -1,5 +1,4 @@
 # MASTER ORCHESTRATOR - Full Pipeline
-from dotenv import load_dotenv; load_dotenv()
 import subprocess, sys, json, os
 
 HOME = os.path.expanduser("~")
@@ -20,16 +19,18 @@ SHEEP = [
     ("Sheep 7 (Auditor)", "sheep7/auditor.py"),
     ("Sheep 11 (Translator)", "sheep11/translator.py"),
     ("Sheep 13 (Monetizer)", "sheep13/monetizer.py"),
-        ("Cleanup (Delete old deployments)", "sheep8/cleanup_deployments.py"),
+    ("Cleanup (Delete old deployments)", "sheep8/cleanup_deployments.py"),
     ("Sheep 8 (Publisher)", "sheep8/publisher.py"),
     ("Sheep 9 (Reporter)", "sheep9/reporter.py"),
     ("Sheep 10 (Social)", "sheep10/social_poster.py"),
     ("Sheep 12 (Indexer)", "sheep12/indexer.py"),
+    ("Sheep 14 (SEO)", "sheep14_seo.py"),
+    ("Sheep 15 (GSC Indexer)", "sheep15_gsc.py"),
 ]
 
 print("""
 ╔════════════════════════════════╗
-║   🤖 AUTOFLOCK AI AGENT     ║
+║   🤖 MARKETFLOCK AI AGENT    ║
 ║   10 Sources • Social Hub   ║
 ╚════════════════════════════════╝
 """)
