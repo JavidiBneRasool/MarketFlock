@@ -3742,3 +3742,24 @@ ERRORS:
 sync.sh: line 9: cd: /data/data/com.termux/files/home/projects/media/autoflock: No such file or directory
 
 --- SYNC END ---
+
+--- SYNC START: 2026-05-17 15:48:20 ---
+------------------------------------------
+🤖 Starting Autoflock Sync: Sun May 17 15:48:20 UTC 2026
+------------------------------------------
+🔄 Step 0: Updating local branch from GitHub...
+Current branch main is up to date.
+🐑 Step 1: Running AI Pipeline & Social Posting...
+------------------------------------------
+❌ SYNC FAILED: AI pipeline failed
+------------------------------------------
+
+ERRORS:
+From https://github.com/JavidiBneRasool/MarketFlock
+ * branch            main       -> FETCH_HEAD
+Traceback (most recent call last):
+  File "/home/runner/work/MarketFlock/MarketFlock/run_flock.py", line 2, in <module>
+    from dotenv import load_dotenv; load_dotenv()
+ModuleNotFoundError: No module named 'dotenv'
+
+--- SYNC END ---
