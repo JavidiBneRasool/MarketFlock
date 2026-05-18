@@ -4,62 +4,44 @@
   --panel-bg: #111114;
   --accent-blue: #3b82f6;
   --accent-green: #10b981;
-  --accent-red: #ef4444;
   --text-main: #f8fafc;
   --text-muted: #94a3b8;
   --border: #2d2d34;
 }
-
+body.light-mode { 
+  --bg-primary: #ffffff; 
+  --bg-secondary: #f8fafc; 
+  --panel-bg: #ffffff; 
+  --text-main: #0f172a; 
+  --text-muted: #475569; 
+  --border: #e2e8f0; 
+}
 * { box-sizing: border-box; }
 body { 
   background-color: var(--bg-primary); 
   color: var(--text-main); 
   font-family: 'Inter', system-ui, sans-serif;
-  margin: 0; 
-  line-height: 1.6;
+  margin: 0; line-height: 1.6;
+  transition: background-color 0.3s, color 0.3s;
 }
 
-/* Header */
+/* Typography Helpers */
+h1, h2, h3, h4 { color: var(--text-main); }
+p { color: var(--text-muted); }
+.pro-card, .article-body { color: var(--text-main); }
+
+/* Header & Nav */
 .ai-header {
-  background: rgba(5, 5, 5, 0.8);
+  background: rgba(var(--bg-primary-rgb), 0.8);
   backdrop-filter: blur(20px);
   border-bottom: 1px solid var(--border);
   padding: 1rem 5%;
   position: sticky; top: 0; z-index: 1000;
   display: flex; justify-content: space-between; align-items: center;
 }
-.brand { font-size: 1.5rem; font-weight: 800; letter-spacing: -1px; }
-.brand span { color: var(--accent-blue); }
-
-/* Main Grid */
-.dashboard {
-  display: grid;
-  grid-template-columns: 280px 1fr 320px;
-  gap: 2rem;
-  max-width: 1400px;
-  margin: 2rem auto;
-  padding: 0 1rem;
+.theme-btn, .lang-btn {
+  background: var(--panel-bg); color: var(--text-main);
+  border: 1px solid var(--border); padding: 0.5rem; border-radius: 8px; cursor: pointer;
 }
-
-/* Article Cards */
-.pro-card {
-  background: var(--panel-bg);
-  border: 1px solid var(--border);
-  border-radius: 12px;
-  padding: 1.5rem;
-  transition: all 0.3s ease;
-  margin-bottom: 1rem;
-}
-.pro-card:hover { border-color: var(--accent-blue); transform: translateY(-3px); }
-.tag { font-size: 0.7rem; color: var(--accent-blue); text-transform: uppercase; letter-spacing: 1px; font-weight: 700; }
-h3 { font-size: 1.25rem; margin: 0.5rem 0; }
-.card-foot { font-size: 0.8rem; color: var(--text-muted); display: flex; justify-content: space-between; }
-
-/* Article Body */
-.article-wrap { max-width: 800px; margin: 4rem auto; padding: 0 1rem; }
-.article-body { font-size: 1.35rem; line-height: 1.9; }
-
-@media (max-width: 1024px) {
-  .dashboard { grid-template-columns: 1fr; }
-  .sidebar { display: none; }
-}
+.lang-toggle { display: flex; gap: 0.5rem; }
+.lang-btn.active { border-color: var(--accent-blue); }

@@ -13,35 +13,50 @@ HEADER_HTML = """
             @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;700&display=swap');
             .ai-header {
                 position: sticky; top: 0; z-index: 9999; width: 100%;
-                background: rgba(5, 5, 5, 0.75); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);
-                border-bottom: 1px solid rgba(0, 255, 255, 0.15);
+                background: rgba(5, 5, 5, 0.8); backdrop-filter: blur(20px);
+                border-bottom: 1px solid var(--border);
                 font-family: 'Space Grotesk', sans-serif;
+                padding: 1rem 5%; display: flex; justify-content: space-between; align-items: center;
             }
-            .ai-header-content {
-                max-width: 1200px; margin: 0 auto; padding: 0.75rem 1.5rem;
-                display: flex; justify-content: space-between; align-items: center;
+            .brand { font-size: 1.5rem; font-weight: 800; color: #fff; text-transform: uppercase; letter-spacing: -0.5px; }
+            .brand span { color: var(--accent-blue); }
+            .nav-controls { display: flex; gap: 0.75rem; align-items: center; }
+            .theme-btn, .lang-btn {
+                background: var(--panel-bg); color: var(--text-main);
+                border: 1px solid var(--border); padding: 0.5rem 0.8rem; border-radius: 8px; cursor: pointer; font-size: 0.8rem;
             }
-            .ai-logo { text-decoration: none; display: flex; flex-direction: column; }
-            .ai-logo-text { font-size: 1.5rem; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: -0.5px; }
-            .ai-logo-text span { color: #0ff; text-shadow: 0 0 12px rgba(0, 255, 255, 0.4); }
-            .ai-tagline { font-size: 0.65rem; color: rgba(255, 255, 255, 0.4); text-transform: uppercase; letter-spacing: 2px; margin-top: 2px; }
-            .ai-status-pill {
-                padding: 0.35rem 0.75rem; background: rgba(0, 255, 255, 0.05); border: 1px solid rgba(0, 255, 255, 0.1);
-                border-radius: 100px; font-size: 0.7rem; color: #fff; font-weight: 500;
-                display: flex; align-items: center; gap: 0.5rem;
-            }
-            @media (max-width: 640px) { .ai-tagline { display: none; } }
+            .lang-btn.active { border-color: var(--accent-blue); }
         </style>
-        <div class="ai-header-content">
-            <a href="/" class="ai-logo">
-                <div class="ai-logo-text">Market <span>Flock</span></div>
-                <div class="ai-tagline">AI-Powered Market & Crypto Intelligence</div>
-            </a>
-            <div class="ai-status-pill">
-                <span style="color: #0ff;">⚡</span> Engine: MarketFlock Agent
+        <div class="brand">Market<span>Flock</span></div>
+        <div class="nav-controls">
+            <button class="theme-btn" id="themeToggle" onclick="toggleTheme()">🌙</button>
+            <div class="lang-toggle">
+                <button class="lang-btn active" id="btn-en" onclick="setLang('en')">EN</button>
+                <button class="lang-btn" id="btn-ur" onclick="setLang('ur')">UR</button>
             </div>
         </div>
     </header>
+"""
+
+COMMON_JS = """
+    <script>
+        function toggleTheme() {
+            document.body.classList.toggle('light-mode');
+            const isLight = document.body.classList.contains('light-mode');
+            localStorage.setItem('theme', isLight ? 'light' : 'dark');
+            document.getElementById('themeToggle').innerText = isLight ? '☀️' : '🌙';
+        }
+        function setLang(lang) {
+            localStorage.setItem('lang', lang);
+            location.reload();
+        }
+        window.onload = function() {
+            if (localStorage.getItem('theme') === 'light') {
+                document.body.classList.add('light-mode');
+                document.getElementById('themeToggle').innerText = '☀️';
+            }
+        }
+    </script>
 """
 
 FOOTER_HTML = """
@@ -118,15 +133,19 @@ def run():
 def _build_index(latest):
     articles_html = ""
     for a in latest:
-        excerpt = a.get("body", "").split("---")[0].replace('#','').replace('*','').strip()[:140] + "..."
+        excerpt = a.get("body", "").split("---")[0].replace('#','').replace('*','').strip()[:100] + "..."
         filename = a.get("filename", "#")
+        img_url = a.get("image_url", "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80")
         articles_html += f"""
             <div class="pro-card" onclick="window.location.href='{filename}'">
-                <div class="tag">{a['category']}</div>
-                <h3 style="font-family: 'Space Grotesk', sans-serif; font-size: 1.3rem;">{a['headline']}</h3>
-                <p>{excerpt}</p>
-                <div class="card-foot">
-                    <span>{a['source']}</span>
+                <img src="{img_url}" class="card-image" alt="{a['headline']}">
+                <div class="card-content">
+                    <div class="tag">{a['category']}</div>
+                    <h3 style="font-family: 'Space Grotesk', sans-serif; font-size: 1.3rem;">{a['headline']}</h3>
+                    <p>{excerpt}</p>
+                    <div class="card-foot">
+                        <span>{a['source']}</span>
+                    </div>
                 </div>
             </div>"""
 
@@ -135,17 +154,22 @@ def _build_index(latest):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MarketFlock | AI Intelligence Hub</title>
+    <title>MarketFlock | Intelligence</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body class="dark-theme">
-    {HEADER_HTML}
-    <div class="container">
-        <div class="pro-grid">
+{HEADER_HTML}
+<div class="dashboard">
+    <aside class="sidebar"></aside>
+    <main>
+        <div class="pro-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr)); gap: 1.5rem;">
             {articles_html}
         </div>
-    </div>
-    {FOOTER_HTML}
+    </main>
+    <aside class="sidebar"></aside>
+</div>
+{FOOTER_HTML}
+{COMMON_JS}
 </body>
 </html>"""
 
@@ -179,8 +203,9 @@ def _build_article_page(a):
         </article>
     </main>
     {FOOTER_HTML}
+    {COMMON_JS}
 </body>
-</html>"""
+</html>""" ,old_string:
 
 if __name__ == "__main__":
     run()
