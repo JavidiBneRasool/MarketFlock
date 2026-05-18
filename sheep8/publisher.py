@@ -120,12 +120,14 @@ def run():
     index_html = _build_index(history[:12])
     with open(f"{SITE_DIR}/index.html", "w", encoding="utf-8") as f:
         f.write(index_html)
-
-    for a in current_articles:
-        filename = a.get("filename", f"{datetime.now().strftime('%Y%m%d%H%M%S')}.html")
-        content = _build_article_page(a)
-        with open(f"{SITE_DIR}/{filename}", "w", encoding="utf-8") as f:
-            f.write(content)
+# Generate Article Pages
+from slugify import slugify
+for a in current_articles:
+    slug = slugify(a.get("headline", "article"))
+    a["filename"] = f"{slug}.html"
+    content = _build_article_page(a)
+    with open(f"{SITE_DIR}/{a['filename']}", "w", encoding="utf-8") as f:
+        f.write(content)
 
     print(f"🐑 SHEEP 8: {len(current_articles)} SEO-optimized articles published ✓")
     return {"published": True}
