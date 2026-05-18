@@ -6,7 +6,7 @@
     "source": "CoinDesk",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-18T01:37:07.824201+00:00",
+    "fetched_at": "2026-05-18T01:59:32.995516+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,7 +18,7 @@
     "source": "CoinDesk",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-18T01:37:07.824268+00:00",
+    "fetched_at": "2026-05-18T01:59:32.995602+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,7 +30,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-18T01:37:08.539153+00:00",
+    "fetched_at": "2026-05-18T01:59:33.751537+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -42,31 +42,31 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-18T01:37:08.539235+00:00",
+    "fetched_at": "2026-05-18T01:59:33.751620+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Stocks Decline as Bond Selloff Extends, Oil Gains: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-17/oil-climbs-as-iran-war-shows-no-sign-of-ending-markets-wrap",
-    "summary": "Stocks extended their slide from record highs as the deadlock over the Iran war pushed up oil prices and deepened a selloff in global bonds.",
+    "title": "US Long Bond Yield Hits Highest Since 2023 on Inflation Concern",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-18/us-long-bond-yield-hits-highest-since-2023-on-inflation-concern",
+    "summary": "The yield on the US Treasury\u2019s long-dated bond rose to the highest in almost three years as investor concern over accelerating inflation fueled a selloff in global debt.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-18T01:37:12.653101+00:00",
+    "fetched_at": "2026-05-18T01:59:41.404670+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Gold Extends Slump as Hormuz Quagmire Keeps Inflation Fear High",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-17/gold-holds-decline-as-hormuz-quagmire-keeps-inflation-fear-high",
-    "summary": "Gold extended a decline as a lack of progress in reopening the Strait of Hormuz continued to fan inflation concerns that sent bond markets tumbling.",
+    "title": "Australia Orders Chinese Investors to Sell Rare Earth Stakes",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-17/australia-orders-chinese-investors-to-sell-stakes-in-mining-firm",
+    "summary": "Australia\u2019s government has ordered the biggest shareholders in rare earths firm Northern Minerals Ltd. to sell their stakes, the second such intervention in two years as Canberra seeks to protect the company from China-linked investors on national security grounds.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-18T01:37:12.653178+00:00",
+    "fetched_at": "2026-05-18T01:59:41.404748+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-18T01:37:09.969647+00:00",
+    "fetched_at": "2026-05-18T01:59:37.192171+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-18T01:37:09.969733+00:00",
+    "fetched_at": "2026-05-18T01:59:37.192239+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-18T01:37:10.556841+00:00",
+    "fetched_at": "2026-05-18T01:59:37.500358+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-18T01:37:10.556929+00:00",
+    "fetched_at": "2026-05-18T01:59:37.500405+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-18T01:37:14.035130+00:00",
+    "fetched_at": "2026-05-18T01:59:42.960046+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-18T01:37:14.035238+00:00",
+    "fetched_at": "2026-05-18T01:59:42.960124+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
