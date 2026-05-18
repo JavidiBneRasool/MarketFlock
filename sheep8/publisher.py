@@ -205,7 +205,7 @@ def _build_article_page(a):
     {FOOTER_HTML}
     {COMMON_JS}
 </body>
-</html>""" ,old_string:
+</html>"""
 
 if __name__ == "__main__":
     run()
