@@ -1,39 +1,48 @@
 [
   {
-    "title": "Crypto funds see $1B in outflows as Iran tensions revive risk-off sentiment",
-    "url": "https://cointelegraph.com/news/crypto-funds-1b-outflows-iran-tensions-risk-off-bitcoin-ether",
-    "summary": "Institutional investors pulled capital from Bitcoin and Ether products as Iran tension and rising inflation rattled markets, while XRP and Solana funds continued to attract fresh inflows.",
+    "title": "Price predictions 5/18: SPX, DXY, BTC, ETH, XRP, BNB, SOL, DOGE, HYPE, ADA",
+    "url": "https://cointelegraph.com/markets/price-predictions-518-spx-dxy-btc-eth-xrp-bnb-sol-doge-hype-ada",
+    "summary": "Bitcoin dropped to the crucial $76,000 support level while large-cap altcoins sold off sharply. Do technical charts suggest that traders will buy the dip?",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-18T17:23:51.575362+00:00"
+    "fetched_at": "2026-05-18T19:21:49.579934+00:00"
   },
   {
-    "title": "Ethereum traders say bears \u2018in control\u2019 after ETH price drop to $2K",
-    "url": "https://cointelegraph.com/markets/ethereum-traders-say-bears-in-control-eth-price-drop-2k",
-    "summary": "Ether price fell sharply below $2,100 as increasing sell pressure on Binance and persistent ETF outflows fueled bearish momentum.",
+    "title": "Minnesota legalizes crypto custody services for banks, credit unions",
+    "url": "https://cointelegraph.com/news/minnesota-crypto-custody-services-banks-credit-unions-law",
+    "summary": "Minnesota-based banking institutions and credit unions will be authorized to provide digital asset custody services in a nonfiduciary capacity as of Aug. 1.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-18T17:23:51.575443+00:00"
+    "fetched_at": "2026-05-18T19:21:49.580007+00:00"
   },
   {
-    "title": "Stocks Fall, Oil Rises as Hormuz Deal Hopes Fade: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-17/oil-climbs-as-iran-war-shows-no-sign-of-ending-markets-wrap",
-    "summary": "Wall Street\u2019s rebound attempt failed, with stocks falling as oil climbed after doubts resurfaced about an imminent US-Iran deal that would revive energy flows through the key Strait of Hormuz.",
+    "title": "SpaceX IPO Adds Second Musk Stock. Tesla Has a Problem",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-18/spacex-ipo-will-add-another-musk-stock-it-s-a-problem-for-tesla",
+    "summary": "For years, there was only one way for mom-and-pop investors to buy into Elon Musk\u2019s vision: shares of Tesla Inc. That\u2019s about to change &mdash; and it\u2019s a serious risk for Tesla investors.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-18T17:23:52.433346+00:00"
+    "fetched_at": "2026-05-18T19:21:50.514216+00:00"
   },
   {
-    "title": "US Stocks Dip as Investors Eye Inflation, Chips Stocks Retreat",
+    "title": "US Stocks Slide as Oil, Yields Edge Higher; Chip Shares Decline",
     "url": "https://www.bloomberg.com/news/articles/2026-05-18/us-futures-slip-as-inflation-worries-feed-risk-off-sentiment",
-    "summary": "US stocks fell Monday in midday trading as oil prices rebounded amid doubts about the progress of peace talks between the US and Iran. Yields on 10-year Treasuries touched 4.6% and semiconductor stocks traded lower, with sentiment muted and inflation a key concern.",
+    "summary": "US stocks slid on Monday as oil prices climbed on mixed signals around US-Iran peace talks, and US 30-year yields pushed toward their highest since 2007. Semiconductor stocks traded lower, with sentiment muted and inflation a key concern.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-18T17:23:52.433410+00:00"
+    "fetched_at": "2026-05-18T19:21:50.514270+00:00"
+  },
+  {
+    "title": "White House Says Strategic Bitcoin Reserve Announcement Is Imminent: \u2018A Breakthrough\u2019",
+    "url": "https://bitcoinmagazine.com/news/white-house-strategic-bitcoin-reserve",
+    "summary": "Bitcoin Magazine\n\nWhite House Says Strategic Bitcoin Reserve Announcement Is Imminent: &#8216;A Breakthrough&#8217;\nThe White House is nearing a formal announcement on a U.S. Strategic Bitcoin Reserve, with Patrick Witt saying the administration has already cleared a key legal hurdle.\nThis post Whit",
+    "source": "Bitcoin Magazine",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-05-18T19:21:49.922569+00:00"
   },
   {
     "title": "Standard Chartered to Absorb Zodia Custody\u2019s Core Business in Digital Asset Consolidation",
@@ -42,61 +51,52 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-18T17:23:51.932412+00:00"
+    "fetched_at": "2026-05-18T19:21:49.922656+00:00"
   },
   {
-    "title": "Capital B Acquires 192 Bitcoin for \u20ac13 Million, Pushes Total Holdings to 3,135 BTC",
-    "url": "https://bitcoinmagazine.com/news/capital-b-acquires-192-bitcoin-for-13",
-    "summary": "Bitcoin Magazine\n\nCapital B Acquires 192 Bitcoin for \u20ac13 Million, Pushes Total Holdings to 3,135 BTC\nCapital B, formerly The Blockchain Group, added 192 BTC for \u20ac13 million, pushing its total holdings to 3,135 BTC.\nThis post Capital B Acquires 192 Bitcoin for \u20ac13 Million, Pushes Total Holdings to 3,",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-05-18T17:23:51.932484+00:00"
-  },
-  {
-    "title": "Hive Shares Hit Highest Price This Year After Bitcoin Miner Unveils Ontario 'AI Gigafactory'",
-    "url": "https://decrypt.co/368187/hive-shares-highest-price-2026-bitcoin-miner-ontario-ai-gigafactory",
-    "summary": "Hive Digital Technologies\u2019 stock price popped after the Bitcoin miner unveiled a massive data-center buildout in Ontario, Canada.",
+    "title": "This Open-Source Phone AI Agent Sees, Hears and Acts\u2014All Without Touching the Cloud",
+    "url": "https://decrypt.co/368238/oppo-x-omniclaw-android-ai-agent",
+    "summary": "Oppo's X-OmniClaw runs directly on your Android device, using the camera, screen, and microphone to execute real tasks inside real apps.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-18T17:23:52.061694+00:00"
+    "fetched_at": "2026-05-18T19:21:50.039810+00:00"
   },
   {
-    "title": "Bank of England, FCA Set Out \u2018Shared Vision\u2019 for Tokenization",
-    "url": "https://decrypt.co/368214/bank-of-england-fca-set-out-shared-vision-for-tokenization",
-    "summary": "The UK\u2019s central bank and financial regulator have launched a joint Call for Input as tokenization moves from \u201cpilots to production.\u201d",
+    "title": "Polymarket Users Spur Insider Trading Suspicions With $2.4 Million in Iran Prediction Wins",
+    "url": "https://decrypt.co/368255/polymarket-users-insider-trading-2-4-million-iran-predictions",
+    "summary": "Interlinked Polymarket accounts have made millions betting on U.S. military actions in Iran\u2014and won 98% of the time, analysts say.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-18T17:23:52.061754+00:00"
+    "fetched_at": "2026-05-18T19:21:50.039869+00:00"
   },
   {
-    "title": "Two more Ethereum Foundation researchers resign amid wave of departures",
-    "url": "https://www.theblock.co/post/401718/two-more-ethereum-foundation-researchers-resign-amid-wave-of-departures",
-    "summary": "Carl Beek and Julian Ma announced they were leaving the Ethereum Foundation on Monday, the latest employees to publicly resign.",
+    "title": "Galaxy scores New York BitLicense to offer digital asset services in the state",
+    "url": "https://www.theblock.co/post/401732/galaxy-new-york-bitlicense-offer-digital-asset-services-state",
+    "summary": "Mike Novogratz' Galaxy Digital said the approval expands its regulatory footprint to more than 50 licenses worldwide.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-18T17:23:52.159973+00:00"
+    "fetched_at": "2026-05-18T19:21:50.146585+00:00"
   },
   {
-    "title": "Bitwise to add HYPE to balance sheet using fees from Hyperliquid ETF",
-    "url": "https://www.theblock.co/post/401688/bitwise-add-hype-balance-sheet-fees-hyperliquid-etf",
-    "summary": "Hyperliquid now regularly beats out Ethereum and Solana in weekly blockchain fee generation, driven largely by perpetual futures.",
+    "title": "Revolut unveils first physical crypto card as industry-wide card usage grows",
+    "url": "https://www.theblock.co/post/401726/revolut-first-physical-crypto-card-industry-usage-grows",
+    "summary": "The card will be usable anywhere Visa and Mastercard are accepted, and will first roll out firm in the UK and EEA.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-18T17:23:52.160037+00:00"
+    "fetched_at": "2026-05-18T19:21:50.146665+00:00"
   },
   {
-    "title": "Trump administration creates $1.8bn fund for victims of government \u2018lawfare\u2019",
-    "url": "https://www.ft.com/content/9a0d6eee-8c63-4299-97ea-f9cccbad5566",
-    "summary": "Settlement deal comes after US president and family drop $10bn IRS lawsuit over tax returns leak",
+    "title": "Musk\u2019s case against OpenAI dismissed after just two hours of jury deliberations",
+    "url": "https://www.ft.com/content/cfc4de0d-0c45-42ee-843d-c2abf7638733",
+    "summary": "Decision hands a legal victory to Sam Altman in a case that had overshadowed the AI lab\u2019s plans to go public",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-18T17:23:53.078690+00:00"
+    "fetched_at": "2026-05-18T19:21:51.168261+00:00"
   },
   {
     "title": "UBS: the bank that outgrew a country",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-18T17:23:53.078745+00:00"
+    "fetched_at": "2026-05-18T19:21:51.168313+00:00"
   }
 ]
