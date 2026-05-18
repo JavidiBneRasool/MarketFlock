@@ -6,7 +6,7 @@
     "source": "CoinDesk",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-18T02:59:58.984184+00:00"
+    "fetched_at": "2026-05-18T03:37:52.984462+00:00"
   },
   {
     "title": "DeFi's new front: VerifiedX bets bitcoin's next chapter is programmable, private",
@@ -15,7 +15,16 @@
     "source": "CoinDesk",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-18T02:59:58.984262+00:00"
+    "fetched_at": "2026-05-18T03:37:52.984569+00:00"
+  },
+  {
+    "title": "Grayscale, VanEck amend US spot BNB ETF filings, stepping closer to a potential launch",
+    "url": "https://cointelegraph.com/news/grayscale-vaneck-advance-bnb-etf-filings-for-potential-sec-approval",
+    "summary": "The US securities regulator approved 21Shares\u2019 Hyperliquid ETF last week, adding to a growing number of cryptocurrencies converted into ETF wrappers in the US.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-05-18T03:37:53.786253+00:00"
   },
   {
     "title": "Here\u2019s what happened in crypto today",
@@ -24,34 +33,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-18T02:59:59.691071+00:00"
+    "fetched_at": "2026-05-18T03:37:53.786353+00:00"
   },
   {
-    "title": "Bernstein says Figure's Q1 results shows uniqueness of blockchain marketplaces",
-    "url": "https://cointelegraph.com/news/bernstein-say-figures-q1-shows-uniqueness-of-blockchain-marketplaces",
-    "summary": "Figure Technology Solutions latest quarterly results showed Bernstein analysts just how different it is from most balance sheet-based fintech lending platforms.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-05-18T02:59:59.691137+00:00"
-  },
-  {
-    "title": "Indonesia\u2019s Rupiah Slides to Record, Stocks Tumble With Bonds",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-18/indonesian-rupiah-falls-to-record-low-on-oil-as-markets-reopen",
-    "summary": "The Indonesian rupiah fell to a new all-time low, stocks slid and bond yields surged as oil prices advanced and as local markets reopened after a two-day holiday.",
+    "title": "Hedge Funds Ramp Up Bearish Sterling Bets on Andy Burnham Risk",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-18/hedge-funds-ramp-up-bearish-sterling-bets-on-andy-burnham-risk",
+    "summary": "Hedge funds and asset managers piled into bearish sterling option bets last week after Manchester Mayor Andy Burnham secured a pathway to potentially challenge for UK prime minister, raising fears of political instability and looser fiscal policy.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-18T03:00:03.610213+00:00"
+    "fetched_at": "2026-05-18T03:37:57.133454+00:00"
   },
   {
-    "title": "Chinese Oil Refiners Slash Output After Crude Imports Plunge",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-18/chinese-oil-refiners-slash-output-after-crude-imports-plunge",
-    "summary": "Plunging crude imports forced Chinese oil processors to sharply reduce output last month, with runs in the state-owned sector dropping to multiyear lows.",
+    "title": "Oil Rises as Trump Renews Threats Against Iran With Hormuz Shut",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-17/latest-oil-market-news-and-analysis-for-may-18",
+    "summary": "Oil rose for a third day as President Donald Trump again pressured Iran to come to a deal to end weeks of war and reopen the crucial Strait of Hormuz.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-18T03:00:03.610305+00:00"
+    "fetched_at": "2026-05-18T03:37:57.133526+00:00"
   },
   {
     "title": "Bitcoin Open Heads to Iconic Glen Abbey Golf Club for June 8, 2026 Event",
@@ -60,7 +60,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-18T03:00:01.056339+00:00"
+    "fetched_at": "2026-05-18T03:37:55.295610+00:00"
   },
   {
     "title": "Abu Dhabi\u2019s Mubadala Raises Bitcoin ETF Stake 16% to $566 Million in Q1 2026",
@@ -69,7 +69,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-18T03:00:01.056414+00:00"
+    "fetched_at": "2026-05-18T03:37:55.295684+00:00"
   },
   {
     "title": "KuCoin Australia\u2019s \u2018Evolution\u2019 Showcases Regulatory Focus, Mastercard Launch",
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-18T03:00:01.432022+00:00"
+    "fetched_at": "2026-05-18T03:37:55.600589+00:00"
   },
   {
     "title": "What Is Arc? The Stablecoin Blockchain From USDC Issuer Circle",
@@ -87,7 +87,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-18T03:00:01.432085+00:00"
+    "fetched_at": "2026-05-18T03:37:55.600684+00:00"
   },
   {
     "title": "Tipping point looms for global energy crisis",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-18T03:00:04.881043+00:00"
+    "fetched_at": "2026-05-18T03:37:58.641526+00:00"
   },
   {
     "title": "Gulf freight rates jump as shipping companies turn to trucks to move cargo",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-18T03:00:04.881148+00:00"
+    "fetched_at": "2026-05-18T03:37:58.641627+00:00"
   }
 ]
