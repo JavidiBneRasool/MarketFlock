@@ -175,9 +175,36 @@ def _build_index(latest):
 </body>
 </html>"""
 
+def _get_affiliate_block(category):
+    c = category.lower()
+    if 'crypto' in c or 'market' in c:
+        branding = "Institutional-Grade Trading Infrastructure"
+        links = [
+            ("Binance", "https://accounts.binance.com/register?ref=V7G8123A"),
+            ("Bybit", "https://partner.bybit.com/b/marketflock"),
+            ("TradingView", "https://www.tradingview.com/?aff_id=125672"),
+            ("CoinGlass", "https://coinglass.com/"),
+            ("Ledger", "https://shop.ledger.com/?r=marketflock"),
+            ("CWallet", "https://cwallet.com/"),
+            ("KuCoin", "https://www.kucoin.com/r/af/rBDP123")
+        ]
+    else:
+        branding = "Market Intelligence: Optimize Your Stack"
+        links = [("Market Intelligence", "#")]
+    
+    links_html = "".join([f'<a href="{url}" style="color:var(--accent-blue); margin: 0 10px; text-decoration:none;">{name}</a>' for name, url in links])
+    
+    return f'''
+    <div style="background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 12px; padding: 2rem; margin: 3rem 0; text-align: center; backdrop-filter: blur(10px);">
+        <h4 style="color: #fff; margin-bottom: 1rem; font-size: 1.25rem;">{branding}</h4>
+        <div>{links_html}</div>
+    </div>
+    '''
+
 def _build_article_page(a):
     import markdown
     body_html = markdown.markdown(a['body'])
+    affiliate_block = _get_affiliate_block(a.get('category', 'Default'))
     
     return f"""<!DOCTYPE html>
 <html lang="en">
@@ -198,6 +225,7 @@ def _build_article_page(a):
             <img src="{a['image_url']}" class="hero-img">
             <div class="article-body">
                 {body_html}
+                {affiliate_block}
             </div>
             <div class="source-link">
                 Source: <a href="{a['source_url']}" target="_blank">{a['source']}</a>
