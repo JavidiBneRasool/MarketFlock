@@ -7,8 +7,62 @@ SITE_DIR = os.path.join(PROJECT, "publish")
 HISTORY_FILE = f"{PROJECT}/history.json"
 BASE_URL = "https://market.cutbar.in"
 
+HEADER_HTML = """
+    <header class="ai-header">
+        <style>
+            @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;700&display=swap');
+            .ai-header {
+                position: sticky; top: 0; z-index: 9999; width: 100%;
+                background: rgba(5, 5, 5, 0.75); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);
+                border-bottom: 1px solid rgba(0, 255, 255, 0.15);
+                font-family: 'Space Grotesk', sans-serif;
+            }
+            .ai-header-content {
+                max-width: 1200px; margin: 0 auto; padding: 0.75rem 1.5rem;
+                display: flex; justify-content: space-between; align-items: center;
+            }
+            .ai-logo { text-decoration: none; display: flex; flex-direction: column; }
+            .ai-logo-text { font-size: 1.5rem; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: -0.5px; }
+            .ai-logo-text span { color: #0ff; text-shadow: 0 0 12px rgba(0, 255, 255, 0.4); }
+            .ai-tagline { font-size: 0.65rem; color: rgba(255, 255, 255, 0.4); text-transform: uppercase; letter-spacing: 2px; margin-top: 2px; }
+            .ai-status-pill {
+                padding: 0.35rem 0.75rem; background: rgba(0, 255, 255, 0.05); border: 1px solid rgba(0, 255, 255, 0.1);
+                border-radius: 100px; font-size: 0.7rem; color: #fff; font-weight: 500;
+                display: flex; align-items: center; gap: 0.5rem;
+            }
+            @media (max-width: 640px) { .ai-tagline { display: none; } }
+        </style>
+        <div class="ai-header-content">
+            <a href="/" class="ai-logo">
+                <div class="ai-logo-text">Market <span>Flock</span></div>
+                <div class="ai-tagline">AI-Powered Market & Crypto Intelligence</div>
+            </a>
+            <div class="ai-status-pill">
+                <span style="color: #0ff;">⚡</span> Engine: MarketFlock Agent
+            </div>
+        </div>
+    </header>
+"""
+
+FOOTER_HTML = """
+    <footer class="ai-footer">
+        <style>
+            .ai-footer {
+                padding: 4rem 1.5rem; background: #050505; border-top: 1px solid rgba(255, 255, 255, 0.05);
+                font-family: 'Space Grotesk', sans-serif; text-align: center;
+            }
+            .ai-footer-logo { font-size: 1.1rem; font-weight: 700; color: #fff; text-transform: uppercase; margin-bottom: 0.5rem; }
+            .ai-footer-logo span { color: #0ff; }
+            .ai-footer-text { font-size: 0.8rem; color: rgba(255, 255, 255, 0.3); margin-bottom: 1.5rem; line-height: 1.6; }
+            .ai-footer-bottom { font-size: 0.65rem; color: rgba(255, 255, 255, 0.15); text-transform: uppercase; letter-spacing: 2px; }
+        </style>
+        <div class="ai-footer-logo">Market <span>Flock</span></div>
+        <p class="ai-footer-text">© 2026 AI Flock Empire — MarketFlock Network | On-Chain Analytics</p>
+        <div class="ai-footer-bottom">System Status: Optimal • Protocol: X-7 Neural</div>
+    </footer>
+"""
+
 def _pick_unique_image(headline, category, used_set):
-    # (Simplified for now, Sheep 6 and 5 already handle images better)
     return "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80"
 
 def _normalize_autoflock_article(article):
@@ -36,7 +90,6 @@ def run():
     except:
         print("🐑 SHEEP 8: No articles!"); return None
     
-    # Load and Update History
     history = []
     if os.path.exists(HISTORY_FILE):
         with open(HISTORY_FILE, "r") as f:
@@ -49,12 +102,10 @@ def run():
     with open(HISTORY_FILE, "w") as f:
         json.dump(history, f, indent=2)
 
-    # Generate Index Page
     index_html = _build_index(history[:12])
     with open(f"{SITE_DIR}/index.html", "w", encoding="utf-8") as f:
         f.write(index_html)
 
-    # Generate Article Pages
     for a in current_articles:
         filename = a.get("filename", f"{datetime.now().strftime('%Y%m%d%H%M%S')}.html")
         content = _build_article_page(a)
@@ -64,61 +115,6 @@ def run():
     print(f"🐑 SHEEP 8: {len(current_articles)} SEO-optimized articles published ✓")
     return {"published": True}
 
-HEADER_HTML = """
-    <header class="ai-header">
-        <style>
-            @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;700&display=swap');
-            .ai-header {
-                position: sticky; top: 0; z-index: 9999; width: 100%;
-                background: rgba(5, 5, 5, 0.75); backdrop-filter: blur(16px); -webkit-backdrop-filter: blur(16px);
-                border-bottom: 1px solid rgba(0, 255, 255, 0.15);
-                font-family: 'Space Grotesk', sans-serif;
-            }
-            .ai-header-content {
-                max-width: 1200px; margin: 0 auto; padding: 0.75rem 1.5rem;
-                display: flex; justify-content: space-between; align-items: center;
-            }
-            .ai-logo { text-decoration: none; display: flex; flex-direction: column; }
-            .ai-logo-text { font-size: 1.25rem; font-weight: 700; color: #fff; text-transform: uppercase; letter-spacing: -0.5px; }
-            .ai-logo-text span { color: #0ff; text-shadow: 0 0 12px rgba(0, 255, 255, 0.4); }
-            .ai-tagline { font-size: 0.65rem; color: rgba(255, 255, 255, 0.4); text-transform: uppercase; letter-spacing: 1.5px; margin-top: 2px; }
-            .ai-status-pill {
-                padding: 0.35rem 0.75rem; background: rgba(0, 255, 255, 0.05); border: 1px solid rgba(0, 255, 255, 0.1);
-                border-radius: 100px; font-size: 0.7rem; color: #fff; font-weight: 500;
-                display: flex; align-items: center; gap: 0.5rem;
-            }
-            @media (max-width: 640px) { .ai-tagline { display: none; } }
-        </style>
-        <div class="ai-header-content">
-            <a href="/" class="ai-logo">
-                <div class="ai-logo-text">Market <span>Flock</span></div>
-                <div class="ai-tagline">Autonomous Journalism for the Agentic Era</div>
-            </a>
-            <div class="ai-status-pill">
-                <span style="color: #0ff;">🟢</span> Engine: ⚡ MarketFlock Agent
-            </div>
-        </div>
-    </header>
-"""
-
-FOOTER_HTML = """
-    <footer class="ai-footer">
-        <style>
-            .ai-footer {
-                padding: 4rem 1.5rem; background: #050505; border-top: 1px solid rgba(255, 255, 255, 0.05);
-                font-family: 'Space Grotesk', sans-serif; text-align: center;
-            }
-            .ai-footer-logo { font-size: 1.1rem; font-weight: 700; color: #fff; text-transform: uppercase; margin-bottom: 0.5rem; }
-            .ai-footer-logo span { color: #0ff; }
-            .ai-footer-text { font-size: 0.8rem; color: rgba(255, 255, 255, 0.3); margin-bottom: 1.5rem; line-height: 1.6; }
-            .ai-footer-bottom { font-size: 0.65rem; color: rgba(255, 255, 255, 0.15); text-transform: uppercase; letter-spacing: 2px; }
-        </style>
-        <div class="ai-footer-logo">Market <span>Flock</span></div>
-        <p class="ai-footer-text">© 2026 AI Flock Empire — MarketFlock Network | Autonomous Infrastructure</p>
-        <div class="ai-footer-bottom">System Status: Optimal • Protocol: X-7 Neural</div>
-    </footer>
-"""
-
 def _build_index(latest):
     articles_html = ""
     for a in latest:
@@ -127,7 +123,7 @@ def _build_index(latest):
         articles_html += f"""
             <div class="pro-card" onclick="window.location.href='{filename}'">
                 <div class="tag">{a['category']}</div>
-                <h3>{a['headline']}</h3>
+                <h3 style="font-family: 'Space Grotesk', sans-serif; font-size: 1.3rem;">{a['headline']}</h3>
                 <p>{excerpt}</p>
                 <div class="card-foot">
                     <span>{a['source']}</span>
@@ -164,6 +160,10 @@ def _build_article_page(a):
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     {a.get('meta', '')}
     <link rel="stylesheet" href="style.css">
+    <style>
+        .article-body {{ font-size: 1.35rem; line-height: 1.9; color: rgba(255, 255, 255, 0.8); }}
+        .article-body h1, .article-body h2, .article-body h3 {{ font-family: 'Space Grotesk', sans-serif; color: #fff; margin-top: 2.5rem; }}
+    </style>
 </head>
 <body class="article-page dark-theme">
     {HEADER_HTML}

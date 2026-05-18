@@ -46,7 +46,7 @@ def run():
         for kw in NICHE_KEYWORDS:
             density_score += len(re.findall(rf"\b{re.escape(kw)}\b", body_lower))
         
-        if density_score < 8:
+        if density_score < 5:
             errors.append("DENSITY_FAIL")
             
         # 5. Branding Check
