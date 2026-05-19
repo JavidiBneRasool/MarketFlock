@@ -1,12 +1,30 @@
 [
   {
+    "title": "BSC\u2019s quantum defense works. The trade-off is 40% slower transaction throughput.",
+    "url": "https://www.coindesk.com/markets/2026/05/19/bsc-s-quantum-defense-works-the-trade-off-is-40-slower-transaction-throughput",
+    "summary": "",
+    "source": "CoinDesk",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-05-19T11:03:40.155175+00:00"
+  },
+  {
+    "title": "Bitcoin treads water near pivotal monthly close while speculative tokens retreat",
+    "url": "https://www.coindesk.com/markets/2026/05/19/bitcoin-treads-water-near-pivotal-monthly-close-while-speculative-tokens-retreat",
+    "summary": "",
+    "source": "CoinDesk",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-05-19T11:03:40.155291+00:00"
+  },
+  {
     "title": "Swan Bitcoin sued for nearly $1B over pre-bankruptcy transfers from Prime Trust",
     "url": "https://cointelegraph.com/news/swan-bitcoin-sued-for-nearly-1b-over-pre-bankruptcy-transfers-from-prime-trust",
     "summary": "Swan Bitcoin has been sued for allegedly using insider access to pull nearly $1 billion in Bitcoin and cash from Prime Trust days before its 2023 bankruptcy filing.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-19T10:30:10.014524+00:00"
+    "fetched_at": "2026-05-19T11:03:40.962850+00:00"
   },
   {
     "title": "Republican lawmakers call for permanent CBDC ban as House vote approaches",
@@ -15,25 +33,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-19T10:30:10.014598+00:00"
+    "fetched_at": "2026-05-19T11:03:40.962939+00:00"
   },
   {
-    "title": "Goldman Sachs, Moelis Say Business as Usual Amid Iran Conflict",
+    "title": "Trump Says He Held Off Attacking Iran After Gulf Appeal",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-19/trump-says-he-held-off-attacking-iran-after-gulf-appeal-video",
+    "summary": "US President Donald Trump said he called off a new bombardment of Iran planned for Tuesday after Persian Gulf allies wanted more time to pursue diplomacy. Tyler Kendall reports on Bloomberg Television. (Source: Bloomberg)",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-05-19T11:03:57.528997+00:00"
+  },
+  {
+    "title": "Goldman Sachs Targets \u2018Huge Opportunity\u2019 Despite Iran Shock",
     "url": "https://www.bloomberg.com/news/articles/2026-05-19/goldman-sachs-moelis-say-business-as-usual-amid-iran-conflict",
-    "summary": "Goldman Sachs Group Inc.\u2019s international co-heads are visiting the investment bank\u2019s offices around the world in a bid to reassure staff and clients navigating uncertainty following the outbreak of the Iran war.",
+    "summary": "Goldman Sachs Group Inc.\u2019s international co-heads say the turbulent start to the year has done little to deter clients, underscoring Wall Street\u2019s bullish outlook despite events like the Iran war.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-19T10:30:11.128879+00:00"
-  },
-  {
-    "title": "Citi Says 5.5% May Be Next Focus for 30-Year Treasury Yield",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-19/citi-says-5-5-may-be-next-key-level-for-30-year-treasury-yield",
-    "summary": "Bond traders are zeroing in on 5.5% as the new \u201cround number\u201d for 30-year US Treasury yields as inflation concerns ripple across markets, according to Citigroup Inc.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-05-19T10:30:11.128935+00:00"
+    "fetched_at": "2026-05-19T11:03:57.529081+00:00"
   },
   {
     "title": "White House Says Strategic Bitcoin Reserve Announcement Is Imminent: \u2018A Breakthrough\u2019",
@@ -42,7 +60,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-19T10:30:10.392054+00:00"
+    "fetched_at": "2026-05-19T11:03:43.222136+00:00"
   },
   {
     "title": "Standard Chartered to Absorb Zodia Custody\u2019s Core Business in Digital Asset Consolidation",
@@ -51,7 +69,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-19T10:30:10.392121+00:00"
+    "fetched_at": "2026-05-19T11:03:43.222243+00:00"
   },
   {
     "title": "Ohio Man Gets 9 Years for $10M Bitcoin Trading Ponzi Scheme",
@@ -60,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-19T10:30:10.516333+00:00"
+    "fetched_at": "2026-05-19T11:03:48.923885+00:00"
   },
   {
     "title": "Lawyers Apologize After Fake Claude-Generated Quotes Appear in Trump Layoffs Case",
@@ -69,25 +87,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-19T10:30:10.516388+00:00"
-  },
-  {
-    "title": "\u2018Follow the gigawatts\u2019: Bernstein sees upside in several bitcoin miners amid $90 billion in AI data center deals",
-    "url": "https://www.theblock.co/post/401809/follow-the-gigawatts-bernstein-sees-upside-in-several-bitcoin-miners-amid-90-billion-in-ai-data-center-deals",
-    "summary": "Bernstein sees bitcoin miners benefiting from $90B in AI deals, with Outperform ratings on IREN, Riot, CleanSpark, and Core Scientific.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-05-19T10:30:10.648187+00:00"
-  },
-  {
-    "title": "Japan\u2019s ruling party advances proposal to build national AI-blockchain financial system",
-    "url": "https://www.theblock.co/post/401804/japan-ai-blockchain-proposal-ldp",
-    "summary": "Japan's LDP formally approved a policy proposal to build a next-generation financial system based on blockchain and AI.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-05-19T10:30:10.648252+00:00"
+    "fetched_at": "2026-05-19T11:03:48.923944+00:00"
   },
   {
     "title": "Xi told Trump that Putin might \u2018regret\u2019 invasion of Ukraine",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-19T10:30:11.928592+00:00"
+    "fetched_at": "2026-05-19T11:03:59.134628+00:00"
   },
   {
     "title": "Putin and Xi to discuss huge gas project at China summit",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-19T10:30:11.928644+00:00"
+    "fetched_at": "2026-05-19T11:03:59.134834+00:00"
   }
 ]
