@@ -1,39 +1,39 @@
 [
   {
+    "title": "Retail Bitcoin investor demand falls by 73% as futures selling tops $2B: Are the bears back?",
+    "url": "https://cointelegraph.com/markets/bitcoin-retail-demand-on-binance-drops-73-as-futures-selling-tops-2b",
+    "summary": "Bitcoin retail inflows to Binance remained at record lows as aggressive BTC futures selling and weakening spot demand pressured BTC below $77,000.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-05-19T02:02:25.969277+00:00"
+  },
+  {
     "title": "Odds against rate cuts high as new US Fed chair set for swearing in",
     "url": "https://cointelegraph.com/news/interest-rates-fed-chair-kevin-warsh-sworn-in",
     "summary": "Many experts voiced concerns that the confirmation of Kevin Warsh as Federal Reserve chair would lead to uncertainty about the central bank\u2019s independence, particularly in setting interest rates.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-18T23:54:22.401003+00:00"
+    "fetched_at": "2026-05-19T02:02:25.969356+00:00"
   },
   {
-    "title": "Galaxy secures New York BitLicense to expand institutional crypto services",
-    "url": "https://cointelegraph.com/news/galaxy-secures-new-york-bitlicense-institutional-crypto-services",
-    "summary": "The NYDFS approvals allow GalaxyOne Prime NY to offer trading and financing services to institutional investors in one of the most tightly regulated US crypto markets.\n",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-05-18T23:54:22.401076+00:00"
-  },
-  {
-    "title": "Oil Slips, US Stock Futures Rise on Iran Optimism: Markets Wrap",
+    "title": "Stocks Drop as Iran Optimism Fades, Oil Declines: Markets Wrap",
     "url": "https://www.bloomberg.com/news/articles/2026-05-18/oil-slips-as-trump-spurs-optimism-over-iran-deal-markets-wrap",
-    "summary": "Oil dropped and US equity-index futures edged up after President Donald Trump said he was holding off on fresh military strikes, boosting hopes for a deal that could end the war and revive energy flows through the Strait of Hormuz.",
+    "summary": "Equities declined as concerns around Iran lingered even after President Donald Trump said he was holding off on fresh strikes on the Middle East country. Oil fell.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-18T23:54:23.370058+00:00"
+    "fetched_at": "2026-05-19T02:02:27.598679+00:00"
   },
   {
-    "title": "Gold Extends Gain as Hopes for Iran Truce Ease Inflation Fears",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-18/gold-holds-gain-as-hopes-for-iran-truce-ease-inflation-fears",
-    "summary": "Gold extended a gain as the prospect of a US-Iran ceasefire deal eased some inflationary concerns that have weighed on bullion.",
+    "title": "Australia Treasurer Defends Investment Tax Changes",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-19/australia-treasurer-defends-investment-tax-changes-video",
+    "summary": "Australia's Treasurer Jim Chalmers has defended the proposed tax changes, arguing that they increase fairness for investors and will still tax capital gains at rates lower than other overseas markets. (Source: Bloomberg)",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-18T23:54:23.370116+00:00"
+    "fetched_at": "2026-05-19T02:02:27.598733+00:00"
   },
   {
     "title": "White House Says Strategic Bitcoin Reserve Announcement Is Imminent: \u2018A Breakthrough\u2019",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-18T23:54:22.697574+00:00"
+    "fetched_at": "2026-05-19T02:02:26.188712+00:00"
   },
   {
     "title": "Standard Chartered to Absorb Zodia Custody\u2019s Core Business in Digital Asset Consolidation",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-18T23:54:22.697662+00:00"
+    "fetched_at": "2026-05-19T02:02:26.188783+00:00"
   },
   {
     "title": "Lawyers Apologize After Fake Claude-Generated Quotes Appear in Trump Layoffs Case",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-18T23:54:22.832111+00:00"
+    "fetched_at": "2026-05-19T02:02:26.267216+00:00"
   },
   {
     "title": "AI Still Can't Beat the On-Call Engineer: Here's Why",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-18T23:54:22.832165+00:00"
+    "fetched_at": "2026-05-19T02:02:26.267271+00:00"
+  },
+  {
+    "title": "SEC\u2019s innovation exemption for tokenized stocks to come as early as this week: Bloomberg",
+    "url": "https://www.theblock.co/post/401766/sec-innovation-exemption-tokenized-securities-this-week",
+    "summary": "The SEC has approved several entities to move forward with tokenized stock initiatives, including the NYSE and Nasdaq.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-05-19T02:02:26.377252+00:00"
   },
   {
     "title": "Ethereum\u2019s onchain conviction grows as staked ETH rises, even as price underperforms",
@@ -78,33 +87,24 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-18T23:54:22.957850+00:00"
+    "fetched_at": "2026-05-19T02:02:26.377319+00:00"
   },
   {
-    "title": "Ohio man sentenced to 9 years for running $10 million crypto Ponzi scheme",
-    "url": "https://www.theblock.co/post/401761/ohio-man-sentenced-to-9-years-for-running-10-million-crypto-ponzi-scheme",
-    "summary": "The CFTC filed an enforcement action against Rathnakishore Giri in August 2022 for running the fraudulent investment scheme.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-05-18T23:54:22.957918+00:00"
-  },
-  {
-    "title": "Musk loses case against OpenAI after two hours of jury deliberations",
-    "url": "https://www.ft.com/content/cfc4de0d-0c45-42ee-843d-c2abf7638733",
-    "summary": "Decision hands a legal victory to Sam Altman in a case that had overshadowed the AI lab\u2019s plans to go public",
+    "title": "Xi told Trump that Putin might \u2018regret\u2019 invasion of Ukraine",
+    "url": "https://www.ft.com/content/567c57b0-6346-43e6-9d14-840a793b4d1d",
+    "summary": "US president also suggested they should co-operate with Russian leader against the International Criminal Court",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-18T23:54:24.406796+00:00"
+    "fetched_at": "2026-05-19T02:02:28.262191+00:00"
   },
   {
-    "title": "Project Astra: the $420bn merger powering the US AI revolution",
-    "url": "https://www.ft.com/content/4850e61e-df5b-4219-85cc-f039af545110",
-    "summary": "Proposed deal between NextEra and Dominion would cement control of US \u2018data centre alley\u2019",
+    "title": "Putin and Xi to discuss huge gas project at China summit",
+    "url": "https://www.ft.com/content/7612a618-fbaf-4e3e-8e55-0cf5cc88d132",
+    "summary": "Talks on Power of Siberia 2 pipeline come just days after Donald Trump\u2019s visit to Beijing",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-18T23:54:24.406854+00:00"
+    "fetched_at": "2026-05-19T02:02:28.262251+00:00"
   }
 ]
