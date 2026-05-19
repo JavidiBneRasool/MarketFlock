@@ -1,21 +1,21 @@
 [
   {
+    "title": "Polymarket unlocks $5 trillion private market for retail traders, previously reserved for elites",
+    "url": "https://www.coindesk.com/markets/2026/05/19/polymarket-unlocks-usd5-trillion-private-market-for-retail-traders-previously-reserved-for-elites",
+    "summary": "",
+    "source": "CoinDesk",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-05-19T14:58:06.693216+00:00"
+  },
+  {
     "title": "Crypto IPO boom stalls as AI frenzy reshapes tech markets",
     "url": "https://www.coindesk.com/news-analysis/2026/05/19/crypto-ipo-boom-stalls-as-ai-frenzy-reshapes-tech-markets",
     "summary": "",
     "source": "CoinDesk",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-19T14:45:15.680578+00:00"
-  },
-  {
-    "title": "Live markets: Bitcoin hangs near $77,000 as interest rates continue surge, stocks continue slump",
-    "url": "https://www.coindesk.com/tech/2026/05/19/live-markets-bitcoin-hangs-near-usd77-000-as-interest-rates-continue-to-surge",
-    "summary": "",
-    "source": "CoinDesk",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-05-19T14:45:15.680691+00:00"
+    "fetched_at": "2026-05-19T14:58:06.693328+00:00"
   },
   {
     "title": "Bitcoin miner Canaan posts $88.7M net loss in Q1 amid BTC decline",
@@ -24,7 +24,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-19T14:45:17.261237+00:00"
+    "fetched_at": "2026-05-19T14:58:08.142089+00:00"
   },
   {
     "title": "Estonian regulator partially suspends Zondacrypto operator license",
@@ -33,25 +33,34 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-19T14:45:17.261335+00:00"
+    "fetched_at": "2026-05-19T14:58:08.142195+00:00"
   },
   {
-    "title": "US Stocks Extend Declines as Yields Climb; Software Shares Gain",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-19/us-stock-futures-drop-as-semiconductor-stocks-slip-yields-climb",
-    "summary": "US stocks extended declines on Tuesday morning, trading lower as US long-term yields touched their highest since 2007. Software shares rallied while chip stocks extended declines, signaling some rotation within the tech sector.",
+    "title": "Ecolab Looks to Raise About $4 Billion to Fund CoolIT Takeover",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-19/ecolab-starts-five-part-bond-sale-to-fund-acquisition-of-coolit",
+    "summary": "Ecolab Inc. is seeking to sell around $4 billion of investment-grade bonds to help finance its acquisition of CoolIT Systems Inc., according to people familiar with the matter.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-19T14:45:42.228592+00:00"
+    "fetched_at": "2026-05-19T14:58:22.820490+00:00"
   },
   {
-    "title": "Nasdaq 100 Falls on Chipmaker Rout as Yields Rise",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-19/nasdaq-100-falls-on-chipmaker-rout-as-yields-rise-video",
-    "summary": "Wall Street\u2019s crowded chipmaker trade continued to unravel, dragging down stocks on speculation that a surge from this year\u2019s lows has gone too far amid war-fueled inflation risks that have sank bonds.\nOmar Aguilar, CEO and CIO at Schwab Asset Management, discusses his outlook on the markets as 30-y",
+    "title": "Niger Boosts Stake in China-Backed Pipeline as Beijing Seeks to Secure Supply",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-19/niger-boosts-stake-in-china-backed-pipeline-as-beijing-seeks-to-secure-supply",
+    "summary": "Niger secured a stake in a China-backed oil pipeline after renegotiating export terms, as Beijing steps up efforts to secure reliable crude supplies amid global market disruptions.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-19T14:45:42.228695+00:00"
+    "fetched_at": "2026-05-19T14:58:22.820557+00:00"
+  },
+  {
+    "title": "Strive (ASST) Stacks Another 382 BTC, Total Treasury Climbs to 15,391 Bitcoin",
+    "url": "https://bitcoinmagazine.com/news/strive-stacks-another-382-btc",
+    "summary": "Bitcoin Magazine\n\nStrive (ASST) Stacks Another 382 BTC, Total Treasury Climbs to 15,391 Bitcoin\nStrive, Inc. added 382 Bitcoin for $30.3 million, pushing its treasury to 15,391 BTC as it continues an aggressive, equity-funded accumulation strategy tied to shareholder Bitcoin exposure growth.\nThis po",
+    "source": "Bitcoin Magazine",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-05-19T14:58:09.470680+00:00"
   },
   {
     "title": "SEC Prepares to Open the Door to Tokenized Stocks: Report",
@@ -60,16 +69,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-19T14:45:19.001037+00:00"
-  },
-  {
-    "title": "Bitcoin Becomes Lifeline for Activists as HRF Unveils \u2018Bitcoin for Nonprofits\u2019 Guide",
-    "url": "https://bitcoinmagazine.com/news/bitcoin-becomes-lifeline-for-activists-hrf",
-    "summary": "Bitcoin Magazine\n\nBitcoin Becomes Lifeline for Activists as HRF Unveils \u2018Bitcoin for Nonprofits\u2019 Guide\nThe Human Rights Foundation has released a new Bitcoin playbook showing how nonprofits and activist groups can bypass financial censorship and operate independently when governments weaponize the b",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-05-19T14:45:19.001135+00:00"
+    "fetched_at": "2026-05-19T14:58:09.470743+00:00"
   },
   {
     "title": "Japan\u2019s Ruling Party Pushes On-Chain Finance Plan to Protect Yen",
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-19T14:45:19.501371+00:00"
+    "fetched_at": "2026-05-19T14:58:09.753765+00:00"
   },
   {
     "title": "AI Slop Floods Bug Bounty Programs as Companies Struggle with Fake Reports",
@@ -87,7 +87,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-19T14:45:19.501458+00:00"
+    "fetched_at": "2026-05-19T14:58:09.753847+00:00"
   },
   {
     "title": "Xi told Trump that Putin might \u2018regret\u2019 invasion of Ukraine",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-19T14:45:44.279155+00:00"
+    "fetched_at": "2026-05-19T14:58:24.415352+00:00"
   },
   {
     "title": "Putin and Xi to discuss huge gas project at China summit",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-19T14:45:44.279228+00:00"
+    "fetched_at": "2026-05-19T14:58:24.415442+00:00"
   }
 ]
