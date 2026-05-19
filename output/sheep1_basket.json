@@ -1,39 +1,39 @@
 [
   {
+    "title": "Data shows Bitcoin dip buyers waiting for lower prices: Is $70K BTC\u2019s next stop?",
+    "url": "https://cointelegraph.com/markets/bitcoin-traders-may-look-for-deeper-pullback-zones",
+    "summary": "Bitcoin futures and orderbook data show dip buyers waiting for a BTC price drop below $70,000.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-05-19T22:04:27.439580+00:00"
+  },
+  {
     "title": "Polymarket partners with Nasdaq to list private company contracts",
     "url": "https://cointelegraph.com/news/polymarket-partners-with-nasdaq-to-launch-private-company-prediction-markets",
     "summary": "New markets will let users trade on fundraising, valuation and other startup milestones using data from Nasdaq Private Market, extending forecasting into private capital.\n",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-19T20:22:57.359814+00:00"
+    "fetched_at": "2026-05-19T22:04:27.439682+00:00"
   },
   {
-    "title": "Senator Warren questions OCC chief on approval of \u2018ineligible\u2019 crypto trust charters",
-    "url": "https://cointelegraph.com/news/elizabeth-warren-seeks-occ-communications-crypto-trust-charters-eyeing-trump-links",
-    "summary": "The Massachusetts lawmaker asked the US Comptroller of the Currency to provide all communications between the agency and Donald Trump potentially related to the charter approvals.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-05-19T20:22:57.359897+00:00"
-  },
-  {
-    "title": "Saks Global CEO on Next Steps in Bankruptcy Process, Path To Growth",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-19/saks-global-ceo-on-next-steps-in-bankruptcy-process-video",
-    "summary": "Saks Global CEO Geoffroy van Raemdonck discusses the progress the company has made since filing for bankruptcy. He discusses what the luxury retail space looks like for the brands that do business with Saks and what role brick and mortar stores will play going forward. He speaks with Romaine Bostick",
+    "title": "Heat Strains US Power Grids That Need Off-Season Repairs",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-19/rising-heat-strains-us-power-grid-in-need-of-off-season-repairs",
+    "summary": "A blast of late-spring heat is straining electric grids in the eastern US as power-plant owners race to repair equipment ahead of rising demand and hotter-than-normal weather expected this summer.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-19T20:22:58.207846+00:00"
+    "fetched_at": "2026-05-19T22:04:32.402354+00:00"
   },
   {
-    "title": "Stocks Fall as Fed-Hike Anxiety Lifts Bond Yields: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-18/oil-slips-as-trump-spurs-optimism-over-iran-deal-markets-wrap",
-    "summary": "The latest bout of weakness in bonds lifted yields to multi-year highs, reducing the appetite for stocks on speculation that a torrid market surge has gone too far amid war-fueled inflation risks.",
+    "title": "Building Fan Community Key to WNBA Success, Says Valkyries President Jess Smith",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-19/building-community-key-to-success-valkyries-president-video",
+    "summary": "Jess Smith, president of the Golden State Valkyries, said that building community and connection in a deeper way and then building a business around that foundation has been key to her teams success in their first season. Smith said that the Valkyries, a team that was recently rated at a $1 billion ",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-19T20:22:58.207908+00:00"
+    "fetched_at": "2026-05-19T22:04:32.402413+00:00"
   },
   {
     "title": "Bitcoin Price Slides Below $77,000 as ETF Exodus Tops $1 Billion",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-19T20:22:57.673311+00:00"
+    "fetched_at": "2026-05-19T22:04:27.708602+00:00"
   },
   {
     "title": "Btrust Appoints New Board of Directors to Steer Next Phase of Bitcoin Development",
@@ -51,60 +51,60 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-19T20:22:57.673378+00:00"
+    "fetched_at": "2026-05-19T22:04:27.708667+00:00"
   },
   {
-    "title": "Bitcoin Miners Emerge as Unlikely Power Brokers in AI Infrastructure Race, Says Bernstein",
-    "url": "https://decrypt.co/368381/bitcoin-miners-unlikely-power-brokers-ai-infrastructure-race-bernstein",
-    "summary": "Bernstein remains bullish on Bitcoin mining firms like IREN, Riot, and CleanSpark, who are all riding the wave of AI compute demand.",
+    "title": "After Nearly a Decade, Gary Gensler's Poster Child for Crypto Compliance Executes Its First Trade",
+    "url": "https://decrypt.co/368409/gary-gensler-poster-child-crypto-compliance-executes-first-trade",
+    "summary": "After weathering years of industry skepticism and navigating a shifting regulatory landscape, Prometheum executed its first crypto trades.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-19T20:22:57.774710+00:00"
+    "fetched_at": "2026-05-19T22:04:27.790428+00:00"
   },
   {
-    "title": "Google Unveils Gemini Omni\u2014A Next-Gen AI Video Builder That Can 'Simulate the World'",
-    "url": "https://decrypt.co/368393/google-unveils-gemini-omni-next-gen-ai-video-builder-simulate-world",
-    "summary": "Google's new multimodal AI model powers updates to Flow and Flow Music, including conversational video editing and AI-generated media tools.",
+    "title": "Minnesota Bans Prediction Markets\u2014And Is Sued By the Trump Admin Hours Later",
+    "url": "https://decrypt.co/368406/minnesota-bans-prediction-markets-sued-trump-admin-hours-later",
+    "summary": "Minnesota's ban has made it a felony to create or operate a prediction market in the state. The CFTC and DOJ say it violates federal law.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-19T20:22:57.774782+00:00"
+    "fetched_at": "2026-05-19T22:04:27.790493+00:00"
   },
   {
-    "title": "Zcash Foundation ends Q1 with $36.69M in liquid assets and operating expenses of $817K",
-    "url": "https://www.theblock.co/post/401924/zcash-foundation-ends-q1-with-36-69m-in-liquid-assets-and-operating-expenses-of-817k",
-    "summary": "Zcash Foundation Q1 operating expenses came in at about $817,000, with team compensation as the largest category.",
+    "title": "Bitwise calls HYPE a \u2018Gen 2\u2019 crypto token, says its undervalued",
+    "url": "https://www.theblock.co/post/401934/bitwise-calls-hype-a-gen-2-crypto-token-says-its-undervalued",
+    "summary": "The asset manager recently launched a HYPE-based exchange-traded fund and said it will use some of the fees generated to buy the token.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-19T20:22:57.899446+00:00"
+    "fetched_at": "2026-05-19T22:04:27.873557+00:00"
   },
   {
-    "title": "CFTC sues Minnesota over first explicit state ban on prediction markets",
-    "url": "https://www.theblock.co/post/401917/cftc-sues-minnesota-first-explicit-state-ban-prediction-markets",
-    "summary": "Minnesota\u2019s law could expose exchanges, payment providers, media partners, and sports leagues to criminal liability.",
+    "title": "Tokenized equities daily volume hits all-time high of $3.57 billion",
+    "url": "https://www.theblock.co/post/401935/tokenized-equities-daily-volume-hits-all-time-high-of-3-57-billion",
+    "summary": "The Block's data shows onchain equities trading volume growing since the start of the year, and hitting an all-time high on Monday.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-19T20:22:57.899516+00:00"
+    "fetched_at": "2026-05-19T22:04:27.873621+00:00"
   },
   {
-    "title": "Trump claims Xi will not arm Iran as strike threat looms",
-    "url": "https://www.ft.com/content/95b98e06-3a04-4cfa-9722-f8bd27a5109b",
-    "summary": "US president warns Tehran has \u2018two or three days\u2019 to reach a deal and reopen the Strait of Hormuz",
+    "title": "Trump and sons to be \u2018forever\u2019 exempt from tax audits",
+    "url": "https://www.ft.com/content/57334fae-a475-4ab0-a202-8df3766927e4",
+    "summary": "Justice department deal comes day after government set up $1.8bn fund to pay president\u2019s allies hit by alleged \u2018lawfare\u2019",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-19T20:22:59.330079+00:00"
+    "fetched_at": "2026-05-19T22:04:33.159355+00:00"
   },
   {
-    "title": "Putin and Xi to discuss huge gas project at China summit",
-    "url": "https://www.ft.com/content/7612a618-fbaf-4e3e-8e55-0cf5cc88d132",
-    "summary": "Talks on Power of Siberia 2 pipeline come just days after Donald Trump\u2019s visit to Beijing",
+    "title": "Google to release smart glasses and add AI \u2018agents\u2019 to search engine",
+    "url": "https://www.ft.com/content/c47ab51e-2521-4ccb-9de5-a2b03791981a",
+    "summary": "CEO Sundar Pichai says features powered by new Gemini model will close gap with Anthropic and OpenAI",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-19T20:22:59.330137+00:00"
+    "fetched_at": "2026-05-19T22:04:33.159414+00:00"
   }
 ]
