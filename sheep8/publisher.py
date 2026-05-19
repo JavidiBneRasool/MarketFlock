@@ -1,4 +1,4 @@
-import json, os, hashlib, requests, zipfile, time, subprocess, shutil, urllib.parse, random
+import json, os, hashlib, zipfile, time, subprocess, shutil, urllib.parse, random, re, html
 from datetime import datetime
 
 PROJECT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -95,6 +95,18 @@ def _normalize_autoflock_article(article):
             article[key] = value
     return article
 
+def _slugify(value):
+    slug = re.sub(r"[^a-z0-9]+", "-", str(value).lower()).strip("-")
+    return slug[:100] or hashlib.md5(str(value).encode()).hexdigest()[:12]
+
+def _markdown_to_html(value):
+    try:
+        import markdown
+        return markdown.markdown(value)
+    except Exception:
+        paragraphs = [p.strip() for p in str(value).split("\n\n") if p.strip()]
+        return "\n".join(f"<p>{html.escape(p)}</p>" for p in paragraphs)
+
 def run():
     print("🐑 SHEEP 8: Publishing Expert Signals...")
     os.makedirs(SITE_DIR, exist_ok=True)
@@ -117,17 +129,20 @@ def run():
     with open(HISTORY_FILE, "w") as f:
         json.dump(history, f, indent=2)
 
+    # Generate article filenames before writing the index so the homepage links
+    # point at the freshly published pages.
+    for a in current_articles:
+        slug = _slugify(a.get("headline", "article"))
+        a["filename"] = f"{slug}.html"
+
     index_html = _build_index(history[:12])
     with open(f"{SITE_DIR}/index.html", "w", encoding="utf-8") as f:
         f.write(index_html)
-# Generate Article Pages
-from slugify import slugify
-for a in current_articles:
-    slug = slugify(a.get("headline", "article"))
-    a["filename"] = f"{slug}.html"
-    content = _build_article_page(a)
-    with open(f"{SITE_DIR}/{a['filename']}", "w", encoding="utf-8") as f:
-        f.write(content)
+
+    for a in current_articles:
+        content = _build_article_page(a)
+        with open(f"{SITE_DIR}/{a['filename']}", "w", encoding="utf-8") as f:
+            f.write(content)
 
     print(f"🐑 SHEEP 8: {len(current_articles)} SEO-optimized articles published ✓")
     return {"published": True}
@@ -202,8 +217,7 @@ def _get_affiliate_block(category):
     '''
 
 def _build_article_page(a):
-    import markdown
-    body_html = markdown.markdown(a['body'])
+    body_html = _markdown_to_html(a.get('body', ''))
     affiliate_block = _get_affiliate_block(a.get('category', 'Default'))
     
     return f"""<!DOCTYPE html>
