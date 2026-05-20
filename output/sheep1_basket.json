@@ -1,12 +1,30 @@
 [
   {
+    "title": "Trump orders government, Fed to review crypto firms' access to payment rails",
+    "url": "https://www.coindesk.com/policy/2026/05/19/trump-orders-government-fed-to-review-crypto-firms-access-to-payment-rails",
+    "summary": "",
+    "source": "CoinDesk",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-05-20T02:50:35.559529+00:00"
+  },
+  {
+    "title": "Even a mountain of T-bills won't save Tether and Circle from a sudden liquidity crisis, expert says",
+    "url": "https://www.coindesk.com/business/2026/05/19/even-a-mountain-of-t-bills-won-t-save-tether-and-circle-from-a-sudden-liquidity-crisis-expert-says",
+    "summary": "",
+    "source": "CoinDesk",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-05-20T02:50:35.559637+00:00"
+  },
+  {
     "title": "Solana futures funding rate turns negative: Is $78 SOL next?",
     "url": "https://cointelegraph.com/markets/solana-futures-funding-rate-turns-negative-is-a-drop-to-78-next",
     "summary": "Solana futures funding turned negative as demand for SOL and its associated decentralized exchanges fell. Will traders buy the dip or is $78 next?  ",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-20T02:01:46.763674+00:00"
+    "fetched_at": "2026-05-20T02:50:37.949754+00:00"
   },
   {
     "title": "Bernstein: Bitcoin miners becoming critical suppliers in AI infrastructure",
@@ -15,25 +33,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-20T02:01:46.763759+00:00"
+    "fetched_at": "2026-05-20T02:50:37.949840+00:00"
   },
   {
-    "title": "Asian Stocks Extend Losses, Bond Yields in Focus: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-19/asian-stocks-to-track-us-drop-on-inflation-fears-markets-wrap",
-    "summary": "Asian stocks fell for a fourth day as mounting inflation concerns fueled a rise in global bond yields, prompting investors to reassess valuations after a record-breaking rally.",
+    "title": "Oil Steadies as Traders Weigh Trump\u2019s Latest Iran Threats",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-19/latest-oil-market-news-and-analysis-for-may-20",
+    "summary": "Oil steadied as traders weighed President Donald Trump\u2019s latest threat to resume strikes on Iran.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-20T02:01:47.842011+00:00"
+    "fetched_at": "2026-05-20T02:51:01.948557+00:00"
   },
   {
-    "title": "Singapore Tops Indonesia as Biggest Southeast Asia Stock Market",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-20/singapore-beats-indonesia-as-biggest-southeast-asia-stock-market",
-    "summary": "Singapore has taken over Indonesia as Southeast Asia\u2019s largest stock market, signaling investors\u2019 endorsement of the city-state\u2019s market reforms and their diminishing confidence in its neighbor\u2019s economic management.",
+    "title": "Foreign Flows Into Indian Stocks Show Signs of Recovery",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-05-20/foreign-inflows-into-indian-stocks-recover-metals-among-preferred-sectors",
+    "summary": "Nifty has fared better than Asia\u2019s stock benchmark in recent sessions.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-20T02:01:47.842070+00:00"
+    "fetched_at": "2026-05-20T02:51:01.948673+00:00"
   },
   {
     "title": "Bitcoin Price Slides Below $77,000 as ETF Exodus Tops $1 Billion",
@@ -42,7 +60,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-20T02:01:47.175801+00:00"
+    "fetched_at": "2026-05-20T02:50:38.884927+00:00"
   },
   {
     "title": "Btrust Appoints New Board of Directors to Steer Next Phase of Bitcoin Development",
@@ -51,7 +69,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-20T02:01:47.175868+00:00"
+    "fetched_at": "2026-05-20T02:50:38.884979+00:00"
   },
   {
     "title": "After Nearly a Decade, Gary Gensler's Poster Child for Crypto Compliance Executes Its First Trade",
@@ -60,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-20T02:01:47.266693+00:00"
+    "fetched_at": "2026-05-20T02:50:49.870924+00:00"
   },
   {
     "title": "Minnesota Bans Prediction Markets\u2014And Is Sued By the Trump Admin Hours Later",
@@ -69,25 +87,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-20T02:01:47.266769+00:00"
-  },
-  {
-    "title": "Ethereum leads $65 billion RWA race as blockchains compete for institutional tokenization flows",
-    "url": "https://www.theblock.co/post/401711/ethereum-leads-65-billion-rwa-race-blockchains-compete-institutional-tokenization-flows",
-    "summary": "The distributed market structure suggests the RWA landscape has not yet consolidated around a clear winner.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-05-20T02:01:47.354542+00:00"
-  },
-  {
-    "title": "Bitwise calls HYPE a \u2018Gen 2\u2019 crypto token, says its undervalued",
-    "url": "https://www.theblock.co/post/401934/bitwise-calls-hype-a-gen-2-crypto-token-says-its-undervalued",
-    "summary": "The asset manager recently launched a HYPE-based exchange-traded fund and said it will use some of the fees generated to buy the token.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-05-20T02:01:47.354614+00:00"
+    "fetched_at": "2026-05-20T02:50:49.871016+00:00"
   },
   {
     "title": "Trump and sons granted \u2018forever\u2019 immunity from existing tax audits",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-20T02:01:48.617053+00:00"
+    "fetched_at": "2026-05-20T02:51:03.122955+00:00"
   },
   {
     "title": "Google to release smart glasses and add AI \u2018agents\u2019 to search engine",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-20T02:01:48.617113+00:00"
+    "fetched_at": "2026-05-20T02:51:03.123061+00:00"
   }
 ]
