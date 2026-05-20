@@ -1,57 +1,39 @@
 [
   {
-    "title": "Trump orders government, Fed to review crypto firms' access to payment rails",
-    "url": "https://www.coindesk.com/policy/2026/05/19/trump-orders-government-fed-to-review-crypto-firms-access-to-payment-rails",
-    "summary": "",
-    "source": "CoinDesk",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-05-20T05:06:14.896801+00:00"
-  },
-  {
-    "title": "Even a mountain of T-bills won't save Tether and Circle from a sudden liquidity crisis, expert says",
-    "url": "https://www.coindesk.com/business/2026/05/19/even-a-mountain-of-t-bills-won-t-save-tether-and-circle-from-a-sudden-liquidity-crisis-expert-says",
-    "summary": "",
-    "source": "CoinDesk",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-05-20T05:06:14.896909+00:00"
-  },
-  {
-    "title": "Bankr temporarily disables transactions after 14 wallets hacked",
-    "url": "https://cointelegraph.com/news/bankr-disables-transactions-after-14-wallets-hacked",
-    "summary": "Bankr recommends that affected users create a new wallet, generate a new seed phrase on a clean device and revoke approvals if remaining assets can\u2019t be moved. ",
+    "title": "US Senate advances resolution to curb Trump\u2019s Iran war powers",
+    "url": "https://cointelegraph.com/news/us-senate-advances-resolution-to-end-trumps-iran-war",
+    "summary": "\u201cCongress has the power to slam the brakes on this unwise conflict,\u201d said bill sponsor and Democratic Senator Tim Kaine. ",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-20T05:06:16.746310+00:00"
+    "fetched_at": "2026-05-20T06:38:02.237660+00:00"
   },
   {
-    "title": "Trump-backed Truth Social pulls bids for crypto ETFs",
-    "url": "https://cointelegraph.com/news/trump-backed-truth-social-pulls-bids-for-crypto-etfs",
-    "summary": "The crypto ETFs were intended to be part of Trump Media & Technology Group\u2019s broader crypto strategy, which included the launch of the Truth.fi financial platform.",
+    "title": "WLFI-linked AI Financial flags \u2018going concern\u2019 as losses mount",
+    "url": "https://cointelegraph.com/news/world-liberty-linked-ai-financial-flags-going-concern-as-losses-mount",
+    "summary": "The World Liberty Financial-linked AI Financial Corp. posted a net loss of $271.5 million in the first quarter of 2026, and flagged significant doubt it could continue operating for the next 12 months without intervention. ",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-20T05:06:16.746410+00:00"
+    "fetched_at": "2026-05-20T06:38:02.237737+00:00"
   },
   {
-    "title": "Wheat Drops on Lack of Chinese Confirmation of Grain Purchases",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-20/wheat-drops-on-lack-of-chinese-confirmation-of-grain-purchases",
-    "summary": "US wheat futures led grains lower as sentiment soured due to a lack of confirmation from China on the Trump administration\u2019s announcement of billions of dollars in agricultural purchases.",
+    "title": "Oil Holds Decline as Traders Weigh Trump\u2019s Latest Iran Threats",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-19/latest-oil-market-news-and-analysis-for-may-20",
+    "summary": "Oil held a dip as traders weighed President Donald Trump\u2019s latest threat to resume strikes on Iran.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-20T05:06:43.205521+00:00"
+    "fetched_at": "2026-05-20T06:38:02.938296+00:00"
   },
   {
-    "title": "Indonesian Stocks Fall on Tightened Commodity Export Controls",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-20/indonesian-markets-extend-fall-on-government-export-control-plan",
-    "summary": "Indonesian stocks fell during choppy trading on Wednesday after President Prabowo Subianto\u2019s plan to tighten oversight of commodity exports fueled concern about greater state control and weaker profitability in a key industry.",
+    "title": "M&amp;S Expects Profit Boost as Retailer Moves on From Cyber Hit",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-20/m-s-expects-profit-boost-as-retailer-moves-on-from-cyber-hit",
+    "summary": "Marks &amp; Spencer Group Plc expects profit to bounce back to the growth seen before the British fashion and food chain was knocked off course by a cyberattack last year.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-20T05:06:43.205590+00:00"
+    "fetched_at": "2026-05-20T06:38:02.938356+00:00"
   },
   {
     "title": "Bitcoin Price Slides Below $77,000 as ETF Exodus Tops $1 Billion",
@@ -60,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-20T05:06:17.596452+00:00"
+    "fetched_at": "2026-05-20T06:38:02.475049+00:00"
   },
   {
     "title": "Btrust Appoints New Board of Directors to Steer Next Phase of Bitcoin Development",
@@ -69,7 +51,43 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-20T05:06:17.596521+00:00"
+    "fetched_at": "2026-05-20T06:38:02.475150+00:00"
+  },
+  {
+    "title": "After Nearly a Decade, Gary Gensler's Poster Child for Crypto Compliance Executes Its First Trade",
+    "url": "https://decrypt.co/368409/gary-gensler-poster-child-crypto-compliance-executes-first-trade",
+    "summary": "After weathering years of industry skepticism and navigating a shifting regulatory landscape, Prometheum executed its first crypto trades.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-05-20T06:38:02.559788+00:00"
+  },
+  {
+    "title": "Minnesota Bans Prediction Markets\u2014And Is Sued By the Trump Admin Hours Later",
+    "url": "https://decrypt.co/368406/minnesota-bans-prediction-markets-sued-trump-admin-hours-later",
+    "summary": "Minnesota's ban has made it a felony to create or operate a prediction market in the state. The CFTC and DOJ say it violates federal law.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-05-20T06:38:02.559855+00:00"
+  },
+  {
+    "title": "Tether, Gnosis co-lead $4.4 million seed round for lightweight mobile-friendly Sorted Wallet",
+    "url": "https://www.theblock.co/post/401929/tether-gnosis-co-lead-4-4-million-seed-round-lightweight-mobile-sorted-wallet",
+    "summary": "With the additional funding, Sorted intends to expand geographically, particularly targeting Sub-Saharan Africa and South Asia.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-05-20T06:38:02.626835+00:00"
+  },
+  {
+    "title": "Trump orders Fed to review giving crypto firms access to master accounts",
+    "url": "https://www.theblock.co/post/401953/trump-orders-fed-master-account",
+    "summary": "The order urged the federal government to remove regulations that may be 'overly burdensome' to fintech innovation.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-05-20T06:38:02.626896+00:00"
   },
   {
     "title": "EU mulls Merkel or Draghi as possible Putin whisperer",
@@ -78,33 +96,15 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-20T05:06:45.053033+00:00"
+    "fetched_at": "2026-05-20T06:38:03.548204+00:00"
   },
   {
-    "title": "Xi warns of \u2018law of the jungle\u2019 in Putin meeting",
+    "title": "China\u2019s Xi warns of \u2018law of the jungle\u2019 in Putin meeting",
     "url": "https://www.ft.com/content/abe198be-ddfb-41fa-902c-6d80b13bcece",
     "summary": "Russian and Chinese leaders meet days after Donald Trump\u2019s Beijing summit",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-20T05:06:45.053134+00:00"
-  },
-  {
-    "title": "\u200b\u200bBSE, Wipro among 10 stocks to be added in Nifty Next 50, Nifty in September rejig. Check list",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/bse-wipro-among-10-stocks-to-be-added-in-nifty-next-50-nifty-in-september-rejig-/slideshow/131216828.cms",
-    "summary": "",
-    "source": "Economic Times Markets",
-    "category": "India Markets",
-    "tier": 9,
-    "fetched_at": "2026-05-20T05:11:06.358248+00:00"
-  },
-  {
-    "title": "Rs 1 lakh turned to Rs 21 crore! Do you own these 11 penny stocks that delivered over 10,000% returns?",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-1-lakh-turned-to-rs-21-crore-do-you-own-these-11-penny-stocks-that-delivered-over-10000-returns/articleshow/131216703.cms",
-    "summary": "Eleven penny stocks have delivered over 10,000% returns since May 2021, transforming Rs 1 lakh into over Rs 21 crore for some investors. These rallies were fueled by sectors like power, defence, and infrastructure, alongside a surge in retail participation. However, experts caution about the extreme",
-    "source": "Economic Times Markets",
-    "category": "India Markets",
-    "tier": 9,
-    "fetched_at": "2026-05-20T05:11:06.358351+00:00"
+    "fetched_at": "2026-05-20T06:38:03.548266+00:00"
   }
 ]
