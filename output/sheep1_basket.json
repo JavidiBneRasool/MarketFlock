@@ -1,48 +1,21 @@
 [
   {
-    "title": "These bitcoin metrics suggest February\u2019s $60,000 selloff may have marked the bottom",
-    "url": "https://www.coindesk.com/markets/2026/05/20/these-bitcoin-metrics-suggest-february-s-usd60-000-selloff-may-have-marked-the-bottom",
-    "summary": "",
-    "source": "CoinDesk",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-05-20T13:05:34.355393+00:00"
-  },
-  {
-    "title": "Telegram group at center of Jane Street insider-trading allegations in Terra collapse",
-    "url": "https://www.coindesk.com/policy/2026/05/20/telegram-group-at-center-of-jane-street-insider-trading-allegations-in-terra-collapse",
-    "summary": "",
-    "source": "CoinDesk",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-05-20T13:05:34.355516+00:00"
-  },
-  {
-    "title": "Bitcoin\u2019s \u2018momentum is fading\u2019: Traders have these support levels in mind",
-    "url": "https://cointelegraph.com/markets/bitcoins-momentum-is-fading-traders-have-these-support-levels-in-mind",
-    "summary": "Bitcoin momentum is fading following drop to $76,000 as analysts warn a loss of key support at $74,000-$76,000 could trigger a deeper BTC price correction.",
+    "title": "This Bitcoin price model targets \u2018conservative\u2019 $255K by year-end",
+    "url": "https://cointelegraph.com/markets/this-bitcoin-price-model-targets-conservative-255k-by-year-end",
+    "summary": "Earlier, analysts at Bernstein and BitMEX co-founder Arthur Hayes also projected Bitcoin to reach new record highs in 2026.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-20T13:05:36.165849+00:00"
+    "fetched_at": "2026-05-20T13:28:49.993763+00:00"
   },
   {
-    "title": "South Carolina governor signs bill protecting Bitcoin miners, banning CBDC",
-    "url": "https://cointelegraph.com/news/south-carolina-governor-signs-bill-protecting-bitcoin-miners-banning-cbdc",
-    "summary": "Senate Bill 163 bans CBDC payments by state agencies and shields Bitcoin miners from discriminatory zoning and licensing rules.",
+    "title": "Singapore revokes crypto payment license of Bsquared over regulatory breaches",
+    "url": "https://cointelegraph.com/news/singapore-revokes-crypto-payment-licence-of-bsquared-over-regulatory-breaches",
+    "summary": "MAS found deficiencies in Bsquared\u2019s risk management and conflict-of-interest policies, and that the firm had provided false or misleading information to the regulator on multiple occasions.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-20T13:05:36.165959+00:00"
-  },
-  {
-    "title": "ECB May Act As Iran Shock Persists",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-19/ecb-may-act-as-iran-shock-persists-video",
-    "summary": "The European Central Bank may have to respond to the economic challenges arising from the conflict in the Middle East, according to Governing Council members Joachim Nagel and Francois Villeroy de Galhau, who spoke jointly to BTV\u2019s Oliver Crook on the sidelines of the G7 Finance Ministers meeting in",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-05-20T13:05:59.198358+00:00"
+    "fetched_at": "2026-05-20T13:28:49.993837+00:00"
   },
   {
     "title": "Tether Buys Out SoftBank Stake in Bitcoin Treasury Firm",
@@ -51,7 +24,16 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-20T13:05:59.198433+00:00"
+    "fetched_at": "2026-05-20T13:28:50.655167+00:00"
+  },
+  {
+    "title": "RBI to Inject $5 Billion Equivalent Cash Via Swap Auction",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-20/india-rbi-to-inject-5-billion-equivalent-cash-via-swap-auction",
+    "summary": "India\u2019s central bank will inject liquidity to the equivalent of $5 billion via a swap auction, it said in a statement.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-05-20T13:28:50.655237+00:00"
   },
   {
     "title": "Bitcoin Price Slides Below $77,000 as ETF Exodus Tops $1 Billion",
@@ -60,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-20T13:05:36.723066+00:00"
+    "fetched_at": "2026-05-20T13:28:50.252713+00:00"
   },
   {
     "title": "Btrust Appoints New Board of Directors to Steer Next Phase of Bitcoin Development",
@@ -69,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-20T13:05:36.723275+00:00"
+    "fetched_at": "2026-05-20T13:28:50.252777+00:00"
   },
   {
     "title": "Crypto Wealth Firm Nexo Sponsors $3 Million Golf Tournament at Trump International Scotland",
@@ -78,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-20T13:05:47.303576+00:00"
+    "fetched_at": "2026-05-20T13:28:50.344901+00:00"
   },
   {
     "title": "Morning Minute: Markets Flip Green Overnight Ahead of NVDA Earnings",
@@ -87,7 +69,25 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-20T13:05:47.303670+00:00"
+    "fetched_at": "2026-05-20T13:28:50.344955+00:00"
+  },
+  {
+    "title": "Tether acquires SoftBank\u2019s stake in Twenty One Capital as share price jumps 5%",
+    "url": "https://www.theblock.co/post/402015/tether-acquires-softbanks-stake-in-twenty-one-capital-as-share-price-jumps-5",
+    "summary": "Tether has acquired SoftBank's stake in Twenty One Capital, with SoftBank's representatives stepping down from its board of directors.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-05-20T13:28:50.448744+00:00"
+  },
+  {
+    "title": "European Commission launches MiCA review as global crypto regulatory landscape shifts",
+    "url": "https://www.theblock.co/post/402005/european-commission-launches-mica-review-as-global-crypto-regulatory-landscape-shifts",
+    "summary": "The European Commission launched a MiCA consultation open through Aug. 31, asking whether the crypto framework needs updating.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-05-20T13:28:50.448809+00:00"
   },
   {
     "title": "EU mulls Merkel or Draghi as possible Putin whisperer",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-20T13:06:01.098656+00:00"
+    "fetched_at": "2026-05-20T13:28:51.299686+00:00"
   },
   {
     "title": "China\u2019s Xi warns of \u2018law of the jungle\u2019 at Putin summit",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-20T13:06:01.098762+00:00"
+    "fetched_at": "2026-05-20T13:28:51.299745+00:00"
   }
 ]
