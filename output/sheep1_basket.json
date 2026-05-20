@@ -1,57 +1,39 @@
 [
   {
-    "title": "Germany's AllUnity plans Swedish krona stablecoin, pushes into AI agentic payments",
-    "url": "https://www.coindesk.com/business/2026/05/20/germany-s-allunity-plans-swedish-krona-stablecoin-pushes-into-ai-agentic-payments",
-    "summary": "",
-    "source": "CoinDesk",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-05-20T09:24:09.276289+00:00"
-  },
-  {
-    "title": "Pan-European stablecoin effort expands to 37 lenders in push back against U.S. dollar dominance",
-    "url": "https://www.coindesk.com/business/2026/05/20/pan-european-stablecoin-effort-expands-to-37-lenders-in-push-back-against-u-s-dollar-dominance",
-    "summary": "",
-    "source": "CoinDesk",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-05-20T09:24:09.276405+00:00"
-  },
-  {
-    "title": "Bitwise calls HYPE \u2018most mispriced\u2019 crypto despite 77% rise this year",
-    "url": "https://cointelegraph.com/news/bitwise-says-hyperliquid-most-mispriced-crypto-despite-77-rise-this-year",
-    "summary": "Bitwise\u2019s Matt Hougan says Hyperliquid\u2019s token is not priced as if it is tied to a \u201cglobal super-app,\u201d arguing the platform is more than just a crypto platform.",
+    "title": "Euro stablecoin project Qivalis adds 25 banks ahead of launch",
+    "url": "https://cointelegraph.com/news/qivalis-euro-stablecoin-consortium-adds-25-banks",
+    "summary": "Qivalis expands to 37 banks after adding 25 new members across 15 countries, boosting euro stablecoin plans ahead of a second-half 2026 launch.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-20T09:24:10.490678+00:00"
+    "fetched_at": "2026-05-20T10:16:44.410461+00:00"
   },
   {
-    "title": "Trump orders review of fintech firms' access to Fed payment services",
-    "url": "https://cointelegraph.com/news/trump-review-crypto-access-federal-reserve-payment-systems",
-    "summary": "Financial regulators are also asked to review regulations that could be amended to streamline applications for eligible fintech firms seeking bank and credit union charters. ",
+    "title": "OpenAI launches overseas AI lab in Singapore with $234M commitment",
+    "url": "https://cointelegraph.com/news/openai-launches-overseas-ai-lab-singapore-234m-commitment",
+    "summary": "OpenAI is opening its first overseas applied AI lab in Singapore through a $234 million partnership expected to create more than 200 technical roles.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-20T09:24:10.490805+00:00"
+    "fetched_at": "2026-05-20T10:16:44.410536+00:00"
   },
   {
-    "title": "Global Long Bond Yields Hit Highest in Almost Two Decades",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-20/global-long-bond-yields-climb-to-highest-in-almost-two-decades",
-    "summary": "The selloff in longer-maturity government bonds has pushed up yields to levels last seen during the global financial crisis, and market participants are warning the move has room to run.",
+    "title": "Tech Bulls Are Looking to Nvidia for Stocks Revival",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-05-20/tech-bulls-are-looking-to-nvidia-for-stocks-revival",
+    "summary": "Rising bond yields have been weighing on chip stocks.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-20T09:24:25.372912+00:00"
+    "fetched_at": "2026-05-20T10:16:45.482552+00:00"
   },
   {
-    "title": "Global Bond Selloff Threatens Turmoil in Weakest Asian Economies",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-19/global-bond-selloff-threatens-turmoil-in-weakest-asian-economies",
-    "summary": "Three of Asia\u2019s most vulnerable economies are showing rising strains as their central banks come under pressure to tighten policy even as the economic hit from the Iran-war oil shock deepens.",
+    "title": "Nickel Trims Gains With Indonesia Export Controls in Focus",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-20/industrial-metals-slide-as-inflation-fears-fuel-bearish-mood",
+    "summary": "Nickel drifted lower, trimming gains seen as Indonesia moved to tighten control over some of the country\u2019s biggest commodities exports, including some forms of the metal.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-20T09:24:25.373011+00:00"
+    "fetched_at": "2026-05-20T10:16:45.482608+00:00"
   },
   {
     "title": "Bitcoin Price Slides Below $77,000 as ETF Exodus Tops $1 Billion",
@@ -60,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-20T09:24:12.014705+00:00"
+    "fetched_at": "2026-05-20T10:16:44.777965+00:00"
   },
   {
     "title": "Btrust Appoints New Board of Directors to Steer Next Phase of Bitcoin Development",
@@ -69,7 +51,43 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-20T09:24:12.014805+00:00"
+    "fetched_at": "2026-05-20T10:16:44.778029+00:00"
+  },
+  {
+    "title": "Trump's Truth Social Pulls Bitcoin ETF Application From SEC Review",
+    "url": "https://decrypt.co/368428/trumps-truth-social-pulls-bitcoin-etf-application-from-sec-review",
+    "summary": "Trump Media &#038; Technology Group has withdrawn its Form S-1 registrations for Bitcoin and Bitcoin-Ethereum ETFs.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-05-20T10:16:44.972849+00:00"
+  },
+  {
+    "title": "After Nearly a Decade, Gary Gensler's Poster Child for Crypto Compliance Executes Its First Trade",
+    "url": "https://decrypt.co/368409/gary-gensler-poster-child-crypto-compliance-executes-first-trade",
+    "summary": "After weathering years of industry skepticism and navigating a shifting regulatory landscape, Prometheum executed its first crypto trades.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-05-20T10:16:44.972910+00:00"
+  },
+  {
+    "title": "Zama acquires TokenOps to deploy encrypted token distributions for institutional issuers",
+    "url": "https://www.theblock.co/post/401974/zama-acquires-tokenops-to-deploy-encrypted-token-distributions-for-institutional-issuers",
+    "summary": "Zama acquired TokenOps, a token distribution platform, to bring FHE-encrypted vesting and airdrops to institutional issuers.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-05-20T10:16:45.137572+00:00"
+  },
+  {
+    "title": "South Carolina Governor signs pro-crypto, anti-CBDC bill into law",
+    "url": "https://www.theblock.co/post/401965/south-carolina-governor-signs-pro-crypto-bill",
+    "summary": "The new legislation bans state entities from accepting or requiring payments in CBDC, and offers strong support for crypto mining.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-05-20T10:16:45.137636+00:00"
   },
   {
     "title": "EU mulls Merkel or Draghi as possible Putin whisperer",
@@ -78,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-20T09:24:26.681756+00:00"
+    "fetched_at": "2026-05-20T10:16:46.233446+00:00"
   },
   {
     "title": "China\u2019s Xi warns of \u2018law of the jungle\u2019 at Putin summit",
@@ -87,24 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-20T09:24:26.681950+00:00"
-  },
-  {
-    "title": "Execution and balance sheet strength will decide EMS sector winners: Praveen Sahay",
-    "url": "https://economictimes.indiatimes.com/markets/expert-view/execution-and-balance-sheet-strength-will-decide-ems-sector-winners-praveen-sahay/articleshow/131222145.cms",
-    "summary": "Investors are now prioritizing financial discipline in the electronics manufacturing services sector. Companies are expanding and investing heavily, leading to increased focus on cash flows and working capital. Companies like Amber Enterprises India and Dixon Technologies India are navigating these ",
-    "source": "Economic Times Markets",
-    "category": "India Markets",
-    "tier": 9,
-    "fetched_at": "2026-05-20T09:28:50.778046+00:00"
-  },
-  {
-    "title": "Everything's in a name: Parle Industries shares hit 5% upper circuit after PM Modi's 'Melody' gift to Meloni",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/everythings-in-a-name-parle-industries-shares-hit-5-upper-circuit-after-pm-modis-melody-gift-to-meloni/articleshow/131221899.cms",
-    "summary": "Shares of Parle Industries surged 5% and hit the upper circuit after Prime Minister Narendra Modi gifted Melody toffees to Italian Prime Minister Giorgia Meloni. This sparked social media attention, leading to speculative buying in Parle Industries, despite the candy being manufactured by Parle Prod",
-    "source": "Economic Times Markets",
-    "category": "India Markets",
-    "tier": 9,
-    "fetched_at": "2026-05-20T09:28:50.778128+00:00"
+    "fetched_at": "2026-05-20T10:16:46.233505+00:00"
   }
 ]
