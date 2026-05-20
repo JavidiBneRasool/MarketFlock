@@ -1,48 +1,48 @@
 [
   {
+    "title": "Solana futures funding rate turns negative: Is $78 SOL next?",
+    "url": "https://cointelegraph.com/markets/solana-futures-funding-rate-turns-negative-is-a-drop-to-78-next",
+    "summary": "Solana futures funding turned negative as demand for SOL and its associated decentralized exchanges fell. Will traders buy the dip or is $78 next?  ",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-05-20T02:01:46.763674+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "Bernstein: Bitcoin miners becoming critical suppliers in AI infrastructure",
     "url": "https://cointelegraph.com/news/bernstein-bitcoin-miners-gain-strategic-role-in-ai-infrastructure",
     "summary": "Bernstein says miners control 27 GW of planned power and $90 billion in AI deals, giving them a strategic edge as electricity becomes the main constraint on data center growth.\n",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-19T23:52:52.831827+00:00",
+    "fetched_at": "2026-05-20T02:01:46.763759+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Data shows Bitcoin dip buyers waiting for lower prices: Is $70K BTC\u2019s next stop?",
-    "url": "https://cointelegraph.com/markets/bitcoin-traders-may-look-for-deeper-pullback-zones",
-    "summary": "Bitcoin futures and orderbook data show dip buyers waiting for a BTC price drop below $70,000.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-05-19T23:52:52.831904+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "30-Year Yield Rises as Bond Selloff Deepens",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-19/30-year-yield-rises-as-bond-selloff-deepens",
-    "summary": "Yields on the US Treasury\u2019s longest-dated bond rose to the highest level in almost two decades as investor concerns mount that accelerating inflation will force central bankers to raise interest rates. Bloomberg's Mark Cranfield breaks down the situation. (Source: Bloomberg)",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-05-19T23:52:54.659881+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Asian Stocks Set to Drop as Bond Selloff Extends: Markets Wrap",
+    "title": "Asian Stocks Extend Losses, Bond Yields in Focus: Markets Wrap",
     "url": "https://www.bloomberg.com/news/articles/2026-05-19/asian-stocks-to-track-us-drop-on-inflation-fears-markets-wrap",
-    "summary": "Asian stocks were poised to fall for a fourth day as mounting inflation concerns extended a selloff in Treasuries, sending yields to multi-year highs.",
+    "summary": "Asian stocks fell for a fourth day as mounting inflation concerns fueled a rise in global bond yields, prompting investors to reassess valuations after a record-breaking rally.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-19T23:52:54.659934+00:00",
+    "fetched_at": "2026-05-20T02:01:47.842011+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Singapore Tops Indonesia as Biggest Southeast Asia Stock Market",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-20/singapore-beats-indonesia-as-biggest-southeast-asia-stock-market",
+    "summary": "Singapore has taken over Indonesia as Southeast Asia\u2019s largest stock market, signaling investors\u2019 endorsement of the city-state\u2019s market reforms and their diminishing confidence in its neighbor\u2019s economic management.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-05-20T02:01:47.842070+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-19T23:52:53.279680+00:00",
+    "fetched_at": "2026-05-20T02:01:47.175801+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-19T23:52:53.279737+00:00",
+    "fetched_at": "2026-05-20T02:01:47.175868+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-19T23:52:53.443845+00:00",
+    "fetched_at": "2026-05-20T02:01:47.266693+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-19T23:52:53.443912+00:00",
+    "fetched_at": "2026-05-20T02:01:47.266769+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-19T23:52:53.614818+00:00",
+    "fetched_at": "2026-05-20T02:01:47.354542+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-19T23:52:53.614885+00:00",
+    "fetched_at": "2026-05-20T02:01:47.354614+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-19T23:52:55.484563+00:00",
+    "fetched_at": "2026-05-20T02:01:48.617053+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-19T23:52:55.484622+00:00",
+    "fetched_at": "2026-05-20T02:01:48.617113+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
