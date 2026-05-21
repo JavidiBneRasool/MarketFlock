@@ -1,30 +1,12 @@
 [
   {
-    "title": "A crypto whale has made a $224,000 bet that XRP's price stays perfectly flat through June",
-    "url": "https://www.coindesk.com/markets/2026/05/21/a-massive-xrp-trade-is-betting-prices-gravitate-to-usd1-40-until-the-end-of-june",
-    "summary": "",
-    "source": "CoinDesk",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-05-21T09:59:51.340209+00:00"
-  },
-  {
-    "title": "TradFi giant IG to expand crypto trading across Europe through Bitpanda",
-    "url": "https://www.coindesk.com/business/2026/05/20/tradfi-giant-ig-to-expand-crypto-trading-across-europe-through-bitpanda",
-    "summary": "",
-    "source": "CoinDesk",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-05-21T09:59:51.340380+00:00"
-  },
-  {
     "title": "Silvergate\u2019s Fraher breaks silence on settlement with Gensler\u2019s SEC",
     "url": "https://cointelegraph.com/news/silvergates-fraher-breaks-silence-on-settlement-with-genslers-sec",
     "summary": "Former Silvergate executive Kate Fraher said the rule that prevented her from sharing her side of the story was unconstitutional. It was finally lifted by the SEC this week.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-21T09:59:52.273186+00:00"
+    "fetched_at": "2026-05-21T10:28:54.253575+00:00"
   },
   {
     "title": "Tax evaders are trying \u2018novel digital assets\u2019 to dodge authorities: Chainalysis",
@@ -33,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-21T09:59:52.273296+00:00"
+    "fetched_at": "2026-05-21T10:28:54.253670+00:00"
   },
   {
-    "title": "Iran War Spurs Bear Scenarios for Asia FX, Bonds",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-21/iran-war-spurs-extreme-bear-scenarios-for-asia-currencies-bonds",
-    "summary": "The Iran war is piling pressure on emerging Asian markets, pushing some currencies and bond yields toward levels once considered unlikely.",
+    "title": "Junk Debt\u2019s Red-Hot Rally Sparks Complacency Fears as Risk Rises",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-21/hot-junk-debt-market-is-prompting-complacency-fears-in-credit",
+    "summary": "Junk debt is beating just about everything else in fixed-income markets after surging yields wiped out gains on most other bonds. Yet with high-yield credit spreads near two-decade lows, investor unease is building.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-21T10:00:04.936633+00:00"
+    "fetched_at": "2026-05-21T10:28:54.933183+00:00"
   },
   {
-    "title": "US Stocks Steady as Traders Await Hormuz Progress: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-20/asian-stocks-to-rise-as-nvidia-whipsaws-on-results-markets-wrap",
-    "summary": "US equities held gains while oil fell and bonds ticked higher as traders waited to see whether hopes of a peace deal in the Middle East would translate into tangible progress.",
+    "title": "Deere Keeps Outlook With Construction Boost as Farmers Struggle",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-21/deere-keeps-outlook-with-construction-boost-as-farmers-struggle",
+    "summary": "Deere &amp; Co. reiterated its annual profit outlook Thursday as gains in construction and forestry helped to offset a still-slumping agricultural economy.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-21T10:00:04.936712+00:00"
+    "fetched_at": "2026-05-21T10:28:54.933240+00:00"
   },
   {
     "title": "Hunter Biden Now Accepts Bitcoin for Artwork on His Official Website",
@@ -60,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-21T09:59:53.775056+00:00"
+    "fetched_at": "2026-05-21T10:28:54.534546+00:00"
   },
   {
     "title": "VerifiedX Brings Native Bitcoin Redemption and FROST Privacy to Base DeFi with Fireblocks Integration",
@@ -69,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-21T09:59:53.775146+00:00"
+    "fetched_at": "2026-05-21T10:28:54.534631+00:00"
   },
   {
     "title": "Bitcoin Firm Nakamoto Plots 1-for-40 Stock Split Following 99% Price Plunge",
@@ -78,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-21T09:59:59.107687+00:00"
+    "fetched_at": "2026-05-21T10:28:54.606084+00:00"
   },
   {
     "title": "Shai-Hulud: What to Know About the Malware Spreading Through Software Pipelines",
@@ -87,7 +69,25 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-21T09:59:59.107767+00:00"
+    "fetched_at": "2026-05-21T10:28:54.606143+00:00"
+  },
+  {
+    "title": "Fantasy Top to shut down, says trading card game model was \u2018never built\u2019 for crypto",
+    "url": "https://www.theblock.co/post/402144/fantasy-top-to-shut-down-says-trading-card-game-model-was-never-built-for-crypto",
+    "summary": "Its founder said that financialized crypto trading card games attract speculators rather than players.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-05-21T10:28:54.704762+00:00"
+  },
+  {
+    "title": "Wife of Sandbox co-founder Sebastien Borget targeted in kidnapping attempt at home in France: report",
+    "url": "https://www.theblock.co/post/402146/wife-of-sandbox-co-founder-sebastien-borget-targeted-in-kidnapping-attempt-at-home-in-france-report",
+    "summary": "The wife of Sandbox co-founder Sebastien Borget was targeted in a kidnapping attempt as France logs over 41 crypto kidnappings in 2026.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-05-21T10:28:54.704834+00:00"
   },
   {
     "title": "Elon Musk\u2019s SpaceX sets out plans for biggest IPO in history",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-21T10:00:06.544518+00:00"
+    "fetched_at": "2026-05-21T10:28:55.501412+00:00"
   },
   {
     "title": "Six takeaways from Musk\u2019s 200,000-word planetary vision",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-21T10:00:06.544625+00:00"
+    "fetched_at": "2026-05-21T10:28:55.501469+00:00"
   }
 ]
