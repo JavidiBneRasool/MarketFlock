@@ -1,39 +1,39 @@
 [
   {
-    "title": "Blockchain.com confidentially submits IPO filing with SEC",
-    "url": "https://cointelegraph.com/news/blockchaincom-confidentially-submits-ipo-filing-with-sec",
-    "summary": "The crypto services company began the US IPO process as companies across the digital asset sector weigh public market debuts. ",
+    "title": "Petition to scrap South Korea's crypto tax reaches 50K threshold",
+    "url": "https://cointelegraph.com/news/petition-scrap-south-korea-crypto-tax-50k-threshold",
+    "summary": "Critics say the new 22% crypto tax, set to take effect in 2027, unfairly favors other asset classes with a much lower tax burden.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-21T18:50:52.266980+00:00"
+    "fetched_at": "2026-05-21T20:29:11.635502+00:00"
   },
   {
-    "title": "Bitcoin accumulation trends weaken as realized losses jump to $600M",
-    "url": "https://cointelegraph.com/markets/bitcoin-accumulation-trends-weaken-as-realized-losses-jump-to-600m",
-    "summary": "Bitcoin whales and investors shift to distribution as realized losses surge past $600 million, as BTC price declines toward $76,000.",
+    "title": "CFTC signs MOU with National Hockey League over prediction markets",
+    "url": "https://cointelegraph.com/news/cftc-national-hockey-league-prediction-markets",
+    "summary": "The financial regulator signed a similar agreement with Major League Baseball in March and continues to file lawsuits against state-level authorities going after prediction market platforms over sports betting.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-21T18:50:52.267050+00:00"
+    "fetched_at": "2026-05-21T20:29:11.635575+00:00"
   },
   {
-    "title": "Gold Steadies as Traders Weigh Rate Path on US-Iran Deal Hopes",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-20/gold-steadies-as-hopes-of-us-iran-truce-lower-odds-of-rate-hikes",
-    "summary": "Gold erased losses as hopes of a US-Iran ceasefire deal eased bets that central banks may need to keep interest rates higher for longer to combat inflation.",
+    "title": "Stocks Rise, Oil Falls on Hopes for US-Iran Deal: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-20/asian-stocks-to-rise-as-nvidia-whipsaws-on-results-markets-wrap",
+    "summary": "Hopes for a diplomatic way out of the war in Iran lifted stocks as oil dropped on speculation that a deal would pave the way for a revival of energy flows through the key Strait of Hormuz.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-21T18:50:53.019950+00:00"
+    "fetched_at": "2026-05-21T20:29:17.437248+00:00"
   },
   {
-    "title": "Fed\u2019s Barkin Says Repeated Supply Shocks Test Inflation Anchor",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-21/fed-s-barkin-says-repeated-supply-shocks-test-inflation-anchor",
-    "summary": "Federal Reserve Bank of Richmond President Tom Barkin said the ability of businesses and consumers to tolerate the latest in a series of supply shocks will determine whether the US central bank can continue to \u201clook through\u201d higher inflation without raising interest rates.",
+    "title": "Stocks Erase Losses on Peace-Deal Hopes; Dow Jones Posts Record",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-21/stock-futures-fall-as-nvidia-fails-to-spark-lift-walmart-slides",
+    "summary": "US stocks finished the day flat, paring earlier losses as bond yields and oil prices drifted lower on hopes for a peace settlement in the Middle East, and as investors piled into old-economy stocks.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-21T18:50:53.020011+00:00"
+    "fetched_at": "2026-05-21T20:29:17.437304+00:00"
   },
   {
     "title": "U.S. Lawmaker Unveils Bill to Codify Strategic Bitcoin Reserve, Draws Bipartisan Support",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-21T18:50:52.444155+00:00"
+    "fetched_at": "2026-05-21T20:29:11.909789+00:00"
   },
   {
     "title": "Blockchain.com Confidentially Files for U.S. IPO, Joining Wave of Crypto Listings",
@@ -51,25 +51,25 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-21T18:50:52.444227+00:00"
+    "fetched_at": "2026-05-21T20:29:11.909861+00:00"
   },
   {
-    "title": "Proposed ARMA Bill Aims to Enshrine Strategic Bitcoin Reserve Into Law",
-    "url": "https://decrypt.co/368662/proposed-arma-bill-aims-enshrine-strategic-bitcoin-reserve-law",
-    "summary": "The American Reserve Modernization Act would direct the Treasury to create and maintain a Bitcoin reserve for a minimum of 20 years.",
+    "title": "NHL Agrees to Share Data With the CFTC for Prediction Market Integrity",
+    "url": "https://decrypt.co/368687/nhl-agrees-share-data-cftc-prediction-market-integrity",
+    "summary": "The agreement ensures the regulator and the NHL communicate and share data to protect the integrity of hockey-related prediction markets.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-21T18:50:52.532560+00:00"
+    "fetched_at": "2026-05-21T20:29:12.025933+00:00"
   },
   {
-    "title": "Trump Halts AI Order Over Fears It Could Hurt US Edge Over China",
-    "url": "https://decrypt.co/368673/trump-halts-ai-order-fears-could-hurt-us-edge-china",
-    "summary": "Trump said he delayed the order because parts of the proposal risked slowing the U.S. AI industry as competition with China intensifies.",
+    "title": "Mark Cuban Says He Sold Most of His Bitcoin",
+    "url": "https://decrypt.co/368678/mark-cuban-sold-most-his-bitcoin",
+    "summary": "Outspoken billionaire Mark Cuban is disappointed with Bitcoin's performance, and said he's parted ways with most of the BTC in his portfolio.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-21T18:50:52.532626+00:00"
+    "fetched_at": "2026-05-21T20:29:12.025983+00:00"
   },
   {
     "title": "Former EF developer Dankrad Feist suggests $1 billion raise to form new Ethereum advocacy group",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-21T18:50:52.611226+00:00"
+    "fetched_at": "2026-05-21T20:29:12.143872+00:00"
   },
   {
     "title": "CLEAR token tanks 48% as Everclear winds down protocol, foundation and labs unit",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-21T18:50:52.611295+00:00"
+    "fetched_at": "2026-05-21T20:29:12.143940+00:00"
   },
   {
     "title": "\u2018Fast entry\u2019 SpaceX, OpenAI and Anthropic IPOs to ignite Wall St trading frenzy",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-21T18:50:53.708203+00:00"
+    "fetched_at": "2026-05-21T20:29:18.121067+00:00"
   },
   {
     "title": "Goldman Sachs eclipses Morgan Stanley\u2019s Michael Grimes on SpaceX IPO",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-21T18:50:53.708264+00:00"
+    "fetched_at": "2026-05-21T20:29:18.121126+00:00"
   }
 ]
