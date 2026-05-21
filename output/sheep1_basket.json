@@ -1,39 +1,39 @@
 [
   {
-    "title": "Crypto PAC backed by Anchorage and Chainlink announces endorsements for 2026 midterms",
-    "url": "https://cointelegraph.com/news/crypto-pac-anchorage-chainlink-2026-candidates-midterms",
-    "summary": "Federal Election Commission filings showed only $175,000 in contributions to the hybrid PAC, which could influence US voters through media buys before key elections in several states.",
+    "title": "Bitcoin longs soar despite weak US macroeconomic data: Is $82K BTC next?",
+    "url": "https://cointelegraph.com/markets/bitcoin-longs-soar-despite-weak-us-macroeconomic-data-is-82k-btc-next",
+    "summary": "Data shows Bitcoin traders cutting short positions and going long despite concerning US macroeconomic data emerging. Is a rally toward $82,000 next?",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-21T22:09:57.934678+00:00"
+    "fetched_at": "2026-05-21T23:48:38.736010+00:00"
   },
   {
-    "title": "Chance of new Bitcoin lows \u2018extremely slim\u2019 as long-term holders\u2019 supply tops 15M BTC",
-    "url": "https://cointelegraph.com/markets/new-bitcoin-lows-look-extremely-slim-as-long-term-holders-add-supply",
-    "summary": "Data suggest Bitcoin\u2019s chance of dropping below $60,000 again is slim to none, thanks to longer-term investors holding more than 71% of the asset\u2019s total supply. \n",
+    "title": "Harvard dumps entire ETH position after just one quarter",
+    "url": "https://cointelegraph.com/news/harvard-dumps-entire-eth-position-one-quarter",
+    "summary": "Harvard's endowment fund has become one of the latest high-profile holders to liquidate its ETH as investor sentiment sours during the ongoing bear market.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-21T22:09:57.934765+00:00"
+    "fetched_at": "2026-05-21T23:48:38.736080+00:00"
   },
   {
-    "title": "What to Know About the SpaceX IPO",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-21/spacex-ipo-ai-plans-starlink-growth-and-risks",
-    "summary": "Elon Musk gave the financial world a lot to ponder as SpaceX made public its plans for an initial public offering. The IPO is poised to be the largest stock-market debut in history, but as financial paperwork unveiled on May 20 confirmed, SpaceX\u2019s success as a public enterprise will depend on its ab",
+    "title": "Investors Look Beyond TSMC as AI Boom Spreads to New Winners",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-21/investors-look-beyond-tsmc-as-ai-boom-spreads-to-new-winners",
+    "summary": "After several years flying high as Asia\u2019s best Nvidia Corp. proxy, Taiwan Semiconductor Manufacturing Co. is increasingly vying with other artificial intelligence stocks for investor attention.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-21T22:09:58.961400+00:00"
+    "fetched_at": "2026-05-21T23:48:39.443705+00:00"
   },
   {
-    "title": "Lone Star Weighs Sale of Lender IKB After Nearly 20 Years",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-21/lone-star-weighs-sale-of-german-lender-ikb-after-nearly-20-years",
-    "summary": "Buyout firm Lone Star Funds is in the early stages of exploring a sale of IKB Deutsche Industriebank AG nearly two decades after investing in the German lender, according to people with knowledge of the matter.",
+    "title": "Asian Stocks Set to Rise on Iran Talks Optimism: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-21/asian-stocks-to-rise-on-optimism-over-iran-talks-markets-wrap",
+    "summary": "Asian stocks were poised for a second day of gains and US equity-index futures edged higher as optimism over ongoing US-Iran talks buoyed sentiment.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-21T22:09:58.961451+00:00"
+    "fetched_at": "2026-05-21T23:48:39.443760+00:00"
   },
   {
     "title": "Mark Cuban Sells Most of His Bitcoin, Calls It a Failed Hedge",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-21T22:09:58.228166+00:00"
+    "fetched_at": "2026-05-21T23:48:38.982666+00:00"
   },
   {
     "title": "U.S. Lawmaker Unveils Bill to Codify Strategic Bitcoin Reserve, Draws Bipartisan Support",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-21T22:09:58.228232+00:00"
+    "fetched_at": "2026-05-21T23:48:38.982734+00:00"
+  },
+  {
+    "title": "Nearly $500B in Bitcoin Is Exposed to Future Quantum Computing Attacks: Glassnode",
+    "url": "https://decrypt.co/368721/nearly-500b-bitcoin-exposed-future-quantum-computing-attacks-glassnode",
+    "summary": "Blockchain data firm Glassnode mapped the vulnerabilities embedded in Bitcoin\u2019s existing supply, pointing to exchanges as a weak point.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-05-21T23:48:39.064960+00:00"
   },
   {
     "title": "Prominent Ethereum Dev Proposes $1 Billion ETH Organization With Leader Who 'Wants to Fight'",
@@ -60,16 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-21T22:09:58.330820+00:00"
-  },
-  {
-    "title": "Spotify and Universal Launch AI Remix Tool for Fan-Made Covers",
-    "url": "https://decrypt.co/368710/spotify-universal-ai-remix-tool-fan-made-covers",
-    "summary": "Spotify and Universal Music Group say their new licensed AI remix platform will let fans create song covers and remixes while compensating participating artists and songwriters.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-05-21T22:09:58.330896+00:00"
+    "fetched_at": "2026-05-21T23:48:39.065035+00:00"
   },
   {
     "title": "Coinbase introduces thematic perps tracking China, AI and US national security equity indexes",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-21T22:09:58.439787+00:00"
+    "fetched_at": "2026-05-21T23:48:39.153615+00:00"
   },
   {
     "title": "Former EF developer Dankrad Feist suggests $1 billion raise to form new Ethereum advocacy group",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-21T22:09:58.439876+00:00"
+    "fetched_at": "2026-05-21T23:48:39.153684+00:00"
   },
   {
     "title": "\u2018Fast entry\u2019 SpaceX, OpenAI and Anthropic IPOs to ignite Wall St trading frenzy",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-21T22:09:59.743235+00:00"
+    "fetched_at": "2026-05-21T23:48:40.105618+00:00"
   },
   {
     "title": "SpaceX readies high-stakes test launch of latest Starship spacecraft",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-21T22:09:59.743296+00:00"
+    "fetched_at": "2026-05-21T23:48:40.105680+00:00"
   }
 ]
