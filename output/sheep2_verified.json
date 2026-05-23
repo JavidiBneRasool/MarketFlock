@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-23T15:53:12.547653+00:00",
+    "fetched_at": "2026-05-23T16:47:04.211552+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,7 +18,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-23T15:53:12.547720+00:00",
+    "fetched_at": "2026-05-23T16:47:04.211624+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,7 +30,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-23T15:53:17.890644+00:00",
+    "fetched_at": "2026-05-23T16:47:04.887883+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -42,7 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-23T15:53:17.890697+00:00",
+    "fetched_at": "2026-05-23T16:47:04.887941+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-23T15:53:12.935236+00:00",
+    "fetched_at": "2026-05-23T16:47:04.391726+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,19 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-23T15:53:12.935299+00:00",
+    "fetched_at": "2026-05-23T16:47:04.391798+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Bitcoin Dives Below $75K for First Time in a Month as Crypto Liquidations Near $1 Billion",
+    "url": "https://decrypt.co/368912/bitcoin-drops-75k-crypto-liquidations-near-1-billion",
+    "summary": "Bitcoin touched its lowest price in a month overnight following an awful week for ETFs, which shed over $1.25 billion this week.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-05-23T16:47:04.472167+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,19 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-23T15:53:13.059942+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "3 Wacky Hermes Skills You Should Try",
-    "url": "https://decrypt.co/368188/3-wacky-hermes-skills-you-should-try",
-    "summary": "A real astrology engine disguised as a fortune teller. A scammer-punishment machine loaded with the Shrek screenplay. A tool that reads any book and maps every idea to your actual life. These are not normal skills.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-05-23T15:53:13.059990+00:00",
+    "fetched_at": "2026-05-23T16:47:04.472226+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-23T15:53:13.158784+00:00",
+    "fetched_at": "2026-05-23T16:47:04.553019+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-23T15:53:13.158852+00:00",
+    "fetched_at": "2026-05-23T16:47:04.553091+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-23T15:53:18.587147+00:00",
+    "fetched_at": "2026-05-23T16:47:05.599382+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-23T15:53:18.587212+00:00",
+    "fetched_at": "2026-05-23T16:47:05.599441+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
