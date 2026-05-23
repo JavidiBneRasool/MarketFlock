@@ -1,21 +1,30 @@
 [
   {
+    "title": "ECB pushes back on euro stablecoin proposals, citing financial stability risks",
+    "url": "https://cointelegraph.com/news/ecb-pushes-back-on-euro-stablecoin-proposals-citing-financial-stability-risks",
+    "summary": "The ECB warned EU finance ministers that expanding euro stablecoin issuance could weaken bank lending and complicate monetary policy.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-05-23T11:53:04.088017+00:00"
+  },
+  {
     "title": "SEC approves Nasdaq to list Bitcoin index options on the exchange",
     "url": "https://cointelegraph.com/news/sec-approves-nasdaq-to-list-bitcoin-index-options-on-the-exchange",
     "summary": "The cash-settled, European-style contracts will trade under the ticker QBTC on Phlx, but still require CFTC approval before trading can begin.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-23T10:19:57.744424+00:00"
+    "fetched_at": "2026-05-23T11:53:04.088096+00:00"
   },
   {
-    "title": "$1.26B Bitcoin ETF outflows spark \u2018contrarian\u2019 buy signal: Santiment",
-    "url": "https://cointelegraph.com/news/bitcoin-etf-outflows-are-a-contrarian-buy-signal-santiment",
-    "summary": "Ongoing Bitcoin ETF outflows have historically \u201ccorrelated with conditions favorable for patient accumulation rather than panic,\" according to Santiment.\n",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
+    "title": "Deadliest China Coal Mine Blast Since 2009 Kills at Least 90",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-23/xi-urges-chinese-authorities-to-curb-accidents-after-mine-blast",
+    "summary": "The death toll from a gas explosion at a coal mine in China\u2019s Shanxi province has jumped to at least 90 people, making it the country\u2019s deadliest such incident since 2009.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-23T10:19:57.744509+00:00"
+    "fetched_at": "2026-05-23T11:53:04.966037+00:00"
   },
   {
     "title": "Ebola Outruns Containment in Eastern Congo as Contact Tracing Falters",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-23T10:19:58.468030+00:00"
-  },
-  {
-    "title": "Rubio to Meet India\u2019s Modi With Energy, Trade Ties in Focus",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-23/rubio-to-meet-india-s-modi-with-energy-trade-ties-in-focus",
-    "summary": "US Secretary of State Marco Rubio is set to meet with Indian Prime Minister Narendra Modi, with energy security high on the agenda as the South Asian nation grapples with soaring oil prices and supply disruptions stemming from the war in Iran.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-05-23T10:19:58.468098+00:00"
+    "fetched_at": "2026-05-23T11:53:04.966100+00:00"
   },
   {
     "title": "SEC Delaying Plan to Allow Crypto Versions of US Stocks: Report",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-23T10:19:57.964479+00:00"
+    "fetched_at": "2026-05-23T11:53:04.323163+00:00"
   },
   {
     "title": "A Freshman Congressman from Nashville Wants to Make the National Bitcoin Reserve Permanent",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-23T10:19:57.964558+00:00"
+    "fetched_at": "2026-05-23T11:53:04.323282+00:00"
   },
   {
     "title": "Kash Patel-Linked Apparel Store Goes Dark After Pushing Crypto-Stealing Malware",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-23T10:19:58.051525+00:00"
+    "fetched_at": "2026-05-23T11:53:04.438179+00:00"
   },
   {
     "title": "SEC Delays Tokenized Stocks Innovation Exemption Amid Concerns: Bloomberg",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-23T10:19:58.051586+00:00"
+    "fetched_at": "2026-05-23T11:53:04.438243+00:00"
   },
   {
     "title": "New strategic bitcoin reserve bill drops 1 million BTC purchase target, adds 20-year lockup period",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-23T10:19:58.158684+00:00"
+    "fetched_at": "2026-05-23T11:53:04.518293+00:00"
   },
   {
     "title": "SEC delays tokenized asset exemption amid concerns over third-party tokens: Bloomberg Law",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-23T10:19:58.158765+00:00"
+    "fetched_at": "2026-05-23T11:53:04.518362+00:00"
   },
   {
     "title": "Trump administration to make foreigners leave US to apply for green cards",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-23T10:19:58.987149+00:00"
+    "fetched_at": "2026-05-23T11:53:05.718429+00:00"
   },
   {
     "title": "Trump lashes out at Republicans who oppose his \u2018anti-weaponisation\u2019 fund",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-23T10:19:58.987224+00:00"
+    "fetched_at": "2026-05-23T11:53:05.718490+00:00"
   }
 ]
