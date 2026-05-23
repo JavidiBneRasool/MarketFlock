@@ -1,24 +1,36 @@
 [
   {
+    "title": "70% of all crypto wrench attacks happen in France: Report",
+    "url": "https://cointelegraph.com/news/70-crypto-wrench-attacks-happen-france",
+    "summary": "Centralized data collection is a honeypot for hackers and organized criminals looking to target crypto holders and their families, according to Bitcoiners. ",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-05-23T23:45:32.737919+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "Analysts forecast a Bitcoin crash to the $60K level, revisiting 2026 low",
     "url": "https://cointelegraph.com/news/analysts-forecast-bitcoin-crash-60k-february-low",
     "summary": "The price of Bitcoin is about $75,800 at the time of publication, a nearly 40% decrease from the all-time high of about $126,000 reached in October 2025.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-23T22:41:25.725800+00:00",
+    "fetched_at": "2026-05-23T23:45:32.738001+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Warsh will cut rates, despite consensus view of rate hikes: Analyst",
-    "url": "https://cointelegraph.com/news/warsh-cut-rate-despite-consensus-rate-hikes",
-    "summary": "The current Federal Funds target rate is between 350 and 375 basis points, which traders project to rise by at least 25 basis points in December 2026.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
+    "title": "Congo Faces Surge in Ebola Cases as Key Medical Tools Run Short",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-23/congo-faces-surge-in-ebola-cases-as-key-medical-tools-run-short",
+    "summary": "Africa\u2019s top public health official said the latest Ebola outbreak in eastern Congo is being fought without one of the most important tools in epidemic response: vaccines.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-23T22:41:25.725881+00:00",
+    "fetched_at": "2026-05-23T23:45:33.835775+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,19 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-23T22:41:26.934494+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "More War-Driven Inflation Seen in Fed\u2019s Favored Gauge",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-23/more-war-driven-inflation-seen-in-fed-s-favored-gauge",
-    "summary": "The Federal Reserve\u2019s favored top-line inflation gauge is rapidly approaching 4% as a war-driven spike in energy costs generates unease that price pressures will broaden.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-05-23T22:41:26.934563+00:00",
+    "fetched_at": "2026-05-23T23:45:33.835833+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-23T22:41:26.059003+00:00",
+    "fetched_at": "2026-05-23T23:45:33.055650+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-23T22:41:26.059071+00:00",
+    "fetched_at": "2026-05-23T23:45:33.055716+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-23T22:41:26.217412+00:00",
+    "fetched_at": "2026-05-23T23:45:33.218173+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-23T22:41:26.217476+00:00",
+    "fetched_at": "2026-05-23T23:45:33.218235+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-23T22:41:26.357633+00:00",
+    "fetched_at": "2026-05-23T23:45:33.372853+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-23T22:41:26.357705+00:00",
+    "fetched_at": "2026-05-23T23:45:33.372924+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-23T22:41:27.878703+00:00",
+    "fetched_at": "2026-05-23T23:45:34.632863+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-23T22:41:27.878763+00:00",
+    "fetched_at": "2026-05-23T23:45:34.632927+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
