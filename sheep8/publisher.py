@@ -172,6 +172,7 @@ def _build_index(latest):
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MarketFlock | Intelligence</title>
+    <meta name="google-site-verification" content="Dthc_OiAqsG2NxrZXLE_gE84PLsD4_fLmc71KGGgKQI" />
     <link rel="stylesheet" href="style.css">
 </head>
 <body class="dark-theme">

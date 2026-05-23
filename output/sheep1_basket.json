@@ -1,12 +1,30 @@
 [
   {
+    "title": "Clarity Act could spark a boom in crypto \u2018yield-as-a-service\u2019",
+    "url": "https://www.coindesk.com/policy/2026/05/23/clarity-act-could-spark-a-boom-in-crypto-yield-as-a-service",
+    "summary": "",
+    "source": "CoinDesk",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-05-23T13:52:57.657659+00:00"
+  },
+  {
+    "title": "Bitcoin tanks to $74,300 as spot ETFs bleed $2.26 billion in two weeks",
+    "url": "https://www.coindesk.com/markets/2026/05/23/bitcoin-tanks-to-usd74-300-as-spot-etfs-bleed-usd2-26-billion-in-two-weeks",
+    "summary": "",
+    "source": "CoinDesk",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-05-23T13:52:57.657795+00:00"
+  },
+  {
     "title": "ECB pushes back on euro stablecoin proposals, citing financial stability risks",
     "url": "https://cointelegraph.com/news/ecb-pushes-back-on-euro-stablecoin-proposals-citing-financial-stability-risks",
     "summary": "The ECB warned EU finance ministers that expanding euro stablecoin issuance could weaken bank lending and complicate monetary policy.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-23T12:55:29.703141+00:00"
+    "fetched_at": "2026-05-23T13:52:58.688206+00:00"
   },
   {
     "title": "SEC approves Nasdaq to list Bitcoin index options on the exchange",
@@ -15,25 +33,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-23T12:55:29.703215+00:00"
+    "fetched_at": "2026-05-23T13:52:58.688305+00:00"
   },
   {
-    "title": "Gas Prices Rise as Summer Holiday Travel Begins",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-23/gas-prices-rise-as-summer-holiday-travel-begins-video",
-    "summary": "Memorial Day weekend is expected to kick off one of the busiest summer travel season in years, with millions of Americans hitting the roads and airports despite rising costs. GasBuddy's Head of Petroleum Analysis Patrick De Hahn and The Points Guy Managing Editor Clint Henderson joined Christina Ruf",
+    "title": "US Ebola Aid Plummets 99% Since Last Outbreak",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-23/us-ebola-aid-plummets-99-since-last-outbreak-video",
+    "summary": "Former Executive Director of the USAID COVID-19 Task Force Jeremy Konyndyk joined Bloomberg This Weekend to discuss the Ebola outbreak in the Democratic Republic of the Congo. Konyndyk explains to hosts David Gura and Christina Ruffini the negative impact of the US withdrawal from the WHO in January",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-23T12:55:30.817554+00:00"
+    "fetched_at": "2026-05-23T13:53:21.832289+00:00"
   },
   {
-    "title": "Uganda Confirms Three More Ebola Cases as Outbreak Spreads",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-23/uganda-confirms-three-more-ebola-cases-outbreak-spreads-video",
-    "summary": "Uganda confirmed three new Ebola cases, including a health worker and a driver linked to the country\u2019s first known infection, as authorities race to contain the outbreak. Bloomberg News Senior Editor Jason Gale joined David Gura and Christina Ruffini on Bloomberg This Weekend to discuss. (Source: Bl",
+    "title": "Trump\u2019s 3,711 Trades Point to Multiple Stock-Market Strategies",
+    "url": "https://www.bloomberg.com/news/features/2026-05-23/trump-s-3-711-trades-point-to-multiple-stock-market-strategies",
+    "summary": "Index-tracking and automated execution appear to be on show in transactions linked to the president.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-23T12:55:30.817613+00:00"
+    "fetched_at": "2026-05-23T13:53:21.832399+00:00"
   },
   {
     "title": "SEC Delaying Plan to Allow Crypto Versions of US Stocks: Report",
@@ -42,7 +60,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-23T12:55:30.068331+00:00"
+    "fetched_at": "2026-05-23T13:53:00.442151+00:00"
   },
   {
     "title": "A Freshman Congressman from Nashville Wants to Make the National Bitcoin Reserve Permanent",
@@ -51,7 +69,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-23T12:55:30.068397+00:00"
+    "fetched_at": "2026-05-23T13:53:00.442274+00:00"
+  },
+  {
+    "title": "3 Wacky Hermes Skills You Should Try",
+    "url": "https://decrypt.co/368188/3-wacky-hermes-skills-you-should-try",
+    "summary": "A real astrology engine disguised as a fortune teller. A scammer-punishment machine loaded with the Shrek screenplay. A tool that reads any book and maps every idea to your actual life. These are not normal skills.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-05-23T13:53:01.452302+00:00"
   },
   {
     "title": "Kash Patel-Linked Apparel Store Goes Dark After Pushing Crypto-Stealing Malware",
@@ -60,34 +87,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-23T12:55:30.238947+00:00"
-  },
-  {
-    "title": "SEC Delays Tokenized Stocks Innovation Exemption Amid Concerns: Bloomberg",
-    "url": "https://decrypt.co/368855/sec-delays-tokenized-stocks-innovation-exemption-amid-concerns-bloomberg",
-    "summary": "The SEC\u2019s expected regulatory framework would have provided clarity for companies looking to tokenize traditional assets like stocks.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-05-23T12:55:30.239002+00:00"
-  },
-  {
-    "title": "New strategic bitcoin reserve bill drops 1 million BTC purchase target, adds 20-year lockup period",
-    "url": "https://www.theblock.co/post/402264/new-strategic-bitcoin-reserve-bill-drops-btc-purchase-target-adds-lockup",
-    "summary": "The bill would require quarterly public proof-of-reserve disclosures and third-party audits of government bitcoin holdings.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-05-23T12:55:30.380144+00:00"
-  },
-  {
-    "title": "SEC delays tokenized asset exemption amid concerns over third-party tokens: Bloomberg Law",
-    "url": "https://www.theblock.co/post/402409/sec-delays-tokenized-asset-exemption-third-party-tokens-bloomberg-law",
-    "summary": "The SEC has delayed its plan for an anticipated exemption that would clarify the agency's stance on tokenized assets, Bloomberg Law reported. ",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-05-23T12:55:30.380208+00:00"
+    "fetched_at": "2026-05-23T13:53:01.452369+00:00"
   },
   {
     "title": "Trump administration to make foreigners leave US to apply for green cards",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-23T12:55:31.758305+00:00"
+    "fetched_at": "2026-05-23T13:53:25.219182+00:00"
   },
   {
     "title": "Trump lashes out at Republicans who oppose his \u2018anti-weaponisation\u2019 fund",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-23T12:55:31.758365+00:00"
+    "fetched_at": "2026-05-23T13:53:25.219306+00:00"
   }
 ]
