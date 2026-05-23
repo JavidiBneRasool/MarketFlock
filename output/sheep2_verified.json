@@ -1,24 +1,24 @@
 [
   {
+    "title": "Analysts forecast a Bitcoin crash to the $60K level, revisiting 2026 low",
+    "url": "https://cointelegraph.com/news/analysts-forecast-bitcoin-crash-60k-february-low",
+    "summary": "The price of Bitcoin is about $75,800 at the time of publication, a nearly 40% decrease from the all-time high of about $126,000 reached in October 2025.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-05-23T21:42:34.958424+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "Warsh will cut rates, despite consensus view of rate hikes: Analyst",
     "url": "https://cointelegraph.com/news/warsh-cut-rate-despite-consensus-rate-hikes",
     "summary": "The current Federal Funds target rate is between 350 and 375 basis points, which traders project to rise by at least 25 basis points in December 2026.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-23T20:55:03.240347+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Binance denies new WSJ report alleging $850M in Iran-linked transactions",
-    "url": "https://cointelegraph.com/news/binance-denies-new-wsj-report-alleging-850m-in-iran-linked-transactions",
-    "summary": "Binance CEO Richard Teng denied a new WSJ report alleging $850 million in Iran-linked transactions flowed through the exchange to the IRGC.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-05-23T20:55:03.240422+00:00",
+    "fetched_at": "2026-05-23T21:42:34.958503+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,7 +30,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-23T20:55:04.081738+00:00",
+    "fetched_at": "2026-05-23T21:42:41.097487+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -42,7 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-23T20:55:04.081797+00:00",
+    "fetched_at": "2026-05-23T21:42:41.097545+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-23T20:55:03.540658+00:00",
+    "fetched_at": "2026-05-23T21:42:35.263426+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-23T20:55:03.540727+00:00",
+    "fetched_at": "2026-05-23T21:42:35.263495+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-23T20:55:03.645531+00:00",
+    "fetched_at": "2026-05-23T21:42:35.407164+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-23T20:55:03.645592+00:00",
+    "fetched_at": "2026-05-23T21:42:35.407227+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-23T20:55:03.740416+00:00",
+    "fetched_at": "2026-05-23T21:42:35.529199+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,19 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-23T20:55:03.740494+00:00",
+    "fetched_at": "2026-05-23T21:42:35.529272+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Trump claims deal with Iran to reopen Strait of Hormuz \u2018largely negotiated\u2019",
+    "url": "https://www.ft.com/content/a27cc653-71ee-4668-8fcf-562fd7c9b93f",
+    "summary": "US president said he would announce agreement to end the war after talks with Gulf leaders and allies",
+    "source": "Financial Times",
+    "category": "Markets",
+    "tier": 9,
+    "fetched_at": "2026-05-23T21:42:41.930958+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,19 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-23T20:55:04.707890+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "US oil producers increase output to capture price surge from Iran war",
-    "url": "https://www.ft.com/content/d0fc0074-86f1-46ec-bf80-9bbb6abb2c24",
-    "summary": "Drilling expansion follows 40 per cent jump in cost from global supply crunch that has dented president\u2019s approval ratings",
-    "source": "Financial Times",
-    "category": "Markets",
-    "tier": 9,
-    "fetched_at": "2026-05-23T20:55:04.707964+00:00",
+    "fetched_at": "2026-05-23T21:42:41.931020+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
