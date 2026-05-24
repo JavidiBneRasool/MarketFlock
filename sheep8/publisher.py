@@ -10,6 +10,7 @@ BASE_URL = "https://market.cutbar.in"
 HEADER_HTML = """
     <header class="ai-header">
         <style>
+@font-face{{font-family:'JameelNoori';src:url('/fonts/JameelNooriNastaleeq.ttf') format('truetype')}}
             @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;700&display=swap');
             @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css');
             .ai-header {
@@ -63,6 +64,7 @@ COMMON_JS = """
 FOOTER_HTML = """
     <footer class="ai-footer">
         <style>
+@font-face{{font-family:'JameelNoori';src:url('/fonts/JameelNooriNastaleeq.ttf') format('truetype')}}
             .ai-footer {
                 padding: 4rem 1.5rem; background: #050505; border-top: 1px solid rgba(255, 255, 255, 0.05);
                 font-family: 'Space Grotesk', sans-serif; text-align: center;
@@ -236,6 +238,7 @@ def _build_article_page(a):
     {a.get('meta', '')}
     <link rel="stylesheet" href="style.css">
     <style>
+@font-face{{font-family:'JameelNoori';src:url('/fonts/JameelNooriNastaleeq.ttf') format('truetype')}}
         .article-content {{ max-width: 850px; margin: 0 auto; padding: 2rem 1rem; }}
         .article-body {{ 
             font-size: 1.25rem; 
