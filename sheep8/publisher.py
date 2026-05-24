@@ -11,6 +11,7 @@ HEADER_HTML = """
     <header class="ai-header">
         <style>
             @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;700&display=swap');
+            @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css');
             .ai-header {
                 position: sticky; top: 0; z-index: 9999; width: 100%;
                 background: rgba(5, 5, 5, 0.8); backdrop-filter: blur(20px);
@@ -100,9 +101,12 @@ def _slugify(value):
     return slug[:100] or hashlib.md5(str(value).encode()).hexdigest()[:12]
 
 def _markdown_to_html(value):
+    if not value: return ""
+    # Ensure headers have a space after # for reliable parsing
+    value = re.sub(r'^(#+)([A-Za-z0-9])', r'\1 \2', str(value), flags=re.MULTILINE)
     try:
         import markdown
-        return markdown.markdown(value)
+        return markdown.markdown(value, extensions=['extra'])
     except Exception:
         paragraphs = [p.strip() for p in str(value).split("\n\n") if p.strip()]
         return "\n".join(f"<p>{html.escape(p)}</p>" for p in paragraphs)
@@ -129,22 +133,18 @@ def run():
     with open(HISTORY_FILE, "w") as f:
         json.dump(history, f, indent=2)
 
-    # Generate article filenames before writing the index so the homepage links
-    # point at the freshly published pages.
-    for a in current_articles:
+    for a in history:
         slug = _slugify(a.get("headline", "article"))
         a["filename"] = f"{slug}.html"
+        content = _build_article_page(a)
+        with open(f"{SITE_DIR}/{a['filename']}", "w", encoding="utf-8") as f:
+            f.write(content)
 
     index_html = _build_index(history[:12])
     with open(f"{SITE_DIR}/index.html", "w", encoding="utf-8") as f:
         f.write(index_html)
 
-    for a in current_articles:
-        content = _build_article_page(a)
-        with open(f"{SITE_DIR}/{a['filename']}", "w", encoding="utf-8") as f:
-            f.write(content)
-
-    print(f"🐑 SHEEP 8: {len(current_articles)} SEO-optimized articles published ✓")
+    print(f"🐑 SHEEP 8: {len(history)} articles regenerated with new design ✓")
     return {"published": True}
 
 def _build_index(latest):
@@ -196,24 +196,30 @@ def _get_affiliate_block(category):
     if 'crypto' in c or 'market' in c:
         branding = "Institutional-Grade Trading Infrastructure"
         links = [
-            ("Binance", "https://accounts.binance.com/register?ref=V7G8123A"),
-            ("Bybit", "https://partner.bybit.com/b/marketflock"),
-            ("TradingView", "https://www.tradingview.com/?aff_id=125672"),
-            ("CoinGlass", "https://coinglass.com/"),
-            ("Ledger", "https://shop.ledger.com/?r=marketflock"),
-            ("CWallet", "https://cwallet.com/"),
-            ("KuCoin", "https://www.kucoin.com/r/af/rBDP123")
+            ("Binance", "https://accounts.binance.com/register?ref=V7G8123A", "fa-solid fa-chart-line"),
+            ("Bybit", "https://partner.bybit.com/b/marketflock", "fa-solid fa-bolt"),
+            ("TradingView", "https://www.tradingview.com/?aff_id=125672", "fa-solid fa-area-chart"),
+            ("CoinGlass", "https://coinglass.com/", "fa-solid fa-glass-water"),
+            ("Ledger", "https://shop.ledger.com/?r=marketflock", "fa-solid fa-shield-halved"),
+            ("CWallet", "https://cwallet.com/", "fa-solid fa-wallet"),
+            ("KuCoin", "https://www.kucoin.com/r/af/rBDP123", "fa-solid fa-coins")
         ]
     else:
         branding = "Market Intelligence: Optimize Your Stack"
-        links = [("Market Intelligence", "#")]
+        links = [("Market Intelligence", "#", "fa-solid fa-brain")]
     
-    links_html = "".join([f'<a href="{url}" style="color:var(--accent-blue); margin: 0 10px; text-decoration:none;">{name}</a>' for name, url in links])
+    links_html = "".join([f'''
+        <a href="{url}" class="affiliate-card">
+            <i class="{icon}"></i>
+            <span>{name}</span>
+        </a>''' for name, url, icon in links])
     
     return f'''
-    <div style="background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.1); border-radius: 12px; padding: 2rem; margin: 3rem 0; text-align: center; backdrop-filter: blur(10px);">
-        <h4 style="color: #fff; margin-bottom: 1rem; font-size: 1.25rem;">{branding}</h4>
-        <div>{links_html}</div>
+    <div class="affiliate-container">
+        <h4 class="affiliate-title">{branding}</h4>
+        <div class="affiliate-grid">
+            {links_html}
+        </div>
     </div>
     '''
 
@@ -226,18 +232,130 @@ def _build_article_page(a):
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{a.get('headline', 'MarketFlock Intelligence')}</title>
     {a.get('meta', '')}
     <link rel="stylesheet" href="style.css">
     <style>
-        .article-body {{ font-size: 1.35rem; line-height: 1.9; color: rgba(255, 255, 255, 0.8); }}
-        .article-body h1, .article-body h2, .article-body h3 {{ font-family: 'Space Grotesk', sans-serif; color: #fff; margin-top: 2.5rem; }}
+        .article-content {{ max-width: 850px; margin: 0 auto; padding: 2rem 1rem; }}
+        .article-body {{ 
+            font-size: 1.25rem; 
+            line-height: 1.8; 
+            color: var(--text-main); 
+        }}
+        .article-body h1, .article-body h2, .article-body h3 {{ 
+            font-family: 'Space Grotesk', sans-serif; 
+            color: #fff; 
+            margin-top: 3rem;
+            margin-bottom: 1.5rem;
+            text-align: left;
+        }}
+        .article-body p {{ margin-bottom: 1.5rem; text-align: left; }}
+        .article-body ul, .article-body ol {{ margin-bottom: 1.5rem; padding-left: 1.5rem; text-align: left; }}
+        .article-body li {{ margin-bottom: 0.5rem; }}
+        
+        .article-body table {{
+            width: 100%;
+            border-collapse: collapse;
+            margin: 2rem 0;
+            background: rgba(255,255,255,0.02);
+            border-radius: 8px;
+            overflow: hidden;
+        }}
+        .article-body th, .article-body td {{
+            padding: 1rem;
+            border: 1px solid rgba(255,255,255,0.1);
+            text-align: left;
+        }}
+        .article-body th {{
+            background: rgba(255,255,255,0.05);
+            color: #fff;
+            font-weight: 700;
+        }}
+        
+        /* Affiliate Grid Styles */
+        .affiliate-container {{
+            background: linear-gradient(145deg, rgba(255,255,255,0.03) 0%, rgba(255,255,255,0.01) 100%);
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 20px;
+            padding: 2.5rem;
+            margin: 4rem 0;
+            backdrop-filter: blur(15px);
+            box-shadow: 0 20px 40px rgba(0,0,0,0.3);
+        }}
+        .affiliate-title {{
+            color: #fff;
+            margin-bottom: 2rem;
+            font-size: 1.4rem;
+            font-weight: 700;
+            text-align: center;
+            letter-spacing: 0.5px;
+            font-family: 'Space Grotesk', sans-serif;
+        }}
+        .affiliate-grid {{
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+            gap: 1.5rem;
+        }}
+        .affiliate-card {{
+            background: rgba(255,255,255,0.03);
+            border: 1px solid rgba(255,255,255,0.05);
+            border-radius: 12px;
+            padding: 1.5rem;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 12px;
+            text-decoration: none;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+        }}
+        .affiliate-card:hover {{
+            background: rgba(59, 130, 246, 0.1);
+            border-color: var(--accent-blue);
+            transform: translateY(-5px);
+            box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+        }}
+        .affiliate-card i {{
+            font-size: 2rem;
+            color: var(--accent-blue);
+        }}
+        .affiliate-card span {{
+            color: #fff;
+            font-size: 0.9rem;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            text-align: center;
+        }}
+        
+        .hero-img {{
+            width: 100%;
+            height: 450px;
+            object-fit: cover;
+            border-radius: 16px;
+            margin-bottom: 3rem;
+            box-shadow: 0 15px 30px rgba(0,0,0,0.4);
+        }}
+        .source-link {{
+            margin-top: 4rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--border);
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            text-align: center;
+        }}
+        .source-link a {{ color: var(--accent-blue); text-decoration: none; font-weight: 600; }}
+        
+        @media (max-width: 768px) {{
+            .hero-img {{ height: 250px; }}
+            .affiliate-grid {{ grid-template-columns: repeat(2, 1fr); }}
+        }}
     </style>
 </head>
 <body class="article-page dark-theme">
     {HEADER_HTML}
-    <main class="container">
-        <article class="pro-card-expanded">
-            <img src="{a['image_url']}" class="hero-img">
+    <main class="article-content">
+        <article>
+            <img src="{a['image_url']}" class="hero-img" alt="{a['headline']}">
             <div class="article-body">
                 {body_html}
                 {affiliate_block}
