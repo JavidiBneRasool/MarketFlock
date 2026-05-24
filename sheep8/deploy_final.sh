@@ -3,8 +3,8 @@ PROJECT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 CONFIG_FILE="$PROJECT_DIR/config/cloudflare.json"
 ACCOUNT_ID=$(jq -r .account_id "$CONFIG_FILE")
 TOKEN=$(jq -r .api_token "$CONFIG_FILE")
-PROJECT_NAME="autoflock"
-ZIP_PATH="$PROJECT_DIR/output/autoflock-deploy.zip"
+PROJECT_NAME="marketflock"
+ZIP_PATH="$PROJECT_DIR/output/marketflock-deploy.zip"
 
 # Build manifest.json correctly (SHA-256, Leading Slash)
 python3 -c '

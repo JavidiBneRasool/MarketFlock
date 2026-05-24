@@ -2,9 +2,9 @@
 PROJECT_DIR="$(cd "$(dirname "$0")/.." && pwd)"
 CONFIG_FILE="$PROJECT_DIR/config/cloudflare.json"
 ACCOUNT_ID=$(jq -r .account_id "$CONFIG_FILE")
-PROJECT_NAME="autoflock"
+PROJECT_NAME="marketflock"
 API_TOKEN=$(jq -r .api_token "$CONFIG_FILE")
-SITE_DIR="$(dirname "$PROJECT_DIR")/autoflock/publish"
+SITE_DIR="$(dirname "$PROJECT_DIR")/marketflock/publish"
 
 cd "$SITE_DIR" || exit
 
