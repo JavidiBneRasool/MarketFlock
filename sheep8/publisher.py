@@ -7,27 +7,204 @@ SITE_DIR = os.path.join(PROJECT, "publish")
 HISTORY_FILE = f"{PROJECT}/history.json"
 BASE_URL = "https://market.cutbar.in"
 
+# CSS moved to a central variable to ensure consistency
+MARKETFLOCK_STYLE = """
+:root {
+  --bg-primary: #050505;
+  --bg-secondary: #0a0a0c;
+  --panel-bg: #111114;
+  --accent-blue: #3b82f6;
+  --accent-green: #10b981;
+  --text-main: #f8fafc;
+  --text-muted: #94a3b8;
+  --border: #2d2d34;
+}
+body.light-mode { 
+  --bg-primary: #ffffff; 
+  --bg-secondary: #f8fafc; 
+  --panel-bg: #ffffff; 
+  --text-main: #0f172a; 
+  --text-muted: #475569; 
+  --border: #e2e8f0; 
+}
+
+@font-face {
+  font-family: 'JameelNoori';
+  src: url('/fonts/JameelNooriNastaleeq.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+* { box-sizing: border-box; }
+body { 
+  background-color: var(--bg-primary); 
+  color: var(--text-main); 
+  font-family: 'Inter', system-ui, sans-serif;
+  margin: 0; line-height: 1.6;
+  font-size: 18px;
+  font-weight: 500;
+  transition: all 0.3s ease;
+}
+
+body.ur, body.ur * { 
+  font-family: 'JameelNoori', serif !important; 
+  line-height: 2 !important;
+}
+
+h1, h2, h3, h4 { color: var(--text-main); font-weight: 800; }
+p { color: var(--text-muted); }
+
+.ai-header {
+  background: rgba(10, 10, 12, 0.8);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-bottom: 1px solid var(--border);
+  padding: 1rem 5%;
+  position: sticky; top: 0; z-index: 9999;
+  display: flex; justify-content: space-between; align-items: center;
+}
+.brand { font-size: 1.5rem; font-weight: 800; color: var(--text-main); text-transform: uppercase; letter-spacing: -0.5px; }
+.brand span { color: var(--accent-blue); }
+.nav-controls { display: flex; gap: 0.75rem; align-items: center; }
+.theme-btn, .lang-btn {
+  background: var(--panel-bg); color: var(--text-main);
+  border: 1px solid var(--border); padding: 0.5rem 0.8rem; border-radius: 8px; cursor: pointer; font-size: 0.8rem;
+}
+.lang-btn.active { border-color: var(--accent-blue); color: var(--accent-blue); }
+
+.dashboard {
+  display: grid;
+  grid-template-columns: 1fr;
+  max-width: 1200px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+.pro-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1.5rem;
+}
+
+.pro-card {
+  background: var(--panel-bg);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 0;
+  transition: all 0.3s ease;
+  margin-bottom: 1rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+}
+.card-image {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  border-bottom: 1px solid var(--border);
+}
+.card-content { padding: 1.5rem; flex: 1; }
+.pro-card:hover { border-color: var(--accent-blue); transform: translateY(-3px); }
+.tag { font-size: 0.7rem; color: var(--accent-blue); text-transform: uppercase; letter-spacing: 1px; font-weight: 700; }
+h3 { font-size: 1.25rem; font-weight: 800; margin: 0.5rem 0; line-height: 1.4; color: var(--text-main); }
+.card-foot { font-size: 0.8rem; color: var(--text-muted); display: flex; justify-content: space-between; margin-top: 1rem;}
+
+.article-content { max-width: 800px; margin: 0 auto; padding: 2rem 1.5rem; }
+.article-body { font-size: 1.1rem; line-height: 1.7; color: var(--text-main); }
+.article-body h1, .article-body h2, .article-body h3 { 
+    font-family: 'Space Grotesk', sans-serif; 
+    color: var(--text-main); 
+    margin-top: 2.5rem;
+    margin-bottom: 1.2rem;
+    font-weight: 700;
+}
+.article-body p { margin-bottom: 1.2rem; }
+
+/* Affiliate Grid Styles */
+.affiliate-container {
+    background: var(--panel-bg);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 2rem;
+    margin: 3.5rem 0;
+    backdrop-filter: blur(10px);
+    text-align: center;
+}
+.affiliate-title {
+    color: var(--text-main);
+    margin-bottom: 1.8rem;
+    font-size: 1.2rem;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+}
+.affiliate-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+    gap: 1.2rem;
+}
+.affiliate-card {
+    background: rgba(255,255,255,0.03);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 1.2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+.affiliate-card:hover {
+    background: rgba(59, 130, 246, 0.1);
+    border-color: var(--accent-blue);
+    transform: translateY(-3px);
+}
+.affiliate-card i { font-size: 1.8rem; color: var(--accent-blue); }
+.affiliate-card span { color: var(--text-main); font-size: 0.85rem; font-weight: 600; text-transform: uppercase; }
+
+.hero-img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 12px;
+    margin-bottom: 2.5rem;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+}
+.source-link {
+    margin-top: 3rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--border);
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    text-align: center;
+}
+.source-link a { color: var(--accent-blue); text-decoration: none; font-weight: 600; }
+
+.ai-footer {
+    padding: 4rem 1.5rem; background: var(--bg-primary); border-top: 1px solid var(--border);
+    text-align: center;
+}
+.ai-footer-logo { font-size: 1.1rem; font-weight: 700; color: var(--text-main); text-transform: uppercase; margin-bottom: 0.5rem; }
+.ai-footer-logo span { color: #0ff; }
+.ai-footer-text { font-size: 0.8rem; color: var(--text-muted); margin-bottom: 1.5rem; line-height: 1.6; }
+.ai-footer-bottom { font-size: 0.65rem; color: var(--text-muted); opacity: 0.5; text-transform: uppercase; letter-spacing: 2px; }
+
+@media (max-width: 768px) {
+    .hero-img { height: 220px; }
+    .affiliate-grid { grid-template-columns: repeat(2, 1fr); }
+    .article-body { font-size: 1.05rem; }
+    .ai-header { padding: 1rem; }
+    .brand { font-size: 1.2rem; }
+}
+
+[dir="rtl"] { text-align: right; }
+[dir="rtl"] .nav-controls { flex-direction: row-reverse; }
+"""
+
 HEADER_HTML = """
     <header class="ai-header">
-        <style>
-            @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;700&display=swap');
-            @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css');
-            .ai-header {
-                position: sticky; top: 0; z-index: 9999; width: 100%;
-                background: rgba(5, 5, 5, 0.8); backdrop-filter: blur(20px);
-                border-bottom: 1px solid var(--border);
-                font-family: 'Space Grotesk', sans-serif;
-                padding: 1rem 5%; display: flex; justify-content: space-between; align-items: center;
-            }
-            .brand { font-size: 1.5rem; font-weight: 800; color: var(--text-main); text-transform: uppercase; letter-spacing: -0.5px; }
-            .brand span { color: var(--accent-blue); }
-            .nav-controls { display: flex; gap: 0.75rem; align-items: center; }
-            .theme-btn, .lang-btn {
-                background: var(--panel-bg); color: var(--text-main);
-                border: 1px solid var(--border); padding: 0.5rem 0.8rem; border-radius: 8px; cursor: pointer; font-size: 0.8rem;
-            }
-            .lang-btn.active { border-color: var(--accent-blue); color: var(--accent-blue); }
-        </style>
         <div class="brand">Market<span>Flock</span></div>
         <div class="nav-controls">
             <button class="theme-btn" id="themeToggle" onclick="toggleTheme()">🌙</button>
@@ -119,16 +296,6 @@ COMMON_JS = """
 
 FOOTER_HTML = """
     <footer class="ai-footer">
-        <style>
-            .ai-footer {
-                padding: 4rem 1.5rem; background: var(--bg-primary); border-top: 1px solid var(--border);
-                font-family: 'Space Grotesk', sans-serif; text-align: center;
-            }
-            .ai-footer-logo { font-size: 1.1rem; font-weight: 700; color: var(--text-main); text-transform: uppercase; margin-bottom: 0.5rem; }
-            .ai-footer-logo span { color: #0ff; }
-            .ai-footer-text { font-size: 0.8rem; color: var(--text-muted); margin-bottom: 1.5rem; line-height: 1.6; }
-            .ai-footer-bottom { font-size: 0.65rem; color: var(--text-muted); opacity: 0.5; text-transform: uppercase; letter-spacing: 2px; }
-        </style>
         <div class="ai-footer-logo">Market <span>Flock</span></div>
         <p class="ai-footer-text" data-trans="footer_copy">© 2026 AI Flock Empire — MarketFlock Network | On-Chain Analytics</p>
         <div class="ai-footer-bottom">System Status: Optimal • Protocol: X-7 Neural</div>
@@ -171,6 +338,11 @@ def run():
     print("🐑 SHEEP 8: Publishing Expert Signals...")
     os.makedirs(SITE_DIR, exist_ok=True)
     
+    # Sync translations
+    trans_src = f"{OUTPUT}/translations.json"
+    if os.path.exists(trans_src):
+        shutil.copy(trans_src, f"{SITE_DIR}/translations.json")
+    
     try:
         with open(f"{OUTPUT}/sheep7_audited.json", "r") as f:
             current_articles = json.load(f)
@@ -188,6 +360,10 @@ def run():
     
     with open(HISTORY_FILE, "w") as f:
         json.dump(history, f, indent=2)
+
+    # Write Style
+    with open(f"{SITE_DIR}/style.css", "w", encoding="utf-8") as f:
+        f.write(MARKETFLOCK_STYLE.strip() + "\n")
 
     for a in history:
         slug = _slugify(a.get("headline", "article"))
@@ -218,10 +394,10 @@ def _build_index(latest):
                 <img src="{img_url}" class="card-image" alt="{attr_hl}">
                 <div class="card-content">
                     <div class="tag">{a['category']}</div>
-                    <h3 data-trans="{attr_hl}" data-original="{attr_hl}" style="font-family: 'Space Grotesk', sans-serif; font-size: 1.15rem; color: var(--text-main);">{a['headline']}</h3>
-                    <p data-trans="{attr_ex}" data-original="{attr_ex}" style="color: var(--text-muted); font-size: 0.9rem;">{excerpt}</p>
+                    <h3 data-trans="{attr_hl}" data-original="{attr_hl}">{a['headline']}</h3>
+                    <p data-trans="{attr_ex}" data-original="{attr_ex}">{excerpt}</p>
                     <div class="card-foot">
-                        <span style="color: var(--text-muted);">{a['source']}</span>
+                        <span>{a['source']}</span>
                     </div>
                 </div>
             </div>"""
@@ -238,13 +414,11 @@ def _build_index(latest):
 <body class="dark-theme">
 {HEADER_HTML}
 <div class="dashboard">
-    <aside class="sidebar"></aside>
     <main>
-        <div class="pro-grid" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1.5rem;">
+        <div class="pro-grid">
             {articles_html}
         </div>
     </main>
-    <aside class="sidebar"></aside>
 </div>
 {FOOTER_HTML}
 {COMMON_JS}
@@ -287,16 +461,14 @@ def _build_article_page(a):
     body_html = _markdown_to_html(a.get('body', ''))
     affiliate_block = _get_affiliate_block(a.get('category', 'Default'))
     
-    # Process body_html to wrap segments in translation tags
-    # We'll wrap paragraphs and list items to keep it clean
     translated_body = ""
     for segment in body_html.split('</p>'):
         if segment.strip():
             clean_segment = segment.replace('<p>', '').strip()
+            # Handle potential nested HTML like lists or bold
             attr_seg = html.escape(clean_segment.replace('"', '&quot;'))
             translated_body += f'<p data-trans="{attr_seg}" data-original="{attr_seg}">{clean_segment}</p>'
     
-    # If segments were empty or splitting failed, fallback
     if not translated_body:
         translated_body = body_html
 
@@ -308,128 +480,6 @@ def _build_article_page(a):
     <title>{a.get('headline', 'MarketFlock Intelligence')}</title>
     {a.get('meta', '')}
     <link rel="stylesheet" href="style.css">
-    <style>
-@font-face{{font-family:'JameelNoori';src:url('/fonts/JameelNooriNastaleeq.ttf') format('truetype')}}
-        body.ur {{ font-family: 'JameelNoori', 'Inter', sans-serif; }}
-        .article-content {{ max-width: 800px; margin: 0 auto; padding: 2rem 1.5rem; }}
-        .article-body {{ 
-            font-size: 1.1rem; 
-            line-height: 1.7; 
-            color: var(--text-main); 
-        }}
-        .article-body h1, .article-body h2, .article-body h3 {{ 
-            font-family: 'Space Grotesk', sans-serif; 
-            color: var(--text-main); 
-            margin-top: 2.5rem;
-            margin-bottom: 1.2rem;
-            text-align: left;
-            font-weight: 700;
-        }}
-        body.ur .article-body h1, body.ur .article-body h2, body.ur .article-body h3 {{ text-align: right; }}
-        .article-body p {{ margin-bottom: 1.2rem; text-align: left; }}
-        body.ur .article-body p {{ text-align: right; }}
-        .article-body ul, .article-body ol {{ margin-bottom: 1.2rem; padding-left: 1.5rem; text-align: left; }}
-        body.ur .article-body ul, body.ur .article-body ol {{ text-align: right; padding-right: 1.5rem; padding-left: 0; }}
-        .article-body li {{ margin-bottom: 0.4rem; }}
-        
-        .article-body table {{
-            width: 100%;
-            border-collapse: collapse;
-            margin: 2rem 0;
-            background: rgba(255,255,255,0.02);
-            border-radius: 8px;
-            overflow: hidden;
-            font-size: 0.95rem;
-        }}
-        .article-body th, .article-body td {{
-            padding: 0.75rem;
-            border: 1px solid var(--border);
-            text-align: left;
-            color: var(--text-main);
-        }}
-        body.ur .article-body th, body.ur .article-body td {{ text-align: right; }}
-        .article-body th {{
-            background: rgba(255,255,255,0.05);
-            font-weight: 700;
-        }}
-        
-        /* Affiliate Grid Styles */
-        .affiliate-container {{
-            background: var(--panel-bg);
-            border: 1px solid var(--border);
-            border-radius: 16px;
-            padding: 2rem;
-            margin: 3.5rem 0;
-            backdrop-filter: blur(10px);
-        }}
-        .affiliate-title {{
-            color: var(--text-main);
-            margin-bottom: 1.8rem;
-            font-size: 1.2rem;
-            font-weight: 700;
-            text-align: center;
-            letter-spacing: 0.5px;
-            font-family: 'Space Grotesk', sans-serif;
-        }}
-        .affiliate-grid {{
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
-            gap: 1.2rem;
-        }}
-        .affiliate-card {{
-            background: rgba(255,255,255,0.03);
-            border: 1px solid var(--border);
-            border-radius: 12px;
-            padding: 1.2rem;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            gap: 10px;
-            text-decoration: none;
-            transition: all 0.3s ease;
-        }}
-        .affiliate-card:hover {{
-            background: rgba(59, 130, 246, 0.1);
-            border-color: var(--accent-blue);
-            transform: translateY(-3px);
-        }}
-        .affiliate-card i {{
-            font-size: 1.8rem;
-            color: var(--accent-blue);
-        }}
-        .affiliate-card span {{
-            color: var(--text-main);
-            font-size: 0.85rem;
-            font-weight: 600;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            text-align: center;
-        }}
-        
-        .hero-img {{
-            width: 100%;
-            height: 400px;
-            object-fit: cover;
-            border-radius: 12px;
-            margin-bottom: 2.5rem;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
-        }}
-        .source-link {{
-            margin-top: 3rem;
-            padding-top: 1.5rem;
-            border-top: 1px solid var(--border);
-            font-size: 0.85rem;
-            color: var(--text-muted);
-            text-align: center;
-        }}
-        .source-link a {{ color: var(--accent-blue); text-decoration: none; font-weight: 600; }}
-        
-        @media (max-width: 768px) {{
-            .hero-img {{ height: 220px; }}
-            .affiliate-grid {{ grid-template-columns: repeat(2, 1fr); }}
-            .article-body {{ font-size: 1.05rem; }}
-        }}
-    </style>
 </head>
 <body class="article-page dark-theme">
     {HEADER_HTML}
