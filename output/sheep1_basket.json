@@ -1,12 +1,30 @@
 [
   {
+    "title": "A massive $1 trillion hidden market is waiting to be unlocked in bitcoin, says new report",
+    "url": "https://www.coindesk.com/business/2026/05/22/ledn",
+    "summary": "",
+    "source": "CoinDesk",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-05-24T16:52:56.630154+00:00"
+  },
+  {
+    "title": "AI is speeding up the quantum threat to crypto, security experts warn",
+    "url": "https://www.coindesk.com/tech/2026/05/24/ai-is-speeding-up-the-quantum-threat-to-crypto-security-experts-warn",
+    "summary": "",
+    "source": "CoinDesk",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-05-24T16:52:56.630222+00:00"
+  },
+  {
     "title": "Tom Lee\u2019s Ethereum portfolio down $7.35B as ETH price outlook worsens",
     "url": "https://cointelegraph.com/markets/tom-lees-ethereum-portfolio-sitting-on-73b-in-unrealized-losses",
     "summary": "ETH\u2019s bearish chart setup points to a 25% drop toward $1,600, risking over $10 billion in paper losses for BitMine in the coming weeks.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-24T16:49:18.308950+00:00"
+    "fetched_at": "2026-05-24T16:52:59.156152+00:00"
   },
   {
     "title": "Here\u2019s what happened in crypto today",
@@ -15,7 +33,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-24T16:49:18.309019+00:00"
+    "fetched_at": "2026-05-24T16:52:59.156222+00:00"
   },
   {
     "title": "Energy Prices Pose Challenge for Travelers",
@@ -24,7 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-24T16:49:19.105409+00:00"
+    "fetched_at": "2026-05-24T16:53:20.557923+00:00"
   },
   {
     "title": "Ebola Spreads Across Congo as Flights Halted, Supplies Run Low",
@@ -33,7 +51,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-24T16:49:19.105478+00:00"
+    "fetched_at": "2026-05-24T16:53:20.558014+00:00"
   },
   {
     "title": "The History and Future of Physical Bitcoin",
@@ -42,7 +60,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-24T16:49:18.634850+00:00"
+    "fetched_at": "2026-05-24T16:52:59.855128+00:00"
   },
   {
     "title": "SEC Delaying Plan to Allow Crypto Versions of US Stocks: Report",
@@ -51,7 +69,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-24T16:49:18.634911+00:00"
+    "fetched_at": "2026-05-24T16:52:59.855206+00:00"
   },
   {
     "title": "AI Startup Says It Will Pay People $2,000 a Month to Masturbate\u2014Yes, Really",
@@ -60,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-24T16:49:18.713340+00:00"
+    "fetched_at": "2026-05-24T16:53:00.842452+00:00"
   },
   {
     "title": "Firefox's Big Redesign Gives You a Button to Kill All the AI",
@@ -69,25 +87,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-24T16:49:18.713397+00:00"
-  },
-  {
-    "title": "StablR\u2019s EURR and USDR depeg after attacker mints $13.5 million in unbacked tokens through multisig exploit",
-    "url": "https://www.theblock.co/post/402429/stablrs-eurr-and-usdr-depeg-after-attacker-mints-13-5-million-in-unbacked-tokens-through-multisig-exploit",
-    "summary": "EURR fell to $0.85 and USDR fell as low as $0.40 after an attacker dumped roughly $10.4 million in face value on decentralized exchanges. ",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-05-24T16:49:18.799993+00:00"
-  },
-  {
-    "title": "ECB warns EU finance ministers that easing euro stablecoin rules would weaken banks: Reuters",
-    "url": "https://www.theblock.co/post/402427/ecb-warns-eu-finance-ministers-that-easing-euro-stablecoin-rules-would-weaken-banks-reuters",
-    "summary": "ECB President Christine Lagarde warned the changes would destabilize bank funding and weaken interest-rate transmission.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-05-24T16:49:18.800064+00:00"
+    "fetched_at": "2026-05-24T16:53:00.842516+00:00"
   },
   {
     "title": "Trump says US will not \u2018rush into a deal\u2019 with Iran as talks continue",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-24T16:49:19.895144+00:00"
+    "fetched_at": "2026-05-24T16:53:21.822327+00:00"
   },
   {
     "title": "Egypt deploys jets to UAE as Iran war strains Arab alliances",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-24T16:49:19.895203+00:00"
+    "fetched_at": "2026-05-24T16:53:21.822434+00:00"
   }
 ]
