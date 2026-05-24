@@ -1,39 +1,57 @@
 [
   {
+    "title": "A massive $1 trillion hidden market is waiting to be unlocked in bitcoin, says new report",
+    "url": "https://www.coindesk.com/business/2026/05/22/ledn",
+    "summary": "",
+    "source": "CoinDesk",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-05-24T15:16:35.700561+00:00"
+  },
+  {
+    "title": "AI is speeding up the quantum threat to crypto, security experts warn",
+    "url": "https://www.coindesk.com/tech/2026/05/24/ai-is-speeding-up-the-quantum-threat-to-crypto-security-experts-warn",
+    "summary": "",
+    "source": "CoinDesk",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-05-24T15:16:35.700640+00:00"
+  },
+  {
+    "title": "Tom Lee\u2019s Ethereum portfolio down $7.35B as ETH price outlook worsens",
+    "url": "https://cointelegraph.com/markets/tom-lees-ethereum-portfolio-sitting-on-73b-in-unrealized-losses",
+    "summary": "ETH\u2019s bearish chart setup points to a 25% drop toward $1,600, risking over $10 billion in paper losses for BitMine in the coming weeks.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-05-24T15:16:37.141684+00:00"
+  },
+  {
     "title": "Here\u2019s what happened in crypto today",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-24T14:19:43.229052+00:00"
+    "fetched_at": "2026-05-24T15:16:37.141749+00:00"
   },
   {
-    "title": "CFTC officials who questioned prediction markets were suspended: NYT",
-    "url": "https://cointelegraph.com/news/cftc-officials-who-questioned-prediction-markets-were-suspended-nyt",
-    "summary": "A New York Times investigation found that senior CFTC officials who raised concerns about Polymarket, Crypto.com and Gemini were suspended and pushed out.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-05-24T14:19:43.229125+00:00"
-  },
-  {
-    "title": "Rubio Says \"Significant Progress\" Made on Iran Talks",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-24/rubio-says-significant-progress-made-on-iran-talks-video",
-    "summary": "US Secretary of State Marco Rubio said there may be \u201csome good news\u201d regarding the blocked Strait of Hormuz in the coming hours, as Iran and Washington press ahead with peace negotiations. Bloomberg's Horizons Middle East and Africa anchor Joumanna Bercetche and Axios Congressional Reporter Andrew S",
+    "title": "Rep. Ivey \"Disgusted\" at Settlement Slush Fund, Critiques $1B Ballroom Budget Request",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-24/rep-ivey-disgusted-at-settlement-slush-fund-video",
+    "summary": "Rep. Glenn Ivey (D-MD) joined Christina Ruffini and David Gura on Bloomberg This Weekend for a wide-ranging conversation on a possible deal with Iran, the anti-weaponization settlement and more. (Source: Bloomberg)",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-24T14:19:43.952383+00:00"
+    "fetched_at": "2026-05-24T15:16:41.207206+00:00"
   },
   {
-    "title": "Rubio Sees Good News Coming on Hormuz as Iran Talks Continue",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-24/trump-touts-imminent-iran-deal-that-would-reopen-hormuz-strait",
-    "summary": "US Secretary of State Marco Rubio said there may be \u201csome good news\u201d regarding the blocked Strait of Hormuz in the coming hours, as Iran and Washington press ahead with peace negotiations.",
+    "title": "Trump Mulls Arms Sale to Taiwan, Will Speak to President",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-24/trump-mulls-arms-sale-to-taiwan-will-speak-to-president-video",
+    "summary": "President Donald Trump indicated he would speak directly with Taiwanese President Lai Ching-te after pausing a $14 billion sale of arms to the country in a move that would risk disrupting newly stabilized ties between the US and China. Ambassador Alexander Yui, Taiwan's representative to the U.S. jo",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-24T14:19:43.952437+00:00"
+    "fetched_at": "2026-05-24T15:16:41.207305+00:00"
   },
   {
     "title": "The History and Future of Physical Bitcoin",
@@ -42,7 +60,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-24T14:19:43.533190+00:00"
+    "fetched_at": "2026-05-24T15:16:38.595534+00:00"
   },
   {
     "title": "SEC Delaying Plan to Allow Crypto Versions of US Stocks: Report",
@@ -51,7 +69,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-24T14:19:43.533275+00:00"
+    "fetched_at": "2026-05-24T15:16:38.595615+00:00"
   },
   {
     "title": "Firefox's Big Redesign Gives You a Button to Kill All the AI",
@@ -60,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-24T14:19:43.627923+00:00"
+    "fetched_at": "2026-05-24T15:16:39.282650+00:00"
   },
   {
     "title": "Bitcoin Dives Below $75K for First Time in a Month as Crypto Liquidations Near $1 Billion",
@@ -69,25 +87,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-24T14:19:43.627984+00:00"
-  },
-  {
-    "title": "ECB warns EU finance ministers that easing euro stablecoin rules would weaken banks: Reuters",
-    "url": "https://www.theblock.co/post/402427/ecb-warns-eu-finance-ministers-that-easing-euro-stablecoin-rules-would-weaken-banks-reuters",
-    "summary": "ECB President Christine Lagarde warned the changes would destabilize bank funding and weaken interest-rate transmission.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-05-24T14:19:43.721552+00:00"
-  },
-  {
-    "title": "FTX\u2019s former law firm, auditor agree to pay $66 million to settle customer claims over fraud",
-    "url": "https://www.theblock.co/post/402425/ftxs-former-law-firm-auditor-agree-to-pay-66-million-to-settle-customer-claims-over-fraud",
-    "summary": "The law firm, Fenwick & West, denied wrongdoing and still faces a separate $525 million suit in Washington that is not covered by Friday's deal.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-05-24T14:19:43.721626+00:00"
+    "fetched_at": "2026-05-24T15:16:39.282758+00:00"
   },
   {
     "title": "Trump says deal with Iran to reopen Hormuz \u2018largely negotiated\u2019",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-24T14:19:44.617319+00:00"
+    "fetched_at": "2026-05-24T15:16:43.592559+00:00"
   },
   {
     "title": "Egypt deploys jets to UAE as Iran war strains Arab alliances",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-24T14:19:44.617376+00:00"
+    "fetched_at": "2026-05-24T15:16:43.592742+00:00"
   }
 ]
