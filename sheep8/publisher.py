@@ -47,9 +47,11 @@ body {
   transition: all 0.3s ease;
 }
 
-body.ur, body.ur * { 
+/* Force Nastaleeq for Urdu */
+[dir="rtl"], body.ur, body.ur * { 
   font-family: 'JameelNoori', serif !important; 
   line-height: 2 !important;
+  text-align: right !important;
 }
 
 h1, h2, h3, h4 { color: var(--text-main); font-weight: 800; }
@@ -114,7 +116,7 @@ h3 { font-size: 1.25rem; font-weight: 800; margin: 0.5rem 0; line-height: 1.4; c
 .article-content { max-width: 800px; margin: 0 auto; padding: 2rem 1.5rem; }
 .article-body { font-size: 1.1rem; line-height: 1.7; color: var(--text-main); }
 .article-body h1, .article-body h2, .article-body h3 { 
-    font-family: 'Space Grotesk', sans-serif; 
+    font-family: inherit; 
     color: var(--text-main); 
     margin-top: 2.5rem;
     margin-bottom: 1.2rem;
@@ -122,7 +124,6 @@ h3 { font-size: 1.25rem; font-weight: 800; margin: 0.5rem 0; line-height: 1.4; c
 }
 .article-body p { margin-bottom: 1.2rem; }
 
-/* Affiliate Grid Styles */
 .affiliate-container {
     background: var(--panel-bg);
     border: 1px solid var(--border);
@@ -198,9 +199,6 @@ h3 { font-size: 1.25rem; font-weight: 800; margin: 0.5rem 0; line-height: 1.4; c
     .ai-header { padding: 1rem; }
     .brand { font-size: 1.2rem; }
 }
-
-[dir="rtl"] { text-align: right; }
-[dir="rtl"] .nav-controls { flex-direction: row-reverse; }
 """
 
 HEADER_HTML = """
@@ -338,6 +336,13 @@ def run():
     print("🐑 SHEEP 8: Publishing Expert Signals...")
     os.makedirs(SITE_DIR, exist_ok=True)
     
+    # Ensure font exists
+    font_dir = f"{SITE_DIR}/fonts"
+    os.makedirs(font_dir, exist_ok=True)
+    font_src = os.path.expanduser("~/storage/downloads/Jameel Noori Nastaleeq Regular.ttf")
+    if os.path.exists(font_src):
+        shutil.copy(font_src, f"{font_dir}/JameelNooriNastaleeq.ttf")
+
     # Sync translations
     trans_src = f"{OUTPUT}/translations.json"
     if os.path.exists(trans_src):
@@ -465,7 +470,6 @@ def _build_article_page(a):
     for segment in body_html.split('</p>'):
         if segment.strip():
             clean_segment = segment.replace('<p>', '').strip()
-            # Handle potential nested HTML like lists or bold
             attr_seg = html.escape(clean_segment.replace('"', '&quot;'))
             translated_body += f'<p data-trans="{attr_seg}" data-original="{attr_seg}">{clean_segment}</p>'
     

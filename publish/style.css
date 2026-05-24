@@ -36,9 +36,11 @@ body {
   transition: all 0.3s ease;
 }
 
-body.ur, body.ur * { 
+/* Force Nastaleeq for Urdu */
+[dir="rtl"], body.ur, body.ur * { 
   font-family: 'JameelNoori', serif !important; 
   line-height: 2 !important;
+  text-align: right !important;
 }
 
 h1, h2, h3, h4 { color: var(--text-main); font-weight: 800; }
@@ -103,7 +105,7 @@ h3 { font-size: 1.25rem; font-weight: 800; margin: 0.5rem 0; line-height: 1.4; c
 .article-content { max-width: 800px; margin: 0 auto; padding: 2rem 1.5rem; }
 .article-body { font-size: 1.1rem; line-height: 1.7; color: var(--text-main); }
 .article-body h1, .article-body h2, .article-body h3 { 
-    font-family: 'Space Grotesk', sans-serif; 
+    font-family: inherit; 
     color: var(--text-main); 
     margin-top: 2.5rem;
     margin-bottom: 1.2rem;
@@ -111,7 +113,6 @@ h3 { font-size: 1.25rem; font-weight: 800; margin: 0.5rem 0; line-height: 1.4; c
 }
 .article-body p { margin-bottom: 1.2rem; }
 
-/* Affiliate Grid Styles */
 .affiliate-container {
     background: var(--panel-bg);
     border: 1px solid var(--border);
@@ -187,6 +188,3 @@ h3 { font-size: 1.25rem; font-weight: 800; margin: 0.5rem 0; line-height: 1.4; c
     .ai-header { padding: 1rem; }
     .brand { font-size: 1.2rem; }
 }
-
-[dir="rtl"] { text-align: right; }
-[dir="rtl"] .nav-controls { flex-direction: row-reverse; }
