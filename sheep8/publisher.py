@@ -41,34 +41,78 @@ HEADER_HTML = """
 
 COMMON_JS = """
     <script>
+        let TRANSLATIONS = {};
+        fetch('/translations.json').then(r => r.json()).catch(()=>{}).then(data => { if(data) TRANSLATIONS = data; applyLang(); });
+
         function toggleTheme() {
             document.body.classList.toggle('light-mode');
             const isLight = document.body.classList.contains('light-mode');
             localStorage.setItem('theme', isLight ? 'light' : 'dark');
             document.getElementById('themeToggle').innerText = isLight ? '☀️' : '🌙';
         }
-        function setLang(lang) {
-            localStorage.setItem('lang', lang);
+
+        async function applyLang() {
+            const lang = localStorage.getItem('lang') || 'en';
             document.body.classList.toggle('ur', lang === 'ur');
             const btnEn = document.getElementById('btn-en');
             const btnUr = document.getElementById('btn-ur');
             if(btnEn) btnEn.classList.toggle('active', lang === 'en');
             if(btnUr) btnUr.classList.toggle('active', lang === 'ur');
             
-            // Basic RTL toggle
             if(lang === 'ur') {
                 document.documentElement.dir = 'rtl';
             } else {
                 document.documentElement.dir = 'ltr';
             }
+
+            const nodes = document.querySelectorAll('[data-trans]');
+            if (lang === 'en') {
+                nodes.forEach(el => {
+                    if (el.hasAttribute('data-original')) {
+                        el.innerHTML = el.getAttribute('data-original');
+                    }
+                });
+                return;
+            }
+
+            for(let el of nodes) {
+                const key = el.getAttribute('data-trans');
+                const originalText = el.getAttribute('data-original') || el.innerText;
+                
+                if (TRANSLATIONS[lang] && TRANSLATIONS[lang][key]) {
+                    el.innerHTML = TRANSLATIONS[lang][key];
+                } else if (originalText && originalText.length > 1) {
+                    try {
+                        const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=${lang}&dt=t&q=${encodeURIComponent(originalText)}`;
+                        const res = await fetch(url);
+                        const data = await res.json();
+                        let translated = '';
+                        if(data && data[0]) {
+                            data[0].forEach(part => { if(part[0]) translated += part[0]; });
+                        }
+                        if(translated) {
+                            if(!TRANSLATIONS[lang]) TRANSLATIONS[lang] = {};
+                            TRANSLATIONS[lang][key] = translated;
+                            el.innerHTML = translated;
+                        }
+                    } catch(e) {
+                        el.innerHTML = originalText;
+                    }
+                }
+            }
         }
+
+        function setLang(lang) {
+            localStorage.setItem('lang', lang);
+            applyLang();
+        }
+
         window.onload = function() {
             if (localStorage.getItem('theme') === 'light') {
                 document.body.classList.add('light-mode');
                 document.getElementById('themeToggle').innerText = '☀️';
             }
-            const savedLang = localStorage.getItem('lang') || 'en';
-            setLang(savedLang);
+            applyLang();
         }
     </script>
 """
@@ -86,7 +130,7 @@ FOOTER_HTML = """
             .ai-footer-bottom { font-size: 0.65rem; color: var(--text-muted); opacity: 0.5; text-transform: uppercase; letter-spacing: 2px; }
         </style>
         <div class="ai-footer-logo">Market <span>Flock</span></div>
-        <p class="ai-footer-text">© 2026 AI Flock Empire — MarketFlock Network | On-Chain Analytics</p>
+        <p class="ai-footer-text" data-trans="footer_copy">© 2026 AI Flock Empire — MarketFlock Network | On-Chain Analytics</p>
         <div class="ai-footer-bottom">System Status: Optimal • Protocol: X-7 Neural</div>
     </footer>
 """
@@ -115,7 +159,6 @@ def _slugify(value):
 
 def _markdown_to_html(value):
     if not value: return ""
-    # Ensure headers have a space after # for reliable parsing
     value = re.sub(r'^(#+)([A-Za-z0-9])', r'\1 \2', str(value), flags=re.MULTILINE)
     try:
         import markdown
@@ -166,13 +209,17 @@ def _build_index(latest):
         excerpt = a.get("body", "").split("---")[0].replace('#','').replace('*','').strip()[:100] + "..."
         filename = a.get("filename", "#")
         img_url = a.get("image_url", "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=800&q=80")
+        
+        attr_hl = a['headline'].replace('"', '&quot;')
+        attr_ex = excerpt.replace('"', '&quot;')
+        
         articles_html += f"""
             <div class="pro-card" onclick="window.location.href='{filename}'">
-                <img src="{img_url}" class="card-image" alt="{a['headline']}">
+                <img src="{img_url}" class="card-image" alt="{attr_hl}">
                 <div class="card-content">
                     <div class="tag">{a['category']}</div>
-                    <h3 style="font-family: 'Space Grotesk', sans-serif; font-size: 1.15rem; color: var(--text-main);">{a['headline']}</h3>
-                    <p style="color: var(--text-muted); font-size: 0.9rem;">{excerpt}</p>
+                    <h3 data-trans="{attr_hl}" data-original="{attr_hl}" style="font-family: 'Space Grotesk', sans-serif; font-size: 1.15rem; color: var(--text-main);">{a['headline']}</h3>
+                    <p data-trans="{attr_ex}" data-original="{attr_ex}" style="color: var(--text-muted); font-size: 0.9rem;">{excerpt}</p>
                     <div class="card-foot">
                         <span style="color: var(--text-muted);">{a['source']}</span>
                     </div>
@@ -250,6 +297,7 @@ def _build_article_page(a):
     <link rel="stylesheet" href="style.css">
     <style>
 @font-face{{font-family:'JameelNoori';src:url('/fonts/JameelNooriNastaleeq.ttf') format('truetype')}}
+        body.ur {{ font-family: 'JameelNoori', 'Inter', sans-serif; }}
         .article-content {{ max-width: 800px; margin: 0 auto; padding: 2rem 1.5rem; }}
         .article-body {{ 
             font-size: 1.1rem; 
@@ -264,8 +312,11 @@ def _build_article_page(a):
             text-align: left;
             font-weight: 700;
         }}
+        body.ur .article-body h1, body.ur .article-body h2, body.ur .article-body h3 {{ text-align: right; }}
         .article-body p {{ margin-bottom: 1.2rem; text-align: left; }}
+        body.ur .article-body p {{ text-align: right; }}
         .article-body ul, .article-body ol {{ margin-bottom: 1.2rem; padding-left: 1.5rem; text-align: left; }}
+        body.ur .article-body ul, body.ur .article-body ol {{ text-align: right; padding-right: 1.5rem; padding-left: 0; }}
         .article-body li {{ margin-bottom: 0.4rem; }}
         
         .article-body table {{
@@ -283,6 +334,7 @@ def _build_article_page(a):
             text-align: left;
             color: var(--text-main);
         }}
+        body.ur .article-body th, body.ur .article-body td {{ text-align: right; }}
         .article-body th {{
             background: rgba(255,255,255,0.05);
             font-weight: 700;
@@ -372,7 +424,9 @@ def _build_article_page(a):
         <article>
             <img src="{a['image_url']}" class="hero-img" alt="{a['headline']}">
             <div class="article-body">
-                {body_html}
+                <div data-trans="{a['headline'].replace('"', '&quot;')}" data-original="{a['headline'].replace('"', '&quot;')}">
+                    {body_html}
+                </div>
                 {affiliate_block}
             </div>
             <div class="source-link">
