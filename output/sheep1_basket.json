@@ -1,12 +1,12 @@
 [
   {
-    "title": "XRP price in \u2018value zone\u2019 near $1.40 as whales pull $170M from exchanges",
-    "url": "https://cointelegraph.com/markets/xrp-price-in-value-zone-near-140-as-whales-pull-170m-from-exchanges",
-    "summary": "Whales withdrew $170 million in XRP from Binance as the price holds a key $1.35-$1.40 accumulation and support zone.",
+    "title": "Crypto PAC money pours into Texas primary runoffs, as prediction markets favor challengers",
+    "url": "https://cointelegraph.com/news/texas-primary-runoffs-crypto-pac-prediction-markets-newcomers",
+    "summary": "The crypto-aligned Protect Progress PAC reported spending another $750,000 on media for a Democratic candidate over Representative Al Green, whom it described as \u201cactively hostile\u201d to digital assets.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-25T16:57:02.816195+00:00"
+    "fetched_at": "2026-05-25T18:22:23.826017+00:00"
   },
   {
     "title": "CoinQuant introduces trading infrastructure for the agent economy",
@@ -15,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-25T16:57:02.816269+00:00"
+    "fetched_at": "2026-05-25T18:22:23.826089+00:00"
   },
   {
-    "title": "Emerging-Market Assets Rally as Iran Hopes Boost Risk Appetite",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-25/emerging-market-assets-rise-as-oil-drops-on-us-iran-deal-hopes",
-    "summary": "Emerging-market stocks and currencies rose Monday as signs that the US and Iran are nearing a deal to reopen the Strait of Hormuz pushed oil prices below $100 per barrel and boosted risk appetite.",
+    "title": "Hungary Sees May 28 Deal With EU on Frozen Funds, PM Magyar Says",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-25/hungary-sees-may-28-deal-with-eu-on-frozen-funds-pm-magyar-says",
+    "summary": "Hungarian Prime Minister Peter Magyar said he\u2019ll sign a political accord with the head of the European Union\u2019s executive on May 28 on the release of the bloc\u2019s frozen funds.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-25T16:57:04.283170+00:00"
+    "fetched_at": "2026-05-25T18:22:24.740710+00:00"
   },
   {
-    "title": "Cox Group Took 54% Bridge Loan for Deal to Buy Iberdrola Mexico",
+    "title": "Cox Group Took 20% Bridge Loan for Iberdrola Mexico Deal",
     "url": "https://www.bloomberg.com/news/articles/2026-05-25/cox-group-took-54-bridge-loan-for-deal-to-buy-iberdrola-mexico",
-    "summary": "Spanish utility Cox ABG Group SA took a 54% bridge loan to help fund a $4.2 billion asset acquisition in Mexico and placed shares as collateral.",
+    "summary": "Spanish utility Cox ABG Group SA took a bridge loan to help fund a $4.2 billion asset acquisition in Mexico and placed shares as collateral.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-25T16:57:04.283229+00:00"
+    "fetched_at": "2026-05-25T18:22:24.740768+00:00"
   },
   {
     "title": "The History and Future of Physical Bitcoin",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-25T16:57:03.184047+00:00"
+    "fetched_at": "2026-05-25T18:22:24.225605+00:00"
   },
   {
     "title": "SEC Delaying Plan to Allow Crypto Versions of US Stocks: Report",
@@ -51,25 +51,25 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-25T16:57:03.184109+00:00"
+    "fetched_at": "2026-05-25T18:22:24.225682+00:00"
   },
   {
-    "title": "Vitalik Buterin Signals Shift to 'Smaller Ship' at Ethereum Foundation Amid Departures",
-    "url": "https://decrypt.co/368934/vitalik-buterin-smaller-ship-ethereum-foundation-departures",
-    "summary": "Buterin revealed that 90% of his net worth is tied up in Ethereum.",
+    "title": "With Central Bank\u2019s Blessing, Georgia Taps Tether for 'Official' Stablecoin",
+    "url": "https://decrypt.co/368961/central-bank-georgia-tether-stablecoin",
+    "summary": "Tether plans to issue a stablecoin in Georgia with support from the country\u2019s government, marking a new frontier for the crypto giant.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-25T16:57:03.383143+00:00"
+    "fetched_at": "2026-05-25T18:22:24.347597+00:00"
   },
   {
-    "title": "Pope Leo Releases First AI Encyclical, Calls Data a Common Good and Rejects Moral Neutrality of Tech",
-    "url": "https://decrypt.co/368933/pope-leo-xiv-ai-encyclical-2026",
-    "summary": "The 245-paragraph document was presented alongside Anthropic co-founder Christopher Olah, whose company is actively suing the Trump administration over military AI use.",
+    "title": "Perplexity Built a Tool That Checks Your Computer for Infected Software\u2014Without Setting Off the Infection",
+    "url": "https://decrypt.co/368944/perplexity-open-source-bumblebee-ai-scanner-mcp-infection-malware",
+    "summary": "Bumblebee scans developer machines for compromised packages and AI tool configs. Its core trick: It never actually runs the code it's looking for.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-25T16:57:03.383205+00:00"
+    "fetched_at": "2026-05-25T18:22:24.347677+00:00"
   },
   {
     "title": "\u2018We don\u2019t know who deployed this\u2019: Squid distances itself from $3.2 million third-party module exploit",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-25T16:57:03.555758+00:00"
+    "fetched_at": "2026-05-25T18:22:24.450740+00:00"
   },
   {
     "title": "Indonesia blocks Polymarket amid crackdown on online betting",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-25T16:57:03.555821+00:00"
+    "fetched_at": "2026-05-25T18:22:24.450803+00:00"
   },
   {
     "title": "Iran\u2019s top negotiators travel to Qatar amid intensified efforts to secure deal",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-25T16:57:05.089943+00:00"
+    "fetched_at": "2026-05-25T18:22:25.420213+00:00"
   },
   {
     "title": "Two LNG tankers pass through Strait of Hormuz",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-25T16:57:05.089999+00:00"
+    "fetched_at": "2026-05-25T18:22:25.420270+00:00"
   }
 ]
