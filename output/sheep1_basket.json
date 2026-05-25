@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-25T21:59:45.552455+00:00"
+    "fetched_at": "2026-05-25T23:02:32.830114+00:00"
   },
   {
     "title": "UAE-linked ADI Chain gains Ledger support amid stablecoin growth",
@@ -15,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-25T21:59:45.552530+00:00"
+    "fetched_at": "2026-05-25T23:02:32.830188+00:00"
   },
   {
-    "title": "Iran Deal Hopes Boost Emerging Market Assets as Oil Slides",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-25/emerging-market-assets-rise-as-oil-drops-on-us-iran-deal-hopes",
-    "summary": "Emerging-market stocks and currencies rose Monday as signs that the US and Iran are nearing a deal to reopen the Strait of Hormuz pushed oil prices lower and boosted risk appetite.",
+    "title": "Oil Holds Decline as Traders See Progress Toward Iranian Deal",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-25/latest-oil-market-news-and-analysis-for-may-26",
+    "summary": "Oil held a drop on signs that negotiations to extend a US-Iranian ceasefire and reopen the Strait of Hormuz were making progress.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-25T21:59:46.866072+00:00"
+    "fetched_at": "2026-05-25T23:02:33.904142+00:00"
   },
   {
-    "title": "Oil Slides as US Touts Progress on Deal Toward Reopening Hormuz",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-24/latest-oil-market-news-and-analysis-for-may-25",
-    "summary": "West Texas Intermediate crude briefly fell below $90 a barrel for the first time in almost three weeks amid signs the US and Iran were progressing toward an agreement to reopen the Strait of Hormuz.",
+    "title": "Strategists Warn of High Yields Even If Iran War Ends",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-24/bond-strategists-warn-yields-to-stay-high-even-if-iran-war-ends",
+    "summary": "For all the hand-wringing over war-related inflation fears, there are signs that other drivers are having as much a bearing on longer-term borrowing costs.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-25T21:59:46.866132+00:00"
+    "fetched_at": "2026-05-25T23:02:33.904195+00:00"
   },
   {
     "title": "The History and Future of Physical Bitcoin",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-25T21:59:45.892470+00:00"
+    "fetched_at": "2026-05-25T23:02:33.241175+00:00"
   },
   {
     "title": "SEC Delaying Plan to Allow Crypto Versions of US Stocks: Report",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-25T21:59:45.892532+00:00"
+    "fetched_at": "2026-05-25T23:02:33.241236+00:00"
   },
   {
     "title": "Tom Lee Outlines Liquidity Catalyst for Ethereum Firm BitMine Following Russell Index Update",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-25T21:59:46.091759+00:00"
+    "fetched_at": "2026-05-25T23:02:33.356406+00:00"
   },
   {
     "title": "Famed iPhone, Sony Hacker Says AI Coding Agents Are a Disaster Waiting to Happen",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-25T21:59:46.091822+00:00"
+    "fetched_at": "2026-05-25T23:02:33.356461+00:00"
   },
   {
     "title": "\u2018We don\u2019t know who deployed this\u2019: Squid distances itself from $3.2 million third-party module exploit",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-25T21:59:46.276849+00:00"
+    "fetched_at": "2026-05-25T23:02:33.469014+00:00"
   },
   {
     "title": "Indonesia blocks Polymarket amid crackdown on online betting",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-25T21:59:46.276915+00:00"
+    "fetched_at": "2026-05-25T23:02:33.469075+00:00"
   },
   {
     "title": "Iran\u2019s top negotiators travel to Qatar amid intensified efforts to secure deal",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-25T21:59:47.770981+00:00"
+    "fetched_at": "2026-05-25T23:02:34.576402+00:00"
   },
   {
     "title": "Two LNG tankers pass through Strait of Hormuz",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-25T21:59:47.771040+00:00"
+    "fetched_at": "2026-05-25T23:02:34.576453+00:00"
   }
 ]
