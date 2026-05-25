@@ -1,24 +1,36 @@
 [
   {
+    "title": "XRP price trades in \u2018value zone\u2019 near $1.40 as whales pull $170M from exchanges",
+    "url": "https://cointelegraph.com/markets/xrp-price-in-value-zone-near-140-as-whales-pull-170m-from-exchanges",
+    "summary": "Whales withdrew $170 million in XRP from Binance as the price holds a key $1.35-$1.40 accumulation and support zone.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-05-25T21:59:45.552455+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "UAE-linked ADI Chain gains Ledger support amid stablecoin growth",
     "url": "https://cointelegraph.com/news/ledger-integrates-uae-backed-adi-token-as-gulf-blockchain-infrastructure-expands",
     "summary": "The integration gives ADI token holders access to Ledger\u2019s self-custody platform as ADI Chain expands its stablecoin and tokenized asset network.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-25T20:17:52.220255+00:00",
+    "fetched_at": "2026-05-25T21:59:45.552530+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Crypto PAC money pours into Texas primary runoffs, as prediction markets favor challengers",
-    "url": "https://cointelegraph.com/news/texas-primary-runoffs-crypto-pac-prediction-markets-newcomers",
-    "summary": "The crypto-aligned Protect Progress PAC reported spending another $750,000 on media for a Democratic candidate over Representative Al Green, whom it described as \u201cactively hostile\u201d to digital assets.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
+    "title": "Iran Deal Hopes Boost Emerging Market Assets as Oil Slides",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-25/emerging-market-assets-rise-as-oil-drops-on-us-iran-deal-hopes",
+    "summary": "Emerging-market stocks and currencies rose Monday as signs that the US and Iran are nearing a deal to reopen the Strait of Hormuz pushed oil prices lower and boosted risk appetite.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-25T20:17:52.220352+00:00",
+    "fetched_at": "2026-05-25T21:59:46.866072+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,19 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-25T20:17:53.116166+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Gold Gains as Prospects of Iran Deal Temper Inflation Concerns",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-24/gold-gains-as-prospects-of-iran-deal-temper-inflation-concerns",
-    "summary": "Gold advanced after officials signaled the US was nearing a deal with Iran to reopen the Strait of Hormuz and restore oil flows, easing inflation fears.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-05-25T20:17:53.116218+00:00",
+    "fetched_at": "2026-05-25T21:59:46.866132+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-25T20:17:52.565065+00:00",
+    "fetched_at": "2026-05-25T21:59:45.892470+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-25T20:17:52.565124+00:00",
+    "fetched_at": "2026-05-25T21:59:45.892532+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-25T20:17:52.642237+00:00",
+    "fetched_at": "2026-05-25T21:59:46.091759+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-25T20:17:52.642309+00:00",
+    "fetched_at": "2026-05-25T21:59:46.091822+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-25T20:17:52.715225+00:00",
+    "fetched_at": "2026-05-25T21:59:46.276849+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-25T20:17:52.715286+00:00",
+    "fetched_at": "2026-05-25T21:59:46.276915+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-25T20:17:53.941167+00:00",
+    "fetched_at": "2026-05-25T21:59:47.770981+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-25T20:17:53.941219+00:00",
+    "fetched_at": "2026-05-25T21:59:47.771040+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
