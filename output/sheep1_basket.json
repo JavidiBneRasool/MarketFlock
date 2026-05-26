@@ -1,39 +1,39 @@
 [
   {
-    "title": "Ondo Finance founder Nathan Allman dies aged 32",
-    "url": "https://cointelegraph.com/news/ondo-finance-founder-nathan-allman-passes-away-aged-32",
-    "summary": "Ondo Finance says its founder, Nathan Allman, died unexpectedly, with company president Ian De Bode to serve as CEO.",
+    "title": "AI agents must be treated as untrusted systems: Researchers",
+    "url": "https://cointelegraph.com/news/google-meta-researchers-ai-agents-untrusted-system-security",
+    "summary": "AI agents are becoming increasingly popular among crypto users, with Circle CEO Jeremy Allaire predicting that billions of AI agents will be operating within five years.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-26T06:03:00.409105+00:00"
+    "fetched_at": "2026-05-26T10:39:36.277180+00:00"
   },
   {
-    "title": "Kelp DAO says rsETH restored 5 weeks after $293M protocol hack",
-    "url": "https://cointelegraph.com/news/kelpdao-says-rseth-restored-5-weeks-after-protocol-hack",
-    "summary": "Kelp DAO says that sETH mints, redemptions and rewards operations have been running smoothly since it opened withdrawals for the token earlier this month.",
+    "title": "Scammers make $400K through fake Uniswap ads on Google",
+    "url": "https://cointelegraph.com/news/scammers-make-400k-through-fake-uniswap-ads-on-google",
+    "summary": "A blockchain analyst has warned that malicious phishing advertisements impersonating Uniswap have appeared on Google Search, which has netted attackers at least $400,000.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-26T06:03:00.409191+00:00"
+    "fetched_at": "2026-05-26T10:39:36.277253+00:00"
   },
   {
-    "title": "Stocks Pare Gain, Oil Climbs as US Strikes Iran: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-25/asian-stocks-set-to-extend-gains-on-us-iran-hopes-markets-wrap",
-    "summary": "Stocks trimmed gains and crude oil advanced after US strikes on sites in Iran curbed optimism over a potential deal to end the war.",
+    "title": "Danish Central Bank Warns of Housing Risks on Price Rally",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-26/danish-central-bank-warns-of-housing-risks-as-price-gains-spread",
+    "summary": "A surge in Copenhagen home prices is spilling over to the rest of Denmark, posing growing risks to the country\u2019s lenders, the central bank said.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-26T06:03:01.352019+00:00"
+    "fetched_at": "2026-05-26T10:39:37.118307+00:00"
   },
   {
-    "title": "Treasury Curve Flashes Higher-for-Longer Warning Under Warsh",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-25/treasury-curve-flashes-higher-for-longer-warning-under-warsh",
-    "summary": "A key Treasury yield gap shrank to its tightest level in a year as traders ramped up bets the Federal Reserve may keep interest rates higher for longer under new chairman Kevin Warsh.",
+    "title": "ECB Set to Lift Its Inflation Outlook in June, Lane Tells Nikkei",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-26/ecb-set-to-lift-its-inflation-outlook-in-june-lane-tells-nikkei",
+    "summary": "The European Central Bank will probably raise its quarterly projection for inflation next month as the Iran war keeps energy prices elevated, Chief Economist Philip Lane told Nikkei in remarks published Monday.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-26T06:03:01.352079+00:00"
+    "fetched_at": "2026-05-26T10:39:37.118367+00:00"
   },
   {
     "title": "The History and Future of Physical Bitcoin",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-26T06:03:00.728169+00:00"
+    "fetched_at": "2026-05-26T10:39:36.523698+00:00"
   },
   {
     "title": "SEC Delaying Plan to Allow Crypto Versions of US Stocks: Report",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-26T06:03:00.728244+00:00"
+    "fetched_at": "2026-05-26T10:39:36.523782+00:00"
   },
   {
     "title": "Tom Lee Outlines Liquidity Catalyst for Ethereum Firm BitMine Following Russell Index Update",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-26T06:03:00.848110+00:00"
+    "fetched_at": "2026-05-26T10:39:36.609087+00:00"
   },
   {
     "title": "Famed iPhone, Sony Hacker Says AI Coding Agents Are a Disaster Waiting to Happen",
@@ -69,25 +69,25 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-26T06:03:00.848174+00:00"
+    "fetched_at": "2026-05-26T10:39:36.609145+00:00"
   },
   {
-    "title": "OKX\u2019s X Layer launches Exchange OS, allowing users to create custom crypto markets",
-    "url": "https://www.theblock.co/post/402505/okx-x-layer-exchange-os",
-    "summary": "Exchange OS moves core exchange functions, such as matching, margining, liquidation, and settlement, to the protocol layer.",
+    "title": "Robinhood clears final regulatory approval for $180M WonderFi deal ahead of expected June 1 close",
+    "url": "https://www.theblock.co/post/402542/robinhood-clears-final-regulatory-approval-wonderfi-deal",
+    "summary": "Canada's CIRO approved Robinhood's acquisition of WonderFi, clearing the final regulatory hurdle ahead of an expected June 1 close.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-26T06:03:00.937005+00:00"
+    "fetched_at": "2026-05-26T10:39:36.697996+00:00"
   },
   {
-    "title": "Nathan Allman, founder and CEO of Ondo Finance, dies unexpectedly",
-    "url": "https://www.theblock.co/post/402500/nathan-allman-ondo-finance",
-    "summary": "Ian De Bode, president of Ondo Finance, will assume the role of CEO, the company said in a statement on Monday.",
+    "title": "Bitget launches RWA platform Reality in tokenization push",
+    "url": "https://www.theblock.co/post/402518/bitget-launches-reality-rwa",
+    "summary": "Bitget said Reality will initially offer tokenized exposure to selected U.S. stocks and ETFs through its broader trading ecosystem.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-26T06:03:00.937075+00:00"
+    "fetched_at": "2026-05-26T10:39:36.698059+00:00"
   },
   {
     "title": "US strikes Iranian missile sites as peace talks continue",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-26T06:03:01.938523+00:00"
+    "fetched_at": "2026-05-26T10:39:37.699350+00:00"
   },
   {
     "title": "Iran is beating Trump at the art of the deal",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-26T06:03:01.938575+00:00"
+    "fetched_at": "2026-05-26T10:39:37.699405+00:00"
   }
 ]
