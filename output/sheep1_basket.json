@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-26T19:52:30.182868+00:00"
+    "fetched_at": "2026-05-26T21:26:16.856669+00:00"
   },
   {
     "title": "TeraWulf acquires Kentucky AI data center site with planned 1 GW capacity",
@@ -15,25 +15,34 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-26T19:52:30.182950+00:00"
+    "fetched_at": "2026-05-26T21:26:16.856747+00:00"
   },
   {
-    "title": "Gold Declines as Gulf Strikes Cloud Interest Rate Outlook",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-25/gold-holds-gain-as-iran-deal-progress-eases-inflation-concerns",
-    "summary": "Gold fell as military strikes in the Persian Gulf dimmed hopes for a US-Iran peace deal and reinforced concerns that persistent inflation could keep interest rates higher for longer.",
+    "title": "Rocket, Satellite Stocks Surge\u00a0as SpaceX IPO Fuels Euphoria",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-26/rocket-satellite-stocks-surge-anew-as-spacex-ipo-fuels-euphoria",
+    "summary": "Space and satellite-related stocks soared Tuesday as investor enthusiasm around the industry intensified.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-26T19:52:30.992492+00:00"
+    "fetched_at": "2026-05-26T21:26:17.787131+00:00"
   },
   {
-    "title": "US Natural Gas Drops in Thin Trading as Options Contracts Expire",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-26/us-natural-gas-rises-on-lower-output-higher-flows-to-lng-plants",
-    "summary": "US natural gas futures fell just before options contracts for front-month delivery expired, erasing earlier gains that had been triggered by an increase in domestic gas supplies flowing to liquefied natural gas export terminals on the Gulf Coast. Losses were likely aided by a cool shift in weather f",
+    "title": "Emerging Currencies Slide as Iran War \u2018Confusion\u2019 Jolts Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-26/emerging-stocks-extend-rally-as-ai-boom-outweighs-iran-doubts",
+    "summary": "Most emerging-market currencies weakened on Tuesday as overnight clashes near the Strait of Hormuz offset signs of progress toward a US-Iran peace deal, even as developing-nation stocks rose on optimism around artificial intelligence.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-26T19:52:30.992556+00:00"
+    "fetched_at": "2026-05-26T21:26:17.787239+00:00"
+  },
+  {
+    "title": "TeraWulf Acquires 1 GW Kentucky AI Data Center Site, Shares Jump 11%",
+    "url": "https://bitcoinmagazine.com/news/terawulf-acquires-1-gw-kentucky-ai-data",
+    "summary": "Bitcoin Magazine\n\nTeraWulf Acquires 1 GW Kentucky AI Data Center Site, Shares Jump 11%\nTeraWulf Inc. acquired a 1 GW AI-focused data center site in Kentucky, advancing its pivot toward high-performance computing infrastructure and sending shares up 11% on strong investor response.\nThis post TeraWulf",
+    "source": "Bitcoin Magazine",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-05-26T21:26:17.204887+00:00"
   },
   {
     "title": "Smarter Web Company Adds 10 Bitcoin, Lifts Holdings to 2,869 BTC Amid Treasury Push",
@@ -42,34 +51,34 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-26T19:52:30.431657+00:00"
+    "fetched_at": "2026-05-26T21:26:17.204975+00:00"
   },
   {
-    "title": "Strive\u2019s SATA Briefly Swallows the Entire Bitcoin Mining Daily Supply As BTC Purchases Ramp Up",
-    "url": "https://bitcoinmagazine.com/news/strives-sata-swallows-entire-bitcoin",
-    "summary": "Bitcoin Magazine\n\nStrive&#8217;s SATA Briefly Swallows the Entire Bitcoin Mining Daily Supply As BTC Purchases Ramp Up\nStrive\u2019s SATA preferred stock is rapidly emerging as a major bitcoin accumulation vehicle \u2014 briefly absorbing more than 100% of daily mining supply.\nThis post Strive&#8217;s SATA Br",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-05-26T19:52:30.431737+00:00"
-  },
-  {
-    "title": "Spain Blocks Prediction Markets Kalshi, Polymarket for Potential Gambling Law Violations",
-    "url": "https://decrypt.co/369043/spain-blocks-prediction-markets-kalshi-polymarket-potential-violations",
-    "summary": "Spain is the latest country to clamp down on the rising use of prediction market platforms like Polymarket and Kalshi.",
+    "title": "Someone Just Destroyed $8.2 Million in Bitcoin\u2014Why?",
+    "url": "https://decrypt.co/369099/someone-burned-8-million-bitcoin-destroyed-why",
+    "summary": "Five unknown addresses removed 107 Bitcoin worth $8.2 million from circulation today, sparking intrigue on social media.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-26T19:52:30.552528+00:00"
+    "fetched_at": "2026-05-26T21:26:17.339032+00:00"
   },
   {
-    "title": "AI Chatbots Show Bias Toward Catholicism, Researchers Say",
-    "url": "https://decrypt.co/369045/ai-chatbots-claude-chatgpt-bias-catholicism-pope-leo",
-    "summary": "Researchers find AI models steer users toward Catholicism and away from other religions, like Jehovah\u2019s Witnesses.",
+    "title": "This Half-Gigabyte AI Model Runs Local Agents on Your Phone",
+    "url": "https://decrypt.co/369068/openbmb-minicpm5-half-gigabyte-ai-model-local-agents-phone",
+    "summary": "OpenBMB's 1B-parameter model brings MCP support and agentic tool use to on-device AI\u2014but it has trouble with logic traps.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-26T19:52:30.552588+00:00"
+    "fetched_at": "2026-05-26T21:26:17.339095+00:00"
+  },
+  {
+    "title": "DeFi TVL slides 14% since KelpDAO exploit as risk appetite retreats",
+    "url": "https://www.theblock.co/post/402641/defi-tvl-slides-14-since-kelpdao-exploit-as-risk-appetite-retreats",
+    "summary": "DeFi outflows have deepened five weeks after the KelpDAO breach exposed new infrastructure risks.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-05-26T21:26:17.463801+00:00"
   },
   {
     "title": "Ethereum, Solana treasury firms Sharplink and Forward join Russell indexes",
@@ -78,33 +87,24 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-26T19:52:30.646574+00:00"
+    "fetched_at": "2026-05-26T21:26:17.463863+00:00"
   },
   {
-    "title": "TD Cowen says crypto bill unlikely to pass this year amid worsening political environment",
-    "url": "https://www.theblock.co/post/402649/td-cowen-crypto-bill-worsening-political-environment-trump",
-    "summary": "The political environment around the Clarity Act is getting worse, TD Cowen says, making it harder for the crypto bill to pass this year.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-05-26T19:52:30.646648+00:00"
-  },
-  {
-    "title": "BP removes chair Albert Manifold over \u2018serious concerns\u2019 about his conduct",
-    "url": "https://www.ft.com/content/e63db59c-ed38-4930-b320-3b2481bf8e60",
-    "summary": "Hands-on approach was viewed as excessive by several colleagues at oil major",
+    "title": "Iran accuses US of \u2018flagrant\u2019 ceasefire violations as back-channel talks continue",
+    "url": "https://www.ft.com/content/ff09de9d-301b-45a8-be97-5a45802c4a37",
+    "summary": "Tehran vows to \u2018not leave any mischief unanswered\u2019 after the attacks",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-26T19:52:31.604833+00:00"
+    "fetched_at": "2026-05-26T21:26:18.783792+00:00"
   },
   {
-    "title": "BP is deeply dysfunctional, but it could be worse",
-    "url": "https://www.ft.com/content/1f53a603-34ee-453c-a3a6-f7eca164679a",
-    "summary": "Investors should be concerned by Manifold\u2019s ousting, but better to fire too many executives than too few",
+    "title": "Iran starts to restore internet access after months-long blackout",
+    "url": "https://www.ft.com/content/a9a3a9e5-854a-4ccb-af03-d73f69ed0cd6",
+    "summary": "Move to allow connectivity comes as US strikes Iranian missile launch sites and peace talks continue",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-26T19:52:31.604892+00:00"
+    "fetched_at": "2026-05-26T21:26:18.783851+00:00"
   }
 ]
