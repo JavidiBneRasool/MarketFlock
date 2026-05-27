@@ -1,21 +1,21 @@
 [
   {
-    "title": "Orca, Streamex roll out secondary trading infrastructure for tokenized securities",
-    "url": "https://cointelegraph.com/news/orca-and-streamex-launch-secondary-trading-infrastructure-for-tokenized-securities",
-    "summary": "Accredited investors can buy and sell the gold-backed GLDY token through permissioned liquidity pools operating on the Solana blockchain.",
+    "title": "Bitcoin miner inflows to Binance soar as BTC struggles to hold uptrend: Is $70K next?",
+    "url": "https://cointelegraph.com/markets/bitcoin-miner-inflows-rise-to-20k-on-binance-can-btc-hold-its-daily-uptrend",
+    "summary": "Weakening spot demand, miner inflows to exchanges and freshly opened shorts put downside pressure on Bitcoin price.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-27T21:43:23.013200+00:00"
+    "fetched_at": "2026-05-27T23:07:41.849998+00:00"
   },
   {
-    "title": "PACs laud Texas primary wins, look to back more pro-crypto candidates",
-    "url": "https://cointelegraph.com/news/crypto-pac-fairshake-texas-primary-backed-candidates",
-    "summary": "While crypto industry-backed candidates won runoffs in Texas on Tuesday, industry PACs have less of a stake in California races next week.",
+    "title": "Polymarket weighs KYC requirements amid global crackdown on prediction markets",
+    "url": "https://cointelegraph.com/news/polymarket-kyc-sanctions-insider-trading-prediction-markets",
+    "summary": "The predictions market operator reportedly explored mandatory user verification requirements, breaking from its policies of allowing traders to access its services using pseudonyms.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-27T21:43:23.013274+00:00"
+    "fetched_at": "2026-05-27T23:07:41.850072+00:00"
   },
   {
     "title": "Google Engineer Charged With Insider Trading on Polymarket",
@@ -24,16 +24,25 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-27T21:43:23.760570+00:00"
+    "fetched_at": "2026-05-27T23:07:42.558408+00:00"
   },
   {
-    "title": "BlackRock's Rosenberg on Fed Rates, IALT ETF Strategy",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-27/blackrock-s-rosenberg-on-fed-rates-ialt-etf-strategy-video",
-    "summary": "Jeffrey Rosenberg, portfolio manager of the iShares Systematic Alternatives Active ETF (IALT) at BlackRock, explains how the ETF is navigating the current economic environment on \"Bloomberg The Close.\" (Source: Bloomberg)",
+    "title": "Oil Gains as Deal to End War and Reopen Hormuz Remains Elusive",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-27/latest-oil-market-news-and-analysis-for-may-28",
+    "summary": "Oil edged higher as the US and Iran remained at odds over how to reopen the Strait of Hormuz, with the war entering its fourth month.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-27T21:43:23.760625+00:00"
+    "fetched_at": "2026-05-27T23:07:42.558461+00:00"
+  },
+  {
+    "title": "The 2036 Issue: What Choices Will You Make On The Way To A Multipolar World?",
+    "url": "https://bitcoinmagazine.com/print/the-2036-issue-what-choices-will-you-make-on-the-way-to-a-multipolar-world",
+    "summary": "Bitcoin Magazine\n\nThe 2036 Issue: What Choices Will You Make On The Way To A Multipolar World?\nFrom The 2036 Issue: How will Bitcoin fare as the world shifts into a state of increasing multipolarity? By Lyn Alden\nThis post The 2036 Issue: What Choices Will You Make On The Way To A Multipolar World? ",
+    "source": "Bitcoin Magazine",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-05-27T23:07:42.135068+00:00"
   },
   {
     "title": "Cathie Wood Doubles Down: ARK Invest Sets Bitcoin Base Case at $750,000 by 2030",
@@ -42,16 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-27T21:43:23.314296+00:00"
-  },
-  {
-    "title": "Strive\u2019s SATA Tops Estimated 490 Bitcoin in a Single Day \u2014 More Than the Entire Daily Mining Supply",
-    "url": "https://bitcoinmagazine.com/news/strives-sata-tops-estimated-490-bitcoin",
-    "summary": "Bitcoin Magazine\n\nStrive&#8217;s SATA Tops Estimated 490 Bitcoin in a Single Day \u2014 More Than the Entire Daily Mining Supply\nAt the time of writing today, Strive, Inc.\u2019s SATA preferred stock program bought roughly 490 BTC in a single day.\nThis post Strive&#8217;s SATA Tops Estimated 490 Bitcoin in a ",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-05-27T21:43:23.314369+00:00"
+    "fetched_at": "2026-05-27T23:07:42.135133+00:00"
   },
   {
     "title": "AI Chatbots Could Quietly Pull Users Away From Reality, Researchers Warn",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-27T21:43:23.412719+00:00"
+    "fetched_at": "2026-05-27T23:07:42.242797+00:00"
   },
   {
     "title": "Here's How Much Bitcoin Elon Musk Would Control If SpaceX and Tesla Merge",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-27T21:43:23.412778+00:00"
+    "fetched_at": "2026-05-27T23:07:42.242852+00:00"
   },
   {
     "title": "Cash App lets users send USDC stablecoins on chains like Solana and Ethereum",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-27T21:43:23.493932+00:00"
+    "fetched_at": "2026-05-27T23:07:42.387486+00:00"
   },
   {
     "title": "White House starts review of CFTC\u2019s prediction markets rulemaking as Trump backs agency authority",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-27T21:43:23.494003+00:00"
+    "fetched_at": "2026-05-27T23:07:42.387557+00:00"
   },
   {
     "title": "Trump says rising economic costs will not force him into Iran deal",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-27T21:43:24.396645+00:00"
+    "fetched_at": "2026-05-27T23:07:43.250962+00:00"
   },
   {
     "title": "Iran\u2019s ultra-hardliners lash out at deal negotiators",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-27T21:43:24.396707+00:00"
+    "fetched_at": "2026-05-27T23:07:43.251017+00:00"
   }
 ]
