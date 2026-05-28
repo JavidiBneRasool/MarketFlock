@@ -1,39 +1,39 @@
 [
   {
+    "title": "Crypto card monthly transaction volume surges 230% from 2025",
+    "url": "https://cointelegraph.com/news/crypto-card-monthly-volume-surge-230-one-year",
+    "summary": "Payment volume on crypto-linked credit and debit cards has been steadily increasing since 2024, reaching about $7.8 billion in cumulative transactions this month. ",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-05-28T01:50:19.415603+00:00"
+  },
+  {
     "title": "Bitcoin miner inflows to Binance soar as BTC struggles to hold uptrend: Is $70K next?",
     "url": "https://cointelegraph.com/markets/bitcoin-miner-inflows-rise-to-20k-on-binance-can-btc-hold-its-daily-uptrend",
     "summary": "Weakening spot demand, miner inflows to exchanges and freshly opened shorts put downside pressure on Bitcoin price.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-27T23:07:41.849998+00:00"
+    "fetched_at": "2026-05-28T01:50:19.415691+00:00"
   },
   {
-    "title": "Polymarket weighs KYC requirements amid global crackdown on prediction markets",
-    "url": "https://cointelegraph.com/news/polymarket-kyc-sanctions-insider-trading-prediction-markets",
-    "summary": "The predictions market operator reportedly explored mandatory user verification requirements, breaking from its policies of allowing traders to access its services using pseudonyms.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-05-27T23:07:41.850072+00:00"
-  },
-  {
-    "title": "Google Engineer Charged With Insider Trading on Polymarket",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-27/google-engineer-charged-with-insider-trading-on-polymarket",
-    "summary": "A Google software engineer was charged with insider trading on Polymarket, where he allegedly made more than $1 million betting on one of last year\u2019s most popular Internet searches.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-05-27T23:07:42.558408+00:00"
-  },
-  {
-    "title": "Oil Gains as Deal to End War and Reopen Hormuz Remains Elusive",
+    "title": "Oil Rebounds as US Hits Hormuz Targets With Talks at an Impasse",
     "url": "https://www.bloomberg.com/news/articles/2026-05-27/latest-oil-market-news-and-analysis-for-may-28",
-    "summary": "Oil edged higher as the US and Iran remained at odds over how to reopen the Strait of Hormuz, with the war entering its fourth month.",
+    "summary": "Oil advanced, following a drop of more than 5% on Wednesday, as US forces made fresh strikes in the Islamic Republic, while Washington and Tehran remained at odds over how to reopen the Strait of Hormuz.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-27T23:07:42.558461+00:00"
+    "fetched_at": "2026-05-28T01:50:21.030386+00:00"
+  },
+  {
+    "title": "Asian Stocks Slip From Record, Oil Gains on Iran: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-27/stocks-in-asia-to-slip-on-mixed-us-iran-signals-markets-wrap",
+    "summary": "Asian equities fell from record highs after conflicting signals from the US and Iran on prospects for a deal to end the war. Crude oil gained.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-05-28T01:50:21.030445+00:00"
   },
   {
     "title": "The 2036 Issue: What Choices Will You Make On The Way To A Multipolar World?",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-27T23:07:42.135068+00:00"
+    "fetched_at": "2026-05-28T01:50:19.735481+00:00"
   },
   {
     "title": "Cathie Wood Doubles Down: ARK Invest Sets Bitcoin Base Case at $750,000 by 2030",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-27T23:07:42.135133+00:00"
+    "fetched_at": "2026-05-28T01:50:19.735550+00:00"
   },
   {
     "title": "AI Chatbots Could Quietly Pull Users Away From Reality, Researchers Warn",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-27T23:07:42.242797+00:00"
+    "fetched_at": "2026-05-28T01:50:19.836921+00:00"
   },
   {
     "title": "Here's How Much Bitcoin Elon Musk Would Control If SpaceX and Tesla Merge",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-27T23:07:42.242852+00:00"
+    "fetched_at": "2026-05-28T01:50:19.836982+00:00"
   },
   {
     "title": "Cash App lets users send USDC stablecoins on chains like Solana and Ethereum",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-27T23:07:42.387486+00:00"
+    "fetched_at": "2026-05-28T01:50:19.941555+00:00"
   },
   {
     "title": "White House starts review of CFTC\u2019s prediction markets rulemaking as Trump backs agency authority",
@@ -87,7 +87,16 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-27T23:07:42.387557+00:00"
+    "fetched_at": "2026-05-28T01:50:19.941628+00:00"
+  },
+  {
+    "title": "US carries out fresh strikes on Iran",
+    "url": "https://www.ft.com/content/de9e4ee6-a370-4934-a456-41bd10a60350",
+    "summary": "Official says increasingly strained ceasefire continues to hold",
+    "source": "Financial Times",
+    "category": "Markets",
+    "tier": 9,
+    "fetched_at": "2026-05-28T01:50:21.648454+00:00"
   },
   {
     "title": "Trump says rising economic costs will not force him into Iran deal",
@@ -96,15 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-27T23:07:43.250962+00:00"
-  },
-  {
-    "title": "Iran\u2019s ultra-hardliners lash out at deal negotiators",
-    "url": "https://www.ft.com/content/8245ea80-059f-44d2-8e72-8fe1308dd18b",
-    "summary": "Influential conservative lawmakers insist Tehran stick to maximalist terms for ending conflict with Washington",
-    "source": "Financial Times",
-    "category": "Markets",
-    "tier": 9,
-    "fetched_at": "2026-05-27T23:07:43.251017+00:00"
+    "fetched_at": "2026-05-28T01:50:21.648509+00:00"
   }
 ]
