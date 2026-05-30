@@ -1,21 +1,30 @@
 [
   {
-    "title": "CFTC backs crypto perpetual contracts, issues advisory on 24/7 trading",
-    "url": "https://cointelegraph.com/news/cftc-crypto-perpetual-contracts-trading-advisory",
-    "summary": "The CFTC issued notices affecting platforms seeking to offer cryptocurrency perpetual futures contracts, including a no-action position for Coinbase and approval for Kalshi.",
+    "title": "Bitcoin dip buyers place $500M in bids as $70K retest looms",
+    "url": "https://cointelegraph.com/markets/bitcoin-dip-buyers-place-350m-in-bids-as-70k-retest-looms",
+    "summary": "Over $500 million in Bitcoin bids now sit near $70,000, while options traders and futures positions converge around the same level.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-29T22:23:30.245089+00:00"
+    "fetched_at": "2026-05-30T00:01:11.912384+00:00"
   },
   {
-    "title": "Sui network temporarily stalls again after Thursday's outage",
-    "url": "https://cointelegraph.com/news/sui-temporary-stall-several-hours-second-day",
-    "summary": "The outage was caused by the same network update software bug that disrupted the protocol on Thursday, which resulted in nearly six hours of downtime.",
+    "title": "\u2018Extraordinarily unusual\u2019 for CFTC to reverse Gemini settlement deal: Ex-chair",
+    "url": "https://cointelegraph.com/news/cftc-reverse-settlement-gemini-unusual-former-chair",
+    "summary": "As the CFTC and Gemini work together to seek a court's reversal of a 2025 settlement, one of the agency\u2019s former chairs said the public \u201cdeserves a better explanation.\u201d",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-29T22:23:30.245162+00:00"
+    "fetched_at": "2026-05-30T00:01:11.912471+00:00"
+  },
+  {
+    "title": "Wall Street Week | Britain\u2019s Debt Problem, Poland\u2019s Economic Boom",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-29/wall-street-week-britain-s-debt-problem-poland-s-boom-video",
+    "summary": "This week, the UK\u2019s debt burden and weak growth are reviving fears that financial markets could once again destabilize British politics and policy. And, investors see data centers as long-term infrastructure, but neighbors worry about noise, water use, power demand and lasting costs. Plus, is Poland",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-05-30T00:01:12.969890+00:00"
   },
   {
     "title": "Citadel Securities Loses Court Fight Over New IEX Options Venue",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-29T22:23:31.429446+00:00"
-  },
-  {
-    "title": "SpaceX Wins $4 Billion Contract for US Golden Dome Satellites",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-29/spacex-wins-4b-contract-for-us-golden-dome-satellites-video",
-    "summary": "SpaceX\u00a0has won a contract for more than $4 billion to build satellites to track foreign aircraft and missiles as part of President Donald Trump\u2019s\u00a0Golden Dome\u00a0defensive shield.\nBloomberg's Sana Pashanka reports. (Source: Bloomberg)",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-05-29T22:23:31.429507+00:00"
+    "fetched_at": "2026-05-30T00:01:12.969954+00:00"
   },
   {
     "title": "Coinkite Launches Coldcard MK5: Major UX Upgrades to Flagship Bitcoin Hardware Wallet",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-29T22:23:30.559857+00:00"
+    "fetched_at": "2026-05-30T00:01:12.292780+00:00"
   },
   {
     "title": "U.S. Treasury: The United States Has Seized Nearly $1 Billion of Iran\u2019s Crypto",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-29T22:23:30.559928+00:00"
+    "fetched_at": "2026-05-30T00:01:12.292856+00:00"
   },
   {
     "title": "'He\u2019s Full of Shit': JP Morgan's Jamie Dimon Takes Aim at Coinbase CEO Over Clarity Act",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-29T22:23:30.706357+00:00"
+    "fetched_at": "2026-05-30T00:01:12.410747+00:00"
   },
   {
     "title": "Treasury Secretary Bessent Says US Has 'Grabbed' $1 Billion in Crypto From Iran",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-29T22:23:30.706444+00:00"
+    "fetched_at": "2026-05-30T00:01:12.410813+00:00"
   },
   {
     "title": "US has seized nearly $1 billion in crypto from Iran, Bessent says",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-29T22:23:30.852370+00:00"
+    "fetched_at": "2026-05-30T00:01:12.530771+00:00"
   },
   {
     "title": "JPMorgan CEO Jamie Dimon blasts Coinbase\u2019s Brian Armstrong, plans to fight Clarity Act",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-29T22:23:30.852460+00:00"
+    "fetched_at": "2026-05-30T00:01:12.530846+00:00"
   },
   {
     "title": "US stocks post longest weekly winning streak since 2023",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-29T22:23:32.296134+00:00"
+    "fetched_at": "2026-05-30T00:01:13.570165+00:00"
   },
   {
     "title": "Trump pledges \u2018final determination\u2019 on Iran deal to extend ceasefire",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-29T22:23:32.296193+00:00"
+    "fetched_at": "2026-05-30T00:01:13.570226+00:00"
   }
 ]
