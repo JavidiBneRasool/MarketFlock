@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-30T15:57:35.768858+00:00",
+    "fetched_at": "2026-05-30T16:56:24.567608+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,7 +18,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-30T15:57:35.768933+00:00",
+    "fetched_at": "2026-05-30T16:56:24.567683+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,7 +30,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-30T15:57:36.511603+00:00",
+    "fetched_at": "2026-05-30T16:56:25.730756+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -42,7 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-30T15:57:36.511665+00:00",
+    "fetched_at": "2026-05-30T16:56:25.730817+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-30T15:57:35.998108+00:00",
+    "fetched_at": "2026-05-30T16:56:24.937048+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-30T15:57:35.998199+00:00",
+    "fetched_at": "2026-05-30T16:56:24.937118+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-30T15:57:36.088819+00:00",
+    "fetched_at": "2026-05-30T16:56:25.109429+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-30T15:57:36.088877+00:00",
+    "fetched_at": "2026-05-30T16:56:25.109490+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-30T15:57:36.163470+00:00",
+    "fetched_at": "2026-05-30T16:56:25.276616+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,19 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-30T15:57:36.163535+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Trump will remain \u2018patient\u2019 in pursuit of a deal with Iran, says Hegseth",
-    "url": "https://www.ft.com/content/84c15446-c6d6-47ad-93ee-80963ab3e4d4",
-    "summary": "President wants to make a \u2018great\u2019 deal but defence secretary warns US is ready to restart attacks",
-    "source": "Financial Times",
-    "category": "Markets",
-    "tier": 9,
-    "fetched_at": "2026-05-30T15:57:37.165200+00:00",
+    "fetched_at": "2026-05-30T16:56:25.276681+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +126,19 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-30T15:57:37.165261+00:00",
+    "fetched_at": "2026-05-30T16:56:26.631963+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Should AI steal your job?",
+    "url": "https://www.ft.com/content/aceabeb1-1152-43d1-ad76-e1531cd37f39",
+    "summary": "The real question is not what the technology can do but what it ought to do. Sarah O\u2019Connor on the people fighting for the future of work",
+    "source": "Financial Times",
+    "category": "Markets",
+    "tier": 9,
+    "fetched_at": "2026-05-30T16:56:26.632014+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
