@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-30T17:58:10.452338+00:00"
+    "fetched_at": "2026-05-30T19:06:48.109325+00:00"
   },
   {
     "title": "Here\u2019s what happened in crypto today",
@@ -15,7 +15,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-30T17:58:10.452416+00:00"
+    "fetched_at": "2026-05-30T19:06:48.109392+00:00"
   },
   {
     "title": "Bloomberg This Weekend 5/30/2026",
@@ -24,7 +24,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-30T17:58:11.465037+00:00"
+    "fetched_at": "2026-05-30T19:06:48.782292+00:00"
   },
   {
     "title": "This Millennial University President Sees Running Grambling State Like an Enterprise",
@@ -33,7 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-30T17:58:11.465120+00:00"
+    "fetched_at": "2026-05-30T19:06:48.782349+00:00"
   },
   {
     "title": "Coinkite Launches Coldcard MK5: Major UX Upgrades to Flagship Bitcoin Hardware Wallet",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-30T17:58:10.760084+00:00"
+    "fetched_at": "2026-05-30T19:06:48.272438+00:00"
   },
   {
     "title": "U.S. Treasury: The United States Has Seized Nearly $1 Billion of Iran\u2019s Crypto",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-30T17:58:10.760159+00:00"
+    "fetched_at": "2026-05-30T19:06:48.272505+00:00"
   },
   {
     "title": "Florida Candidate Liquidates $800K in Bitcoin to Bankroll Congressional Bid",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-30T17:58:10.926215+00:00"
+    "fetched_at": "2026-05-30T19:06:48.357736+00:00"
   },
   {
     "title": "What Is an AI Prompt Injection Attack? The Hidden Threat Hijacking Your Chatbots",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-30T17:58:10.926278+00:00"
+    "fetched_at": "2026-05-30T19:06:48.357793+00:00"
+  },
+  {
+    "title": "Cosmos-based Gravity Bridge drained of $5.4 million in suspected key compromise, researchers say",
+    "url": "https://www.theblock.co/post/403108/cosmos-based-gravity-bridge-drained-of-5-4-million-in-suspected-key-compromise-researchers-say",
+    "summary": "The attacker took USDC, ether, tether and PAYG tokens before laundering a portion through ChangeNow and Binance.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-05-30T19:06:48.442451+00:00"
   },
   {
     "title": "Crypto champion Trump may be jeopardizing the industry\u2019s landmark legislation",
@@ -78,33 +87,24 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-30T17:58:11.072308+00:00"
+    "fetched_at": "2026-05-30T19:06:48.442529+00:00"
   },
   {
-    "title": "Court-ordered Circle freeze traps $12.6 million in Zama cUSDC contract amid Overnight Finance suit",
-    "url": "https://www.theblock.co/post/403091/court-ordered-circle-freeze-traps-12-6-million-in-zama-cusdc-contract-amid-overnight-finance-suit",
-    "summary": "Zama CEO Rand Hindi said the protocol's confidential USDC contract was \"caught in a crossfire\" and that his team is investigating the freeze. ",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-05-30T17:58:11.072381+00:00"
-  },
-  {
-    "title": "Hegseth says US-China ties are \u2018better than in years\u2019",
-    "url": "https://www.ft.com/content/0a601b2b-aeba-439d-8915-359f44cecf09",
-    "summary": "Pentagon chief still presses allies to boost defence spending to counter \u2018military build-up\u2019 by Beijing",
+    "title": "SoftBank pledges \u20ac75bn to build Europe\u2019s biggest AI facility in France",
+    "url": "https://www.ft.com/content/1022f9bd-5b6d-44a5-9303-c8b05b8c6463",
+    "summary": "Masayoshi Son places France at the centre of his global AI ambitions",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-30T17:58:12.443575+00:00"
+    "fetched_at": "2026-05-30T19:06:49.512966+00:00"
   },
   {
-    "title": "Trump, Texas and the risk of a Pyrrhic victory",
-    "url": "https://www.ft.com/content/437dae98-dc36-432e-a2f6-3eab2eb1bb84",
-    "summary": "By favouring a divisive candidate, the president may have put the Senate in play",
+    "title": "Should AI steal your job?",
+    "url": "https://www.ft.com/content/aceabeb1-1152-43d1-ad76-e1531cd37f39",
+    "summary": "The real question is not what the technology can do but what it ought to do. Sarah O\u2019Connor on the people fighting for the future of work",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-30T17:58:12.443639+00:00"
+    "fetched_at": "2026-05-30T19:06:49.513018+00:00"
   }
 ]
