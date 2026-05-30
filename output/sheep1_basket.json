@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-30T14:28:08.939577+00:00"
+    "fetched_at": "2026-05-30T15:57:35.768858+00:00"
   },
   {
     "title": "Here\u2019s what happened in crypto today",
@@ -15,7 +15,16 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-30T14:28:08.939646+00:00"
+    "fetched_at": "2026-05-30T15:57:35.768933+00:00"
+  },
+  {
+    "title": "This Millennial University President Sees Running Grambling State Like an Enterprise",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-30/lemelle-running-grambling-state-like-an-enterprise-video",
+    "summary": "Dr. Martin Lemelle, Jr., Grambling State University President says he views running his HBU like an enterprise (Source: Bloomberg)",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-05-30T15:57:36.511603+00:00"
   },
   {
     "title": "At Scrabble\u2019s Biggest Tournament, Thailand Punches Above Its Weight",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-30T14:28:10.018398+00:00"
-  },
-  {
-    "title": "Can AI Grow Without Hurting Local Communities?",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-30/can-ai-grow-without-hurting-local-communities-video",
-    "summary": "The rush to build AI data centers is drawing trillions of dollars in investment and long-term bets from infrastructure firms such as DigitalBridge. But in communities where those facilities are being built, residents and officials are raising concerns about electricity costs, water use, noise, trans",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-05-30T14:28:10.018451+00:00"
+    "fetched_at": "2026-05-30T15:57:36.511665+00:00"
   },
   {
     "title": "Coinkite Launches Coldcard MK5: Major UX Upgrades to Flagship Bitcoin Hardware Wallet",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-30T14:28:09.337574+00:00"
+    "fetched_at": "2026-05-30T15:57:35.998108+00:00"
   },
   {
     "title": "U.S. Treasury: The United States Has Seized Nearly $1 Billion of Iran\u2019s Crypto",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-30T14:28:09.337642+00:00"
+    "fetched_at": "2026-05-30T15:57:35.998199+00:00"
+  },
+  {
+    "title": "Florida Candidate Liquidates $800K in Bitcoin to Bankroll Congressional Bid",
+    "url": "https://decrypt.co/369478/florida-candidate-liquidates-800k-bitcoin-bankroll-congressional-bid",
+    "summary": "A Republican candidate jockeying to represent Florida\u2019s 22nd Congressional District liquidated Bitcoin to help fuel his political bid.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-05-30T15:57:36.088819+00:00"
   },
   {
     "title": "What Is an AI Prompt Injection Attack? The Hidden Threat Hijacking Your Chatbots",
@@ -60,16 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-30T14:28:09.448063+00:00"
-  },
-  {
-    "title": "'He\u2019s Full of Shit': JP Morgan's Jamie Dimon Takes Aim at Coinbase CEO Over Clarity Act",
-    "url": "https://decrypt.co/369525/jp-morgan-ceo-jamie-dimon-takes-aim-coinbase-clarity-act",
-    "summary": "Dimon vowed to fight the passage of the crypto market structure bill until the bitter end.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-05-30T14:28:09.448126+00:00"
+    "fetched_at": "2026-05-30T15:57:36.088877+00:00"
   },
   {
     "title": "Court-ordered Circle freeze traps $12.6 million in Zama cUSDC contract amid Overnight Finance suit",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-30T14:28:09.554998+00:00"
+    "fetched_at": "2026-05-30T15:57:36.163470+00:00"
   },
   {
     "title": "US has seized nearly $1 billion in crypto from Iran, Bessent says",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-30T14:28:09.555058+00:00"
+    "fetched_at": "2026-05-30T15:57:36.163535+00:00"
   },
   {
     "title": "Trump will remain \u2018patient\u2019 in pursuit of a deal with Iran, says Hegseth",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-30T14:28:10.767726+00:00"
+    "fetched_at": "2026-05-30T15:57:37.165200+00:00"
   },
   {
     "title": "Hegseth says US-China ties are \u2018better than in years\u2019",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-30T14:28:10.767779+00:00"
+    "fetched_at": "2026-05-30T15:57:37.165261+00:00"
   }
 ]
