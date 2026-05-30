@@ -1,39 +1,39 @@
 [
   {
-    "title": "Spot Bitcoin ETFs see record 10-day outflow streak, analyst calls it \u2018contrarian indicator\u2019",
-    "url": "https://cointelegraph.com/news/spot-bitcoin-etfs-see-record-10-day-outflow-streak-analyst-calls-it-contrarian-indicator",
-    "summary": "Spot Bitcoin ETFs logged a record 10-day outflow streak totaling nearly $3 billion, while Ether ETFs bled for 14 consecutive sessions. ",
+    "title": "SEC charges Texas man with $12.3M crypto fraud using fake AI trading bots",
+    "url": "https://cointelegraph.com/news/sec-charges-texas-man-with-123m-crypto-fraud-fake-ai-trading-bots",
+    "summary": "The SEC charged Texas man Nathan Fuller with raising $12.3 million from 150 investors through a crypto fraud scheme built around fake AI trading bots.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-30T12:59:16.541507+00:00"
+    "fetched_at": "2026-05-30T14:28:08.939577+00:00"
   },
   {
-    "title": "Bitcoin treasury space still has fair share of \u2018carnival barkers\u2019: BSTR founder",
-    "url": "https://cointelegraph.com/news/bitcoin-treasury-space-still-has-fair-share-of-carnival-barkers-bstr-founder",
-    "summary": "BSTR co-founder Sean Bill says many Bitcoin treasury companies lack the \u201cability to actually deploy Bitcoin.\u201d",
+    "title": "Here\u2019s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-30T12:59:16.541588+00:00"
+    "fetched_at": "2026-05-30T14:28:08.939646+00:00"
   },
   {
-    "title": "Strait of Hormuz Ship Transits Are Rising Thanks to US Help",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-29/strait-of-hormuz-ship-transits-are-rising-thanks-to-help-from-us",
-    "summary": "Shipowners are increasingly optimistic about a pickup in traffic through the Strait of Hormuz after more vessels left the waterway this week with the US providing information to aid those making the journey.",
+    "title": "At Scrabble\u2019s Biggest Tournament, Thailand Punches Above Its Weight",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-30/thailand-punches-above-its-weight-in-scrabble-video",
+    "summary": "Known locally as Crossword, Scrabble took off in Thailand in the 1980s after schools embraced it as a teaching aid and pathway to advancement. Much like athletic scholarships in the US, strong players can secure financial assistance and preferential admission to top universities, creating a pipeline",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-30T12:59:17.326443+00:00"
+    "fetched_at": "2026-05-30T14:28:10.018398+00:00"
   },
   {
-    "title": "Hegseth Praises Asian Allies, Takes Swipe at NATO",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-30/hegseth-praises-asian-allies-takes-swipe-at-nato-video",
-    "summary": "US Defense Secretary Pete Hegseth praised defense allies in Asia and hailed newly stable ties with China, while taking swipes at longstanding security partners in Europe. Bloomberg's Singapore Editor-At-Large Haslinda Amin joined Christina Ruffini and David Gura on Bloomberg This Weekend to discuss ",
+    "title": "Can AI Grow Without Hurting Local Communities?",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-30/can-ai-grow-without-hurting-local-communities-video",
+    "summary": "The rush to build AI data centers is drawing trillions of dollars in investment and long-term bets from infrastructure firms such as DigitalBridge. But in communities where those facilities are being built, residents and officials are raising concerns about electricity costs, water use, noise, trans",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-30T12:59:17.326501+00:00"
+    "fetched_at": "2026-05-30T14:28:10.018451+00:00"
   },
   {
     "title": "Coinkite Launches Coldcard MK5: Major UX Upgrades to Flagship Bitcoin Hardware Wallet",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-30T12:59:16.794493+00:00"
+    "fetched_at": "2026-05-30T14:28:09.337574+00:00"
   },
   {
     "title": "U.S. Treasury: The United States Has Seized Nearly $1 Billion of Iran\u2019s Crypto",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-30T12:59:16.794566+00:00"
+    "fetched_at": "2026-05-30T14:28:09.337642+00:00"
+  },
+  {
+    "title": "What Is an AI Prompt Injection Attack? The Hidden Threat Hijacking Your Chatbots",
+    "url": "https://decrypt.co/resources/what-is-ai-prompt-injection-attack",
+    "summary": "Hackers can hijack ChatGPT, Claude, and Gemini with nothing but a sentence. OpenAI says the problem may never be fully solved. Here is what it is, how it works, and how to stay safe.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-05-30T14:28:09.448063+00:00"
   },
   {
     "title": "'He\u2019s Full of Shit': JP Morgan's Jamie Dimon Takes Aim at Coinbase CEO Over Clarity Act",
@@ -60,16 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-30T12:59:16.882172+00:00"
-  },
-  {
-    "title": "Treasury Secretary Bessent Says US Has 'Grabbed' $1 Billion in Crypto From Iran",
-    "url": "https://decrypt.co/369522/treasurys-bessent-says-us-grabbed-1-billion-crypto-iran",
-    "summary": "Treasury Secretary Scott Bessent said the U.S. has \"outright grabbed\" roughly $1 billion worth of cryptocurrencies from Iran via seizures.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-05-30T12:59:16.882237+00:00"
+    "fetched_at": "2026-05-30T14:28:09.448126+00:00"
   },
   {
     "title": "Court-ordered Circle freeze traps $12.6 million in Zama cUSDC contract amid Overnight Finance suit",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-30T12:59:16.955868+00:00"
+    "fetched_at": "2026-05-30T14:28:09.554998+00:00"
   },
   {
     "title": "US has seized nearly $1 billion in crypto from Iran, Bessent says",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-30T12:59:16.955940+00:00"
+    "fetched_at": "2026-05-30T14:28:09.555058+00:00"
   },
   {
     "title": "Trump will remain \u2018patient\u2019 in pursuit of a deal with Iran, says Hegseth",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-30T12:59:18.010385+00:00"
+    "fetched_at": "2026-05-30T14:28:10.767726+00:00"
   },
   {
     "title": "Hegseth says US-China ties are \u2018better than in years\u2019",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-30T12:59:18.010444+00:00"
+    "fetched_at": "2026-05-30T14:28:10.767779+00:00"
   }
 ]
