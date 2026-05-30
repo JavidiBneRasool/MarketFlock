@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-30T21:48:51.996116+00:00",
+    "fetched_at": "2026-05-30T22:45:04.924695+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,7 +18,19 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-30T21:48:51.996188+00:00",
+    "fetched_at": "2026-05-30T22:45:04.924771+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Why Britain\u2019s Bond Market Is Sounding the Alarm",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-30/why-britain-s-bond-market-is-sounding-the-alarm-video",
+    "summary": "As political uncertainty grows in the United Kingdom, investors are increasingly focused on the country\u2019s fiscal outlook and rising government borrowing costs. Bloomberg Opinion Columnist John Authers says concerns over spending, debt, and political instability are pushing gilt yields higher, revivi",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-05-30T22:45:05.607463+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,19 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-30T21:48:53.168016+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Brazil Extends Measures to Limit Fuel Price Hikes by Two Months",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-30/brazil-extends-measures-to-limit-fuel-price-hikes-by-two-months",
-    "summary": "The Brazilian government extended by two months measures to contain the rise in fuel prices triggered by the conflict in Middle East.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-05-30T21:48:53.168069+00:00",
+    "fetched_at": "2026-05-30T22:45:05.607539+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-30T21:48:52.325258+00:00",
+    "fetched_at": "2026-05-30T22:45:05.138273+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-30T21:48:52.325321+00:00",
+    "fetched_at": "2026-05-30T22:45:05.138345+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-30T21:48:52.471923+00:00",
+    "fetched_at": "2026-05-30T22:45:05.268977+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,19 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-30T21:48:52.471975+00:00",
+    "fetched_at": "2026-05-30T22:45:05.269033+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "SEC sues Privvy founder over $12.3 million crypto scheme as AI \u2018bots\u2019 turn out to be neither",
+    "url": "https://www.theblock.co/post/403118/sec-sues-privvy-founder-over-12-3-million-crypto-scheme-as-ai-bots-turn-out-to-be-neither",
+    "summary": "The SEC alleges Fuller spent misappropriated funds on a roughly $1 million house, gambling, trading cards, travel and a Jeep. ",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-05-30T22:45:05.377917+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,19 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-30T21:48:52.609319+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Crypto champion Trump may be jeopardizing the industry\u2019s landmark legislation",
-    "url": "https://www.theblock.co/post/403083/crypto-champion-trump-may-be-jeopardizing-the-industrys-landmark-legislation",
-    "summary": "Digital asset legislation is years in the making, but the sector's biggest political champion, President Trump, has become a liability. ",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-05-30T21:48:52.609384+00:00",
+    "fetched_at": "2026-05-30T22:45:05.377991+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-30T21:48:54.028336+00:00",
+    "fetched_at": "2026-05-30T22:45:06.228065+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-30T21:48:54.028386+00:00",
+    "fetched_at": "2026-05-30T22:45:06.228119+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
