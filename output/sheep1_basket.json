@@ -6,7 +6,7 @@
     "source": "CoinDesk",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-31T06:36:58.889215+00:00"
+    "fetched_at": "2026-05-31T06:46:24.280781+00:00"
   },
   {
     "title": "SEC sues Texas man over $12.3 million alleged crypto scheme built on fake AI trading bots",
@@ -15,7 +15,7 @@
     "source": "CoinDesk",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-31T06:36:58.889305+00:00"
+    "fetched_at": "2026-05-31T06:46:24.280885+00:00"
   },
   {
     "title": "Bitcoin sentiment reaches most \u2018lopsided positive\u2019 ratio for 2026: Santiment",
@@ -24,7 +24,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-31T06:36:59.656683+00:00"
+    "fetched_at": "2026-05-31T06:46:25.073171+00:00"
   },
   {
     "title": "Bitcoin dip buyers curb selling but questionable spot, futures volumes highlight weakness",
@@ -33,7 +33,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-31T06:36:59.656810+00:00"
+    "fetched_at": "2026-05-31T06:46:25.073340+00:00"
   },
   {
     "title": "US Jobs Report Set to Reveal Solid Growth, Steady Unemployment Rate",
@@ -42,7 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-31T06:37:04.795679+00:00"
+    "fetched_at": "2026-05-31T06:46:28.554100+00:00"
   },
   {
     "title": "Taiwan Vows Not to Be \u2018Silenced\u2019 After China Expels NYT Reporter",
@@ -51,7 +51,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-31T06:37:04.795787+00:00"
+    "fetched_at": "2026-05-31T06:46:28.554206+00:00"
   },
   {
     "title": "Coinkite Launches Coldcard MK5: Major UX Upgrades to Flagship Bitcoin Hardware Wallet",
@@ -60,7 +60,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-31T06:37:01.086034+00:00"
+    "fetched_at": "2026-05-31T06:46:25.790273+00:00"
   },
   {
     "title": "U.S. Treasury: The United States Has Seized Nearly $1 Billion of Iran\u2019s Crypto",
@@ -69,7 +69,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-31T06:37:01.086118+00:00"
+    "fetched_at": "2026-05-31T06:46:25.790362+00:00"
   },
   {
     "title": "Florida Candidate Liquidates $800K in Bitcoin to Bankroll Congressional Bid",
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-31T06:37:01.375696+00:00"
+    "fetched_at": "2026-05-31T06:46:26.124216+00:00"
   },
   {
     "title": "What Is an AI Prompt Injection Attack? The Hidden Threat Hijacking Your Chatbots",
@@ -87,7 +87,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-31T06:37:01.375792+00:00"
+    "fetched_at": "2026-05-31T06:46:26.124300+00:00"
   },
   {
     "title": "SoftBank pledges \u20ac75bn to build Europe\u2019s biggest AI facility in France",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-31T06:37:06.402153+00:00"
+    "fetched_at": "2026-05-31T06:46:30.883590+00:00"
   },
   {
     "title": "AI is here. What do you want from it?",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-31T06:37:06.402267+00:00"
+    "fetched_at": "2026-05-31T06:46:30.883737+00:00"
   }
 ]
