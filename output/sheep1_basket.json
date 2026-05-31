@@ -1,30 +1,12 @@
 [
   {
-    "title": "The institutional edge: moomoo targets Wall Street-grade trading tools for retail crypto investors",
-    "url": "https://www.coindesk.com/business/2026/05/28/the-institutional-edge-moomoo-pushes-to-offer-wall-street-grade-crypto-tools-to-retail-investors",
-    "summary": "",
-    "source": "CoinDesk",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-05-31T15:25:47.306974+00:00"
-  },
-  {
-    "title": "Bitcoin's wild days are over \u2014 and Trace Mayer says that's a good thing",
-    "url": "https://www.coindesk.com/markets/2026/05/28/dnp-trace-mayer-bitcoin-s-volatility-compression-is-a-sign-of-maturity-not-weakness",
-    "summary": "",
-    "source": "CoinDesk",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-05-31T15:25:47.307092+00:00"
-  },
-  {
     "title": "Here\u2019s what happened in crypto today",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-31T15:25:48.422817+00:00"
+    "fetched_at": "2026-05-31T16:53:51.856814+00:00"
   },
   {
     "title": "Bitcoin price targets $78K as BTC holders defend 'strongest near-term support'",
@@ -33,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-31T15:25:48.422893+00:00"
+    "fetched_at": "2026-05-31T16:53:51.856889+00:00"
   },
   {
-    "title": "Ukraine\u2019s Drone Warfare Redefines Battlefield Dynamics",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-31/ukraine-s-drone-warfare-redefines-battlefield-dynamics-video",
-    "summary": "Ukraine\u2019s extensive use of approximately 10,000 drones daily has significantly impacted Russian forces, causing 90% of their casualties and rendering traditional armored vehicles and tanks largely ineffective near the front lines. Bloomberg's Chief Europe Correspondent Oliver Crook joined David Gura",
+    "title": "Gen Z Swaps Bars for Barbells",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-31/gen-z-swaps-bars-for-barbells-video",
+    "summary": "As young people increasingly turn away from drinking alcohol, they\u2019re spending more on gym memberships and classes: 30% more than just a year ago, according to market intelligence firm Mintel. These sweaty spaces are beginning to replace bars as places to meet friends and grow relationships. Bloombe",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-31T15:25:54.494576+00:00"
+    "fetched_at": "2026-05-31T16:53:52.776785+00:00"
   },
   {
-    "title": "No Breakthrough in Iran Talks as Red Lines Remain Firm",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-31/no-breakthrough-in-iran-talks-as-red-lines-remain-firm-video",
-    "summary": "New information has emerged regarding President Trump's recent meeting in the Situation Room, where he requested several edits to a deal negotiated between his envoys and the Iranian regime. Bloomberg News White House Correspondent Jeff Mason and Bloomberg's UAE bureau chief Dana Khraiche joined Dav",
+    "title": "Trump Requests Edits to Iran Deal",
+    "url": "https://www.bloomberg.com/news/videos/2026-05-31/trump-requests-edits-to-iran-deal-video",
+    "summary": "President Donald Trump said he\u2019s making a \u201cfinal determination\u201d on a preliminary deal to extend a ceasefire with Iran although mixed messages from both sides over when an agreement might be struck continued to confuse the outlook for a breakthrough. Bloomberg News White House Correspondent Jeff Maso",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-31T15:25:54.494678+00:00"
+    "fetched_at": "2026-05-31T16:53:52.776835+00:00"
   },
   {
     "title": "Coinkite Launches Coldcard MK5: Major UX Upgrades to Flagship Bitcoin Hardware Wallet",
@@ -60,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-31T15:25:49.846881+00:00"
+    "fetched_at": "2026-05-31T16:53:52.270332+00:00"
   },
   {
     "title": "U.S. Treasury: The United States Has Seized Nearly $1 Billion of Iran\u2019s Crypto",
@@ -69,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-31T15:25:49.846983+00:00"
+    "fetched_at": "2026-05-31T16:53:52.270398+00:00"
+  },
+  {
+    "title": "How President Trump\u2019s Immigration Order Will Feed the Stablecoin Economy, Bitcoin ATMs",
+    "url": "https://decrypt.co/369479/how-president-trump-immigration-order-feed-stablecoin-bitcoin-atms",
+    "summary": "When the Trump family faced pressure from banks, it embraced crypto. Now, immigrants who are in the U.S. illegally face a similar choice.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-05-31T16:53:52.379790+00:00"
   },
   {
     "title": "Florida Candidate Liquidates $800K in Bitcoin to Bankroll Congressional Bid",
@@ -78,16 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-31T15:25:51.151781+00:00"
+    "fetched_at": "2026-05-31T16:53:52.379850+00:00"
   },
   {
-    "title": "What Is an AI Prompt Injection Attack? The Hidden Threat Hijacking Your Chatbots",
-    "url": "https://decrypt.co/resources/what-is-ai-prompt-injection-attack",
-    "summary": "Hackers can hijack ChatGPT, Claude, and Gemini with nothing but a sentence. OpenAI says the problem may never be fully solved. Here is what it is, how it works, and how to stay safe.",
-    "source": "Decrypt",
+    "title": "Cardano Foundation cancels 2026 summit after treasury funding vote falls just short",
+    "url": "https://www.theblock.co/post/403122/cardano-foundation-cancels-2026-summit-after-treasury-funding-vote-falls-just-short",
+    "summary": "The measure needed two-thirds support but got only 65%, even after late endorsements from Cardano's founder and the Foundation CEO.",
+    "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-31T15:25:51.151868+00:00"
+    "fetched_at": "2026-05-31T16:53:52.482417+00:00"
   },
   {
     "title": "SEC sues Privvy founder over $12.3 million crypto scheme as AI \u2018bots\u2019 turn out to be neither",
@@ -96,15 +87,24 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-31T15:25:52.433806+00:00"
+    "fetched_at": "2026-05-31T16:53:52.482490+00:00"
   },
   {
-    "title": "Cosmos-based Gravity Bridge drained of $5.4 million in suspected key compromise, researchers say",
-    "url": "https://www.theblock.co/post/403108/cosmos-based-gravity-bridge-drained-of-5-4-million-in-suspected-key-compromise-researchers-say",
-    "summary": "The attacker took USDC, ether, tether and PAYG tokens before laundering a portion through ChangeNow and Binance.",
-    "source": "The Block",
-    "category": "Crypto",
+    "title": "Wall Street bulls bet US stocks rally will defy bubble fears",
+    "url": "https://www.ft.com/content/90dbca8c-fb63-4fa5-a5d6-e6d6d9f6d10e",
+    "summary": "Investors and strategists shrug off worries that markets could be overheating by betting on huge gains for AI-linked shares",
+    "source": "Financial Times",
+    "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-31T15:25:52.433938+00:00"
+    "fetched_at": "2026-05-31T16:53:53.402456+00:00"
+  },
+  {
+    "title": "SoftBank pledges \u20ac75bn to build Europe\u2019s biggest AI facility in France",
+    "url": "https://www.ft.com/content/1022f9bd-5b6d-44a5-9303-c8b05b8c6463",
+    "summary": "Masayoshi Son places France at the centre of his global AI ambitions",
+    "source": "Financial Times",
+    "category": "Markets",
+    "tier": 9,
+    "fetched_at": "2026-05-31T16:53:53.402519+00:00"
   }
 ]
