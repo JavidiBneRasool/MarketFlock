@@ -376,7 +376,7 @@ def run():
         json.dump(history, f, indent=2)
 
     # Write Style
-    shutil.copy("/data/data/com.termux/files/home/projects/media/shared/styles/global.css", f"{SITE_DIR}/style.css")
+    shutil.copy(f"{os.path.dirname(PROJECT)}/shared/styles/global.css", f"{SITE_DIR}/style.css")
 
     for a in history:
         slug = _slugify(a.get("headline", "article"))
