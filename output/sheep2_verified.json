@@ -6,7 +6,7 @@
     "source": "CoinDesk",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-31T06:46:24.280781+00:00",
+    "fetched_at": "2026-05-31T06:51:52.102079+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,7 +18,7 @@
     "source": "CoinDesk",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-31T06:46:24.280885+00:00",
+    "fetched_at": "2026-05-31T06:51:52.102181+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,7 +30,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-31T06:46:25.073171+00:00",
+    "fetched_at": "2026-05-31T06:51:53.229471+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -42,7 +42,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-31T06:46:25.073340+00:00",
+    "fetched_at": "2026-05-31T06:51:53.229570+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-31T06:46:28.554100+00:00",
+    "fetched_at": "2026-05-31T06:51:57.221677+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-31T06:46:28.554206+00:00",
+    "fetched_at": "2026-05-31T06:51:57.221892+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-31T06:46:25.790273+00:00",
+    "fetched_at": "2026-05-31T06:51:54.586718+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-31T06:46:25.790362+00:00",
+    "fetched_at": "2026-05-31T06:51:54.586841+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-31T06:46:26.124216+00:00",
+    "fetched_at": "2026-05-31T06:51:54.832006+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-31T06:46:26.124300+00:00",
+    "fetched_at": "2026-05-31T06:51:54.832090+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-31T06:46:30.883590+00:00",
+    "fetched_at": "2026-05-31T06:51:58.699911+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-31T06:46:30.883737+00:00",
+    "fetched_at": "2026-05-31T06:51:58.700008+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
