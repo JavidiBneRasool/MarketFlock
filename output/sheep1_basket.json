@@ -1,39 +1,39 @@
 [
   {
+    "title": "Strategy's Michael Saylor teases BTC buy with 'working better' tweet",
+    "url": "https://cointelegraph.com/news/strategys-michael-saylor-says-working-better-tees-up-btc-buy",
+    "summary": "Strategy could be set to announce it has resumed buying Bitcoin after pausing in recent weeks as the biggest crypto looks poised to close out the month down more than 3.5%.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-05-31T20:09:58.544177+00:00"
+  },
+  {
     "title": "Kraken \u2018plans\u2019 regulated perp contracts as rivals are quick off the blocks",
     "url": "https://cointelegraph.com/news/kraken-plans-regulated-perp-contracts-as-rivals-are-quick-off-the-blocks",
     "summary": "In the wake of CFTC approval of perpetual futures contracts tied to the spot price of Bitcoin, Kraken expects to offer those to US institutional clients within \"the next month.\"",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-31T19:00:07.069641+00:00"
+    "fetched_at": "2026-05-31T20:09:58.544280+00:00"
   },
   {
-    "title": "Bitcoin preps 3% May downside, but US PMI data may boost BTC price",
-    "url": "https://cointelegraph.com/markets/bitcoin-price-preps-3-may-downside-as-us-pmi-data-preps-potential-btc-price-boost",
-    "summary": "Bitcoin faced ending May lower by around 3%, with the possibility of US PMI data giving BTC price action a boost next week.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-05-31T19:00:07.069721+00:00"
-  },
-  {
-    "title": "IMF Chief, Venezuelan Officials Hold Talks on Economy Issues",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-30/imf-chief-venezuelan-officials-hold-talks-on-economic-stability",
-    "summary": "International Monetary Fund Managing Director Kristalina Georgieva and Venezuelan economic official Calixto Ortega held talks in Washington, the IMF head\u2019s first in-person meeting with country\u2019s authorities since the fund resumed formal engagement with Venezuela last month.",
+    "title": "Wall Street Risk Rally Powers Past War Stalemate",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-31/wall-street-risk-rally-powers-past-war-stalemate-markets-wrap",
+    "summary": "Three months into the Iran war, it has become all but impossible to damp the bullish spirit driving global markets for risky assets.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-31T19:00:08.032043+00:00"
+    "fetched_at": "2026-05-31T20:09:59.858796+00:00"
   },
   {
-    "title": "Bloomberg This Weekend 5/31/2026",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-31/bloomberg-this-weekend-5-31-2026-video",
-    "summary": "The news doesn\u2019t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend\u2019s biggest headlines, LIVE from New York. Joined by New York Times Chief Africa Correspondent Declan Walsh, Harvard Kennedy School Center for Public Le",
+    "title": "Bond Trader Bets on Fed Hike Poised for Gut Check From Jobs Data",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-31/bond-trader-bets-on-fed-hike-poised-for-gut-check-from-jobs-data",
+    "summary": "Bond traders are looking to a key jobs report this week to confirm their wagers that the US economy is strong enough to push the Federal Reserve to lift interest rates by next year.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-31T19:00:08.032095+00:00"
+    "fetched_at": "2026-05-31T20:09:59.858855+00:00"
   },
   {
     "title": "Coinkite Launches Coldcard MK5: Major UX Upgrades to Flagship Bitcoin Hardware Wallet",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-31T19:00:07.465063+00:00"
+    "fetched_at": "2026-05-31T20:09:58.889458+00:00"
   },
   {
     "title": "U.S. Treasury: The United States Has Seized Nearly $1 Billion of Iran\u2019s Crypto",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-31T19:00:07.465128+00:00"
+    "fetched_at": "2026-05-31T20:09:58.889525+00:00"
   },
   {
     "title": "How President Trump\u2019s Immigration Order Will Feed the Stablecoin Economy, Bitcoin ATMs",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-31T19:00:07.565244+00:00"
+    "fetched_at": "2026-05-31T20:09:59.053827+00:00"
   },
   {
     "title": "Florida Candidate Liquidates $800K in Bitcoin to Bankroll Congressional Bid",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-31T19:00:07.565303+00:00"
+    "fetched_at": "2026-05-31T20:09:59.053889+00:00"
   },
   {
     "title": "Cardano Foundation cancels 2026 summit after treasury funding vote falls just short",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-31T19:00:07.666051+00:00"
+    "fetched_at": "2026-05-31T20:09:59.202788+00:00"
   },
   {
     "title": "SEC sues Privvy founder over $12.3 million crypto scheme as AI \u2018bots\u2019 turn out to be neither",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-31T19:00:07.666122+00:00"
+    "fetched_at": "2026-05-31T20:09:59.202860+00:00"
   },
   {
     "title": "Wall Street bulls bet US stocks rally will defy bubble fears",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-31T19:00:08.819641+00:00"
+    "fetched_at": "2026-05-31T20:10:00.900126+00:00"
   },
   {
     "title": "AI is here. What do you want from it?",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-31T19:00:08.819693+00:00"
+    "fetched_at": "2026-05-31T20:10:00.900180+00:00"
   }
 ]
