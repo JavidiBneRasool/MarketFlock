@@ -6,7 +6,7 @@
     "source": "CoinDesk",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-31T05:02:54.254572+00:00",
+    "fetched_at": "2026-05-31T06:36:58.889215+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,19 +18,19 @@
     "source": "CoinDesk",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-31T05:02:54.254693+00:00",
+    "fetched_at": "2026-05-31T06:36:58.889305+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Bitcoin is at \u2018pivotal level\u2019 as $65K downside risk looms: Analyst",
-    "url": "https://cointelegraph.com/news/bitcoin-is-at-pivotal-level-and-faces-threat-to-65k-analyst",
-    "summary": "While Bitcoin is hovering around $73,000, a crypto trader says the current setup is \u201cdifferent from the previous breakdown in February.\u201d",
+    "title": "Bitcoin sentiment reaches most \u2018lopsided positive\u2019 ratio for 2026: Santiment",
+    "url": "https://cointelegraph.com/news/crypto-sentiment-reaches-most-lopsided-positive-ratio-for-2026-santiment",
+    "summary": "Crypto sentiment platform Santiment warned that the two biggest spikes in social media bullishness around Bitcoin have previously been followed by short-term price pullbacks.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-31T05:02:55.274245+00:00",
+    "fetched_at": "2026-05-31T06:36:59.656683+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -42,19 +42,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-05-31T05:02:55.274316+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Philippines Seeks Closer Ties With China's Adversaries",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-31/philippines-seeks-closer-ties-with-china-s-adversaries-video",
-    "summary": "Philippine Defense Secretary Gilberto Teodoro outlines deepening military ties with a network of US allies and tells Bloomberg's Haslinda Amin why it's important to work together on military deterrence. They speak on the sidelines of the Shangri-La Dialogue in Singapore. (Source: Bloomberg)",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-05-31T05:03:00.100689+00:00",
+    "fetched_at": "2026-05-31T06:36:59.656810+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +54,19 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-05-31T05:03:00.100772+00:00",
+    "fetched_at": "2026-05-31T06:37:04.795679+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Taiwan Vows Not to Be \u2018Silenced\u2019 After China Expels NYT Reporter",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-31/taiwan-vows-not-to-be-silenced-after-china-expels-nyt-reporter",
+    "summary": "Taiwan has condemned the expulsion of a New York Times journalist from China over an interview the US-based newspaper conducted with the self-ruled island\u2019s leader, saying it is common for a president of a democratic country to explain its position.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-05-31T06:37:04.795787+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-31T05:02:57.090665+00:00",
+    "fetched_at": "2026-05-31T06:37:01.086034+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-31T05:02:57.090744+00:00",
+    "fetched_at": "2026-05-31T06:37:01.086118+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-31T05:02:57.796260+00:00",
+    "fetched_at": "2026-05-31T06:37:01.375696+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-05-31T05:02:57.796312+00:00",
+    "fetched_at": "2026-05-31T06:37:01.375792+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-31T05:03:01.469149+00:00",
+    "fetched_at": "2026-05-31T06:37:06.402153+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-05-31T05:03:01.469252+00:00",
+    "fetched_at": "2026-05-31T06:37:06.402267+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
