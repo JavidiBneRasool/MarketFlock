@@ -1,57 +1,48 @@
 [
   {
-    "title": "Saylor's Strategy sold bitcoin for the first time since 2022. These firms are still buying",
-    "url": "https://www.coindesk.com/business/2026/06/01/saylor-s-strategy-sold-bitcoin-for-the-first-time-since-2022-these-firms-are-still-buying",
-    "summary": "",
-    "source": "CoinDesk",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-06-01T17:50:45.945967+00:00"
-  },
-  {
-    "title": "It's not 2022 anymore: What Strategy's first bitcoin sale can (and can't) tell us about this one",
-    "url": "https://www.coindesk.com/markets/2026/06/01/strategy-s-second-bitcoin-sale-revives-memories-of-2022",
-    "summary": "",
-    "source": "CoinDesk",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-06-01T17:50:45.946099+00:00"
-  },
-  {
-    "title": "Are Ethereum OGs jumping ship? Here's what the data says",
-    "url": "https://cointelegraph.com/markets/are-ethereum-ogs-jumping-ship-heres-what-the-data-says",
-    "summary": "Long-term whales have cashed out millions of dollars from Ethereum following the recent sell-off, potentially putting ETH at risk of further losses.",
+    "title": "Japan\u2019s ruling party pushes crypto ETFs, yen-denominated stablecoins",
+    "url": "https://cointelegraph.com/news/japans-ruling-party-crypto-etfs-yen-denominated-stablecoins",
+    "summary": "The Parliamentary Association for the Promotion of Blockchain delivered recommendations to Japan\u2019s finance minister on crypto and blockchain.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-01T17:50:47.372853+00:00"
+    "fetched_at": "2026-06-01T19:50:21.028309+00:00"
   },
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "title": "Strategy's BTC sale turns Bitcoin treasury into market stress test",
+    "url": "https://cointelegraph.com/news/strategy-bitcoin-sale-btc-treasury-company-valuation",
+    "summary": "Strategy\u2019s 32 BTC transaction has sparked debate over how investors value Bitcoin treasury companies as capital structure and liquidity considerations evolve. \n",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-01T17:50:47.373025+00:00"
+    "fetched_at": "2026-06-01T19:50:21.028459+00:00"
   },
   {
-    "title": "Why Britain\u2019s Bond Market Is Sounding the Alarm (Correct)",
-    "url": "https://www.bloomberg.com/news/videos/2026-05-30/why-britain-s-bond-market-is-sounding-the-alarm-video",
-    "summary": "As political uncertainty grows in the United Kingdom, investors are increasingly focused on the country\u2019s fiscal outlook and rising government borrowing costs. Bloomberg Opinion Columnist John Authers says concerns over spending, debt, and political instability are pushing gilt yields higher, revivi",
+    "title": "US Bonds Drop as Doubt Over US-Iran Talks Lifts Oil Prices",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-01/us-bonds-drop-as-doubt-over-us-iran-talks-lifts-oil-prices",
+    "summary": "Treasuries fell as an impasse in negotiations between the US and Iran fueled concern that higher energy costs will stoke inflation and push the Federal Reserve to raise interest rates.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-01T17:50:52.536121+00:00"
+    "fetched_at": "2026-06-01T19:50:22.089090+00:00"
   },
   {
-    "title": "Bank of Canada Warns Against Overreacting to Techical Recession Indicator",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-01/bank-of-canada-warns-against-overreacting-to-techical-recession-indicator",
-    "summary": "Bank of Canada Senior Deputy Governor Carolyn Rogers cautioned against concluding the country is in a recession after recent data showed the economy contracted for a second consecutive quarter.",
+    "title": "Oil Climbs as Traders Weigh Fresh Threat to Middle East Supply",
+    "url": "https://www.bloomberg.com/news/articles/2026-05-31/latest-oil-market-news-and-analysis-for-june-1",
+    "summary": "Oil rose by the most since early May as traders priced in signals that energy flows out of the Middle East could be curtailed further.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-01T17:50:52.536203+00:00"
+    "fetched_at": "2026-06-01T19:50:22.089144+00:00"
+  },
+  {
+    "title": "Coinbase Exec Sees Path to Crypto\u2019s \u2018Dodd-Frank Moment\u2019 as CLARITY Act Heads for Senate Floor",
+    "url": "https://bitcoinmagazine.com/news/coinbase-exec-sees-path-to-cryptos",
+    "summary": "Bitcoin Magazine\n\nCoinbase Exec Sees Path to Crypto&#8217;s &#8216;Dodd-Frank Moment&#8217; as CLARITY Act Heads for Senate Floor\nCoinbase's Faryar Shirzad says the CLARITY Act could mark crypto\u2019s \u201cDodd-Frank Act moment,\u201d as it heads toward a pivotal Senate vote this month.\nThis post Coinbase Exec S",
+    "source": "Bitcoin Magazine",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-01T19:50:21.463718+00:00"
   },
   {
     "title": "Strategy Sold 32 Bitcoin\u2026 And That\u2019s a Good Thing.",
@@ -60,43 +51,52 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-01T17:50:49.342375+00:00"
+    "fetched_at": "2026-06-01T19:50:21.463783+00:00"
   },
   {
-    "title": "The Business Owner\u2019s Guide to Vertical Integration with Bitcoin",
-    "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/business-owner-guide-bitcoin-integration",
-    "summary": "Bitcoin Magazine\n\nThe Business Owner&#8217;s Guide to Vertical Integration with Bitcoin\nCompanies are vertically integrating Bitcoin across four stages: Accept, Hold, Produce, Build, wiring them together into flywheels to create structural moats.\nThis post The Business Owner&#8217;s Guide to Vertica",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-01T17:50:49.342440+00:00"
-  },
-  {
-    "title": "Tom Lee's BitMine Buys $52 Million in Ethereum as Strategy Sells Bitcoin",
-    "url": "https://decrypt.co/369642/tom-lee-bitmine-buys-52-million-ethereum-strategy-sells-bitcoin",
-    "summary": "A week after notching its largest purchase of 2026, BitMine was back in the order books, accumulating more Ethereum.",
+    "title": "Kalshi Eyes Perpetual Futures for XRP, Solana, Dogecoin\u2014And These Altcoins",
+    "url": "https://decrypt.co/369665/kalshi-eyes-perpetual-futures-xrp-solana-dogecoin-altcoins",
+    "summary": "Kalshi moved swiftly to lock down an emerging market for perpetual futures in the U.S., filing to certify a slate of altcoin offerings",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-01T17:50:49.915710+00:00"
+    "fetched_at": "2026-06-01T19:50:21.588513+00:00"
   },
   {
-    "title": "AI Giant Anthropic Files to Go Public After Nearing $1 Trillion Valuation",
-    "url": "https://decrypt.co/369641/ai-giant-anthropic-files-go-public-nearing-1-trillion-valuation",
-    "summary": "Claude maker Anthropic said Monday that it confidentially filed to launch an IPO in the U.S. following another huge funding round.",
+    "title": "Florida Sues OpenAI, Sam Altman Over ChatGPT Safety Claims",
+    "url": "https://decrypt.co/369656/florida-lawsuit-openai-sam-altman-chatgpt-safety",
+    "summary": "Florida's attorney general seeks damages, restrictions on ChatGPT, and personal liability for OpenAI CEO Sam Altman in what the state describes as the first state-led lawsuit against the AI company.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-01T17:50:49.915806+00:00"
+    "fetched_at": "2026-06-01T19:50:21.588566+00:00"
+  },
+  {
+    "title": "Unable to recover from roughly $50 million hack, Radiant Capital is winding down",
+    "url": "https://www.theblock.co/post/403254/unable-to-recover-from-roughly-50-million-hack-radiant-capital-is-winding-down",
+    "summary": "Radiant Capital said it hasn't been able to recover a meaningful amount of funds or raise new capital since the 2024 exploit.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-01T19:50:21.690094+00:00"
+  },
+  {
+    "title": "TON revives Gram token brand as Telegram CEO Durov says network is \u2018returning to roots\u2019",
+    "url": "https://www.theblock.co/post/403231/ton-revives-gram-token-brand-telegram-ceo-durov-network-returning-roots",
+    "summary": "The Gram rebrand follows network upgrades, fee cuts, and Telegram's push for a larger role in TON governance.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-01T19:50:21.690161+00:00"
   },
   {
     "title": "Anthropic files for blockbuster initial public offering",
     "url": "https://www.ft.com/content/4f82f41c-24e7-4323-899a-17a04badd29e",
-    "summary": "Move sets up three-way race with OpenAI and SpaceX, testing Wall Street\u2019s appetite for the AI boom",
+    "summary": "Move sets up race with OpenAI and SpaceX, testing Wall Street\u2019s appetite for the AI boom",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-01T17:50:54.008149+00:00"
+    "fetched_at": "2026-06-01T19:50:22.811945+00:00"
   },
   {
     "title": "Florida sues OpenAI and Altman for \u2018hurting\u2019 children",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-01T17:50:54.008256+00:00"
+    "fetched_at": "2026-06-01T19:50:22.812002+00:00"
   }
 ]
