@@ -1,39 +1,48 @@
 [
   {
-    "title": "Japan\u2019s ruling party pushes crypto ETFs, yen-denominated stablecoins",
-    "url": "https://cointelegraph.com/news/japans-ruling-party-crypto-etfs-yen-denominated-stablecoins",
-    "summary": "The Parliamentary Association for the Promotion of Blockchain delivered recommendations to Japan\u2019s finance minister on crypto and blockchain.",
+    "title": "Dogecoin gains Paxos support in push for broader institutional adoption",
+    "url": "https://cointelegraph.com/news/paxos-doge-support-dogecoin-broader-institutional-adoption",
+    "summary": "The integration gives fintech and institutional platforms a new pathway to evaluate DOGE amid signs of slowing crypto adoption.\n",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-01T19:50:21.028309+00:00"
+    "fetched_at": "2026-06-01T22:28:34.625208+00:00"
   },
   {
-    "title": "Strategy's BTC sale turns Bitcoin treasury into market stress test",
-    "url": "https://cointelegraph.com/news/strategy-bitcoin-sale-btc-treasury-company-valuation",
-    "summary": "Strategy\u2019s 32 BTC transaction has sparked debate over how investors value Bitcoin treasury companies as capital structure and liquidity considerations evolve. \n",
+    "title": "Debate on CLARITY Act continues this week as US Senate returns",
+    "url": "https://cointelegraph.com/news/clarity-act-us-senate-session-committees",
+    "summary": "Many Democratic lawmakers have said that they will not support any version of a crypto market structure bill without provisions on ethics to address potential conflicts of interest by elected officials.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-01T19:50:21.028459+00:00"
+    "fetched_at": "2026-06-01T22:28:34.625285+00:00"
   },
   {
-    "title": "US Bonds Drop as Doubt Over US-Iran Talks Lifts Oil Prices",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-01/us-bonds-drop-as-doubt-over-us-iran-talks-lifts-oil-prices",
-    "summary": "Treasuries fell as an impasse in negotiations between the US and Iran fueled concern that higher energy costs will stoke inflation and push the Federal Reserve to raise interest rates.",
+    "title": "Oil Holds Gains, US Futures Slip on War Confusion: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-01/oil-holds-gains-us-futures-slip-on-war-confusion-markets-wrap",
+    "summary": "US equity futures edged lower and oil held gains as Washington struggled to get efforts toward an Iran peace deal back on track.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-01T19:50:22.089090+00:00"
+    "fetched_at": "2026-06-01T22:28:35.787833+00:00"
   },
   {
-    "title": "Oil Climbs as Traders Weigh Fresh Threat to Middle East Supply",
-    "url": "https://www.bloomberg.com/news/articles/2026-05-31/latest-oil-market-news-and-analysis-for-june-1",
-    "summary": "Oil rose by the most since early May as traders priced in signals that energy flows out of the Middle East could be curtailed further.",
+    "title": "Oil Holds Biggest Gain in a Month on US-Iran Talk Uncertainty",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-01/latest-oil-market-news-and-analysis-for-june-2",
+    "summary": "Oil steadied after its biggest gain in about a month, as uncertainty about the state of US-Iran peace talks raised the risk that energy flows from the Persian Gulf could be curtailed for longer.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-01T19:50:22.089144+00:00"
+    "fetched_at": "2026-06-01T22:28:35.787915+00:00"
+  },
+  {
+    "title": "CME Group Goes Live With 24/7 Crypto Futures and Options, Launches Bitcoin Volatility Contracts",
+    "url": "https://bitcoinmagazine.com/news/cme-group-goes-live-with-24-7-crypto",
+    "summary": "Bitcoin Magazine\n\nCME Group Goes Live With 24/7 Crypto Futures and Options, Launches Bitcoin Volatility Contracts\nCME Group has launched 24/7 crypto futures and options trading on its CME Globex platform.\nThis post CME Group Goes Live With 24/7 Crypto Futures and Options, Launches Bitcoin Volatility",
+    "source": "Bitcoin Magazine",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-01T22:28:35.028285+00:00"
   },
   {
     "title": "Coinbase Exec Sees Path to Crypto\u2019s \u2018Dodd-Frank Moment\u2019 as CLARITY Act Heads for Senate Floor",
@@ -42,34 +51,25 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-01T19:50:21.463718+00:00"
+    "fetched_at": "2026-06-01T22:28:35.028359+00:00"
   },
   {
-    "title": "Strategy Sold 32 Bitcoin\u2026 And That\u2019s a Good Thing.",
-    "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/strategy-sells-bitcoin-thats-good",
-    "summary": "Bitcoin Magazine\n\nStrategy Sold 32 Bitcoin&#8230; And That&#8217;s a Good Thing.\nMichael Saylor once said never sell Bitcoin. Strategy just sold 32 BTC. Here's why that may strengthen the Bitcoin treasury model.\nThis post Strategy Sold 32 Bitcoin&#8230; And That&#8217;s a Good Thing. first appeared ",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-01T19:50:21.463783+00:00"
-  },
-  {
-    "title": "Kalshi Eyes Perpetual Futures for XRP, Solana, Dogecoin\u2014And These Altcoins",
-    "url": "https://decrypt.co/369665/kalshi-eyes-perpetual-futures-xrp-solana-dogecoin-altcoins",
-    "summary": "Kalshi moved swiftly to lock down an emerging market for perpetual futures in the U.S., filing to certify a slate of altcoin offerings",
+    "title": "DuckDuckGo Launched Duck AI. Now Their Hit Product is 'No AI'",
+    "url": "https://decrypt.co/369688/duckduckgo-no-ai-google",
+    "summary": "As Google buries its search results under AI-generated answers, DuckDuckGo believes a growing number of users just want the old internet back.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-01T19:50:21.588513+00:00"
+    "fetched_at": "2026-06-01T22:28:35.221531+00:00"
   },
   {
-    "title": "Florida Sues OpenAI, Sam Altman Over ChatGPT Safety Claims",
-    "url": "https://decrypt.co/369656/florida-lawsuit-openai-sam-altman-chatgpt-safety",
-    "summary": "Florida's attorney general seeks damages, restrictions on ChatGPT, and personal liability for OpenAI CEO Sam Altman in what the state describes as the first state-led lawsuit against the AI company.",
+    "title": "TON Price Pumps After Telegram CEO Says Token Will Be Rebranded to Gram",
+    "url": "https://decrypt.co/369660/ton-price-pumps-telegram-ceo-token-rebranded-gram",
+    "summary": "Telegram is taking the reins of The Open Network, years after abandoning the project\u2014and it plans to adopt Toncoin's originally planned name.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-01T19:50:21.588566+00:00"
+    "fetched_at": "2026-06-01T22:28:35.221590+00:00"
   },
   {
     "title": "Unable to recover from roughly $50 million hack, Radiant Capital is winding down",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-01T19:50:21.690094+00:00"
+    "fetched_at": "2026-06-01T22:28:35.416503+00:00"
   },
   {
     "title": "TON revives Gram token brand as Telegram CEO Durov says network is \u2018returning to roots\u2019",
@@ -87,7 +87,16 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-01T19:50:21.690161+00:00"
+    "fetched_at": "2026-06-01T22:28:35.416574+00:00"
+  },
+  {
+    "title": "Alphabet to sell $80bn in stock to fund AI infrastructure spending spree",
+    "url": "https://www.ft.com/content/341f151b-f472-4530-8579-d4b803519257",
+    "summary": "Landmark fundraising plans include $10bn private placement to Berkshire Hathaway",
+    "source": "Financial Times",
+    "category": "Markets",
+    "tier": 9,
+    "fetched_at": "2026-06-01T22:28:36.656410+00:00"
   },
   {
     "title": "Anthropic files for blockbuster initial public offering",
@@ -96,15 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-01T19:50:22.811945+00:00"
-  },
-  {
-    "title": "Florida sues OpenAI and Altman for \u2018hurting\u2019 children",
-    "url": "https://www.ft.com/content/7998db0a-22d1-4b80-b861-2e8b2448e97f",
-    "summary": "State files lawsuit over \u2018litany of harms\u2019 it claims the company\u2019s chatbots have caused",
-    "source": "Financial Times",
-    "category": "Markets",
-    "tier": 9,
-    "fetched_at": "2026-06-01T19:50:22.812002+00:00"
+    "fetched_at": "2026-06-01T22:28:36.656467+00:00"
   }
 ]
