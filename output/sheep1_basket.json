@@ -1,39 +1,48 @@
 [
   {
-    "title": "Franklin Templeton teams up with MoonPay to let big investors swap stablecoins for yields 24/7",
-    "url": "https://www.coindesk.com/business/2026/06/02/franklin-templeton-teams-up-with-moonpay-to-let-big-investors-swap-stablecoins-for-yields-24-7",
-    "summary": "",
-    "source": "CoinDesk",
+    "title": "EdgeX blames \u2018external party\u2019 for token crash as ZachXBT alleges insider manipulation",
+    "url": "https://cointelegraph.com/news/edgex-blames-external-party-for-token-crash-as-zachxbt-points-to-insider-manipulation",
+    "summary": "Onchain investigator ZachXBT claims decentralized exchange edgeX insiders controlled nearly the entire supply with a thin float.",
+    "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-02T13:35:40.362821+00:00"
+    "fetched_at": "2026-06-02T14:00:57.071708+00:00"
   },
   {
-    "title": "Strategy's bitcoin sale may mark start of ether outperformance, StanChart's Kendrick says",
-    "url": "https://www.coindesk.com/markets/2026/06/02/strategy-s-bitcoin-sale-may-mark-start-of-ether-outperformance-stanchart-s-kendrick-says",
-    "summary": "",
-    "source": "CoinDesk",
+    "title": "Capital B seeks $122B funding mandate to buy more Bitcoin",
+    "url": "https://cointelegraph.com/news/capital-b-shareholder-motion-58b-capital-increase-116b-credit",
+    "summary": "Capital B is asking shareholders to approve up to $122 billion in capital-raising authority to accelerate its Bitcoin treasury strategy.",
+    "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-02T13:35:40.362959+00:00"
+    "fetched_at": "2026-06-02T14:00:57.071768+00:00"
   },
   {
-    "title": "Stocks Halt Rally as Traders Weigh US-Iran Signals: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-01/oil-holds-gains-us-futures-slip-on-war-confusion-markets-wrap",
-    "summary": "A rally that drove stocks to a series of all-time highs took a breather as traders weighed prospects for an agreement that would end the war that has roiled financial markets around the world.",
+    "title": "Fed May Need to Act Soon on Inflation, Hammack Says",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-02/fed-may-need-to-act-soon-on-inflation-hammack-says-video",
+    "summary": "Federal Reserve Bank of Cleveland President Beth Hammack said it\u2019s reasonable to keep rates steady for now due to uncertainties around the economic outlook, but \u201cit may soon be appropriate for policy to act to address the growing risks of persistently elevated inflation.\u201d Hammack spoke Tuesday at an",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-02T13:35:44.753827+00:00"
+    "fetched_at": "2026-06-02T14:00:59.713991+00:00"
   },
   {
-    "title": "M&amp;A Lawyer Pleads Not Guilty to Leading Insider-Trading Ring",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-01/m-a-lawyer-pleads-not-guilty-to-leading-insider-trading-ring",
-    "summary": "A former mergers and acquisitions lawyer with top firms including Latham &amp; Watkins and Goodwin Procter pleaded not guilty to charges that he led a massive insider trading ring that made tens of millions of dollars in illegal profits.",
+    "title": "Marvell Soars After Nvidia Chief\u2019s $1 Trillion Stock Call",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-02/marvell-surges-after-huang-calls-it-the-next-1-trillion-company",
+    "summary": "Marvell Technology Inc. shares surged after Nvidia Corp.\u2019s Jensen Huang predicted the semiconductor and networking company will be the next business to hit a $1 trillion valuation, more than five times its current market capitalization.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-02T13:35:44.753886+00:00"
+    "fetched_at": "2026-06-02T14:00:59.714039+00:00"
+  },
+  {
+    "title": "Mt. Gox Moves 10,422 Bitcoin While Bitcoin Price Craters Below $69,000",
+    "url": "https://bitcoinmagazine.com/news/mt-gox-moves-bitcoin-while-bitcoin-price",
+    "summary": "Bitcoin Magazine\n\nMt. Gox Moves 10,422 Bitcoin While Bitcoin Price Craters Below $69,000\nMt. Gox moved 10,422 BTC worth $739 million ahead of its 2026 repayment deadline, triggering market jitters and contributing to Bitcoin\u2019s drop below $69,000 despite no confirmed selling activity.\nThis post Mt. G",
+    "source": "Bitcoin Magazine",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-02T14:00:57.307403+00:00"
   },
   {
     "title": "Strive (ASST) Adds $185 Million in Bitcoin as Holdings Reach 19,000 BTC",
@@ -42,16 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-02T13:35:42.375590+00:00"
-  },
-  {
-    "title": "CME Group Goes Live With 24/7 Crypto Futures and Options, Launches Bitcoin Volatility Contracts",
-    "url": "https://bitcoinmagazine.com/news/cme-group-goes-live-with-24-7-crypto",
-    "summary": "Bitcoin Magazine\n\nCME Group Goes Live With 24/7 Crypto Futures and Options, Launches Bitcoin Volatility Contracts\nCME Group has launched 24/7 crypto futures and options trading on its CME Globex platform.\nThis post CME Group Goes Live With 24/7 Crypto Futures and Options, Launches Bitcoin Volatility",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-02T13:35:42.375696+00:00"
+    "fetched_at": "2026-06-02T14:00:57.307454+00:00"
   },
   {
     "title": "Mt. Gox Moves $739M in Bitcoin as Repayment Deadline Looms",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-02T13:35:42.673291+00:00"
+    "fetched_at": "2026-06-02T14:00:57.378762+00:00"
   },
   {
     "title": "NEAR, Worldcoin Post Double-Digit Gains as Market Sees $714M in Liquidations",
@@ -69,42 +69,42 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-02T13:35:42.673379+00:00"
+    "fetched_at": "2026-06-02T14:00:57.378805+00:00"
   },
   {
-    "title": "Anthropic to expand Mythos access to more than 15 countries",
-    "url": "https://www.ft.com/content/19ea9ed4-3dd0-43aa-9877-729d44e620e8",
-    "summary": "About 150 organisations will be given advanced cyber security model following requests from around the world",
+    "title": "Standard Chartered says Strategy\u2019s bitcoin sale may mark start of ETH outperformance",
+    "url": "https://www.theblock.co/post/403351/standard-chartered-strategy-bitcoin-sale-eth-outperformance",
+    "summary": "Standard Chartered said Ethereum DATs have an advantage over bitcoin DATs because ETH's staking yield means they do not need to sell ETH.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-02T14:00:57.438849+00:00"
+  },
+  {
+    "title": "\u2018Materially softer demand\u2019: Bitcoin hits two-month low below $69,000 amid institutional outflow streak, fading onchain interest",
+    "url": "https://www.theblock.co/post/403356/materially-softer-demand-bitcoin-hits-two-month-low-below-69000-amid-institutional-outflow-streak-fading-onchain-interest",
+    "summary": "Bitcoin fell below $69,000 to a two-month low as ETF outflows hit $3.45 billion over 11 days, along with $742 million in liquidations.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-02T14:00:57.438908+00:00"
+  },
+  {
+    "title": "Trump appoints ally Pulte as acting director of US national intelligence",
+    "url": "https://www.ft.com/content/e9c93603-3793-436f-a4f1-34ecd2b3fb9b",
+    "summary": "President says housing finance director has \u2018deep experience managing the sensitive matters\u2019",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-02T13:35:46.874729+00:00"
+    "fetched_at": "2026-06-02T14:01:00.545793+00:00"
   },
   {
-    "title": "US convertible bonds set for record year as issuers harness AI boom",
-    "url": "https://www.ft.com/content/159fde75-7ad7-452f-a385-574655558da0",
-    "summary": "Investors embrace zero-interest debt for options on high-growth tech stocks",
+    "title": "How Deutsche Bank learned to stop chasing America",
+    "url": "https://www.ft.com/content/7699c69c-59c1-4a93-8ea5-ce2bda84bfec",
+    "summary": "After decades of upheaval, the lender that wanted to take on Wall Street has scaled back its ambitions to focus on Europe",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-02T13:35:46.874832+00:00"
-  },
-  {
-    "title": "Quote of the day by T. Rowe Price: \"Detecting with a high degree of accuracy when the long-term earnings growth of a company has ceased is difficult because no mathematical formula can be applied to determine when the change from growth to maturity or decadence occurs.\"",
-    "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/quote-of-the-day-by-t-rowe-price-detecting-with-a-high-degree-of-accuracy-when-the-long-term-earnings-growth-of-a-company-has-ceased-is-difficult-because-no-mathematical-formula-can-be-applied-to-determine-when-the-change-from-growth-to-maturity-or-decadence-occurs-/articleshow/131455308.cms",
-    "summary": "Identifying when a company's growth story begins to fade is a significant challenge for investors. While financial models offer insights, qualitative factors like innovation and market dynamics often dictate a company's lifecycle. Successful investing demands ongoing judgment and analysis of busines",
-    "source": "Economic Times Markets",
-    "category": "India Markets",
-    "tier": 9,
-    "fetched_at": "2026-06-02T13:42:54.563426+00:00"
-  },
-  {
-    "title": "HFCL, Acme Solar Holdings among 6 stocks that hit 52-week high; rally up to 64% in a month",
-    "url": "https://economictimes.indiatimes.com/markets/stocks/news/hfcl-acme-solar-holdings-among-6-stocks-that-hit-52-week-high-rally-up-to-64-in-a-month/slideshow/131463958.cms",
-    "summary": "HFCL, Acme Solar Holdings and four other BSE 500 stocks hit fresh 52-week highs on Tuesday, with HFCL leading the rally after surging 64% in the past month amid strong buying momentum.",
-    "source": "Economic Times Markets",
-    "category": "India Markets",
-    "tier": 9,
-    "fetched_at": "2026-06-02T13:42:54.563509+00:00"
+    "fetched_at": "2026-06-02T14:01:00.545838+00:00"
   }
 ]
