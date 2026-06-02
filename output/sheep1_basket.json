@@ -1,21 +1,30 @@
 [
   {
-    "title": "Bitcoin slide to $70,000 as stocks pause and Strategy's BTC sale weighs on crypto",
-    "url": "https://www.coindesk.com/markets/2026/06/02/bitcoin-slide-to-usd70-000-as-stocks-pause-and-strategy-s-btc-sale-weighs-on-crypto",
+    "title": "XRP falls 4% below $1.30 as bitcoin-led market weakness pulls down majors",
+    "url": "https://www.coindesk.com/markets/2026/06/02/xrp-falls-4-below-usd1-30-as-bitcoin-led-market-weakness-pulls-down-majors",
     "summary": "",
     "source": "CoinDesk",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-02T05:39:09.166365+00:00"
+    "fetched_at": "2026-06-02T06:46:03.357210+00:00"
   },
   {
-    "title": "Strategy sold bitcoin in late May, and told the market in June. Here's how Polymarket bettors are fighting over when it counts.",
-    "url": "https://www.coindesk.com/markets/2026/06/02/strategy-sold-bitcoin-in-late-may-and-told-the-market-in-june-here-s-how-polymarket-bettors-are-fighting-over-when-it-counts",
+    "title": "Mt. Gox moves 10,422 bitcoin worth $739 million to a new wallet as deadline nears",
+    "url": "https://www.coindesk.com/markets/2026/06/02/mt-gox-moves-10-422-bitcoin-worth-usd739-million-to-a-new-wallet-as-deadline-nears",
     "summary": "",
     "source": "CoinDesk",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-02T05:39:09.166516+00:00"
+    "fetched_at": "2026-06-02T06:46:03.357506+00:00"
+  },
+  {
+    "title": "Grayscale HYPE ETF \u2018likely imminent\u2019 as new update shows competitive fee: Analyst",
+    "url": "https://cointelegraph.com/news/grayscale-hype-etf-likely-imminent-as-new-update-shows-competitive-fee",
+    "summary": "Grayscale proposed a fee of 0.29% on its Hyperliquid ETF, which \u201cslightly undercuts\u201d rivals 21Shares and Bitwise that carry respective fees of 0.3% and 0.34%, says analyst James Seyffart.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-02T06:46:04.384865+00:00"
   },
   {
     "title": "TON jumps 15% as The Open Network plans rebrand to Gram",
@@ -24,34 +33,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-02T05:39:11.872607+00:00"
+    "fetched_at": "2026-06-02T06:46:04.384969+00:00"
   },
   {
-    "title": "Bitmine buys $52M ETH as Tom Lee says price not yet showing Ethereum\u2019s strength",
-    "url": "https://cointelegraph.com/news/bitmine-buys-more-eth-as-tom-lee-says-price-not-yet-showing-ethereums-strength",
-    "summary": "Bitmine is aiming to hold 5% of the total circulating supply of 120.6 million Ether tokens and is about 90% of the way to its target after its latest purchase.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-06-02T05:39:11.872723+00:00"
-  },
-  {
-    "title": "State Street Head Trader Says Won May Rebound in Second Half",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-02/krw-usd-state-street-head-korea-trader-sees-won-stabilizing-in-second-half",
-    "summary": "The South Korean won could rebound in the second half of the year as foreign selling of local equities eases and persistent current-account surpluses support the currency, according to a State Street Bank and Trust Co. trader with more than 25 years at the firm.",
+    "title": "China\u2019s State Buyer Seeks Scrutiny of New Fortescue Iron Ore",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-02/china-s-state-buyer-seeks-scrutiny-of-new-fortescue-iron-ore",
+    "summary": "China\u2019s state-backed iron ore buyer has instructed some steel mills to ask questions about Fortescue Ltd.\u2019s new low-grade product as negotiations over a long-term supply contract hit a rough patch.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-02T05:39:16.759023+00:00"
+    "fetched_at": "2026-06-02T06:46:08.833670+00:00"
   },
   {
-    "title": "Oil Edges Down After Biggest Gain in a Month on US-Iran Standoff",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-01/latest-oil-market-news-and-analysis-for-june-2",
-    "summary": "Oil ticked lower after its biggest gain in about a month, as uncertainty about the state of US-Iran peace talks raised the risk that energy flows from the Persian Gulf could be curtailed for longer.",
+    "title": "Japan\u2019s 10-Year Bond Yield Drops as Smooth Auction Brings Relief",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-02/japan-10-year-bond-sale-sees-firmer-demand-than-12-month-average-mpw39feb",
+    "summary": "Japan\u2019s 10-year government bond yield dropped after an auction of the tenor drew firm demand as investors were attracted to high yields.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-02T05:39:16.759132+00:00"
+    "fetched_at": "2026-06-02T06:46:08.833781+00:00"
   },
   {
     "title": "CME Group Goes Live With 24/7 Crypto Futures and Options, Launches Bitcoin Volatility Contracts",
@@ -60,7 +60,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-02T05:39:13.290027+00:00"
+    "fetched_at": "2026-06-02T06:46:04.904367+00:00"
   },
   {
     "title": "Coinbase Exec Sees Path to Crypto\u2019s \u2018Dodd-Frank Moment\u2019 as CLARITY Act Heads for Senate Floor",
@@ -69,7 +69,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-02T05:39:13.290143+00:00"
+    "fetched_at": "2026-06-02T06:46:04.904486+00:00"
   },
   {
     "title": "Nvidia Releases Its Best Open AI Model Yet\u2014But Still Lags Behind China",
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-02T05:39:14.575802+00:00"
+    "fetched_at": "2026-06-02T06:46:05.467561+00:00"
   },
   {
     "title": "DuckDuckGo Launched Duck AI. Now Their Hit Product is 'No AI'",
@@ -87,7 +87,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-02T05:39:14.575874+00:00"
+    "fetched_at": "2026-06-02T06:46:05.467649+00:00"
   },
   {
     "title": "US in talks to expand nuclear weapons deployments in Europe",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-02T05:39:18.806120+00:00"
+    "fetched_at": "2026-06-02T06:46:11.331417+00:00"
   },
   {
     "title": "How did Spain\u2019s unemployment rate converge with Finland\u2019s?",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-02T05:39:18.806258+00:00"
+    "fetched_at": "2026-06-02T06:46:11.331680+00:00"
   }
 ]
