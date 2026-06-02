@@ -1,39 +1,57 @@
 [
   {
+    "title": "Crypto investment firm Keyrock is acquiring bankrupt lender Blockfills",
+    "url": "https://www.coindesk.com/business/2026/06/01/crypto-investment-firm-keyrock-is-acquiring-bankrupt-lender-blockfills",
+    "summary": "",
+    "source": "CoinDesk",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-02T03:50:43.965566+00:00"
+  },
+  {
+    "title": "Crypto funds suffer second-largest outflows of 2026 while XRP and HYPE attract inflows",
+    "url": "https://www.coindesk.com/markets/2026/06/01/crypto-funds-suffer-second-largest-outflows-of-2026-while-xrp-and-hype-attract-inflows",
+    "summary": "",
+    "source": "CoinDesk",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-02T03:50:43.965642+00:00"
+  },
+  {
+    "title": "DeFi protocol Radiant to wind down after failing to recover from 2024 hack",
+    "url": "https://cointelegraph.com/news/defi-protocol-radiant-to-wind-down-after-failing-to-recover-from-2024-hack",
+    "summary": "Radiant says its frontend and smart contracts will remain accessible and users will still be able to withdraw, repay, and manage their positions.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-02T03:50:44.884585+00:00"
+  },
+  {
     "title": "Bitcoin bulls eye fresh positions after BTC price drops under $71K",
     "url": "https://cointelegraph.com/markets/bitcoin-bulls-eye-fresh-positions-after-btc-price-drops-under-71k",
     "summary": "Selling from all angles pushed Bitcoin below $71,000 at the weekly open, but early bullish positioning in BTC derivatives may signal the start of a recovery.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-02T00:04:34.347383+00:00"
+    "fetched_at": "2026-06-02T03:50:44.884660+00:00"
   },
   {
-    "title": "Dogecoin gains Paxos support in push for broader institutional adoption",
-    "url": "https://cointelegraph.com/news/paxos-doge-support-dogecoin-broader-institutional-adoption",
-    "summary": "The integration gives fintech and institutional platforms a new pathway to evaluate DOGE amid signs of slowing crypto adoption.\n",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-06-02T00:04:34.347454+00:00"
-  },
-  {
-    "title": "Activist Investor Elliott Calls for Review at Northern Star",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-01/elliott-takes-stake-in-miner-northern-star-pushing-for-review",
-    "summary": "Elliott Investment Management LP has built a large stake in Australia\u2019s biggest gold miner Northern Star Resources Ltd. and is pushing for a strategic review, including a potential sale.",
+    "title": "Andrew Left Found Guilty in Case That Spooked Short Sellers",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-01/short-seller-andrew-left-found-guilty-of-securities-fraud",
+    "summary": "Famed short seller Andrew Left faces the possibility of decades behind bars after being found guilty of using disingenuous social media posts to manipulate stocks, in a landmark case that threatens to chill a broader trading strategy loathed by corporate executives.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-02T00:04:35.730559+00:00"
+    "fetched_at": "2026-06-02T03:50:50.874247+00:00"
   },
   {
-    "title": "Swiss Dental Startup vVardis Is Preparing for US IPO",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-01/cavity-fighting-curadont-owner-vvardis-is-preparing-for-us-ipo",
-    "summary": "vVardis Holding AG, a Swiss dental startup, is working with banks for a US initial public offering that could come this year, according to people familiar with the matter.",
+    "title": "What's Next After Short Seller Andrew Left Found Guilty",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-02/what-s-next-after-short-seller-andrew-short-found-guilty-video",
+    "summary": "Andrew Left, one of the world\u2019s most prominent short sellers, was found guilty of securities fraud by a US federal jury. Bloomberg's Erik Larson reports on the latest. (Corrects name in headline.) (Source: Bloomberg)",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-02T00:04:35.730611+00:00"
+    "fetched_at": "2026-06-02T03:50:50.874347+00:00"
   },
   {
     "title": "CME Group Goes Live With 24/7 Crypto Futures and Options, Launches Bitcoin Volatility Contracts",
@@ -42,7 +60,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-02T00:04:34.779199+00:00"
+    "fetched_at": "2026-06-02T03:50:45.754783+00:00"
   },
   {
     "title": "Coinbase Exec Sees Path to Crypto\u2019s \u2018Dodd-Frank Moment\u2019 as CLARITY Act Heads for Senate Floor",
@@ -51,7 +69,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-02T00:04:34.779273+00:00"
+    "fetched_at": "2026-06-02T03:50:45.754893+00:00"
   },
   {
     "title": "Nvidia Releases Its Best Open AI Model Yet\u2014But Still Lags Behind China",
@@ -60,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-02T00:04:35.104913+00:00"
+    "fetched_at": "2026-06-02T03:50:49.126585+00:00"
   },
   {
     "title": "DuckDuckGo Launched Duck AI. Now Their Hit Product is 'No AI'",
@@ -69,25 +87,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-02T00:04:35.104978+00:00"
-  },
-  {
-    "title": "Unable to recover from roughly $50 million hack, Radiant Capital is winding down",
-    "url": "https://www.theblock.co/post/403254/unable-to-recover-from-roughly-50-million-hack-radiant-capital-is-winding-down",
-    "summary": "Radiant Capital said it hasn't been able to recover a meaningful amount of funds or raise new capital since the 2024 exploit.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-02T00:04:35.257041+00:00"
-  },
-  {
-    "title": "TON revives Gram token brand as Telegram CEO Durov says network is \u2018returning to roots\u2019",
-    "url": "https://www.theblock.co/post/403231/ton-revives-gram-token-brand-telegram-ceo-durov-network-returning-roots",
-    "summary": "The Gram rebrand follows network upgrades, fee cuts, and Telegram's push for a larger role in TON governance.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-02T00:04:35.257108+00:00"
+    "fetched_at": "2026-06-02T03:50:49.126648+00:00"
   },
   {
     "title": "Alphabet to sell $80bn in stock to fund AI spending spree",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-02T00:04:36.636111+00:00"
+    "fetched_at": "2026-06-02T03:50:52.583201+00:00"
   },
   {
     "title": "Anthropic files for blockbuster initial public offering",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-02T00:04:36.636162+00:00"
+    "fetched_at": "2026-06-02T03:50:52.583301+00:00"
   }
 ]
