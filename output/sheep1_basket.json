@@ -1,30 +1,12 @@
 [
   {
-    "title": "MoneyGram launches stablecoin on Stellar, joining rush toward digital dollar payments",
-    "url": "https://www.coindesk.com/business/2026/06/02/moneygram-launches-stablecoin-on-stellar-joining-rush-toward-digital-dollar-payments",
-    "summary": "",
-    "source": "CoinDesk",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-06-02T09:08:02.874988+00:00"
-  },
-  {
-    "title": "Bitcoin's biggest ETF selloff yet hits $3.4 billion as AI stocks keep climbing",
-    "url": "https://www.coindesk.com/markets/2026/06/02/bitcoin-s-biggest-etf-selloff-yet-hits-usd3-4-billion-as-ai-stocks-keep-climbing",
-    "summary": "",
-    "source": "CoinDesk",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-06-02T09:08:02.875094+00:00"
-  },
-  {
     "title": "Bitcoin price falls under $70K as crypto markets liquidate $800M",
     "url": "https://cointelegraph.com/markets/bitcoin-price-falls-under-70k",
     "summary": "Bitcoin fell to fresh two-month lows as BTC price weakness accelerated and analysis targeted its 200-day moving average trend line.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-02T09:08:04.354601+00:00"
+    "fetched_at": "2026-06-02T09:59:03.494054+00:00"
   },
   {
     "title": "Robinhood enters Canada after $180 million WonderFi acquisition",
@@ -33,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-02T09:08:04.354697+00:00"
+    "fetched_at": "2026-06-02T09:59:03.494125+00:00"
   },
   {
-    "title": "Euro-Zone Inflation Surpasses 3% for First Time Since 2023",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-02/euro-zone-inflation-surpasses-3-for-first-time-since-2023",
-    "summary": "Euro-area inflation topped 3% for the first time in more than 2 1/2 years, cementing expectations for an interest-rate hike when the European Central Bank meets next week.",
+    "title": "UBS Offers First AT1 Since Swiss Authorities Paused Reforms",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-02/ubs-offers-first-at1-bond-since-swiss-authorities-paused-reforms",
+    "summary": "UBS Group AG is set to raise Additional Tier 1 capital in US dollars, its first foray into the market since Switzerland paused plans to tighten rules on the riskiest type of bank debt.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-02T09:08:08.369969+00:00"
+    "fetched_at": "2026-06-02T09:59:04.332288+00:00"
   },
   {
-    "title": "Philip Morris Cuts Outlook on $500 Million Canada Writedown",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-02/philip-morris-cuts-outlook-on-500-million-canada-writedown",
-    "summary": "Philip Morris International Inc. cut its profit forecast for this fiscal year after writing down the value of its investment in its Canadian affiliate by $500 million.",
+    "title": "India\u2019s Fuel Exports Plunge in May as Domestic Needs Prioritized",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-02/india-s-fuel-exports-plunge-in-may-as-domestic-needs-prioritized",
+    "summary": "India\u2019s fuel exports tumbled to the lowest level in nearly four years in May as a push to ensure domestic supplies during the Iran war shock along with refinery maintenance curbed overseas flows.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-02T09:08:08.370109+00:00"
+    "fetched_at": "2026-06-02T09:59:04.332352+00:00"
   },
   {
     "title": "CME Group Goes Live With 24/7 Crypto Futures and Options, Launches Bitcoin Volatility Contracts",
@@ -60,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-02T09:08:05.504718+00:00"
+    "fetched_at": "2026-06-02T09:59:03.740845+00:00"
   },
   {
     "title": "Coinbase Exec Sees Path to Crypto\u2019s \u2018Dodd-Frank Moment\u2019 as CLARITY Act Heads for Senate Floor",
@@ -69,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-02T09:08:05.504832+00:00"
+    "fetched_at": "2026-06-02T09:59:03.740922+00:00"
   },
   {
     "title": "Nvidia Releases Its Best Open AI Model Yet\u2014But Still Lags Behind China",
@@ -78,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-02T09:08:06.192995+00:00"
+    "fetched_at": "2026-06-02T09:59:03.839618+00:00"
   },
   {
     "title": "DuckDuckGo Launched Duck AI. Now Their Hit Product is 'No AI'",
@@ -87,7 +69,25 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-02T09:08:06.193071+00:00"
+    "fetched_at": "2026-06-02T09:59:03.839675+00:00"
+  },
+  {
+    "title": "CME\u2019s 24/7 crypto derivatives market sees $50 million in opening weekend trading",
+    "url": "https://www.theblock.co/post/403304/cme-groups-crypto-derivatives-50-million",
+    "summary": "CME Group said that its 24/7 crypto futures and options market saw over 7,200 contracts traded over the first weekend.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-02T09:59:03.926262+00:00"
+  },
+  {
+    "title": "Mt. Gox moves $739 million worth of bitcoin to two addresses: Arkham",
+    "url": "https://www.theblock.co/post/403296/mt-gox-moves-739-million-btc",
+    "summary": "Mt. Gox transferred a combined 10,306 BTC to an unmarked address and its hot wallet early Tuesday, according to Arkham.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-02T09:59:03.926355+00:00"
   },
   {
     "title": "US in talks to expand nuclear weapons deployments in Europe",
@@ -96,15 +96,15 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-02T09:08:09.795508+00:00"
+    "fetched_at": "2026-06-02T09:59:04.969418+00:00"
   },
   {
-    "title": "How did Spain\u2019s unemployment rate converge with Finland\u2019s?",
-    "url": "https://www.ft.com/content/eec2ec91-6e1f-4b6e-b59d-d5718a82a5be",
-    "summary": "Migration policy and labour market reforms are affecting joblessness \u2014 but in very different ways",
+    "title": "How Deutsche Bank learned to stop chasing America",
+    "url": "https://www.ft.com/content/7699c69c-59c1-4a93-8ea5-ce2bda84bfec",
+    "summary": "After decades of upheaval, the lender that wanted to take on Wall Street has scaled back its ambitions to focus on Europe",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-02T09:08:09.795754+00:00"
+    "fetched_at": "2026-06-02T09:59:04.969472+00:00"
   }
 ]
