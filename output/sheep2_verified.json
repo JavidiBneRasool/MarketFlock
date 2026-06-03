@@ -1,36 +1,36 @@
 [
   {
-    "title": "Franklin Templeton says Wall Street fears blockchain because it threatens its profits",
-    "url": "https://www.coindesk.com/business/2026/06/02/franklin-templeton-says-wall-street-fears-blockchain-because-it-threatens-its-profits",
+    "title": "DeFi won't win over big banks until it fixes its hacking problem, executives say",
+    "url": "https://www.coindesk.com/business/2026/06/02/defi-won-t-win-over-big-banks-until-it-fixes-its-hacking-problem-executives-say",
     "summary": "",
     "source": "CoinDesk",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-03T07:43:45.482308+00:00",
+    "fetched_at": "2026-06-03T09:41:37.659822+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Big tech is 'terrified' of AI agents wiping out ad revenue, says Billions Network CEO",
-    "url": "https://www.coindesk.com/business/2026/06/03/big-tech-is-terrified-of-ai-agents-wiping-out-ad-revenue-says-billions-network-ceo",
+    "title": "Banks' survey says people don't want to rock the boat if stablecoin yield risks lending",
+    "url": "https://www.coindesk.com/policy/2026/06/02/banks-survey-says-people-don-t-want-to-rock-the-boat-if-stablecoins-would-risk-lending",
     "summary": "",
     "source": "CoinDesk",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-03T07:43:45.482450+00:00",
+    "fetched_at": "2026-06-03T09:41:37.659932+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "New York and Europe\u2019s finance watchdogs team up to police stablecoins",
+    "title": "New York and EU\u2019s finance watchdogs team up to police stablecoins",
     "url": "https://cointelegraph.com/news/new-york-eu-regulators-joint-stablecoin-oversight-agreement",
-    "summary": "Some of the information that New York and the European Union\u2019s watchdogs will share includes the issued stablecoin, total volume in circulation and the number of holders.",
+    "summary": "Some of the information that New York and the European Union\u2019s watchdogs will share includes the issued stablecoins, total volume in circulation and the number of holders.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-03T07:43:46.711348+00:00",
+    "fetched_at": "2026-06-03T09:41:40.809550+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -42,19 +42,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-03T07:43:46.711448+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Triton Agrees Deal to Buy Gearbox Maker Flender from Carlyle",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-02/triton-is-said-to-near-3-billion-deal-for-carlyle-s-flender",
-    "summary": "Triton Partners has agreed to acquire Flender GmbH, a provider of mechanical and electrical drive technology, from Carlyle Group Inc.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-06-03T07:43:51.317733+00:00",
+    "fetched_at": "2026-06-03T09:41:40.809651+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -62,11 +50,23 @@
   {
     "title": "US Stocks Hit Pause as US-Iran Tensions Lift Oil: Markets Wrap",
     "url": "https://www.bloomberg.com/news/articles/2026-06-02/asian-stocks-poised-to-gain-as-ai-rally-extends-markets-wrap",
-    "summary": "US stocks struggled to build on record gains as growing strains on the ceasefire between the US and Iran sent oil higher for a third straight day.",
+    "summary": "US stocks struggled to build on record gains as growing strains on the ceasefire between the US and Iran sent oil prices higher for a third straight day.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-03T07:43:51.317834+00:00",
+    "fetched_at": "2026-06-03T09:41:47.206050+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Indonesian Stocks Slump to Five-Year Low, Rupiah Drops to Record",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-03/indonesian-stocks-tumble-to-14-month-low-rupiah-drops-to-record",
+    "summary": "Indonesian stocks plunged to their lowest level in five years and the rupiah hit a record low in another stark reminder of the multi-faceted challenges confronting Southeast Asia\u2019s biggest economy.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-06-03T09:41:47.206154+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-03T07:43:47.360820+00:00",
+    "fetched_at": "2026-06-03T09:41:41.890619+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-03T07:43:47.360960+00:00",
+    "fetched_at": "2026-06-03T09:41:41.890695+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-03T07:43:48.429874+00:00",
+    "fetched_at": "2026-06-03T09:41:42.757194+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-03T07:43:48.429984+00:00",
+    "fetched_at": "2026-06-03T09:41:42.757304+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-03T07:43:52.635282+00:00",
+    "fetched_at": "2026-06-03T09:41:48.948293+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-03T07:43:52.635463+00:00",
+    "fetched_at": "2026-06-03T09:41:48.948428+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
