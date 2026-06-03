@@ -1,12 +1,36 @@
 [
   {
+    "title": "Bitcoin\u2019s compute power dwarfs top 100 supercomputers by 600k times, says Bittensor co-founder",
+    "url": "https://www.coindesk.com/tech/2026/06/02/bitcoin-s-compute-power-dwarfs-top-100-supercomputers-by-600-000x-says-bittensor-co-founder",
+    "summary": "",
+    "source": "CoinDesk",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-03T02:36:00.894267+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "UK House of Lords committee calls on Bank of England to reconsider proposed stablecoin restrictions",
+    "url": "https://www.coindesk.com/policy/2026/06/02/uk-house-of-lords-committee-calls-on-bank-of-england-to-reconsider-proposed-stablecoin-restrictions",
+    "summary": "",
+    "source": "CoinDesk",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-03T02:36:00.894390+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "UK Lords warn BoE could regulate pound stablecoins into irrelevance",
     "url": "https://cointelegraph.com/news/lords-warn-bank-of-england-not-to-regulate-gbp-stablecoins-into-irrelevance",
     "summary": "A UK House of Lords committee warned that strict stablecoin rules could make pound sterling tokens commercially unworkable despite supporting regulation.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-03T02:35:24.591127+00:00",
+    "fetched_at": "2026-06-03T02:36:01.675393+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,7 +42,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-03T02:35:24.591204+00:00",
+    "fetched_at": "2026-06-03T02:36:01.675498+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,7 +54,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-03T02:35:25.302776+00:00",
+    "fetched_at": "2026-06-03T02:36:06.177778+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -42,7 +66,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-03T02:35:25.302830+00:00",
+    "fetched_at": "2026-06-03T02:36:06.177873+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +78,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-03T02:35:24.811089+00:00",
+    "fetched_at": "2026-06-03T02:36:03.162196+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +90,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-03T02:35:24.811156+00:00",
+    "fetched_at": "2026-06-03T02:36:03.162297+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +102,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-03T02:35:24.917256+00:00",
+    "fetched_at": "2026-06-03T02:36:04.001019+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,31 +114,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-03T02:35:24.917312+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "US sanctions Nobitex and other Iranian crypto exchanges under \u2018Economic Fury\u2019 campaign",
-    "url": "https://www.theblock.co/post/403436/us-sanctions-nobitex-iranian-crypto-exchanges-economic-fury-campaign",
-    "summary": "Sanctioned exchange Nobitex handled more than half of Iran's crypto inflows last year, according to the U.S. Treasury.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-03T02:35:25.018193+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Crypto derivatives activity slumps to late-2023 levels, but US perp market opportunity emerges",
-    "url": "https://www.theblock.co/post/403379/crypto-derivatives-activity-slumps-late-2023-levels-us-perp-market-opportunity-emerges",
-    "summary": "The composition of that volume remains heavily concentrated among a handful of exchanges, with Binance maintaining its dominant share.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-03T02:35:25.018265+00:00",
+    "fetched_at": "2026-06-03T02:36:04.001108+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-03T02:35:25.980103+00:00",
+    "fetched_at": "2026-06-03T02:36:07.774067+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-03T02:35:25.980170+00:00",
+    "fetched_at": "2026-06-03T02:36:07.774187+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
