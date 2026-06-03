@@ -1,12 +1,30 @@
 [
   {
+    "title": "Bitmine's Ethereum bet nears $9 billion loss as ether falls below $1,800",
+    "url": "https://www.coindesk.com/markets/2026/06/03/bitmine-s-ethereum-bet-nears-usd9-billion-loss-as-ether-falls-below-usd1-800",
+    "summary": "",
+    "source": "CoinDesk",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-03T20:46:32.460814+00:00"
+  },
+  {
+    "title": "New DeFi entrant widens field of crypto political campaign funds as elections loom",
+    "url": "https://www.coindesk.com/policy/2026/06/03/new-defi-entrant-widens-field-of-crypto-political-campaign-funds-as-elections-loom",
+    "summary": "",
+    "source": "CoinDesk",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-03T20:46:32.460892+00:00"
+  },
+  {
     "title": "Crypto PAC-supported candidates sweep US state primaries after media buys",
     "url": "https://cointelegraph.com/news/crypto-pac-candidates-california-nj-primaries-ads",
     "summary": "Nearly a dozen candidates across three US states won their primaries or will advance to the November election after they were supported by $3.5 million in ads funded by crypto industry-aligned PACs.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-03T20:45:03.573808+00:00"
+    "fetched_at": "2026-06-03T20:46:34.673551+00:00"
   },
   {
     "title": "Agentic payment activity tops 100M transactions on Base",
@@ -15,7 +33,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-03T20:45:03.573887+00:00"
+    "fetched_at": "2026-06-03T20:46:34.673620+00:00"
   },
   {
     "title": "A 180% Crypto Rally Shows New Investing Era as Bitcoin Melts",
@@ -24,7 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-03T20:45:04.526334+00:00"
+    "fetched_at": "2026-06-03T20:46:42.797593+00:00"
   },
   {
     "title": "Stocks Decline as US-Iran Clashes Drive Oil Higher: Markets Wrap",
@@ -33,7 +51,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-03T20:45:04.526395+00:00"
+    "fetched_at": "2026-06-03T20:46:42.797695+00:00"
   },
   {
     "title": "Franklin Templeton CEO: Blockchains Threaten Wall Street\u2019s Fee Machine, Not Its Technology",
@@ -42,7 +60,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-03T20:45:03.835559+00:00"
+    "fetched_at": "2026-06-03T20:46:35.303552+00:00"
   },
   {
     "title": "Bitcoin Price Crashes to Precarious Position Near $65,000 as Momentum Rotates Into AI, IPOs",
@@ -51,7 +69,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-03T20:45:03.835641+00:00"
+    "fetched_at": "2026-06-03T20:46:35.303634+00:00"
   },
   {
     "title": "AI Lawyers Are Already Better Than Law Professors at Reasoning\u2014Say Law Professors",
@@ -60,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-03T20:45:03.940327+00:00"
+    "fetched_at": "2026-06-03T20:46:35.903646+00:00"
   },
   {
     "title": "Hermes Ends AI Agent Terminal Era With Release of Official Desktop App",
@@ -69,25 +87,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-03T20:45:03.940392+00:00"
-  },
-  {
-    "title": "Crypto VC deal count slumps to five-year low as investors grow more selective",
-    "url": "https://www.theblock.co/post/403382/crypto-vc-deal-flow-hits-multi-year-low-billion-dollar-rounds-keep-capital-flowing",
-    "summary": "Monthly venture deal count in crypto fell to roughly 50 deals in May, a level not seen since before 2021.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-03T20:45:04.033829+00:00"
-  },
-  {
-    "title": "EdgeX offers refunds and launches 200,000 USDC bounty after 71% token flash crash",
-    "url": "https://www.theblock.co/post/403567/edgex-offers-refunds-200000-usdc-bounty-71-token-flash-crash",
-    "summary": "EdgeX says that 174 addresses flooded a PancakeSwap pool with EDGE token sell orders during a period of low liquidity.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-03T20:45:04.033899+00:00"
+    "fetched_at": "2026-06-03T20:46:35.903709+00:00"
   },
   {
     "title": "Trump\u2019s Iran war drains US oil stocks to lowest level since 2004",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-03T20:45:05.175377+00:00"
+    "fetched_at": "2026-06-03T20:46:44.441895+00:00"
   },
   {
     "title": "Bessent says US inflation jump will be \u2018short-term blip\u2019",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-03T20:45:05.175470+00:00"
+    "fetched_at": "2026-06-03T20:46:44.442003+00:00"
   }
 ]
