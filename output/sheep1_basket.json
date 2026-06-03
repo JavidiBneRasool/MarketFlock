@@ -1,12 +1,30 @@
 [
   {
+    "title": "Franklin Templeton says Wall Street fears blockchain because it threatens its profits",
+    "url": "https://www.coindesk.com/business/2026/06/02/franklin-templeton-says-wall-street-fears-blockchain-because-it-threatens-its-profits",
+    "summary": "",
+    "source": "CoinDesk",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-03T07:43:45.482308+00:00"
+  },
+  {
+    "title": "Big tech is 'terrified' of AI agents wiping out ad revenue, says Billions Network CEO",
+    "url": "https://www.coindesk.com/business/2026/06/03/big-tech-is-terrified-of-ai-agents-wiping-out-ad-revenue-says-billions-network-ceo",
+    "summary": "",
+    "source": "CoinDesk",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-03T07:43:45.482450+00:00"
+  },
+  {
     "title": "New York and Europe\u2019s finance watchdogs team up to police stablecoins",
     "url": "https://cointelegraph.com/news/new-york-eu-regulators-joint-stablecoin-oversight-agreement",
     "summary": "Some of the information that New York and the European Union\u2019s watchdogs will share includes the issued stablecoin, total volume in circulation and the number of holders.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-03T07:29:32.229541+00:00"
+    "fetched_at": "2026-06-03T07:43:46.711348+00:00"
   },
   {
     "title": "Bitcoin falls below $66K as US and Iran launch new strikes",
@@ -15,25 +33,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-03T07:29:32.229625+00:00"
+    "fetched_at": "2026-06-03T07:43:46.711448+00:00"
   },
   {
-    "title": "Nippon Paint, Sherwin-Williams End Effort to Buy Akzo Nobel",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-03/nippon-paint-and-sherwin-williams-end-effort-to-buy-akzo-nobel",
-    "summary": "Nippon Paint Holdings Co. and Sherwin-Williams Co. ended their effort to buy Akzo Nobel NV, leaving the Dutch paintmaker to proceed with its planned merger with US firm Axalta Coating Systems Ltd.",
+    "title": "Triton Agrees Deal to Buy Gearbox Maker Flender from Carlyle",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-02/triton-is-said-to-near-3-billion-deal-for-carlyle-s-flender",
+    "summary": "Triton Partners has agreed to acquire Flender GmbH, a provider of mechanical and electrical drive technology, from Carlyle Group Inc.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-03T07:29:33.517869+00:00"
+    "fetched_at": "2026-06-03T07:43:51.317733+00:00"
   },
   {
-    "title": "India Central Bank Says Report on Selling Gold Is Incorrect",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-03/india-central-bank-says-report-it-s-selling-gold-is-incorrect",
-    "summary": "India\u2019s central bank said a report that it\u2019s selling gold is \u201cnot correct,\u201d pointing to data showing its physical stock of gold has remained unchanged.",
+    "title": "US Stocks Hit Pause as US-Iran Tensions Lift Oil: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-02/asian-stocks-poised-to-gain-as-ai-rally-extends-markets-wrap",
+    "summary": "US stocks struggled to build on record gains as growing strains on the ceasefire between the US and Iran sent oil higher for a third straight day.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-03T07:29:33.517921+00:00"
+    "fetched_at": "2026-06-03T07:43:51.317834+00:00"
   },
   {
     "title": "Democrats Sanders and Warren Push Labor Department to Abandon Bitcoin 401(k) Rule",
@@ -42,7 +60,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-03T07:29:32.649267+00:00"
+    "fetched_at": "2026-06-03T07:43:47.360820+00:00"
   },
   {
     "title": "Bitcoin Stocks, Led By Strategy (MSTR), Take a Beating as BTC Price Sells Off",
@@ -51,7 +69,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-03T07:29:32.649330+00:00"
+    "fetched_at": "2026-06-03T07:43:47.360960+00:00"
   },
   {
     "title": "Microsoft Reveals '1,000x More Reliable' Quantum Chip as Bitcoin Threat Draws Nearer",
@@ -60,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-03T07:29:32.849430+00:00"
+    "fetched_at": "2026-06-03T07:43:48.429874+00:00"
   },
   {
     "title": "Cardsmiths' New America250 Trading Cards Have Real Bitcoin, Dogecoin Up for Grabs",
@@ -69,25 +87,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-03T07:29:32.849485+00:00"
-  },
-  {
-    "title": "Bitcoin briefly dips below $66,000 as ETF outflows, geopolitical fears weigh on crypto",
-    "url": "https://www.theblock.co/post/403454/bitcoin-dips-below-66000",
-    "summary": "Analysts said the market continues to assess geopolitical uncertainty alongside Strategy's recent bitcoin sale.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-03T07:29:33.038678+00:00"
-  },
-  {
-    "title": "Blockchain Association urges Senate to pass Clarity Act with letter from 160 former security officials",
-    "url": "https://www.theblock.co/post/403450/blockchain-association-letter-senate",
-    "summary": "The Blockchain Association is also set to organize a virtual town hall on Thursday to discuss the legislation.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-03T07:29:33.038744+00:00"
+    "fetched_at": "2026-06-03T07:43:48.429984+00:00"
   },
   {
     "title": "Will the Middle East crisis save Jim Ratcliffe\u2019s Ineos empire?",
@@ -96,15 +96,15 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-03T07:29:34.561843+00:00"
+    "fetched_at": "2026-06-03T07:43:52.635282+00:00"
   },
   {
-    "title": "US and Iran exchange renewed fire as tensions rise over stalled peace talks",
-    "url": "https://www.ft.com/content/54b8e0a6-beba-47a8-82a8-28cae47275f3",
-    "summary": "Centcom says Tehran launched \u2018several\u2019 ballistic missiles at Kuwait and Bahrain",
+    "title": "OECD warns of \u2018dark scenario\u2019 if Gulf energy crisis drags on",
+    "url": "https://www.ft.com/content/c79f9b4a-4793-4fe9-b031-81c56511893c",
+    "summary": "Growth rates would tumble to levels rarely seen outside of major global events such as the Covid-19 pandemic",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-03T07:29:34.561899+00:00"
+    "fetched_at": "2026-06-03T07:43:52.635463+00:00"
   }
 ]
