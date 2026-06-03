@@ -1,12 +1,30 @@
 [
   {
+    "title": "SpaceX targets record $75 billion IPO as bitcoin treasury and liquidity risks draw focus",
+    "url": "https://www.coindesk.com/markets/2026/06/03/spacex-targets-record-usd75-billion-ipo-as-bitcoin-treasury-and-liquidity-risks-draw-focus",
+    "summary": "",
+    "source": "CoinDesk",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-03T22:59:57.309920+00:00"
+  },
+  {
+    "title": "Tom Lee's Bitmine borrows a page from Saylor's playbook to offer 9.5% yield in preferred stocks",
+    "url": "https://www.coindesk.com/business/2026/06/03/tom-lee-s-bitmine-to-offer-preferred-stock-with-9-5-dividend-seeking-to-raise-usd300-million",
+    "summary": "",
+    "source": "CoinDesk",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-03T22:59:57.310005+00:00"
+  },
+  {
     "title": "Wyoming executive order to guide AI data center development",
     "url": "https://cointelegraph.com/news/wyoming-issues-executive-order-guide-ai-data-center-development",
     "summary": "Wyoming Governor Mark Gordon signed an executive order supporting AI data center development as the state seeks to attract advanced computing and technology investment.\n",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-03T22:56:54.708256+00:00"
+    "fetched_at": "2026-06-03T22:59:58.036370+00:00"
   },
   {
     "title": "US Treasury Secretary signals progress on Bitcoin reserve, CLARITY Act",
@@ -15,7 +33,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-03T22:56:54.708331+00:00"
+    "fetched_at": "2026-06-03T22:59:58.036440+00:00"
   },
   {
     "title": "TickPick CEO on Soaring Prices for NBA Finals",
@@ -24,7 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-03T22:56:55.631420+00:00"
+    "fetched_at": "2026-06-03T23:00:03.014966+00:00"
   },
   {
     "title": "SpaceX Seeks $75 Billion in Record IPO to Fund AI, Launch",
@@ -33,7 +51,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-03T22:56:55.631474+00:00"
+    "fetched_at": "2026-06-03T23:00:03.015027+00:00"
   },
   {
     "title": "Franklin Templeton CEO: Blockchains Threaten Wall Street\u2019s Fee Machine, Not Its Technology",
@@ -42,7 +60,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-03T22:56:55.007905+00:00"
+    "fetched_at": "2026-06-03T22:59:59.374785+00:00"
   },
   {
     "title": "Bitcoin Price Crashes to Precarious Position Below $65,000 as Momentum Rotates Into AI, IPOs",
@@ -51,7 +69,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-03T22:56:55.007978+00:00"
+    "fetched_at": "2026-06-03T22:59:59.374859+00:00"
   },
   {
     "title": "The Best AI Models Still Encourage 'Harmful Intimacy' With Chatbots, Study Funds",
@@ -60,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-03T22:56:55.116039+00:00"
+    "fetched_at": "2026-06-03T22:59:59.883814+00:00"
   },
   {
     "title": "Cardano Slumps to 5-Year Low Price as Charles Hoskinson Warns of 'Wave of Failures'",
@@ -69,25 +87,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-03T22:56:55.116098+00:00"
-  },
-  {
-    "title": "Hyperliquid\u2019s HYPE overtakes Solana in price as SOL falls to lowest levels since 2023",
-    "url": "https://www.theblock.co/post/403585/hyperliquid-hype-overtakes-solana-price-sol-falls-lowest-since-2023",
-    "summary": "Hyperliquid's market capitalization has climbed to over $16 billion, but still well behind Solana's $42 billion.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-03T22:56:55.210471+00:00"
-  },
-  {
-    "title": "Crypto VC deal count slumps to five-year low as investors grow more selective",
-    "url": "https://www.theblock.co/post/403382/crypto-vc-deal-flow-hits-multi-year-low-billion-dollar-rounds-keep-capital-flowing",
-    "summary": "Monthly venture deal count in crypto fell to roughly 50 deals in May, a level not seen since before 2021.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-03T22:56:55.210536+00:00"
+    "fetched_at": "2026-06-03T22:59:59.883878+00:00"
   },
   {
     "title": "SpaceX pitches investors $1.8tn valuation in historic IPO",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-03T22:56:56.502440+00:00"
+    "fetched_at": "2026-06-03T23:00:05.232890+00:00"
   },
   {
     "title": "SpaceX wins tax exemption for $55bn AI chip plant despite local backlash",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-03T22:56:56.502498+00:00"
+    "fetched_at": "2026-06-03T23:00:05.232991+00:00"
   }
 ]
