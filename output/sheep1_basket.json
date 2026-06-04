@@ -1,39 +1,57 @@
 [
   {
-    "title": "CFTC follows SEC in scrapping \u2018no-deny\u2019 policy for settlements",
-    "url": "https://cointelegraph.com/news/cftc-follows-sec-in-scrapping-no-deny-rule-for-settlements",
-    "summary": "CFTC Chairman Mike Selig says the rescission of its \u201cno-deny\u201d policy means it now has more flexibility when settling enforcement actions.",
+    "title": "BTC, ETH, SOL and XRP ETFs bleed $4.4 billion over 13 sessions, only HYPE in green",
+    "url": "https://www.coindesk.com/markets/2026/06/04/btc-eth-sol-and-xrp-etfs-bleed-usd4-4-billion-over-13-sessions-only-hype-in-green",
+    "summary": "",
+    "source": "CoinDesk",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-04T06:27:40.029738+00:00"
+  },
+  {
+    "title": "Bitcoin briefly drops below $62,000 as $1.5 billion in crypto longs get wiped out",
+    "url": "https://www.coindesk.com/markets/2026/06/04/bitcoin-drops-below-usd62-000-as-usd1-5-billion-in-crypto-longs-get-wiped-out",
+    "summary": "",
+    "source": "CoinDesk",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-04T06:27:40.029816+00:00"
+  },
+  {
+    "title": "Bitmine eyes dividend-paying preferred shares, echoing Strategy\u2019s playbook",
+    "url": "https://cointelegraph.com/news/bitmine-turns-to-dividend-paying-shares-following-strategys-footsteps",
+    "summary": "The move comes as Ether prices slumped to a 14-month low below $1,750 on Thursday.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-04T05:48:40.125707+00:00"
+    "fetched_at": "2026-06-04T06:27:42.392660+00:00"
   },
   {
-    "title": "Israel\u2019s tax authority \u2018disappointed\u2019 in voluntary crypto disclosures: Report",
-    "url": "https://cointelegraph.com/news/israel-tax-authority-voluntary-crypto-reporting",
-    "summary": "After expecting billions of dollars worth of crypto holdings to be reported during a voluntary disclosure period, the country's tax office only saw 58 filers took advantage of the procedure.",
+    "title": "Coinbase freezes $3M tied to Southeast Asia crypto fraud networks",
+    "url": "https://cointelegraph.com/news/tech-fbi-crypto-scam-crackdown-southeast-asia",
+    "summary": "Authorities around the world have been heavily targeting scam infrastructure this year, with joint actions involving the US, UAE, China, Austria and Albania. ",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-04T05:48:40.125795+00:00"
+    "fetched_at": "2026-06-04T06:27:42.392809+00:00"
   },
   {
-    "title": "Asia Steps Up Currency Defense as Korea, Indonesia Vow Action",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-04/asia-steps-up-currency-defense-as-korea-indonesia-vow-action",
-    "summary": "Asian authorities are ramping up their currency defense as high energy costs and bets that the Federal Reserve will raise interest rates pressure them.",
+    "title": "Indian Owner of Swiss Gold Refiner Probed for Inflating Revenue",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-04/indian-owner-of-swiss-gold-refiner-probed-for-inflating-revenue",
+    "summary": "India\u2019s markets regulator has alleged that the owner of Swiss gold refiner Valcambi SA overstated revenue, according to an interim order issued Wednesday.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-04T05:48:40.921883+00:00"
+    "fetched_at": "2026-06-04T06:27:45.873795+00:00"
   },
   {
-    "title": "Cancer Therapeutics Startup Earli on China Biotech Lead",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-04/cancer-therapeutics-startup-earli-on-china-biotech-lead-video",
-    "summary": "Cyriac Roeding, CEO and co-founder of cancer therapeutics startup Earli, gives his assessment of China's biotech developments, after predicting a decade ago that the country would become a main competitor to the US. He speaks with Yvonne Man on Bloomberg's The China Show.\" (Source: Bloomberg)",
+    "title": "Korea\u2019s Wealth Fund to Tap Alternative Assets With Tokyo Office",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-04/korea-s-wealth-fund-to-tap-alternative-assets-with-tokyo-office",
+    "summary": "Korea Investment Corp. will open its first office in Tokyo this summer as the $232 billion sovereign wealth fund seeks to expand investments in Japan, including alternative assets such as private equity, hedge funds and private debt.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-04T05:48:40.921943+00:00"
+    "fetched_at": "2026-06-04T06:27:45.873895+00:00"
   },
   {
     "title": "Bitcoin Price Plunges Below $62,000, Erasing Months of Recovery as Sell-Off Accelerates",
@@ -42,7 +60,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-04T05:48:40.373041+00:00"
+    "fetched_at": "2026-06-04T06:27:43.003392+00:00"
   },
   {
     "title": "Franklin Templeton CEO: Blockchains Threaten Wall Street\u2019s Fee Machine, Not Its Technology",
@@ -51,7 +69,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-04T05:48:40.373114+00:00"
+    "fetched_at": "2026-06-04T06:27:43.003491+00:00"
   },
   {
     "title": "The Best AI Models Still Encourage 'Harmful Intimacy' With Chatbots, Study Funds",
@@ -60,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-04T05:48:40.468717+00:00"
+    "fetched_at": "2026-06-04T06:27:43.274251+00:00"
   },
   {
     "title": "Cardano Slumps to 5-Year Low Price as Charles Hoskinson Warns of 'Wave of Failures'",
@@ -69,25 +87,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-04T05:48:40.468787+00:00"
-  },
-  {
-    "title": "Polymarket\u2019s UMA vote upholds \u2018No\u2019 outcome on Strategy bitcoin sale market despite backlash",
-    "url": "https://www.theblock.co/post/403600/polymarket-upholds-no-outcome-strategy-bitcoin-sale-market",
-    "summary": "The dispute centers on Strategy's disclosure that it sold 32 BTC for roughly $2.5 million between May 26 and May 31.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-04T05:48:40.561714+00:00"
-  },
-  {
-    "title": "Bitmine to launch STRC-style preferred stock offering amid $9.2 billion unrealized ETH losses",
-    "url": "https://www.theblock.co/post/403594/bitmine-preferred-stock-offering",
-    "summary": "The company plans to use the net proceeds for general purposes, which may include purchasing additional ETH and expanding staking operations.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-04T05:48:40.561787+00:00"
+    "fetched_at": "2026-06-04T06:27:43.274352+00:00"
   },
   {
     "title": "SpaceX pitches investors $1.8tn valuation in historic IPO",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-04T05:48:41.564679+00:00"
+    "fetched_at": "2026-06-04T06:27:47.202419+00:00"
   },
   {
     "title": "Anthropic\u2019s relentless race to the top",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-04T05:48:41.564738+00:00"
+    "fetched_at": "2026-06-04T06:27:47.202518+00:00"
   }
 ]
