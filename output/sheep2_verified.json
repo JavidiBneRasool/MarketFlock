@@ -1,24 +1,24 @@
 [
   {
+    "title": "Tom Lee\u2019s $250,000 ether target: Here\u2019s what math says about this crazy prediction",
+    "url": "https://www.coindesk.com/markets/2026/06/04/tom-lee-s-usd250-000-ether-target-runs-into-a-usd30-trillion-problem",
+    "summary": "",
+    "source": "CoinDesk",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-04T13:33:50.165079+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "Ripple-linked XRP sinks 7% to four-month lows",
     "url": "https://www.coindesk.com/markets/2026/06/04/ripple-linked-xrp-sinks-7-to-four-month-lows",
     "summary": "",
     "source": "CoinDesk",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-04T13:27:14.537193+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "CoinDesk 20 performance update: Bitcoin Cash (BCH), up 1.5%, is only gainer",
-    "url": "https://www.coindesk.com/coindesk-indices/2026/06/04/coindesk-20-performance-update-bitcoin-cash-bch-up-1-5-is-only-gainer",
-    "summary": "",
-    "source": "CoinDesk",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-06-04T13:27:14.537268+00:00",
+    "fetched_at": "2026-06-04T13:33:50.165178+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,7 +30,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-04T13:27:16.031475+00:00",
+    "fetched_at": "2026-06-04T13:33:51.019185+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -42,7 +42,19 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-04T13:27:16.031587+00:00",
+    "fetched_at": "2026-06-04T13:33:51.019276+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Goldman Erects Lobby Rockets as Morgan Stanley IPO Rivalry Heats Up",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-04/goldman-erects-lobby-rockets-as-morgan-stanley-ipo-rivalry-heats-up",
+    "summary": "No sooner had Goldman Sachs Group Inc. locked in top billing for the SpaceX IPO than Morgan Stanley dashed off a note to clients that it was actually co-lead on the deal, noting that their listing is in alphabetical order.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-06-04T13:33:53.444567+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,19 +66,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-04T13:27:19.470551+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "EU Delays Trading-Book Rules to Blunt Wall Street Advantage",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-04/eu-delays-bank-trading-book-rules-to-blunt-wall-street-advantage",
-    "summary": "The European Union\u2019s executive arm has unveiled what it hopes will be its final workaround to shield its lenders from being temporarily hit by harsher trading-book rules than those faced by Wall Street rivals.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-06-04T13:27:19.470677+00:00",
+    "fetched_at": "2026-06-04T13:33:53.444644+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-04T13:27:17.207505+00:00",
+    "fetched_at": "2026-06-04T13:33:51.632320+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-04T13:27:17.207617+00:00",
+    "fetched_at": "2026-06-04T13:33:51.632378+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-04T13:27:17.750401+00:00",
+    "fetched_at": "2026-06-04T13:33:52.175249+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-04T13:27:17.750491+00:00",
+    "fetched_at": "2026-06-04T13:33:52.175319+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-04T13:27:21.094277+00:00",
+    "fetched_at": "2026-06-04T13:33:55.467511+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-04T13:27:21.094369+00:00",
+    "fetched_at": "2026-06-04T13:33:55.467589+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
