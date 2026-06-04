@@ -1,12 +1,30 @@
 [
   {
+    "title": "Bitcoin briefly drops below $62,000 as $1.5 billion in crypto longs get wiped out",
+    "url": "https://www.coindesk.com/markets/2026/06/04/bitcoin-drops-below-usd62-000-as-usd1-5-billion-in-crypto-longs-get-wiped-out",
+    "summary": "",
+    "source": "CoinDesk",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-04T02:32:23.543597+00:00"
+  },
+  {
+    "title": "Live Markets: Bitcoin crashes to $62,000 as billions of longs get liquidated",
+    "url": "https://www.coindesk.com/tech/2026/06/03/live-markets-bitcoin-crashes-to-usd62-000-as-billions-of-longs-get-liquidated",
+    "summary": "",
+    "source": "CoinDesk",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-04T02:32:23.543677+00:00"
+  },
+  {
     "title": "Israel\u2019s tax authority \u2018disappointed\u2019 in voluntary crypto disclosures: Report",
     "url": "https://cointelegraph.com/news/israel-tax-authority-voluntary-crypto-reporting",
     "summary": "After expecting billions of dollars worth of crypto holdings to be reported during a voluntary disclosure period, the country's tax office only saw 58 filers took advantage of the procedure.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-04T00:26:19.332960+00:00"
+    "fetched_at": "2026-06-04T02:32:24.531898+00:00"
   },
   {
     "title": "Wyoming executive order to guide AI data center development",
@@ -15,25 +33,34 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-04T00:26:19.333035+00:00"
+    "fetched_at": "2026-06-04T02:32:24.531980+00:00"
   },
   {
-    "title": "Oil Falls as Israel and Lebanon Agree to Conditional Ceasefire",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-03/latest-oil-market-news-and-analysis-for-june-4",
-    "summary": "Oil slipped following three days of gains after Israel and Lebanon agreed to a ceasefire if Hezbollah also stops hostilities, which would remove a key sticking point in talks between Washington and Tehran.",
+    "title": "Rupiah Hits 18,000 Level With Markets on Guard for Intervention",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-03/idr-usd-rupiah-near-18-000-level-has-markets-on-guard-for-intervention",
+    "summary": "The Indonesian rupiah weakened to the psychological level of 18,000 per dollar, putting investors on watch for a stronger response from the central bank.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-04T00:26:20.069925+00:00"
+    "fetched_at": "2026-06-04T02:32:29.112220+00:00"
   },
   {
-    "title": "Asian Stocks Drop After Broadcom Outlook, Oil Dips: Markets Wrap",
+    "title": "Asian Stocks Retreat From Record on Tech, Oil Dips: Markets Wrap",
     "url": "https://www.bloomberg.com/news/articles/2026-06-03/asian-stocks-set-to-fall-on-fresh-us-iran-clashes-markets-wrap",
-    "summary": "Asian stocks fell alongside US equity-index futures following a weak forecast from Broadcom Inc. and after renewed US-Iran clashes weighed on sentiment.",
+    "summary": "Asian stocks fell alongside US equity-index futures as the AI-fueled rally that powered global equities to record highs lost momentum after a weak forecast from chipmaker Broadcom Inc.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-04T00:26:20.069997+00:00"
+    "fetched_at": "2026-06-04T02:32:29.112312+00:00"
+  },
+  {
+    "title": "Bitcoin Price Plunges Below $62,000, Erasing Months of Recovery as Sell-Off Accelerates",
+    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-plunges-below-62000-erasing-months-of-recovery-as-sell-off-accelerates",
+    "summary": "Bitcoin Magazine\n\nBitcoin Price Plunges Below $62,000, Erasing Months of Recovery as Sell-Off Accelerates\nBitcoin price has tumbled to its lowest level in months Wednesday night, crashing below $62,000 and wiping out a sharp intraday loss of more than $5,300. \nThis post Bitcoin Price Plunges Below $",
+    "source": "Bitcoin Magazine",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-04T02:32:26.066496+00:00"
   },
   {
     "title": "Franklin Templeton CEO: Blockchains Threaten Wall Street\u2019s Fee Machine, Not Its Technology",
@@ -42,16 +69,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-04T00:26:19.605056+00:00"
-  },
-  {
-    "title": "Bitcoin Price Crashes to Precarious Position Below $65,000 as Momentum Rotates Into AI, IPOs",
-    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-to-precarious",
-    "summary": "Bitcoin Magazine\n\nBitcoin Price Crashes to Precarious Position Below $65,000 as Momentum Rotates Into AI, IPOs\nBitcoin price is holding a risky position near $65,000 Wednesday, down roughly 12% over the past seven days and trading at its lowest level since February as a broad rotation out of crypto ",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-04T00:26:19.605132+00:00"
+    "fetched_at": "2026-06-04T02:32:26.066578+00:00"
   },
   {
     "title": "The Best AI Models Still Encourage 'Harmful Intimacy' With Chatbots, Study Funds",
@@ -60,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-04T00:26:19.702143+00:00"
+    "fetched_at": "2026-06-04T02:32:26.404635+00:00"
   },
   {
     "title": "Cardano Slumps to 5-Year Low Price as Charles Hoskinson Warns of 'Wave of Failures'",
@@ -69,25 +87,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-04T00:26:19.702203+00:00"
-  },
-  {
-    "title": "Hyperliquid\u2019s HYPE overtakes Solana in price as SOL falls to lowest levels since 2023",
-    "url": "https://www.theblock.co/post/403585/hyperliquid-hype-overtakes-solana-price-sol-falls-lowest-since-2023",
-    "summary": "Hyperliquid's market capitalization has climbed to over $16 billion, but still well behind Solana's $42 billion.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-04T00:26:19.792835+00:00"
-  },
-  {
-    "title": "Crypto VC deal count slumps to five-year low as investors grow more selective",
-    "url": "https://www.theblock.co/post/403382/crypto-vc-deal-flow-hits-multi-year-low-billion-dollar-rounds-keep-capital-flowing",
-    "summary": "Monthly venture deal count in crypto fell to roughly 50 deals in May, a level not seen since before 2021.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-04T00:26:19.792902+00:00"
+    "fetched_at": "2026-06-04T02:32:26.404708+00:00"
   },
   {
     "title": "SpaceX pitches investors $1.8tn valuation in historic IPO",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-04T00:26:20.715273+00:00"
+    "fetched_at": "2026-06-04T02:32:30.661169+00:00"
   },
   {
     "title": "SpaceX wins tax exemption for $55bn AI chip plant despite local backlash",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-04T00:26:20.715330+00:00"
+    "fetched_at": "2026-06-04T02:32:30.661266+00:00"
   }
 ]
