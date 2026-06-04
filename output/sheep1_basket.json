@@ -1,30 +1,12 @@
 [
   {
-    "title": "SpaceX targets record $75 billion IPO as bitcoin treasury and liquidity risks draw focus",
-    "url": "https://www.coindesk.com/markets/2026/06/03/spacex-targets-record-usd75-billion-ipo-as-bitcoin-treasury-and-liquidity-risks-draw-focus",
-    "summary": "",
-    "source": "CoinDesk",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-06-04T00:05:49.759385+00:00"
-  },
-  {
-    "title": "Tom Lee's Bitmine borrows a page from Saylor's playbook to offer 9.5% yield in preferred stocks",
-    "url": "https://www.coindesk.com/business/2026/06/03/tom-lee-s-bitmine-to-offer-preferred-stock-with-9-5-dividend-seeking-to-raise-usd300-million",
-    "summary": "",
-    "source": "CoinDesk",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-06-04T00:05:49.759520+00:00"
-  },
-  {
     "title": "Israel\u2019s tax authority \u2018disappointed\u2019 in voluntary crypto disclosures: Report",
     "url": "https://cointelegraph.com/news/israel-tax-authority-voluntary-crypto-reporting",
     "summary": "After expecting billions of dollars worth of crypto holdings to be reported during a voluntary disclosure period, the country's tax office only saw 58 filers took advantage of the procedure.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-04T00:05:50.573692+00:00"
+    "fetched_at": "2026-06-04T00:26:19.332960+00:00"
   },
   {
     "title": "Wyoming executive order to guide AI data center development",
@@ -33,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-04T00:05:50.573764+00:00"
+    "fetched_at": "2026-06-04T00:26:19.333035+00:00"
   },
   {
-    "title": "What to Know About the SpaceX IPO",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-03/what-to-know-about-the-spacex-ipo",
-    "summary": "Elon Musk\u2019s SpaceX is poised to have the largest stock-market debut in history when it goes public later in June. SpaceX is aiming to raise $75 billion in the initial public offering, more than twice the previous record holder.",
+    "title": "Oil Falls as Israel and Lebanon Agree to Conditional Ceasefire",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-03/latest-oil-market-news-and-analysis-for-june-4",
+    "summary": "Oil slipped following three days of gains after Israel and Lebanon agreed to a ceasefire if Hezbollah also stops hostilities, which would remove a key sticking point in talks between Washington and Tehran.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-04T00:05:52.872905+00:00"
+    "fetched_at": "2026-06-04T00:26:20.069925+00:00"
   },
   {
-    "title": "South Korea\u2019s Left-Wing Wins Big in Local Vote in Boost for Lee",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-03/south-korea-s-ruling-party-set-for-big-election-win-poll-shows",
-    "summary": "South Korean President Lee Jae Myung\u2019s party won a resounding victory in key local elections, piling pressure on opposition conservatives as they struggle to reinvent their party after the debacle of their former leader\u2019s martial law decree.",
+    "title": "Asian Stocks Drop After Broadcom Outlook, Oil Dips: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-03/asian-stocks-set-to-fall-on-fresh-us-iran-clashes-markets-wrap",
+    "summary": "Asian stocks fell alongside US equity-index futures following a weak forecast from Broadcom Inc. and after renewed US-Iran clashes weighed on sentiment.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-04T00:05:52.872970+00:00"
+    "fetched_at": "2026-06-04T00:26:20.069997+00:00"
   },
   {
     "title": "Franklin Templeton CEO: Blockchains Threaten Wall Street\u2019s Fee Machine, Not Its Technology",
@@ -60,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-04T00:05:51.271288+00:00"
+    "fetched_at": "2026-06-04T00:26:19.605056+00:00"
   },
   {
     "title": "Bitcoin Price Crashes to Precarious Position Below $65,000 as Momentum Rotates Into AI, IPOs",
@@ -69,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-04T00:05:51.271359+00:00"
+    "fetched_at": "2026-06-04T00:26:19.605132+00:00"
   },
   {
     "title": "The Best AI Models Still Encourage 'Harmful Intimacy' With Chatbots, Study Funds",
@@ -78,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-04T00:05:51.586868+00:00"
+    "fetched_at": "2026-06-04T00:26:19.702143+00:00"
   },
   {
     "title": "Cardano Slumps to 5-Year Low Price as Charles Hoskinson Warns of 'Wave of Failures'",
@@ -87,7 +69,25 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-04T00:05:51.586934+00:00"
+    "fetched_at": "2026-06-04T00:26:19.702203+00:00"
+  },
+  {
+    "title": "Hyperliquid\u2019s HYPE overtakes Solana in price as SOL falls to lowest levels since 2023",
+    "url": "https://www.theblock.co/post/403585/hyperliquid-hype-overtakes-solana-price-sol-falls-lowest-since-2023",
+    "summary": "Hyperliquid's market capitalization has climbed to over $16 billion, but still well behind Solana's $42 billion.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-04T00:26:19.792835+00:00"
+  },
+  {
+    "title": "Crypto VC deal count slumps to five-year low as investors grow more selective",
+    "url": "https://www.theblock.co/post/403382/crypto-vc-deal-flow-hits-multi-year-low-billion-dollar-rounds-keep-capital-flowing",
+    "summary": "Monthly venture deal count in crypto fell to roughly 50 deals in May, a level not seen since before 2021.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-04T00:26:19.792902+00:00"
   },
   {
     "title": "SpaceX pitches investors $1.8tn valuation in historic IPO",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-04T00:05:55.128046+00:00"
+    "fetched_at": "2026-06-04T00:26:20.715273+00:00"
   },
   {
     "title": "SpaceX wins tax exemption for $55bn AI chip plant despite local backlash",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-04T00:05:55.128151+00:00"
+    "fetched_at": "2026-06-04T00:26:20.715330+00:00"
   }
 ]
