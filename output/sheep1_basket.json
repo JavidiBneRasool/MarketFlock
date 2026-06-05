@@ -1,39 +1,39 @@
 [
   {
+    "title": "ETH falls to 13-month low on Zcash bug news and Bitcoin drop to sub-$60K: Is $1.4K next?",
+    "url": "https://cointelegraph.com/markets/eth-falls-to-13-month-low-on-zcash-bug-news-and-bitcoin-drop-to-sub-60k-is-14k-next",
+    "summary": "ETH price crashed below $1,600 as a vulnerability in Zcash emerged and Bitcoin sold off below $60,000 for the first time in months. ",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-05T23:58:45.694366+00:00"
+  },
+  {
     "title": "Travala lets AI agents book hotels with USDC on Base",
     "url": "https://cointelegraph.com/news/travala-ai-agents-book-hotels-usdc-base",
     "summary": "Travala\u2019s new protocol lets AI agents search and book hotels with USDC on Base, but travelers still approve the final payment.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-05T22:56:01.441015+00:00"
+    "fetched_at": "2026-06-05T23:58:45.694438+00:00"
   },
   {
-    "title": "Crypto tax proposals weighed ahead of Tuesday House hearing",
-    "url": "https://cointelegraph.com/news/crypto-tax-bills-house-ways-means-hearing",
-    "summary": "Among the issues US lawmakers are expected to discuss in a digital asset taxation hearing are \u201cde minimis\u201d reporting exceptions for crypto transactions.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-06-05T22:56:01.441088+00:00"
-  },
-  {
-    "title": "Strong U.S. Jobs Report Lowers Recession Risks Despite Wage Growth Lagging Inflation",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-05/strong-u-s-jobs-report-lowers-recession-risks-video",
-    "summary": "Gene Sperling, President of Sperling Economic Strategies and former director of the National Economic Council, discussed the recent U.S. jobs report, highlighting that the headline numbers were stronger than expected and suggest a low likelihood of recession despite ongoing geopolitical and economic",
+    "title": "Raizen Inks $13 Billion Out-of-Court Debt Deal With Creditors",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-05/raizen-inks-13-billion-out-of-court-debt-deal-with-creditors",
+    "summary": "Raizen SA reached an out-of-court restructuring agreement with the majority of its creditors, marking a key step in the Brazilian sugar-and-ethanol producer\u2019s efforts to rework its debt, according to people familiar with the matter.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-05T22:56:02.698837+00:00"
+    "fetched_at": "2026-06-05T23:58:46.347247+00:00"
   },
   {
-    "title": "Nasdaq 100 Sinks 5% in AI-Led Rout as Yields Climb: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-04/asian-stocks-poised-to-edge-lower-oil-steadies-markets-wrap",
-    "summary": "Wall Street\u2019s historic weekly run came to a halt, with stocks hit by a tech selloff and higher bond yields after a solid jobs report added to bets the Federal Reserve\u2019s next interest-rate move will be a hike.",
+    "title": "KPMG Chief Economist Discusses Fed Rate Hike Expectations",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-05/kpmg-chief-economist-discusses-fed-rate-hike-expectation-video",
+    "summary": "Diane Swonk, KPMG Chief Economist, analyzed the current economic landscape, highlighting how improvements in the labor market and persistent service sector inflation are driving hawkish sentiment among Federal Reserve officials. She noted that bond market pricing reflects expectations of a 25 basis ",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-05T22:56:02.698896+00:00"
+    "fetched_at": "2026-06-05T23:58:46.347304+00:00"
   },
   {
     "title": "The Hyperinflation of 1971 at the Kindergarten",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-05T22:56:01.685892+00:00"
+    "fetched_at": "2026-06-05T23:58:45.947620+00:00"
   },
   {
     "title": "5th Worst Bitcoin Price Action Ever \u2014 I\u2019m Buying At 99.8% Probability",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-05T22:56:01.685955+00:00"
+    "fetched_at": "2026-06-05T23:58:45.947716+00:00"
   },
   {
     "title": "Zcash Bug Crisis Shows Privacy Cuts Both Ways, Experts Say",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-05T22:56:01.782179+00:00"
+    "fetched_at": "2026-06-05T23:58:46.022311+00:00"
   },
   {
     "title": "Strategy Shares Fall to 4-Month Low as STRC Dips and Bitcoin Sinks Under $60K",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-05T22:56:01.782235+00:00"
+    "fetched_at": "2026-06-05T23:58:46.022367+00:00"
   },
   {
     "title": "Hyperliquid treasuries stand alone in profit as legacy crypto DATs bleed billions",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-05T22:56:01.867580+00:00"
+    "fetched_at": "2026-06-05T23:58:46.105837+00:00"
   },
   {
     "title": "Next up, taxes: Crypto tax legislation circulated ahead of House Ways and Means Committee hearing next week",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-05T22:56:01.867651+00:00"
+    "fetched_at": "2026-06-05T23:58:46.105932+00:00"
   },
   {
     "title": "Nasdaq tumbles 4% as shares in chip and memory groups sink",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-05T22:56:03.308928+00:00"
+    "fetched_at": "2026-06-05T23:58:46.877244+00:00"
   },
   {
     "title": "Investors boost bets for Fed rate rise after bumper US jobs report",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-05T22:56:03.308996+00:00"
+    "fetched_at": "2026-06-05T23:58:46.877299+00:00"
   }
 ]
