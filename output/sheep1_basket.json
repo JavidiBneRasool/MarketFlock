@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-07T06:56:27.491762+00:00"
+    "fetched_at": "2026-06-07T09:56:09.523029+00:00"
   },
   {
     "title": "ETH falls to 13-month low on Zcash bug news and Bitcoin drop to sub-$60K: Is $1.4K next?",
@@ -15,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-07T06:56:27.491846+00:00"
+    "fetched_at": "2026-06-07T09:56:09.523107+00:00"
   },
   {
-    "title": "China Starts Prefabricated Power Hub for Data Centers, CCTV Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-07/china-starts-prefabricated-power-hub-for-data-centers-cctv-says",
-    "summary": "China\u2019s first prefabricated computing power hub has started operations, offering a faster and lower-cost way to build and supply electricity to data centers, according to a report from China Central Television.",
+    "title": "South Korea Unveils Measures to Stem Won Slide, Curb Speculation",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-07/south-korea-unveils-measures-to-stem-won-slide-curb-speculation",
+    "summary": "South Korea laid out a series of targeted measures to curb pressure on the won after the currency slid to its weakest level since 2009, pledging firm action against speculative trading and other activities that authorities said had amplified recent market swings.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-07T06:56:28.422471+00:00"
+    "fetched_at": "2026-06-07T09:56:10.716885+00:00"
   },
   {
-    "title": "Kosovo Seeks to End Impasse With Snap Election: What to Watch",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-07/kosovo-seeks-to-end-impasse-with-snap-election-what-to-watch",
-    "summary": "Kosovo goes to the polls for the third time in 18 months Sunday in an attempt to break a political impasse that\u2019s stymied progress toward improving ties with Serbia and gaining more European aid.",
+    "title": "Fire Erupts on Luxury Yacht Near Singapore's Sentosa Cove",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-07/fire-erupts-on-luxury-yacht-near-singapore-s-sentosa-cove",
+    "summary": "Firefighters attempt to extinguish a fire that broke out on a luxury yacht berthed in Singapore's Sentosa Cove. (Source: Bloomberg)",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-07T06:56:28.422531+00:00"
+    "fetched_at": "2026-06-07T09:56:10.716938+00:00"
   },
   {
     "title": "The Hyperinflation of 1971 at the Kindergarten",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-07T06:56:27.833722+00:00"
+    "fetched_at": "2026-06-07T09:56:09.850545+00:00"
   },
   {
     "title": "5th Worst Bitcoin Price Action Ever \u2014 I\u2019m Buying At 99.8% Probability",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-07T06:56:27.833792+00:00"
+    "fetched_at": "2026-06-07T09:56:09.850612+00:00"
   },
   {
     "title": "AI Is Helping Discover Tech Vulnerabilities\u2014And Zcash Is Just the Latest Example",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-07T06:56:27.927030+00:00"
+    "fetched_at": "2026-06-07T09:56:10.029201+00:00"
   },
   {
     "title": "Claude Code Vulnerability Could Let Attackers Steal Credentials From GitHub, Says Microsoft",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-07T06:56:27.927092+00:00"
+    "fetched_at": "2026-06-07T09:56:10.029257+00:00"
   },
   {
     "title": "HTX to delist Trump-linked USD1 after saying World Liberty Financial froze exchange-linked addresses",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-07T06:56:28.035606+00:00"
+    "fetched_at": "2026-06-07T09:56:10.216753+00:00"
   },
   {
     "title": "Hyperion DeFi to unwind $29 million in HYPE deals with Felix, Native Markets as USDH sunsets",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-07T06:56:28.035675+00:00"
+    "fetched_at": "2026-06-07T09:56:10.216815+00:00"
   },
   {
     "title": "OpenAI plots biggest ChatGPT overhaul since launch",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-07T06:56:29.044369+00:00"
+    "fetched_at": "2026-06-07T09:56:11.607541+00:00"
   },
   {
     "title": "Will America\u2019s evangelicals stick with Trump?",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-07T06:56:29.044427+00:00"
+    "fetched_at": "2026-06-07T09:56:11.607593+00:00"
   }
 ]
