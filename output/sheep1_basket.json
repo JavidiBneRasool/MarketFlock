@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-08T21:40:15.487695+00:00"
+    "fetched_at": "2026-06-08T23:06:11.180686+00:00"
   },
   {
     "title": "'Best thesis' for Bitcoin accumulation surfaces despite current downside risk: Analyst",
@@ -15,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-08T21:40:15.487798+00:00"
+    "fetched_at": "2026-06-08T23:06:11.180767+00:00"
   },
   {
-    "title": "OpenAI Filed Confidentially for IPO as Rivals Race to Market",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-08/openai-filed-confidentially-for-ipo-as-rivals-race-to-market",
-    "summary": "OpenAI, the maker of ChatGPT, filed confidentially for an IPO, joining artificial intelligence rivals in tapping public markets to fund ambitious growth plans.",
+    "title": "SpaceX IPO Is Well Oversubscribed With $10 Billion Orders",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-08/spacex-ipo-is-said-to-be-well-oversubscribed-orders-close-wed",
+    "summary": "SpaceX\u2019s initial public offering is well oversubscribed with multiple institutional investors placing orders for about $10 billion or more of shares, according to people familiar with the matter, as demand builds for a potentially record-setting debut.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-08T21:40:16.335351+00:00"
+    "fetched_at": "2026-06-08T23:06:12.355618+00:00"
   },
   {
-    "title": "NYNJ FIFA Chief on How Fans Can Get to MetLife Stadium for the Games",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-08/nynj-fifa-chief-says-there-are-options-to-get-to-games-video",
-    "summary": "Alex Lasry, Chief Executive Officer of the NYNJ Host Committee for the FIFA World Cup 2026, says the region is ready for the tournament and contingency plans are in place for any transportation issues that arise.  (Source: Bloomberg)",
+    "title": "Oil Steady as Israel and Iran Halt Hostilities That Risked Talks",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-08/latest-oil-market-news-and-analysis-for-june-9",
+    "summary": "Oil steadied after Israel and Iran agreed to end attacks against each other following an escalation of violence that threatened to derail efforts to end the war in the Middle East.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-08T21:40:16.335408+00:00"
+    "fetched_at": "2026-06-08T23:06:12.355679+00:00"
   },
   {
     "title": "Coinbase Executive: Massive Institutions Are Buying Bitcoin\u2019s Crash",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-08T21:40:15.780336+00:00"
+    "fetched_at": "2026-06-08T23:06:11.793219+00:00"
   },
   {
     "title": "Bitcoin Price Holds Near $63,000 as Analysts Say Its Store-of-Value Thesis Remains Intact",
@@ -51,25 +51,34 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-08T21:40:15.780410+00:00"
+    "fetched_at": "2026-06-08T23:06:11.793292+00:00"
   },
   {
-    "title": "China's Xiaomi MiMo Is Now 15X Faster Than ChatGPT and Claude",
-    "url": "https://decrypt.co/370449/xiaomi-mimo-ultraspeed-ai-model-faster-chatgpt-claude",
-    "summary": "Xiaomi's MiMo-V2.5-Pro-UltraSpeed blows past the speed threshold custom silicon companies spent years building toward\u2014on regular GPUs.",
+    "title": "OpenAI Wants to Kill the Chatbot It Invented and Turn It Into a Superapp",
+    "url": "https://decrypt.co/370467/openai-chagpt-chatbot-superapp",
+    "summary": "The company that launched ChatGPT in 2022 is now betting its future on something closer to WeChat than a Q&#038;A box",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-08T21:40:15.887231+00:00"
+    "fetched_at": "2026-06-08T23:06:11.874479+00:00"
   },
   {
-    "title": "Bored Ape Maker Yuga Labs Rescues Dozens of Ethereum NFTs From Exploit",
-    "url": "https://decrypt.co/370445/bored-ape-maker-yuga-labs-rescues-ethereum-nfts-exploit",
-    "summary": "The Bored Ape Yacht Club creator now holds more than 60 rescued NFTs in its custody as it works to return them to their rightful owners.",
+    "title": "OpenAI Confirms Confidential IPO Filing, Keeps Timing Open",
+    "url": "https://decrypt.co/370468/openai-confidential-ipo-filing-keeps-timing-open",
+    "summary": "The ChatGPT maker says it has filed paperwork for a potential public offering but may remain private while it pursues other priorities.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-08T21:40:15.887285+00:00"
+    "fetched_at": "2026-06-08T23:06:11.874539+00:00"
+  },
+  {
+    "title": "Brazen bitcoin kidnapping and carjacking co-conspirator pleads guilty, faces up to 20 years in prison: DOJ",
+    "url": "https://www.theblock.co/post/404043/brazen-bitcoin-kidnapping-carjacking-pleads-guilty-faces-20-years-prison-doj",
+    "summary": "Six men from Florida carjacked Sushil and Radhika Chetal's Lamborghini Urus, beat the couple and briefly detained them.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-08T23:06:11.954045+00:00"
   },
   {
     "title": "Crypto has \u2018limited utility\u2019 in solving AI\u2019s trust and payment issues, IC3 researchers say",
@@ -78,25 +87,16 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-08T21:40:15.991917+00:00"
+    "fetched_at": "2026-06-08T23:06:11.954120+00:00"
   },
   {
-    "title": "Tokenized equities reach $5.5 billion market cap, fueled by SpaceX IPO access and exchange expansion",
-    "url": "https://www.theblock.co/post/404034/tokenized-equities-5-5-billion-market-cap-fueled-spacex-ipo-exchange-expansion",
-    "summary": "The growth of the fourth-largest RWA category signals a structural demand trend as crypto users want access to equity markets.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-08T21:40:15.991988+00:00"
-  },
-  {
-    "title": "OpenAI files to go public in blockbuster listing",
+    "title": "OpenAI files to go public in blockbuster Wall Street listing",
     "url": "https://www.ft.com/content/a347e00a-2952-41ad-9f12-88c01ba199d6",
-    "summary": "ChatGPT creator has privately submitted draft prospectus for IPO expected to value company at more than $1tn",
+    "summary": "ChatGPT creator has submitted paperwork for IPO expected to value company at more than $1tn",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-08T21:40:17.207112+00:00"
+    "fetched_at": "2026-06-08T23:06:13.304254+00:00"
   },
   {
     "title": "Wall Street rebounds as traders race back into chip stocks",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-08T21:40:17.207169+00:00"
+    "fetched_at": "2026-06-08T23:06:13.304310+00:00"
   }
 ]
