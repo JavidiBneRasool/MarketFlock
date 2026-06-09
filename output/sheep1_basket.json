@@ -1,39 +1,39 @@
 [
   {
+    "title": "Solana Institute CEO says CLARITY Act must shield open-source developers",
+    "url": "https://cointelegraph.com/news/solana-institute-ceo-clarity-act-developer-protections",
+    "summary": "Kristin Smith urged the Senate to preserve developer protections in the CLARITY Act, arguing open-source builders should not be regulated as financial intermediaries.\n",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-09T21:28:13.195822+00:00"
+  },
+  {
     "title": "Bitcoin may act as a \u2018canary in the coal mine\u2019 as risk-off pressure spreads: Bitwise",
     "url": "https://cointelegraph.com/markets/bitcoin-may-act-as-a-canary-in-the-coal-mine-as-risk-off-pressure-spreads-bitwise",
     "summary": "Bitwise research suggests that Bitcoin is leading a broader risk-off move across markets as global liquidity and stablecoin reserves remain elevated.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-09T19:53:57.259020+00:00"
+    "fetched_at": "2026-06-09T21:28:13.195908+00:00"
   },
   {
-    "title": "BBB refers prediction market Kalshi to state regulators over ad inquiry",
-    "url": "https://cointelegraph.com/news/bbb-nad-refers-kalshi-state-regulators-advertising-influencer-inquiry",
-    "summary": "A BBB advertising watchdog escalated its review of Kalshi after the prediction market platform declined to participate in an inquiry into influencer disclosure practices.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-06-09T19:53:57.259095+00:00"
-  },
-  {
-    "title": "Smucker Plans to Lower Coffee Prices Next Year as Costs Drop",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-09/smucker-profit-tops-expectations-buoyed-by-coffee-prices",
-    "summary": "JM Smucker Co. said it planned to lower coffee prices next year as the cost comes down.",
+    "title": "LA Stadium Workers Avert Strike Before First World Cup Game",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-09/la-stadium-workers-avert-strike-days-before-first-world-cup-game",
+    "summary": "Workers at SoFi Stadium near Los Angeles reached a tentative agreement with management, averting the threat of a strike days before hosting the US team\u2019s first World Cup football match.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-09T19:53:58.102971+00:00"
+    "fetched_at": "2026-06-09T21:28:14.286337+00:00"
   },
   {
-    "title": "Treasuries Hold Oil-Driven Gains Despite Soft Auction Demand",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-09/treasuries-advance-before-auction-as-oil-prices-retreat-further",
-    "summary": "Treasuries rose as falling oil prices overshadowed middling demand at the first of three longer-term US debt auctions this week.",
+    "title": "Lancaster-Samuel Says Clients Have a 'Fear of Getting Out'",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-09/equity-market-rotation-amid-rising-fed-concerns-video",
+    "summary": "Baylor Lancaster-Samuel, Senior Vice President and Chief Investment Officer with Amerant Investments, discusses the current phase of the equity market cycle. She says many clients have a \"fear of getting out\" of positions too early. She speaks with Romaine Bostick & Katie Greifeld on \"The Close.\" (S",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-09T19:53:58.103026+00:00"
+    "fetched_at": "2026-06-09T21:28:14.286394+00:00"
   },
   {
     "title": "Traditional Finance is Rushing Into Crypto as Institutions Buy Bitcoin\u2019s Dip: Axios",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-09T19:53:57.485552+00:00"
+    "fetched_at": "2026-06-09T21:28:13.492731+00:00"
   },
   {
     "title": "New Documentary \u2018Bitcoin Season\u2019 Charts Bitcoin\u2019s Push Into the NBA",
@@ -51,25 +51,25 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-09T19:53:57.485620+00:00"
+    "fetched_at": "2026-06-09T21:28:13.492799+00:00"
   },
   {
-    "title": "A Quantum Clock Is Ticking for Bitcoin and Crypto\u2014Here's How Stellar Is Preparing",
-    "url": "https://decrypt.co/370570/quantum-clock-ticking-bitcoin-crypto-how-stellar-preparing",
-    "summary": "The Stellar Development Foundation unveiled a three-step roadmap to prepare the XLM network for the coming quantum computing threat.",
+    "title": "EU Orders Meta to Open WhatsApp to Rival AI Chatbots\u2014Meta Calls It 'Regulatory Overreach'",
+    "url": "https://decrypt.co/370580/eu-orders-meta-open-whatsapp-rival-ai-chatbots",
+    "summary": "The European Commission has issued interim measures forcing Meta to restore third-party AI access to the WhatsApp Business API within five days.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-09T19:53:57.601078+00:00"
+    "fetched_at": "2026-06-09T21:28:13.665744+00:00"
   },
   {
-    "title": "AI Malware Worm Adapts to New Targets in Real Time, Cybersecurity Experts Say",
-    "url": "https://decrypt.co/370557/ai-malware-worm-adapts-targets-cybersecurity",
-    "summary": "Researchers demonstrated an AI-powered worm that adapts to targets, generates attack strategies, and spreads across networks without cloud services.",
+    "title": "Seattle-Area Man Gets Prison for Laundering Foreign Fraud Funds With Bitcoin, Ethereum",
+    "url": "https://decrypt.co/370576/seattle-man-prison-laundering-foreign-fraud-funds-bitcoin-ethereum",
+    "summary": "The fraudster took in nearly $100 million from victims before laundering funds via Bitcoin, Ethereum, and stablecoins.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-09T19:53:57.601138+00:00"
+    "fetched_at": "2026-06-09T21:28:13.665807+00:00"
   },
   {
     "title": "Hyperliquid advocate and Paradigm urge US to revise proposed anti-money laundering rule",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-09T19:53:57.689649+00:00"
+    "fetched_at": "2026-06-09T21:28:13.815928+00:00"
   },
   {
     "title": "Warren calls weakened CFTC a \u2018recipe for disaster\u2019 as Congress advances crypto legislation",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-09T19:53:57.689722+00:00"
+    "fetched_at": "2026-06-09T21:28:13.816003+00:00"
   },
   {
     "title": "Trump vows to \u2018respond\u2019 after Iran \u2018shot down\u2019 a US helicopter",
@@ -96,15 +96,15 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-09T19:53:58.766876+00:00"
+    "fetched_at": "2026-06-09T21:28:15.162057+00:00"
   },
   {
-    "title": "Who calls the shots? Trump and Netanyahu clash over war goals",
-    "url": "https://www.ft.com/content/64213988-ec72-462d-b9b6-e56acebb85df",
-    "summary": "US president\u2019s frustration with continued Israeli attacks on Lebanon and Iran erupts as he pushes to end the war",
+    "title": "Oil slides as US official says Hormuz transits are \u2018meaningfully\u2019 climbing",
+    "url": "https://www.ft.com/content/c7e5bbbd-65ed-4678-baee-a4b63123e0e5",
+    "summary": "Energy secretary Chris Wright cautions that flows through the strait will take months to fully recover",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-09T19:53:58.766936+00:00"
+    "fetched_at": "2026-06-09T21:28:15.162119+00:00"
   }
 ]
