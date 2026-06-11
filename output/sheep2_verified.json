@@ -1,48 +1,48 @@
 [
   {
+    "title": "CFTC proposes framework favoring sports event contracts over gambling",
+    "url": "https://cointelegraph.com/news/cftc-prediction-market-rules-sports-election-contracts",
+    "summary": "The proposed rules would preserve election markets and allow many sports-based prediction contracts while limiting bets that could encourage manipulation.\n",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-11T00:07:07.360596+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "Bitcoin miner margins fall to record low: Will BTC\u2019s $60K floor hold?",
     "url": "https://cointelegraph.com/markets/bitcoin-miner-margins-fall-to-record-low-will-btcs-60k-floor-hold",
     "summary": "Bitcoin miner profits recently fell to record lows, while Bitcoin struggles to hold the $60,000 floor. Should traders be worried? \n",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-10T22:45:39.531526+00:00",
+    "fetched_at": "2026-06-11T00:07:07.360681+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-06-10T22:45:39.531601+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Oil Surges as Fresh US Strikes on Iran Threaten Fragile Truce",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-10/latest-oil-market-news-and-analysis-for-june-11",
-    "summary": "Oil jumped after the US started new strikes on Iran, putting further strain on a fragile ceasefire and threatening to prolong the conflict in the Middle East that\u2019s upended global markets.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-06-10T22:45:40.644732+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Oil Jumps, US Stock Futures Fall on Iran Strikes: Markets Wrap",
+    "title": "Oil Gains, Asian Stocks Fall as US Strikes Iran: Markets Wrap",
     "url": "https://www.bloomberg.com/news/articles/2026-06-10/stock-market-today-dow-s-p-live-updates",
-    "summary": "Oil jumped, while US stock futures declined after American forces started new strikes on Iran, putting further strain on a fragile ceasefire and threatening to prolong the conflict in the Middle East that\u2019s upended global markets.",
+    "summary": "Oil climbed and stocks fell after US forces launched fresh strikes on Iran, reviving geopolitical risks at a time when markets are already grappling with a selloff in richly valued technology stocks.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-10T22:45:40.644790+00:00",
+    "fetched_at": "2026-06-11T00:07:15.375902+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Gold Declines for Third Day After US Launches New Iran Strikes",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-10/gold-falls-for-third-day-as-us-launches-fresh-strikes-on-iran",
+    "summary": "Gold fell for a third day after the US launched fresh strikes against Iran, threatening to extend the war that\u2019s roiled global markets and stoked inflation.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-06-11T00:07:15.375960+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-10T22:45:39.859312+00:00",
+    "fetched_at": "2026-06-11T00:07:14.745436+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-10T22:45:39.859385+00:00",
+    "fetched_at": "2026-06-11T00:07:14.745510+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-10T22:45:39.970651+00:00",
+    "fetched_at": "2026-06-11T00:07:14.839176+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-10T22:45:39.970710+00:00",
+    "fetched_at": "2026-06-11T00:07:14.839237+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-10T22:45:40.097861+00:00",
+    "fetched_at": "2026-06-11T00:07:14.966186+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-10T22:45:40.097925+00:00",
+    "fetched_at": "2026-06-11T00:07:14.966253+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -122,11 +122,11 @@
   {
     "title": "US launches fresh wave of strikes on Iran",
     "url": "https://www.ft.com/content/e8bea0ec-8dee-495a-8cf3-b5cbb283ccae",
-    "summary": "Second day of attacks put fragile ceasefire under new strain, pushing up oil prices",
+    "summary": "Tehran announces Strait of Hormuz will be closed \u2018until further notice\u2019 in response to American operation",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-10T22:45:41.593811+00:00",
+    "fetched_at": "2026-06-11T00:07:16.107772+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-10T22:45:41.593870+00:00",
+    "fetched_at": "2026-06-11T00:07:16.107831+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
