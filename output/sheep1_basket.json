@@ -1,39 +1,39 @@
 [
   {
-    "title": "MassPay taps Coinbase to expand stablecoin payouts",
-    "url": "https://cointelegraph.com/news/masspay-coinbase-partner-stablecoin-cross-border-payments",
-    "summary": "MassPay taps Coinbase to add USDC-powered cross-border payouts, betting stablecoin rails will cut costs and speed up settlement for businesses paying globally.",
+    "title": "ETH futures traders lean into $1.6K range lows: Will Ether lead market recovery?",
+    "url": "https://cointelegraph.com/markets/ether-bulls-ramp-up-risk-above-16k-can-buyers-regain-control",
+    "summary": "ETH traders increased their long positions as Ether price traded near 2026 lows. Will ETH\u2019s rebound eclipse the BTC recovery? ",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-11T17:59:57.133439+00:00"
+    "fetched_at": "2026-06-11T20:22:42.477198+00:00"
   },
   {
-    "title": "Franklin Templeton, BNP Paribas see tokenization boosting EU's capital efficiency",
-    "url": "https://cointelegraph.com/news/liquidity-capital-efficiency-tokenization-adoption-banks-franklin-templeton-bnp",
-    "summary": "Executives from Franklin Templeton and BNP Paribas say tokenized assets and stablecoins could improve capital efficiency across Europe as Wall Street expands tokenization efforts.",
+    "title": "Three signs that XRP price risks falling below $1 in June",
+    "url": "https://cointelegraph.com/markets/three-signs-that-xrp-price-risks-falling-below-1-in-june",
+    "summary": "XRP is forming head-and-shoulders and bear flag setups on its shorter-timeframe chart, both indicating a dip below $1 in the coming days.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-11T17:59:57.133513+00:00"
+    "fetched_at": "2026-06-11T20:22:42.477296+00:00"
   },
   {
-    "title": "Stocks Jump as Trump Signals US-Iran Deal Is Close: Markets Wrap",
+    "title": "Stocks Rally as Trump Signals US-Iran Deal Is Near: Markets Wrap",
     "url": "https://www.bloomberg.com/news/articles/2026-06-10/stock-market-today-dow-s-p-live-updates",
-    "summary": "Wall Street traders drove stocks higher and oil fell as President Donald Trump canceled scheduled strikes against Iran and signaled a deal is near, fueling hopes for an end to the war that has roiled markets.",
+    "summary": "Wall Street powered a rally in stocks as oil sank after President Donald Trump signaled the US is close to a deal with Iran, fueling hopes for an end to the war that has roiled global markets.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-11T17:59:57.948349+00:00"
+    "fetched_at": "2026-06-11T20:22:43.357513+00:00"
   },
   {
-    "title": "US Stocks Soar as Trump Says He\u2019s Called Off New Iran Strikes",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-11/us-stocks-drift-higher-as-chips-rise-traders-assess-inflation",
-    "summary": "US stocks rose to session highs following two straight losing days, as President Donald Trump said he\u2019s called off planned military strikes on Iran, hours after threatening to escalate the three-month war.",
+    "title": "Iran Not On List of Countries Trump Says Have Agreed to Deal",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-11/iran-not-on-list-of-countries-us-says-has-agreed-to-deal-video",
+    "summary": "Bloomberg's Michelle Jamrisko said that while President Trump said that a deal to end conflict with Iran has been approved by a host of MidEast countries, Iran itself is not included on that list. Jamrisko says that this may be another instance of the push and pull between Iran and the US as the two",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-11T17:59:57.948409+00:00"
+    "fetched_at": "2026-06-11T20:22:43.357571+00:00"
   },
   {
     "title": "U.S. Charges Two Men for $389 Million Bitcoin and Crypto Money Laundering Scheme Tied to Dark Web",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-11T17:59:57.431500+00:00"
+    "fetched_at": "2026-06-11T20:22:42.803190+00:00"
   },
   {
     "title": "BitGo Launches Lightning Earn to Let Institutions Put Bitcoin to Work on Lightning Network",
@@ -51,52 +51,52 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-11T17:59:57.431567+00:00"
+    "fetched_at": "2026-06-11T20:22:42.803255+00:00"
   },
   {
-    "title": "Authorities Take Down 'AudiA6' Group That Allegedly Laundered $389 Million in Bitcoin",
-    "url": "https://decrypt.co/370812/authorities-take-down-audia6-allegedly-laundered-389-million-bitcoin",
-    "summary": "Authorities are seeking extradition to the U.S. of two arrested individuals for allegedly laundering $389 million in Bitcoin.",
+    "title": "Nasdaq-Listed Bitcoin Firm Nakamoto Sells BTC, Cuts Debt and Authorizes Share Buyback",
+    "url": "https://decrypt.co/370842/nasdaq-listed-bitcoin-firm-nakamoto-sells-btc-cuts-debt-share-buyback",
+    "summary": "Nakamoto, the Nasdaq-listed Bitcoin services and treasury firm, sold about $48 million worth of BTC and derivatives to help reduce debt.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-11T17:59:57.518945+00:00"
+    "fetched_at": "2026-06-11T20:22:42.915701+00:00"
   },
   {
-    "title": "World Cup Could Bring Billions in Volume to Prediction Markets in 'Watershed Moment': Bernstein",
-    "url": "https://decrypt.co/370786/world-cup-billions-volume-prediction-markets-watershed-moment-bernstein",
-    "summary": "The 48-team FIFA World Cup tournament is expected to be the single largest catalyst for online sports betting in history, Bernstein said.",
+    "title": "Coinbase Launches Tool That Lets AI Agents Trade Crypto and Make Payments for Users",
+    "url": "https://decrypt.co/370835/coinbase-tool-ai-agents-trade-crypto-make-payments",
+    "summary": "Coinbase's new product allows AI agents to execute crypto trades, payments, and portfolio management tasks within user-defined limits.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-11T17:59:57.519007+00:00"
+    "fetched_at": "2026-06-11T20:22:42.915760+00:00"
   },
   {
-    "title": "JPMorgan says debasement trade retreat has \u2018accelerated\u2019 for bitcoin",
-    "url": "https://www.theblock.co/post/404471/jpmorgan-debasement-trade-retreat-bitcoin-gold",
-    "summary": "The retreat from the debasement trade has continued for gold and accelerated for bitcoin in recent weeks, JPMorgan analysts said.",
+    "title": "Americans secretly drove as much as $34 billion in offshore prediction market bets, new report claims",
+    "url": "https://www.theblock.co/post/404505/americans-secretly-drove-34-billion-offshore-prediction-market-bets-report-claims",
+    "summary": "A new report from a boutique consulting firm claims that nearly a third of U.S. prediction market volume occurs on offshore platforms.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-11T17:59:57.595641+00:00"
+    "fetched_at": "2026-06-11T20:22:43.020050+00:00"
   },
   {
-    "title": "Coinbase for Agents sets up dedicated accounts for AI bots to trade and pay for users",
-    "url": "https://www.theblock.co/post/404458/coinbase-agents-dedicated-accounts-ai-bots-trade-pay-users",
-    "summary": "AI agents will get access to trade, manage money, and make payments on behalf of Coinbase users via dedicated accounts.",
+    "title": "Arbitrum token jumps 5% on news LG Electronics is building a new blockchain",
+    "url": "https://www.theblock.co/post/404494/arbitrum-token-jumps-5-news-lg-electronics-building-new-blockchain",
+    "summary": "LG\u2019s new Arbitrum-based blockchain will serve as a platform for placing, buying, selling, and managing digital ads.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-11T17:59:57.595712+00:00"
+    "fetched_at": "2026-06-11T20:22:43.020118+00:00"
   },
   {
     "title": "Trump calls off Iran strikes planned for Thursday night",
     "url": "https://www.ft.com/content/05472479-445d-4c16-ba85-6db47ba72373",
-    "summary": "US president cancels attacks citing progress in negotiations with Tehran",
+    "summary": "US president claims progress in negotiations for new deal with Tehran",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-11T17:59:58.710288+00:00"
+    "fetched_at": "2026-06-11T20:22:44.021250+00:00"
   },
   {
     "title": "India protests to US after three sailors killed in tanker attack",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-11T17:59:58.710345+00:00"
+    "fetched_at": "2026-06-11T20:22:44.021321+00:00"
   }
 ]
