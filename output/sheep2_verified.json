@@ -1,12 +1,36 @@
 [
   {
+    "title": "Elon Musk's SpaceX prices shares at $135, raising $75 billion in largest-ever IPO",
+    "url": "https://www.coindesk.com/markets/2026/06/11/spacex-prices-shares-at-usd135-in-largest-ipo-ever",
+    "summary": "",
+    "source": "CoinDesk",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-12T02:03:00.563740+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Coinbase launches AI agent accounts that can trade and spend on your behalf",
+    "url": "https://www.coindesk.com/tech/2026/06/11/coinbase-launches-ai-agent-accounts-that-can-trade-and-spend-on-your-behalf",
+    "summary": "",
+    "source": "CoinDesk",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-12T02:03:00.563853+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "Big Tech crash, oil volatility rattles markets: Will Bitcoin hold above $60K?",
     "url": "https://cointelegraph.com/markets/big-tech-crash-oil-volatility-rattles-markets-will-bitcoin-hold-above-60k",
     "summary": "With $1.9 billion exiting the spot Bitcoin ETFs and tech stocks under pressure, BTC is failing as a hedge and at risk of falling below the $60,000 support.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-12T00:13:36.373678+00:00",
+    "fetched_at": "2026-06-12T02:03:05.980223+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,31 +42,31 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-12T00:13:36.373754+00:00",
+    "fetched_at": "2026-06-12T02:03:05.980330+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Stocks Gain as Trump Signals Iran Deal, Oil Slips: Markets Wrap",
+    "title": "Korea\u2019s Kospi Surges as Iran Deal Hopes Lift Chip Stocks",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-12/korea-s-kospi-surges-7-as-iran-deal-hopes-lift-chip-stocks",
+    "summary": "South Korean stocks surged as investors piled back into the country\u2019s hot chipmakers after President Donald Trump signaled the US was nearing a potential deal with Iran, easing Middle East tensions.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-06-12T02:03:34.309039+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Stock Rally Builds on Iran Optimism, Oil Drops: Markets Wrap",
     "url": "https://www.bloomberg.com/news/articles/2026-06-11/asian-stocks-to-gain-as-trump-signals-us-iran-deal-markets-wrap",
-    "summary": "Asian stocks rose, tracking a rally on Wall Street after President Donald Trump said the US was nearing an agreement with Iran, raising hopes for a diplomatic end to the conflict. Oil dropped.",
+    "summary": "Stocks extended gains and oil fell after President Donald Trump said the US was nearing an agreement with Iran, raising expectations for a diplomatic end to the conflict that\u2019s triggered price swings across financial markets for more than 100 days.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-12T00:13:37.263952+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Oil Extends Decline After Trump Says Deal With Iran Is Close",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-11/latest-oil-market-news-and-analysis-for-june-12",
-    "summary": "Oil extended declines after President Donald Trump said a peace deal with Iran could be signed as soon as the weekend following US military strikes that cast doubt over progress to end the war.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-06-12T00:13:37.264007+00:00",
+    "fetched_at": "2026-06-12T02:03:34.309101+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +78,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-12T00:13:36.628595+00:00",
+    "fetched_at": "2026-06-12T02:03:11.736867+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +90,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-12T00:13:36.628665+00:00",
+    "fetched_at": "2026-06-12T02:03:11.736992+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +102,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-12T00:13:36.705177+00:00",
+    "fetched_at": "2026-06-12T02:03:17.108484+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,31 +114,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-12T00:13:36.705229+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "\u2018Anarchistic neobanks\u2019 are bitcoin\u2019s next frontier, says Blockrise CEO",
-    "url": "https://www.theblock.co/post/404469/anarchistic-neobanks-bitcoins-next-frontier-says-blockrise-ceo",
-    "summary": "Blockrise CEO Jos Lazet sees bitcoin-native institutions evolving into alternatives to banks, in an interview at BTC Prague. ",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-12T00:13:36.776927+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Man who spent 1,500 BTC on graphics card now helps insure bitcoin holders",
-    "url": "https://www.theblock.co/post/404438/man-who-spent-1500-btc-graphics-card-now-helps-insure-bitcoin-holders",
-    "summary": "Bitsurance, insures clients' bitcoin against \"physical attacks\" like fire, water, robbery and the \"$5 Wrench Attack.\"",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-12T00:13:36.776992+00:00",
+    "fetched_at": "2026-06-12T02:03:17.108574+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-12T00:13:38.044773+00:00",
+    "fetched_at": "2026-06-12T02:03:40.582088+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-12T00:13:38.044826+00:00",
+    "fetched_at": "2026-06-12T02:03:40.582248+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
