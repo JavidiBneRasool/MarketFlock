@@ -6,7 +6,7 @@
     "source": "CoinDesk",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-12T02:17:01.185904+00:00"
+    "fetched_at": "2026-06-12T04:35:23.411621+00:00"
   },
   {
     "title": "Coinbase launches AI agent accounts that can trade and spend on your behalf",
@@ -15,7 +15,7 @@
     "source": "CoinDesk",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-12T02:17:01.186004+00:00"
+    "fetched_at": "2026-06-12T04:35:23.411714+00:00"
   },
   {
     "title": "Big Tech crash, oil volatility rattles markets: Will Bitcoin hold above $60K?",
@@ -24,7 +24,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-12T02:17:06.628382+00:00"
+    "fetched_at": "2026-06-12T04:35:28.808821+00:00"
   },
   {
     "title": "Citi launches blockchain marketplace for private companies shares: Report",
@@ -33,25 +33,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-12T02:17:06.628491+00:00"
+    "fetched_at": "2026-06-12T04:35:28.808906+00:00"
   },
   {
-    "title": "MediaTek\u2019s Rally Signals Shift From Laggard to AI Contender",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-11/mediatek-s-rally-signals-shift-from-laggard-to-ai-contender",
-    "summary": "MediaTek Inc. shares are poised for their best quarter on record, as investors bet a shift into artificial intelligence chips can help it shed the overhang of its struggling older-tech business.",
+    "title": "Oil Extends Decline After Trump Says Deal With Iran Is Close",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-11/latest-oil-market-news-and-analysis-for-june-12",
+    "summary": "Oil extended declines after President Donald Trump said a peace deal with Iran could be signed as soon as the weekend following US military strikes that cast doubt over progress to end the war.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-12T02:17:34.996922+00:00"
+    "fetched_at": "2026-06-12T04:35:52.005004+00:00"
   },
   {
-    "title": "Korea\u2019s Kospi Surges as Iran Deal Hopes Lift Chip Stocks",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-12/korea-s-kospi-surges-7-as-iran-deal-hopes-lift-chip-stocks",
-    "summary": "South Korean stocks surged as investors piled back into the country\u2019s hot chipmakers after President Donald Trump signaled the US was nearing a potential deal with Iran, easing Middle East tensions.",
+    "title": "How to Trade the SpaceX IPO in Asia's Locked-Out Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-11/locked-out-of-ipo-asia-investors-find-new-ways-to-bet-on-spacex",
+    "summary": "Investors across Asia have been largely shut out of the world\u2019s largest-ever initial public offering, which has forced them to find creative ways to make bets on SpaceX\u2019s $75 billion global spectacle.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-12T02:17:34.997027+00:00"
+    "fetched_at": "2026-06-12T04:35:52.005097+00:00"
   },
   {
     "title": "Bukele\u2019s Reform Makes El Salvador a Top Tax Haven: 0% on Foreign Income and Bitcoin Gains with Minimal Presence",
@@ -60,7 +60,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-12T02:17:12.525090+00:00"
+    "fetched_at": "2026-06-12T04:35:34.666939+00:00"
   },
   {
     "title": "U.S. Charges Two Men for $389 Million Bitcoin and Crypto Money Laundering Scheme Tied to Dark Web",
@@ -69,7 +69,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-12T02:17:12.525190+00:00"
+    "fetched_at": "2026-06-12T04:35:34.667048+00:00"
   },
   {
     "title": "OpenAI Wants a Price War With Anthropic\u2014Is It Proving DeepSeek Right?",
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-12T02:17:17.928484+00:00"
+    "fetched_at": "2026-06-12T04:35:35.027979+00:00"
   },
   {
     "title": "Bitcoin Must Prepare for Quantum Threat Now, Coinbase Says",
@@ -87,7 +87,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-12T02:17:17.928568+00:00"
+    "fetched_at": "2026-06-12T04:35:35.028066+00:00"
   },
   {
     "title": "Musk\u2019s SpaceX raises $75bn in world\u2019s biggest IPO",
@@ -96,15 +96,15 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-12T02:17:36.927802+00:00"
+    "fetched_at": "2026-06-12T04:35:58.587219+00:00"
   },
   {
-    "title": "How SpaceX could pull millions of savers into Musk\u2019s orbit",
-    "url": "https://ig.ft.com/spacex-ipo",
-    "summary": "The world\u2019s richest man is shooting for Mars. Ordinary people are coming along for the ride",
+    "title": "Jeff Bezos says AI will bring \u2018golden ages\u2019 not mass job losses",
+    "url": "https://www.ft.com/content/45258f4a-5fb5-4f7a-bd29-5dea92502638",
+    "summary": "Amazon founder lays out vision for new $41bn AI lab Prometheus",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-12T02:17:36.927948+00:00"
+    "fetched_at": "2026-06-12T04:35:58.587444+00:00"
   }
 ]
