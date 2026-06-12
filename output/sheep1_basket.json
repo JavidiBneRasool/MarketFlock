@@ -6,7 +6,7 @@
     "source": "CoinDesk",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-12T02:03:00.563740+00:00"
+    "fetched_at": "2026-06-12T02:17:01.185904+00:00"
   },
   {
     "title": "Coinbase launches AI agent accounts that can trade and spend on your behalf",
@@ -15,7 +15,7 @@
     "source": "CoinDesk",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-12T02:03:00.563853+00:00"
+    "fetched_at": "2026-06-12T02:17:01.186004+00:00"
   },
   {
     "title": "Big Tech crash, oil volatility rattles markets: Will Bitcoin hold above $60K?",
@@ -24,7 +24,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-12T02:03:05.980223+00:00"
+    "fetched_at": "2026-06-12T02:17:06.628382+00:00"
   },
   {
     "title": "Citi launches blockchain marketplace for private companies shares: Report",
@@ -33,7 +33,16 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-12T02:03:05.980330+00:00"
+    "fetched_at": "2026-06-12T02:17:06.628491+00:00"
+  },
+  {
+    "title": "MediaTek\u2019s Rally Signals Shift From Laggard to AI Contender",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-11/mediatek-s-rally-signals-shift-from-laggard-to-ai-contender",
+    "summary": "MediaTek Inc. shares are poised for their best quarter on record, as investors bet a shift into artificial intelligence chips can help it shed the overhang of its struggling older-tech business.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-06-12T02:17:34.996922+00:00"
   },
   {
     "title": "Korea\u2019s Kospi Surges as Iran Deal Hopes Lift Chip Stocks",
@@ -42,16 +51,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-12T02:03:34.309039+00:00"
-  },
-  {
-    "title": "Stock Rally Builds on Iran Optimism, Oil Drops: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-11/asian-stocks-to-gain-as-trump-signals-us-iran-deal-markets-wrap",
-    "summary": "Stocks extended gains and oil fell after President Donald Trump said the US was nearing an agreement with Iran, raising expectations for a diplomatic end to the conflict that\u2019s triggered price swings across financial markets for more than 100 days.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-06-12T02:03:34.309101+00:00"
+    "fetched_at": "2026-06-12T02:17:34.997027+00:00"
   },
   {
     "title": "Bukele\u2019s Reform Makes El Salvador a Top Tax Haven: 0% on Foreign Income and Bitcoin Gains with Minimal Presence",
@@ -60,7 +60,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-12T02:03:11.736867+00:00"
+    "fetched_at": "2026-06-12T02:17:12.525090+00:00"
   },
   {
     "title": "U.S. Charges Two Men for $389 Million Bitcoin and Crypto Money Laundering Scheme Tied to Dark Web",
@@ -69,7 +69,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-12T02:03:11.736992+00:00"
+    "fetched_at": "2026-06-12T02:17:12.525190+00:00"
   },
   {
     "title": "OpenAI Wants a Price War With Anthropic\u2014Is It Proving DeepSeek Right?",
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-12T02:03:17.108484+00:00"
+    "fetched_at": "2026-06-12T02:17:17.928484+00:00"
   },
   {
     "title": "Bitcoin Must Prepare for Quantum Threat Now, Coinbase Says",
@@ -87,7 +87,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-12T02:03:17.108574+00:00"
+    "fetched_at": "2026-06-12T02:17:17.928568+00:00"
   },
   {
     "title": "Musk\u2019s SpaceX raises $75bn in world\u2019s biggest IPO",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-12T02:03:40.582088+00:00"
+    "fetched_at": "2026-06-12T02:17:36.927802+00:00"
   },
   {
     "title": "How SpaceX could pull millions of savers into Musk\u2019s orbit",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-12T02:03:40.582248+00:00"
+    "fetched_at": "2026-06-12T02:17:36.927948+00:00"
   }
 ]
