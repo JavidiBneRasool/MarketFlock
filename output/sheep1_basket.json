@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-13T19:04:44.015890+00:00"
+    "fetched_at": "2026-06-13T20:59:54.689896+00:00"
   },
   {
     "title": "Bitcoin sales are necessary for Strategy's digital credit business, Saylor says",
@@ -15,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-13T19:04:44.015967+00:00"
+    "fetched_at": "2026-06-13T20:59:54.689976+00:00"
   },
   {
-    "title": "Caffeine Minimalists Rewrite Routines to Battle Coffee Jitters",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-13/consumers-embrace-caffeine-minimalism-video",
-    "summary": "While plenty of Americans are emphatically unready to give up caffeine, many are experimenting with a new range of options beyond the traditional cup of hot java, paying heed to caffeine\u2019s impact on their sleep, mood and energy level. Consumers are becoming more cognizant of \u201cenergy management\u201d in t",
+    "title": "Fed and BOE Stay Guarded After 100 Days of Iran War",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-13/fed-boe-to-hold-rates-as-trump-seeks-iran-peace-deal",
+    "summary": "For several global central banks, the question of whether the Iran war poses more of an immediate danger to inflation or to growth is likely to remain open in the coming week.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-13T19:04:44.726981+00:00"
+    "fetched_at": "2026-06-13T20:59:55.965845+00:00"
   },
   {
-    "title": "How Kalshi\u2019s Lopes Lara Turned Kylie Jenner Gossip Into Billions",
-    "url": "https://www.bloomberg.com/news/features/2026-06-13/how-kalshi-s-lopes-lara-turned-kylie-jenner-gossip-into-billions",
-    "summary": "The firm\u2019s co-founder talks about the celebrity buzz that sparked her interest in prediction markets, the legal battles her firm faces and Jay-Z\u2019s&nbsp;advice.",
+    "title": "CLO ETFs Boom on Higher Rates, Private Debt Woes",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-13/clo-etfs-boom-on-higher-rates-private-debt-woes-credit-weekly",
+    "summary": "Wall Street has an answer for retail investors seeking to profit from elevated interest rates and dodge defaults in private credit: funds that buy collateralized loan obligations.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-13T19:04:44.727040+00:00"
+    "fetched_at": "2026-06-13T20:59:55.965902+00:00"
   },
   {
     "title": "Standard Chartered Calls Crypto Bottom as Bitcoin Price Recovers From $59,000 Low",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-13T19:04:44.345973+00:00"
+    "fetched_at": "2026-06-13T20:59:55.021195+00:00"
   },
   {
     "title": "Blockworks Acquires Messari in Deal Highlighting Crypto\u2019s Data Consolidation Race",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-13T19:04:44.346044+00:00"
+    "fetched_at": "2026-06-13T20:59:55.021271+00:00"
+  },
+  {
+    "title": "US Government Orders Anthropic to Pull Claude Fable, Mythos AI Models",
+    "url": "https://decrypt.co/371027/us-government-orders-anthropic-pull-claude-fable-mythos-ai-models",
+    "summary": "Anthropic pushed back against what it described as an overreach, saying the vulnerability cited is already widespread across the industry.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-13T20:59:55.123857+00:00"
   },
   {
     "title": "Google Sues Chinese Crime Group for Allegedly Using Gemini AI for Mass Phishing Scams",
@@ -60,16 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-13T19:04:44.436629+00:00"
+    "fetched_at": "2026-06-13T20:59:55.123920+00:00"
   },
   {
-    "title": "AI Agent Rekts Dev on Bogus Scan, Leaves Them Begging for Crypto Donations",
-    "url": "https://decrypt.co/370988/ai-agent-rekts-dev-bogus-scan-crypto-donations",
-    "summary": "A hobbyist network handed an autonomous agent a masterclass in why you don't give AI a credit card and a deadline.",
-    "source": "Decrypt",
+    "title": "Venice and Morpheus tokens climb as US ban on Anthropic\u2019s Fable 5 fuels \u2018permissionless AI\u2019 pitch",
+    "url": "https://www.theblock.co/post/404690/venice-and-morpheus-tokens-climb-as-us-ban-on-anthropics-fable-5-fuels-permissionless-ai-pitch",
+    "summary": "Venice founder Erik Voorhees and the official Morpheus account seized on the shutdown, casting it as proof of \"permissionless\" AI's use case.",
+    "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-13T19:04:44.436690+00:00"
+    "fetched_at": "2026-06-13T20:59:55.216130+00:00"
   },
   {
     "title": "Coinbase quantum report flags exchange cold wallets among millions of bitcoin exposed by address reuse",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-13T19:04:44.534264+00:00"
-  },
-  {
-    "title": "Spot bitcoin ETFs snap five-day outflow streak with $85.8 million Friday inflow as ether funds keep sliding",
-    "url": "https://www.theblock.co/post/404682/spot-bitcoin-etfs-snap-five-day-outflow-streak-with-85-8-million-friday-inflow-as-ether-funds-keep-sliding",
-    "summary": "BlackRock's IBIT led Friday's inflows at $57.7 million, with Fidelity's FBTC adding $18.0 million, while no fund reported a net outflow on the day.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-13T19:04:44.534340+00:00"
+    "fetched_at": "2026-06-13T20:59:55.216203+00:00"
   },
   {
     "title": "How Wall Street pulled off the biggest IPO in history for SpaceX",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-13T19:04:45.331762+00:00"
+    "fetched_at": "2026-06-13T20:59:56.698657+00:00"
   },
   {
     "title": "AI is disrupting investment",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-13T19:04:45.331814+00:00"
+    "fetched_at": "2026-06-13T20:59:56.698763+00:00"
   }
 ]
