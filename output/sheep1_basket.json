@@ -1,39 +1,39 @@
 [
   {
+    "title": "Morpho's $175M raise shows where crypto VC money is flowing",
+    "url": "https://cointelegraph.com/news/morphos-175m-raise-shows-where-the-last-of-the-crypto-vc-money-is-going",
+    "summary": "Morpho\u2019s recent $175 million raise reflects growing investor bets on onchain credit infrastructure as stablecoin adoption expands.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-13T13:20:13.665356+00:00"
+  },
+  {
     "title": "Here\u2019s what happened in crypto today",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-13T11:45:20.623525+00:00"
+    "fetched_at": "2026-06-13T13:20:13.665428+00:00"
   },
   {
-    "title": "ETH futures flash bearish signal, but stakers\u2019 resilience points to underlying strength",
-    "url": "https://cointelegraph.com/markets/eth-futures-flash-bearish-signal-but-stakers-resilience-points-to-underlying-strength",
-    "summary": "Demand for ETH leverage remains low, but corporate accumulation and stakers\u2019 dedication may prevent an Ether price crash to $1,500. ",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-06-13T11:45:20.623606+00:00"
-  },
-  {
-    "title": "Top Motorcycle Exporter China Urges Industry to Curb Price Wars",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-13/top-motorcycle-exporter-china-urges-industry-to-curb-price-wars",
-    "summary": "China\u2019s motorcycle industry trade body urged companies across the sector to curb price wars and focus on higher-quality growth, warning that imitation and a flood of similar products are squeezing profits and hurting the reputation of Chinese manufacturing.",
+    "title": "US and Iran Move Closer to Deal Despite Hormuz Skirmishes",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-13/us-strikes-iranian-drones-while-talks-continue-for-interim-deal",
+    "summary": "Pakistan said an interim US-Iran deal to reopen the Strait of Hormuz could be finalized within 24 hours, raising expectations that the sides may be nearing a broader agreement after recent skirmishes near the strategic waterway.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-13T11:45:21.757744+00:00"
+    "fetched_at": "2026-06-13T13:20:14.429617+00:00"
   },
   {
-    "title": "Former ECB Rate-Setter Muller Reports for Duty as Volunteer Cop",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-13/former-ecb-rate-setter-muller-reports-for-duty-as-volunteer-cop",
-    "summary": "Just days after finishing a seven-year stint at the helm of Estonia\u2019s central bank, Madis Muller is preparing for a very different role: volunteering in the police\u2019s criminal-investigations unit.",
+    "title": "Brazil\u2019s World Cup Grilling Tradition Challenged by Beef Prices",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-13/what-are-brazil-s-world-cup-fans-grilling-more-chicken-and-pork-less-beef",
+    "summary": "Soaring prices for the world\u2019s largest beef producer, Brazil, mean households will be buying less red meat when they gather to watch Brazil\u2019s first game of the FIFA World Cup this Saturday.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-13T11:45:21.757797+00:00"
+    "fetched_at": "2026-06-13T13:20:14.429677+00:00"
   },
   {
     "title": "Standard Chartered Calls Crypto Bottom as Bitcoin Price Recovers From $59,000 Low",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-13T11:45:21.054526+00:00"
+    "fetched_at": "2026-06-13T13:20:13.984184+00:00"
   },
   {
     "title": "Blockworks Acquires Messari in Deal Highlighting Crypto\u2019s Data Consolidation Race",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-13T11:45:21.054590+00:00"
+    "fetched_at": "2026-06-13T13:20:13.984254+00:00"
+  },
+  {
+    "title": "AI Agent Rekts Dev on Bogus Scan, Leaves Them Begging for Crypto Donations",
+    "url": "https://decrypt.co/370988/ai-agent-rekts-dev-bogus-scan-crypto-donations",
+    "summary": "A hobbyist network handed an autonomous agent a masterclass in why you don't give AI a credit card and a deadline.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-13T13:20:14.073690+00:00"
   },
   {
     "title": "How Crypto Firms Will Own the Octagon at Trump's White House UFC Event",
@@ -60,16 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-13T11:45:21.213777+00:00"
-  },
-  {
-    "title": "AI Agents Still Can't Stop Prompt Injection Attacks, Researchers Warn",
-    "url": "https://decrypt.co/370972/ai-agents-prompt-injection-attacks-research",
-    "summary": "A new benchmark study found AI agents remain vulnerable to prompt injection attacks as companies increasingly roll out the technology to the public.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-13T11:45:21.213829+00:00"
+    "fetched_at": "2026-06-13T13:20:14.073745+00:00"
   },
   {
     "title": "CFTC sues New Mexico in latest bid to assert authority over sports betting markets",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-13T11:45:21.353681+00:00"
+    "fetched_at": "2026-06-13T13:20:14.153026+00:00"
   },
   {
     "title": "Former SEC Chair Gensler rejects CFTC claim of authority over prediction market sports betting",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-13T11:45:21.353742+00:00"
+    "fetched_at": "2026-06-13T13:20:14.153093+00:00"
   },
   {
     "title": "How Wall Street pulled off the biggest IPO in history for SpaceX",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-13T11:45:22.471282+00:00"
+    "fetched_at": "2026-06-13T13:20:15.129697+00:00"
   },
   {
     "title": "AI is disrupting investment",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-13T11:45:22.471326+00:00"
+    "fetched_at": "2026-06-13T13:20:15.129747+00:00"
   }
 ]
