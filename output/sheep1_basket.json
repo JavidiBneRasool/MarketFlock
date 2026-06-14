@@ -1,39 +1,39 @@
 [
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "title": "Humanity Protocol\u2019s $36M hack tied to suspected North Korean hackers: Quantstamp",
+    "url": "https://cointelegraph.com/news/humanity-protocol-hack-linked-north-korean-actors-quantstamp",
+    "summary": "A fake Bithumb email used in the $36 million Humanity Protocol hack points to the involvement of North Korean threat actors, according to Quantstamp.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-14T10:42:41.462251+00:00"
+    "fetched_at": "2026-06-14T12:56:10.647165+00:00"
   },
   {
-    "title": "Trump says Iran peace deal to be signed Sunday, contradicting Tehran",
-    "url": "https://cointelegraph.com/news/trump-says-iran-peace-deal-to-be-signed-sunday-contradicting-tehran",
-    "summary": "Crypto analyst Micha\u00ebl van de Poppe said a peace deal, which would reopen the Strait of Hormuz, would likely send liquidity back to risk-on assets such as cryptocurrencies.",
+    "title": "Bitcoin nears $65K as Trump says Hormuz will 'open to all' in Sunday Iran peace deal",
+    "url": "https://cointelegraph.com/markets/bitcoin-nears-65k-as-trump-says-hormuz-will-open-to-all-in-sunday-iran-peace-deal",
+    "summary": "Bitcoin stayed near local highs on a new US-Iran peace deal pledge as analysis saw conditions favoring a sustained BTC price rebound.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-14T10:42:41.462327+00:00"
+    "fetched_at": "2026-06-14T12:56:10.647246+00:00"
   },
   {
-    "title": "Wall Street Is Gaining Access to New Catastrophe Models to Help Predict Wars",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-14/wall-street-gets-access-to-new-catastrophe-models-to-predict-wars",
-    "summary": "As Wall Street races to incorporate war into its risk scenarios, the same people modeling natural catastrophes are now adapting their methodology to help investors, banks and insurers predict military conflicts.",
+    "title": "Switzerland Narrowly Rejects Proposal to Cap Population at 10 Million",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-14/switzerland-narrowly-rejects-proposal-to-cap-population-video",
+    "summary": "Switzerland recently held a referendum on a proposal to limit the country's population to 10 million, which was narrowly rejected by voters with a 55 to 45 percent margin. The proposal, primarily backed by the right-wing Swiss People's Party, aimed to restrict immigration amid concerns about space a",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-14T10:42:42.238809+00:00"
+    "fetched_at": "2026-06-14T12:56:18.549794+00:00"
   },
   {
-    "title": "SpaceX Surge Further Boosts Saudi Billionaire Prince\u2019s Fortune",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-14/spacex-surge-further-boosts-saudi-billionaire-prince-s-fortune",
-    "summary": "Friday\u2019s debut share surge for SpaceX is bolstering the fortunes of one of Saudi Arabia\u2019s richest men.",
+    "title": "Diverging Rate Paths Force Reshuffle in Emerging-Market Bets",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-14/diverging-rate-paths-force-reshuffle-in-emerging-market-bets",
+    "summary": "A growing divergence in interest-rate outlooks is forcing emerging-market investors to reshuffle bets.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-14T10:42:42.238893+00:00"
+    "fetched_at": "2026-06-14T12:56:18.549849+00:00"
   },
   {
     "title": "Standard Chartered Calls Crypto Bottom as Bitcoin Price Recovers From $59,000 Low",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-14T10:42:41.699405+00:00"
+    "fetched_at": "2026-06-14T12:56:10.920000+00:00"
   },
   {
     "title": "Blockworks Acquires Messari in Deal Highlighting Crypto\u2019s Data Consolidation Race",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-14T10:42:41.699473+00:00"
+    "fetched_at": "2026-06-14T12:56:10.920070+00:00"
   },
   {
     "title": "US Government Orders Anthropic to Pull Claude Fable, Mythos AI Models",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-14T10:42:41.793793+00:00"
+    "fetched_at": "2026-06-14T12:56:11.023759+00:00"
   },
   {
     "title": "Google Sues Chinese Crime Group for Allegedly Using Gemini AI for Mass Phishing Scams",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-14T10:42:41.793897+00:00"
+    "fetched_at": "2026-06-14T12:56:11.023816+00:00"
   },
   {
     "title": "Venice and Morpheus tokens climb as US ban on Anthropic\u2019s Fable 5 fuels \u2018permissionless AI\u2019 pitch",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-14T10:42:41.868101+00:00"
+    "fetched_at": "2026-06-14T12:56:11.120013+00:00"
   },
   {
     "title": "Coinbase quantum report flags exchange cold wallets among millions of bitcoin exposed by address reuse",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-14T10:42:41.868171+00:00"
+    "fetched_at": "2026-06-14T12:56:11.120084+00:00"
   },
   {
     "title": "Wall Street digests record fundraising haul as AI race intensifies",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-14T10:42:43.006433+00:00"
+    "fetched_at": "2026-06-14T12:56:19.192731+00:00"
   },
   {
     "title": "China tees up digital payments system to compete with dollar",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-14T10:42:43.006491+00:00"
+    "fetched_at": "2026-06-14T12:56:19.192788+00:00"
   }
 ]
