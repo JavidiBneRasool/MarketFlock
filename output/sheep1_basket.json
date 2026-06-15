@@ -1,39 +1,39 @@
 [
   {
+    "title": "Here\u2019s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-14T23:59:20.637833+00:00"
+  },
+  {
     "title": "StanChart looks for 3 signs of BTC bottom, including Strategy\u2019s Monday news",
     "url": "https://cointelegraph.com/news/stanchart-looks-for-3-signs-of-btc-bottom-including-strategys-monday-news",
     "summary": "Standard Chartered\u2019s Geoff Kendrick tells clients \u201cwinter is over\u201d as the analyst said crypto prices have likely seen the low for the cycle, ahead of Strategy\u2019s Bitcoin purchase update.\n",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-14T22:04:26.035616+00:00"
+    "fetched_at": "2026-06-14T23:59:20.637910+00:00"
   },
   {
-    "title": "Ethereum can quantum-proof accounts for just 7 cents, says Ethereum's Kohaku lead",
-    "url": "https://cointelegraph.com/news/ethereum-quantum-proof-accounts-7-cents-researcher",
-    "summary": "The SPHINCS- proposal aims to reduce the cost of post-quantum signature verification on Ethereum while the network works toward a longer-term solution.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-06-14T22:04:26.035696+00:00"
-  },
-  {
-    "title": "Bond Funds Chase Australian Debt on Peak RBA Interest Rate Bets",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-14/bond-funds-chase-australian-debt-on-peak-rba-interest-rate-bets",
-    "summary": "Local and global bond funds are snapping up Australian debt as economic strains signal the end of the Reserve Bank\u2019s hiking cycle.",
+    "title": "US and Iran Agree to Deal Halting War",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-14/us-and-iran-agree-to-deal-halting-war-video",
+    "summary": "The US and Iran reached an interim agreement to reopen the Strait of Hormuz, halting a war that killed thousands of people and setting the stage for negotiations on the fate of Iran's nuclear program. (Source: Bloomberg)",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-14T22:04:26.610882+00:00"
+    "fetched_at": "2026-06-14T23:59:21.828445+00:00"
   },
   {
-    "title": "Japan\u2019s Top Bond-Trading Regional Bank Buys JGBs After Decade",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-14/japan-s-top-bond-trading-regional-bank-buys-jgbs-after-decade",
-    "summary": "The Japanese regional bank with the best recent record for trading bonds has started buying Japanese government debt for the first time in a decade.",
+    "title": "ASX Faces $14.5 Million Fine Over Misleading Chess Statement",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-14/asic-says-asx-agrees-to-pay-fine-over-misleading-chess-statement",
+    "summary": "ASX Ltd. admitted that a 2022 statement about its clearing and settlement system replacement was misleading and will face a A$20.5 million ($14.5 million) penalty, Australia\u2019s securities regulator said, resolving legal proceedings tied to the project.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-14T22:04:26.610941+00:00"
+    "fetched_at": "2026-06-14T23:59:21.828503+00:00"
   },
   {
     "title": "Standard Chartered Calls Crypto Bottom as Bitcoin Price Recovers From $59,000 Low",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-14T22:04:26.255262+00:00"
+    "fetched_at": "2026-06-14T23:59:21.021626+00:00"
   },
   {
     "title": "Blockworks Acquires Messari in Deal Highlighting Crypto\u2019s Data Consolidation Race",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-14T22:04:26.255344+00:00"
+    "fetched_at": "2026-06-14T23:59:21.021726+00:00"
   },
   {
     "title": "Reve 2.0 Review: The Best AI Image Generator for Layout Control",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-14T22:04:26.342085+00:00"
+    "fetched_at": "2026-06-14T23:59:21.192055+00:00"
   },
   {
     "title": "Pok\u00e9mon Card Sales Are Surging on Crypto Platforms\u2014Just Don't Call It Gambling",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-14T22:04:26.342146+00:00"
+    "fetched_at": "2026-06-14T23:59:21.192117+00:00"
+  },
+  {
+    "title": "Zimbabwe moves to regulate crypto sector, requiring firms to register with central bank: Reuters",
+    "url": "https://www.theblock.co/post/404705/zimbabwe-moves-to-regulate-crypto-sector-requiring-firms-to-register-with-central-bank-reuters",
+    "summary": "Registration costs an initial $500 with renewal costing $400 a year, and operating without registration is now an offense, according to Reuters.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-14T23:59:21.388948+00:00"
   },
   {
     "title": "Bitcoin mining difficulty drops 10% in second-largest negative adjustment of 2026",
@@ -78,33 +87,24 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-14T22:04:26.437681+00:00"
+    "fetched_at": "2026-06-14T23:59:21.389018+00:00"
   },
   {
-    "title": "Trump-backed World Liberty Financial to fund UFC fighter bonuses in USD1 stablecoin at White House event",
-    "url": "https://www.theblock.co/post/404697/trump-backed-world-liberty-financial-to-fund-ufc-fighter-bonuses-in-usd1-stablecoin-at-white-house-event",
-    "summary": "The deal puts USD1 branding inside the Octagon at an event held on the White House South Lawn, on President Trump's 80th birthday.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-14T22:04:26.437753+00:00"
-  },
-  {
-    "title": "Pakistan says Iran and US agree deal to open Strait of Hormuz and extend ceasefire",
+    "title": "Iran and US agree deal to open Strait of Hormuz and extend ceasefire",
     "url": "https://www.ft.com/content/76bed6e5-ab1f-43ff-a6c0-ae5e7cdbf3c1",
-    "summary": "Leaders expected to sign agreement on Friday for Tehran to clear mines in waterway and Washington to end blockade",
+    "summary": "Leaders to sign agreement on Friday for reopening of waterway and end to US naval blockade of Iranian ports",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-14T22:04:27.362673+00:00"
+    "fetched_at": "2026-06-14T23:59:22.646443+00:00"
   },
   {
-    "title": "How Israel\u2019s \u2018trampoline\u2019 economy has adapted to war",
-    "url": "https://www.ft.com/content/3cce2be6-0fe4-47db-acce-1df6e7c83dfd",
-    "summary": "After two decades of growth the country has proven to be surprisingly resilient to war and energy shocks",
+    "title": "What is in the US-Iran deal?",
+    "url": "https://www.ft.com/content/3bc9f664-dcad-4c2e-b745-91bb4e0fa934",
+    "summary": "Agreement will extend ceasefire by 60 days, reopen the Strait of Hormuz and begin nuclear negotiations",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-14T22:04:27.362734+00:00"
+    "fetched_at": "2026-06-14T23:59:22.646494+00:00"
   }
 ]
