@@ -66493,3 +66493,237 @@ From https://github.com/JavidiBneRasool/MarketFlock
  * branch            main       -> FETCH_HEAD
 
 --- SYNC END ---
+
+--- SYNC START: 2026-06-16 12:00:51 ---
+------------------------------------------
+🤖 Starting MarketFlock Sync: Tue Jun 16 12:00:51 UTC 2026
+------------------------------------------
+🔄 Step 0: Syncing with GitHub (Main)...
+📥 Pulling latest changes...
+Already up to date.
+🐑 Step 1: Running AI Pipeline & Social Posting...
+
+╔════════════════════════════════╗
+║   🤖 MARKETFLOCK AI AGENT    ║
+║   10 Sources • Social Hub   ║
+╚════════════════════════════════╝
+
+
+========================================
+RUNNING Sheep 1 (Scout)...
+========================================
+🐑 SHEEP 1: Scouting market, crypto, and finance sources...
+   [Crypto] Solana treasury firms resist Forward Industries’ consolidati...
+   [Crypto] Bitcoin doesn't need Ethereum-style yield, says Strategy's M...
+   [Markets] US Oil Reserve Hits 43-Year Low as Trump Aims to Tame Prices...
+   [Markets] Worst of US Inflation May Be Over If Iran Peace Deal Sticks...
+   [Crypto] Bitcoin Price and Crypto Stocks Surge as Iran Ceasefire, Str...
+   [Crypto] BitGo Joins Fortune 500 with $16.2B Revenue, Marking Milesto...
+   [Crypto] South Korea Charges 23 Over Crypto Laundering Tied to $11M C...
+   [Crypto] Elon Musk Loses Again to OpenAI as Judge Dismisses xAI Trade...
+   [Crypto] BlackRock launches new Bitcoin ETF that generates income usi...
+   [Crypto] Coinbase, AWS enable publishers on CloudFront and WAF to cha...
+   [Markets] SpaceX set to leapfrog Amazon to become world’s fifth-larges...
+   [Markets] OpenAI spending hit $34bn last year ahead of planned IPO...
+🐑 SHEEP 1: 12 articles from 22 sources ✓
+
+
+========================================
+RUNNING Sheep 2 (Verifier)...
+========================================
+🐑 SHEEP 2: Verifying source authenticity...
+🐑 SHEEP 2: 0/12 trusted, 0 blocked ✓
+
+
+========================================
+RUNNING Sheep 3 (Compliance)...
+========================================
+🐑 SHEEP 3: Checking...
+🐑 SHEEP 3: 12 passed, 0 blocked
+
+
+========================================
+RUNNING Sheep 4 (Designer)...
+========================================
+🐑 SHEEP 4: Designing...
+🐑 SHEEP 4: 12 templates ready ✓
+
+
+========================================
+RUNNING Sheep 5 (Headlines)...
+========================================
+🐑 SHEEP 5: Headlines & Images (AI-powered)...
+  → Headline 1/12...
+  → Headline 2/12...
+  → Headline 3/12...
+  → Headline 4/12...
+  → Headline 5/12...
+  → Headline 6/12...
+  → Headline 7/12...
+  → Headline 8/12...
+  → Headline 9/12...
+  → Headline 10/12...
+  → Headline 11/12...
+  → Headline 12/12...
+🐑 SHEEP 5: 12 AI headlines ready ✓
+
+
+========================================
+RUNNING Sheep 6 (Writer)...
+========================================
+🐑 SHEEP 6: Expert Analyst Writing...
+🐑 SHEEP 6: 12 analyst reports written with SEO slugs ✓
+
+
+========================================
+RUNNING Sheep 7 (Auditor)...
+========================================
+🐑 SHEEP 7: Auditing (Branding + Substance Gate)...
+🐑 SHEEP 7: 12 clean, 0 with errors ✓
+
+
+========================================
+RUNNING Sheep 11 (Translator)...
+========================================
+🐑 SHEEP 11: Generating Urdu translations...
+   Translating intelligence signals...
+🐑 SHEEP 11: 256 Urdu strings ready ✓
+
+
+========================================
+RUNNING Sheep 13 (Monetizer)...
+========================================
+
+
+========================================
+RUNNING Cleanup (Delete old deployments)...
+========================================
+
+⚠ Cleanup (Delete old deployments) ERROR: Traceback (most recent call last):
+  File "/home/runner/work/MarketFlock/MarketFlock/sheep8/cleanup_deployments.py", line 4, in <module>
+    from config_loader import get_credential, get_flock_config
+  File "/home/runner/work/MarketFlock/MarketFlock/config_loader.py", line 34, in <module>
+    from vault_agent import VaultFlock
+ModuleNotFoundError: No module named 'vault_agent'
+
+
+========================================
+RUNNING Sheep 8 (Publisher)...
+========================================
+🐑 SHEEP 8: Publishing Expert Signals...
+
+⚠ Sheep 8 (Publisher) ERROR: Traceback (most recent call last):
+  File "/home/runner/work/MarketFlock/MarketFlock/sheep8/publisher.py", line 533, in <module>
+    run()
+  File "/home/runner/work/MarketFlock/MarketFlock/sheep8/publisher.py", line 379, in run
+    shutil.copy(f"{os.path.dirname(PROJECT)}/shared/styles/global.css", f"{SITE_DIR}/style.css")
+  File "/opt/hostedtoolcache/Python/3.10.20/x64/lib/python3.10/shutil.py", line 417, in copy
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+  File "/opt/hostedtoolcache/Python/3.10.20/x64/lib/python3.10/shutil.py", line 254, in copyfile
+    with open(src, 'rb') as fsrc:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/runner/work/MarketFlock/shared/styles/global.css'
+
+
+========================================
+RUNNING Sheep 9 (Reporter)...
+========================================
+🐑 SHEEP 9: Generating Intelligence Reports...
+==================================================
+🤖 AUTOFLOCK - AI MISSION REPORT
+==================================================
+Time: 2026-06-16 12:01:42
+
+  [Crypto] Solana Funds Reject $100M Forward Industries Merger Bid...
+  [Crypto] Bitcoin Outperforms Ethereum Yields 20%...
+  [Markets] US Oil Reserves Fall to 43-Year Low...
+  [Markets] US Inflation Slows 2% on Iran Deal Hopes...
+  [Crypto] Bitcoin Surges 10% on $100M Buy Amid Fed Week...
+  [Crypto] BitGo Hits $16.2B Revenue, Enters Fortune 500...
+  [Crypto] $11M Crypto Scam: Seoul Charges 23 in Laundering Probe...
+  [Crypto] Musk's $1B xAI Lawsuit Dismissed Overnight...
+  [Crypto] BlackRock Debuts Bitcoin Income ETF with 5% Yield...
+  [Crypto] Coinbase Enables $402 Payments for AI Agents...
+  [Markets] SpaceX Surges Past Amazon in $1 Trillion Valuation...
+  [Markets] OpenAI Burns $34bn Ahead of Planned IPO Filing...
+
+==================================================
+✅ SHEEP 1 (Scout)
+✅ SHEEP 2 (Verifier)
+✅ SHEEP 3 (Compliance)
+✅ SHEEP 5 (Headlines)
+✅ SHEEP 6 (Writer)
+✅ SHEEP 7 (Auditor)
+❌ SHEEP 8 (Publisher)
+✅ SHEEP 9 (Reporter)
+
+🐑 Alpha Signal & Mission Report Complete
+
+
+========================================
+RUNNING Sheep 10 (Social)...
+========================================
+🐑 SHEEP 10: Posting Analyst Hooks to Social Hub...
+
+⚠ Sheep 10 (Social) ERROR: Traceback (most recent call last):
+  File "/home/runner/work/MarketFlock/MarketFlock/sheep10/social_poster.py", line 139, in <module>
+    run()
+  File "/home/runner/work/MarketFlock/MarketFlock/sheep10/social_poster.py", line 84, in run
+    config = load_config()
+  File "/home/runner/work/MarketFlock/MarketFlock/sheep10/social_poster.py", line 19, in load_config
+    from config_loader import get_flock_config
+  File "/home/runner/work/MarketFlock/MarketFlock/config_loader.py", line 34, in <module>
+    from vault_agent import VaultFlock
+ModuleNotFoundError: No module named 'vault_agent'
+
+
+========================================
+RUNNING Sheep 12 (Indexer)...
+========================================
+🐑 SHEEP 12: Activating News Signal Engine...
+   ✓ Sitemap ready: https://market.cutbar.in/sitemap.xml
+   ✓ Sitemap ready: https://market.cutbar.in/news-sitemap.xml
+   ! IndexNow key missing or no URLs. Skipping IndexNow.
+
+⚠ Sheep 12 (Indexer) ERROR: Traceback (most recent call last):
+  File "/home/runner/work/MarketFlock/MarketFlock/sheep12/indexer.py", line 106, in <module>
+    run()
+  File "/home/runner/work/MarketFlock/MarketFlock/sheep12/indexer.py", line 54, in run
+    from config_loader import get_credential
+  File "/home/runner/work/MarketFlock/MarketFlock/config_loader.py", line 34, in <module>
+    from vault_agent import VaultFlock
+ModuleNotFoundError: No module named 'vault_agent'
+
+
+========================================
+RUNNING Sheep 14 (SEO)...
+========================================
+🐑 SHEEP 14: Updating Sitemap & SEO Index...
+✅ Sitemap updated with 162 URLs.
+✅ News sitemap updated with 162 URLs.
+✅ robots.txt generated.
+
+
+========================================
+RUNNING Sheep 15 (GSC Indexer)...
+========================================
+
+⚠ Sheep 15 (GSC Indexer) ERROR: /opt/hostedtoolcache/Python/3.10.20/x64/lib/python3.10/site-packages/google/api_core/_python_version_support.py:255: FutureWarning: You are using a Python version (3.10.20) which Google will stop supporting in new releases of google.api_core once it reaches its end of life (2026-10-04). Please upgrade to the latest Python version, or at least Python 3.11, to continue receiving updates for google.api_core past that date.
+  warnings.warn(message, FutureWarning)
+Traceback (most recent call last):
+  File "/home/runner/work/MarketFlock/MarketFlock/sheep15_gsc.py", line 4, in <module>
+    from config_loader import get_credential
+  File "/home/runner/work/MarketFlock/MarketFlock/config_loader.py", line 34, in <module>
+    from vault_agent import VaultFlock
+ModuleNotFoundError: No module named 'vault_agent'
+
+
+✅ ORCHESTRATOR FINISHED
+------------------------------------------
+❌ SYNC FAILED: AI pipeline failed or timed out
+------------------------------------------
+
+ERRORS:
+From https://github.com/JavidiBneRasool/MarketFlock
+ * branch            main       -> FETCH_HEAD
+
+--- SYNC END ---
