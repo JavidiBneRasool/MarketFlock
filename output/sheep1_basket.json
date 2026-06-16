@@ -1,39 +1,39 @@
 [
   {
-    "title": "Bitcoin metric near \u2018low-risk\u2019 zone after holders absorb 125K BTC in June: Time for a rebound?",
-    "url": "https://cointelegraph.com/markets/bitcoin-risk-metric-nears-low-risk-zone-as-holders-absorb-125k-btc-in-june",
-    "summary": "Bitcoin\u2019s Sharpe ratio and a 125,000 BTC increase in BTC accumulator demand mark the start of a new demand phase. Will prices follow?",
+    "title": "Bitcoin tops $67K following US-Iran peace deal: Is it a bull trap?",
+    "url": "https://cointelegraph.com/markets/bitcoin-tops-67k-following-us-iran-peace-deal-is-it-a-bull-trap",
+    "summary": "Despite Bitcoin derivatives data highlight traders\u2019 skepticism even though BTC briefly rallied above $67,000. Are bulls stepping into a trap?",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-16T20:34:45.044662+00:00"
+    "fetched_at": "2026-06-16T22:46:13.008626+00:00"
   },
   {
-    "title": "Crypto PAC has $12M stake in Senate primary runoff as Alabama voters head to polls",
-    "url": "https://cointelegraph.com/news/crypto-pac-fairshake-senate-primary-alabama-voters",
-    "summary": "Defend American Jobs reported spending $7.4 million on media to support Republican Barry Moore ahead of his May 20 Alabama primary, and an additional $4.7 million before Tuesday\u2019s runoffs.",
+    "title": "Here\u2019s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-16T20:34:45.044742+00:00"
+    "fetched_at": "2026-06-16T22:46:13.008704+00:00"
   },
   {
-    "title": "Biofuels Are Key to Avoiding Sharp Farmland Drop, S&amp;P Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-16/biofuels-are-key-to-preventing-sharp-drop-in-farmland-s-p-says",
-    "summary": "Expanding biofuel demand is a \u201cpowerful catalyst\u201d to restore profitability to American farms, according to a new study, as harvests balloon and lawmakers consider broadening the market for corn-based ethanol.",
+    "title": "Kalshi Aims to Expand Perpetual Futures After $5.5 Billion Debut",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-16/kalshi-aims-to-expand-perpetual-futures-after-5-5-billion-debut",
+    "summary": "Kalshi Inc. is looking to expand its new perpetual futures business beyond digital assets after the never-expiring derivatives racked up more than $5.5 billion of trading volume in their first two weeks on the prediction-market platform.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-16T20:34:46.029742+00:00"
+    "fetched_at": "2026-06-16T22:46:14.087264+00:00"
   },
   {
-    "title": "T-Shirt Maker Gildan Plunges on Short Seller\u2019s Revenue Claim",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-16/gildan-activewear-shares-fall-24-after-jehoshaphat-alleges-channel-stuffing",
-    "summary": "Shares of Gildan Activewear Inc. tumbled the most in more than six years after short seller Jehoshaphat Research published a negative report accusing the company of inflating revenue.",
+    "title": "Asian Stocks to Slip Ahead of Fed, Oil Steadies: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-16/asian-stocks-to-slip-ahead-of-fed-oil-steadies-markets-wrap",
+    "summary": "Stocks in Asia looked set to snap a three-day winning streak, tracking declines on Wall Street as investors rotated out of technology shares and positioned for the first Federal Reserve policy decision under Chairman Kevin Warsh.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-16T20:34:46.029820+00:00"
+    "fetched_at": "2026-06-16T22:46:14.087322+00:00"
   },
   {
     "title": "VanEck: Bitcoin Miners Face $50B Funding Gap as AI Pivot Separates Winners From Losers",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-16T20:34:45.237962+00:00"
+    "fetched_at": "2026-06-16T22:46:13.409658+00:00"
   },
   {
     "title": "Invite-Only Mita TechTalks 2026 to Unite Bitcoin, AI and Energy Leaders in Punta Mita",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-16T20:34:45.238028+00:00"
+    "fetched_at": "2026-06-16T22:46:13.409725+00:00"
+  },
+  {
+    "title": "Alibaba Is Building Qwen-Robot: The Operating System for the Robot Economy",
+    "url": "https://decrypt.co/371357/alibaba-qwen-robot-operating-system-robot-economy",
+    "summary": "The Chinese company is doubling down on its \"embodied AI\" bet.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-16T22:46:13.516781+00:00"
   },
   {
     "title": "Crypto Exchange Binance Will Be Rejected for EU Regulatory License: Reuters",
@@ -60,16 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-16T20:34:45.411436+00:00"
-  },
-  {
-    "title": "ChatGPT Is Still Huge, But Rival AI Chatbots Are Catching Up Fast",
-    "url": "https://decrypt.co/371318/chatgpt-ai-market-share-claude-gemini-grok",
-    "summary": "Sensor Tower's State of AI 2026 report shows ChatGPT's audience share slipping below 50% for the first time, as Gemini's default-app advantage and Claude's Pentagon-fueled rally eat into OpenAI's lead.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-16T20:34:45.411491+00:00"
+    "fetched_at": "2026-06-16T22:46:13.516837+00:00"
   },
   {
     "title": "Bipartisan senators push Treasury to uphold states\u2019 authorities under the GENIUS Act",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-16T20:34:45.576878+00:00"
+    "fetched_at": "2026-06-16T22:46:13.621223+00:00"
   },
   {
     "title": "Coinbase unveils \u2018System Update\u2019 unlocking an AI advisor, global unified liquidity, options trading and more",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-16T20:34:45.576950+00:00"
+    "fetched_at": "2026-06-16T22:46:13.621297+00:00"
   },
   {
     "title": "US and Europe discuss access to AI models after Anthropic dispute",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-16T20:34:46.969548+00:00"
+    "fetched_at": "2026-06-16T22:46:14.792740+00:00"
   },
   {
     "title": "Private equity bosses warn of AI threat to bets on law and accountancy",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-16T20:34:46.969607+00:00"
+    "fetched_at": "2026-06-16T22:46:14.792800+00:00"
   }
 ]
