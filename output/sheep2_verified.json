@@ -1,24 +1,36 @@
 [
   {
-    "title": "Nvidia\u2019s $20 billion debt boom reinforces Bitcoin miners' AI pivot",
-    "url": "https://cointelegraph.com/news/nvidia-20-billion-debt-boom-reinforces-bitocin-minings-ai-pivot",
-    "summary": "Nvidia\u2019s planned bond sale reinforces booming AI infrastructure demand, strengthening the case for Bitcoin miners pivoting toward AI data centers.\n",
+    "title": "Here\u2019s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-15T22:53:43.902904+00:00",
+    "fetched_at": "2026-06-16T00:21:26.746000+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "CFTC hires SEC crypto task force adviser with blockchain forensics chops",
-    "url": "https://cointelegraph.com/news/sec-crypto-adviser-cftc-blockchain-forensics",
-    "summary": "The CFTC staff appointment came amid the US Congress seeking to overhaul federal financial regulators\u2019 roles over digital assets with the CLARITY Act.",
+    "title": "Trump crypto company's USD1 stablecoins backing UFC event bonuses",
+    "url": "https://cointelegraph.com/news/donald-trump-crypto-company-ufc-fighter-bonuses-usd1-stablecoins",
+    "summary": "A spokesperson for the Democratic National Committee decried the move as \u201can opportunity to use the power of the presidency to make [Trump] and his family even richer.\u201d",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-15T22:53:43.902980+00:00",
+    "fetched_at": "2026-06-16T00:21:26.746072+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "SpaceX IPO in Focus as Iran Fears Ease | The Asia Trade 6/12/2026",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-12/the-asia-trade-6-12-2026-video",
+    "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-06-16T00:21:27.927045+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,19 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-15T22:53:44.825327+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "IG4 Offers to Buy Raizen Debt in Quest for Majority Stake",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-15/raizen-raiz4-restructuring-ig4-offers-to-buy-debt-to-seek-majority-stake",
-    "summary": "Private equity firm IG4 Capital, fresh off a deal to take control of petrochemical giant Braskem SA, is now setting its sights on sugar and ethanol producer Raizen SA, another major Brazilian company in distress.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-06-15T22:53:44.825399+00:00",
+    "fetched_at": "2026-06-16T00:21:27.927103+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-15T22:53:44.196120+00:00",
+    "fetched_at": "2026-06-16T00:21:26.987486+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-15T22:53:44.196197+00:00",
+    "fetched_at": "2026-06-16T00:21:26.987583+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-15T22:53:44.300601+00:00",
+    "fetched_at": "2026-06-16T00:21:27.109507+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-15T22:53:44.300666+00:00",
+    "fetched_at": "2026-06-16T00:21:27.109578+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-15T22:53:44.410271+00:00",
+    "fetched_at": "2026-06-16T00:21:27.233426+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-15T22:53:44.410347+00:00",
+    "fetched_at": "2026-06-16T00:21:27.233519+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,19 +126,19 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-15T22:53:45.563673+00:00",
+    "fetched_at": "2026-06-16T00:21:28.918964+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Average US petrol price falls below $4 on deal to reopen Strait of Hormuz",
+    "title": "Average US petrol price falls below $4 on plan to reopen Strait of Hormuz",
     "url": "https://www.ft.com/content/ff17e2a2-7744-4e19-9e1d-23bc5892191c",
     "summary": "As cost at the pump declines to nearly two-month low, analysts warn risk of a surge \u2018has not completely disappeared\u2019",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-15T22:53:45.563734+00:00",
+    "fetched_at": "2026-06-16T00:21:28.919025+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
