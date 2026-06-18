@@ -1,21 +1,39 @@
 [
   {
-    "title": "China Stock Gauge Heads for Bear Market as Tech Weakness Extends",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-18/china-stock-gauge-heads-for-bear-market-as-tech-weakness-extends",
-    "summary": "A major Chinese stock gauge is on track for a bear market, pressured by weakness in Internet and consumer firms.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
+    "title": "Bitcoin market cap rebound to take '5-10 years' after dropping 10 places since mid-2025",
+    "url": "https://cointelegraph.com/markets/bitcoin-market-cap-rebound-to-take-5-10-years-after-dropping-10-places-since-mid-2025",
+    "summary": "Bitcoin could be absent from the world's top five assets by market cap until 2036, despite an estimate seeing the BTC bear market being nearly 70% complete.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-18T07:24:55.629294+00:00"
+    "fetched_at": "2026-06-18T11:42:59.301472+00:00"
   },
   {
-    "title": "Tesco Sales Disappoint as Wetter Weather Deters UK Shoppers",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-18/tesco-sales-disappoint-as-higher-prices-deter-uk-shoppers",
-    "summary": "Tesco Plc\u2019s sales rose less than expected in the fiscal first quarter as the UK\u2019s biggest supermarket grapples with weaker consumer sentiment and a tough comparison with last year.",
+    "title": "Aztec hit by second $2.1M exploit in less than week: SlowMist",
+    "url": "https://cointelegraph.com/news/aztec-exploited-21-million-previous-hack-slowmist",
+    "summary": "Security researchers warn that deprecated smart contracts can remain vulnerable long after projects stop maintaining them.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-18T11:42:59.301544+00:00"
+  },
+  {
+    "title": "Wellington\u2019s Geary Says Stocks Rotation Trade Is Coming Back",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-18/wellington-s-geary-says-stocks-rotation-trade-is-coming-back",
+    "summary": "The end of the Iran war is reviving investor appetite for stocks outside the US, according to Scott Geary, the head of global wealth at Wellington Management.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-18T07:24:55.629338+00:00"
+    "fetched_at": "2026-06-18T11:43:00.024238+00:00"
+  },
+  {
+    "title": "Stocks Rise, Oil Slides After Trump Inks Iran Deal: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-17/asian-stocks-bonds-to-fall-on-hawkish-fed-signals-markets-wrap",
+    "summary": "US stocks rebounded and oil prices fell as some energy shipments began to transit the Strait of Hormuz, hours after President Donald Trump signed a preliminary deal to end the war in the Middle East.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-06-18T11:43:00.024304+00:00"
   },
   {
     "title": "Fed Signals Possible Rate Hikes as Kevin Warsh Opens \u2018New Chapter\u2019 at Central Bank",
@@ -24,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-18T07:24:54.760637+00:00"
+    "fetched_at": "2026-06-18T11:42:59.508968+00:00"
   },
   {
     "title": "Mexican Billionaire Ricardo Salinas Bets 70% of His Portfolio on Bitcoin, Eyes $1 Million Price",
@@ -33,43 +51,43 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-18T07:24:54.760698+00:00"
+    "fetched_at": "2026-06-18T11:42:59.509041+00:00"
   },
   {
-    "title": "France to Phase Out Non-Quantum Encryption as Bitcoin Security Concerns Grow",
-    "url": "https://decrypt.co/371487/france-phase-out-non-quantum-encryption-bitcoin-security-concerns-grow",
-    "summary": "French authorities said that government cybersecurity researchers will stop certifying security products that lack quantum-resistant encryption beginning in 2027.",
+    "title": "CME to Sue CFTC Over Bitcoin Perpetual Futures Approval: CEO",
+    "url": "https://decrypt.co/371514/cme-to-sue-cftc-over-bitcoin-perpetual-futures-approval-ceo",
+    "summary": "Outgoing CME chief Terry Duffy says perpetual futures are actually swaps under Dodd-Frank, and that the exchange will file suit Thursday.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-18T07:24:54.918551+00:00"
+    "fetched_at": "2026-06-18T11:42:59.590514+00:00"
   },
   {
-    "title": "Psychologists Say Patients Are Bringing AI Into Therapy Sessions: Survey",
-    "url": "https://decrypt.co/371451/psychologists-patients-bringing-ai-therapy-sessions-survey",
-    "summary": "A new APA survey found that more than a third of psychologists have patients using AI as an additional mental health professional, even as clinicians warn that the technology can reinforce delusions.",
+    "title": "Bitcoin Steadies Near $64K as Analysts Eye Floor After Hawkish Fed",
+    "url": "https://decrypt.co/371511/bitcoin-steadies-near-64k-as-analysts-eye-floor-after-hawkish-fed",
+    "summary": "BTC slid to around $64,100 after Kevin Warsh's hawkish debut, but analysts argue a $60,000 floor and catalysts could spark a rebound.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-18T07:24:54.918596+00:00"
+    "fetched_at": "2026-06-18T11:42:59.590568+00:00"
   },
   {
-    "title": "Kentucky files lawsuits against prediction market platforms Kalshi and Polymarket",
-    "url": "https://www.theblock.co/post/405185/kentucky-lawsuit-kalshi-polymarket",
-    "summary": "The lawsuits claim prediction market platforms have been offering unlicensed sports gambling in the state while bypassing local regulations.",
+    "title": "Aztec investigates $2 million exploit of deprecated payments product",
+    "url": "https://www.theblock.co/post/405207/aztec-investigates-2-million-exploit-of-deprecated-payments-product",
+    "summary": "The immutable stage 2 rollup was sunset in 2022, and Aztec Labs holds no admin keys or control over the system, the team said.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-18T07:24:55.083140+00:00"
+    "fetched_at": "2026-06-18T11:42:59.678081+00:00"
   },
   {
-    "title": "Ark Invest buys $18 million worth of Coinbase shares, offloads $29 million in Robinhood",
-    "url": "https://www.theblock.co/post/405180/ark-invest-buys-coinbase-offloads-robinhood",
-    "summary": "The trades came as Coinbase's stock closed down 2.57% at $164.92 on Wednesday, while Robinhood gained 8.78%.",
+    "title": "\u2018Bitcoin Rodney\u2019 pleads guilty in $1.8 billion crypto fraud case",
+    "url": "https://www.theblock.co/post/405197/bitcoin-rodney-pleads-guilty-in-1-8-billion-crypto-fraud-case",
+    "summary": "Rodney Burton pleaded guilty in federal court over his role in HyperFund, a $1.8 billion global cryptocurrency fraud scheme.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-18T07:24:55.083194+00:00"
+    "fetched_at": "2026-06-18T11:42:59.678143+00:00"
   },
   {
     "title": "US and Iran sign deal as Trump vows to release frozen funds and ease sanctions",
@@ -78,33 +96,15 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-18T07:24:56.448389+00:00"
+    "fetched_at": "2026-06-18T11:43:00.663249+00:00"
   },
   {
-    "title": "Trump says US will not invest in $300bn fund for Iran",
-    "url": "https://www.ft.com/content/c6dbc33e-f12c-4608-bdf2-c8c4b1cdc211",
-    "summary": "US president\u2019s pushback on reports of provision in peace deal comes after fierce bipartisan backlash",
+    "title": "Hegseth unveils six-month review of US military presence in Europe",
+    "url": "https://www.ft.com/content/41c23df5-91d1-4e6b-9ff1-bdb0ca221978",
+    "summary": "Defence secretary announced decision as he scolded Nato allies for failing to support Washington in Iran war",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-18T07:24:56.448435+00:00"
-  },
-  {
-    "title": "Inside the push to weaken Washington\u2019s toughest financial watchdog",
-    "url": "https://www.marketwatch.com/story/fewer-dollars-and-fuzzier-standards-inside-the-push-to-weaken-washingtons-toughest-financial-watchdog-2601a0ee?mod=mw_rss_topstories",
-    "summary": "The SEC used to intimidate corporate wrongdoers. Now its own commissioners are gutting its leverage.",
-    "source": "MarketWatch",
-    "category": "Stocks",
-    "tier": 9,
-    "fetched_at": "2026-06-18T07:24:56.763537+00:00"
-  },
-  {
-    "title": "Scared to spend your retirement money? Here\u2019s one way to get over the fear of running out.",
-    "url": "https://www.marketwatch.com/story/scared-to-spend-your-retirement-money-heres-one-way-to-get-over-the-fear-of-running-out-05a13dd9?mod=mw_rss_topstories",
-    "summary": "This fear is probably going to cause you some regrets.",
-    "source": "MarketWatch",
-    "category": "Stocks",
-    "tier": 9,
-    "fetched_at": "2026-06-18T07:24:56.763596+00:00"
+    "fetched_at": "2026-06-18T11:43:00.663307+00:00"
   }
 ]
