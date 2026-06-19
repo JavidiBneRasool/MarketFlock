@@ -1,39 +1,39 @@
 [
   {
-    "title": "Algorand plans \u2018broad quantum resilience\u2019 by 2027",
-    "url": "https://cointelegraph.com/news/algorand-plans-broad-quantum-resilience-by-2027",
-    "summary": "Algorand is planning new accounts and consensus mechanisms designed to be resistant to the cryptography-breaking threat of quantum computers.",
+    "title": "Bitcoin tipped for Q3 'macro bottom' near $50K as major liquidity grab looms",
+    "url": "https://cointelegraph.com/markets/bitcoin-tipped-for-q3-macro-bottom-near-50k-as-major-liquidity-grab-looms",
+    "summary": "Bitcoin market participants may be left in \"complete disbelief\" as the market reverses from a liquidity grab without another major leg lower, a trader predicted.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-19T06:05:54.323471+00:00"
+    "fetched_at": "2026-06-19T11:11:32.244455+00:00"
   },
   {
-    "title": "Microsoft warns users of 'Crypto Clipper' malware spread via USB drives",
-    "url": "https://cointelegraph.com/news/microsoft-alerts-users-to-crypto-clipper-windows-malware",
-    "summary": "The malware blends data theft with remote code execution, \u201cturning a financially motivated stealer into a lightweight backdoor,\u201d Microsoft said.",
+    "title": "Bitcoin activity nears record highs on microtransaction surge",
+    "url": "https://cointelegraph.com/news/bitcoin-activity-nears-record-highs-on-microtransaction-surge",
+    "summary": "Near-record OP_RETURN usage is driving a surge in low-value Bitcoin transactions, pushing Bitcoin network activity close to all-time highs despite muted price action.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-19T06:05:54.323554+00:00"
+    "fetched_at": "2026-06-19T11:11:32.244531+00:00"
   },
   {
-    "title": "Goldman Lops $500 Off Gold Target on No Fed Cuts This Year",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-19/goldman-sachs-lops-500-off-gold-target-on-no-fed-cuts-this-year",
-    "summary": "Goldman Sachs Group Inc. cut its year-end gold forecast by $500 an ounce as the Federal Reserve is no longer seen reducing rates in 2026.",
+    "title": "Ambani\u2019s Jio Platforms Files For Long-Awaited India IPO",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-19/mukesh-ambani-says-jio-platforms-to-file-its-ipo-papers-friday",
+    "summary": "Jio Platforms Ltd., a crown jewel of billionaire Mukesh Ambani\u2019s oil-to-retail conglomerate, filed draft listing documents on Friday, starting the process of unlocking shareholder value in one of India\u2019s most-anticipated initial public offerings.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-19T06:05:55.060708+00:00"
+    "fetched_at": "2026-06-19T11:11:32.955691+00:00"
   },
   {
-    "title": "Stocks Slide, Dollar Advances as Traders Shun Risk: Markets Wrap",
+    "title": "Stocks Slide as Iran Nuclear Talks Hit Early Snag: Markets Wrap",
     "url": "https://www.bloomberg.com/news/articles/2026-06-18/asian-stocks-to-rise-as-us-iran-deal-lifts-mood-markets-wrap",
-    "summary": "Global stocks retreated ahead of a long weekend in the US as investors weighed prospects for a 60-day diplomatic push between Washington and Tehran aimed at securing a nuclear accord and a more durable peace agreement.",
+    "summary": "Global stocks are ending a strong week on a cautious note as relief over an interim peace deal between the US and Iran gave way to a focus on the challenges of securing a lasting agreement.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-19T06:05:55.060778+00:00"
+    "fetched_at": "2026-06-19T11:11:32.955780+00:00"
   },
   {
     "title": "BlackRock Executive Calls Bitcoin \u201cToo Big to Ignore\u201d, Discusses New Bitcoin Premium Income ETF",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-19T06:05:54.565700+00:00"
+    "fetched_at": "2026-06-19T11:11:32.539394+00:00"
   },
   {
     "title": "STRC Is Junk Credit in a Bitcoin Costume, and Retail Is Holding $8.8 Billion of It",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-19T06:05:54.565776+00:00"
+    "fetched_at": "2026-06-19T11:11:32.539468+00:00"
+  },
+  {
+    "title": "Franklin Templeton Files for ETFs That Funnel Stock Dividends Into Bitcoin",
+    "url": "https://decrypt.co/371656/franklin-templeton-files-for-etfs-that-funnel-stock-dividends-into-bitcoin",
+    "summary": "The asset manager's two proposed \"Bitcoin DRIP\" funds would hold U.S. stocks and reinvest dividends into Bitcoin, a novel ETF structure.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-19T11:11:32.617332+00:00"
   },
   {
     "title": "China\u2019s Z.AI Releases GLM-5.2: A Model That Rivals Claude Opus\u2014Using Zero Nvidia Chips",
@@ -60,51 +69,42 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-19T06:05:54.655764+00:00"
+    "fetched_at": "2026-06-19T11:11:32.617399+00:00"
   },
   {
-    "title": "Midjourney Pivots From AI Images to Medical Imaging, Aiming to Build a Better MRI Alternative",
-    "url": "https://decrypt.co/371606/midjourney-pivots-ai-images-medical-imaging-build-better-mri",
-    "summary": "Image generation company Midjourney is developing a full-body imaging system that combines ultrasound tech with AI smarts.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-19T06:05:54.655832+00:00"
-  },
-  {
-    "title": "CFTC, SEC request public comment to clarify definition of \u2018swaps\u2019 amid CME lawsuit",
-    "url": "https://www.theblock.co/post/405380/cftc-sec-public-comment-swaps",
-    "summary": "CME Group sued the CFTC on Thursday over the agency's decision to classify perpetual futures as futures contracts rather than swaps.",
+    "title": "Base targets June 25 mainnet launch for Beryl upgrade and new B20 token standard",
+    "url": "https://www.theblock.co/post/405410/base-targets-june-25-mainnet-launch-for-beryl-upgrade-and-new-b20-token-standard",
+    "summary": "Base's Beryl upgrade introduces the B20 native token standard, cuts withdrawal delays to 5 days, and activates on mainnet June 25.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-19T06:05:54.731901+00:00"
+    "fetched_at": "2026-06-19T11:11:32.700315+00:00"
   },
   {
-    "title": "Kalshi making early IPO talks with investment banks: report",
-    "url": "https://www.theblock.co/post/405369/kalshi-early-ipo-talks",
-    "summary": "The prediction markets platform raised $1 billion in a Series F round in May, bringing its valuation to $22 billion.",
+    "title": "\u2018Most difficult day in the history of digital credit\u2019: Strive CEO says leverage liquidation drove STRC and SATA selloff",
+    "url": "https://www.theblock.co/post/405406/strive-ceo-strc-sata",
+    "summary": "STRC and SATA, designed to trade near a $100 par value, fell significantly on Thursday before partially recovering.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-19T06:05:54.731965+00:00"
+    "fetched_at": "2026-06-19T11:11:32.700391+00:00"
   },
   {
-    "title": "Burnham by-election victory sets up challenge to Starmer",
-    "url": "https://www.ft.com/content/44e1e71d-dcd2-4935-a14b-b14ed3b24bf8",
-    "summary": "Greater Manchester mayor\u2019s victory in Makerfield clears path for attempt to become Labour leader and prime minister",
+    "title": "Iran postponed US talks due to Israeli strikes on Lebanon, diplomats say",
+    "url": "https://www.ft.com/content/9cd814af-6144-4646-ad1c-a6292391e613",
+    "summary": "Tehran pushes back nuclear negotiations in Switzerland following attacks",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-19T06:05:55.887797+00:00"
+    "fetched_at": "2026-06-19T11:11:33.557377+00:00"
   },
   {
-    "title": "Burnham\u2019s win should worry Farage",
-    "url": "https://www.ft.com/content/e3f04bcf-809d-462f-9d77-180d97964b02",
-    "summary": "Fear of a Reform victory led Makerfield voters \u2014 including some 2024 Conservatives \u2014 to tactically vote Labour",
+    "title": "Reaching a nuclear deal with Iran will be much harder than in 2015",
+    "url": "https://www.ft.com/content/8c4d2158-c681-4c44-92f2-b05476d8eaed",
+    "summary": "Tehran\u2019s position has hardened and trust has declined in the years since the JCPOA",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-19T06:05:55.887851+00:00"
+    "fetched_at": "2026-06-19T11:11:33.557436+00:00"
   }
 ]
