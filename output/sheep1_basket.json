@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-18T22:50:10.771059+00:00"
+    "fetched_at": "2026-06-19T00:18:32.234107+00:00"
   },
   {
     "title": "Bitcoin decouples from tech stocks: Is $60K BTC\u2019s next stop?",
@@ -15,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-18T22:50:10.771133+00:00"
+    "fetched_at": "2026-06-19T00:18:32.234183+00:00"
   },
   {
-    "title": "Oil Set for Deep Weekly Loss as Hormuz Traffic Starts to Pick Up",
+    "title": "Gold Set for Weekly Loss as Hawkish Fed Outweighs Peace Deal",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-18/gold-set-for-weekly-loss-as-hawkish-fed-outweighs-peace-deal",
+    "summary": "Gold was on track for a third weekly loss, as a hawkish Federal Reserve and rate-hike bets outweighed the signing of an interim peace deal between the US and Iran.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-06-19T00:18:33.739782+00:00"
+  },
+  {
+    "title": "Oil Set for Deep Weekly Loss as Hormuz Traffic Starts to Inch Up",
     "url": "https://www.bloomberg.com/news/articles/2026-06-18/latest-oil-market-news-and-analysis-for-june-19",
     "summary": "Oil headed for a substantial weekly drop as the US-Iran interim peace deal saw shipping through the Strait of Hormuz start to return to normal, easing the global crude market\u2019s biggest ever supply shock.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-18T22:50:11.533498+00:00"
-  },
-  {
-    "title": "KPMG Australia Scandal Heats Up With Reckoning in Parliament",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-18/kpmg-australia-scandal-heats-up-with-reckoning-in-parliament",
-    "summary": "KPMG Australia is set for a public reckoning as lawmakers demand information and changes in an industry beset by a series of scandals around the misuse of confidential client information.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-06-18T22:50:11.533552+00:00"
+    "fetched_at": "2026-06-19T00:18:33.739838+00:00"
   },
   {
     "title": "BlackRock Executive Calls Bitcoin \u201cToo Big to Ignore\u201d, Discusses New Bitcoin Premium Income ETF",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-18T22:50:11.016724+00:00"
+    "fetched_at": "2026-06-19T00:18:32.698599+00:00"
   },
   {
     "title": "STRC Is Junk Credit in a Bitcoin Costume, and Retail Is Holding $8.8 Billion of It",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-18T22:50:11.016795+00:00"
+    "fetched_at": "2026-06-19T00:18:32.698672+00:00"
   },
   {
     "title": "China\u2019s Z.AI Releases GLM-5.2: A Model That Rivals Claude Opus\u2014Using Zero Nvidia Chips",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-18T22:50:11.106141+00:00"
+    "fetched_at": "2026-06-19T00:18:32.936195+00:00"
   },
   {
     "title": "Midjourney Pivots From AI Images to Medical Imaging, Aiming to Build a Better MRI Alternative",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-18T22:50:11.106204+00:00"
+    "fetched_at": "2026-06-19T00:18:32.936256+00:00"
   },
   {
     "title": "Strategy\u2019s preferred stock STRC continues to trade under $90 as trading volume jumps",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-18T22:50:11.184289+00:00"
+    "fetched_at": "2026-06-19T00:18:33.119419+00:00"
   },
   {
     "title": "CryptoQuant says bitcoin microtransactions now make up 80% of daily transactions",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-18T22:50:11.184354+00:00"
+    "fetched_at": "2026-06-19T00:18:33.119499+00:00"
   },
   {
     "title": "JD Vance lashes out at Israeli government over Iran deal criticism",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-18T22:50:12.290248+00:00"
+    "fetched_at": "2026-06-19T00:18:34.653587+00:00"
   },
   {
     "title": "US-Iran accord opens way for Hormuz charges, industry warns",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-18T22:50:12.290309+00:00"
+    "fetched_at": "2026-06-19T00:18:34.653643+00:00"
   }
 ]
