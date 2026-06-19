@@ -1,24 +1,36 @@
 [
   {
-    "title": "WhiteBIT secures MiCA license in Austria ahead of July 1 EU deadline",
-    "url": "https://cointelegraph.com/news/whitebit-secures-mica-license-austria-gains-access-eu-crypto-market",
-    "summary": "The Austrian authorization gives WhiteBIT access to the EU's unified crypto framework, which will require exchanges to hold MiCA licenses or stop serving clients after July 1.",
+    "title": "Charles Schwab to enter prediction markets with S&P 500 wagers: WSJ",
+    "url": "https://cointelegraph.com/news/charles-schwab-prediction-markets-sp500-wagers",
+    "summary": "The offering from the financial services company will reportedly only include yes-or-no bets on whether the S&amp;P 500 closes above or below a target price.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-19T20:59:14.185821+00:00",
+    "fetched_at": "2026-06-19T22:02:54.942047+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Republican lawmaker proposes prediction markets insider trading ban, not including White House officials",
-    "url": "https://cointelegraph.com/news/prediction-markets-law-white-house-officials",
-    "summary": "The bill did not specifically bar members of the US Congress from using the platforms or making sports bets, but prohibited policy wagers.",
+    "title": "Here\u2019s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-19T20:59:14.185902+00:00",
+    "fetched_at": "2026-06-19T22:02:54.942125+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Value Investing Legend Seth Klarman: Masters in Business",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-19/value-investing-legend-seth-klarman-masters-in-business-video",
+    "summary": "Barry sits down with Munger disciple Seth Klarman, CEO of Baupost Group, a Boston-based investment manager with a multi-strategy approach. They discuss Seth's start as a 25 year-old and journey to CEO. They also discuss his approach to risk, IPOs, and sectors along with his sports passions including",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-06-19T22:02:55.740640+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,19 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-19T20:59:15.174929+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Stocks Stall as Iran Nuclear Talks Hit Early Snag: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-18/asian-stocks-to-rise-as-us-iran-deal-lifts-mood-markets-wrap",
-    "summary": "Global stocks are ending a strong week on a cautious note as relief over an interim peace deal between the US and Iran gave way to a focus on the challenges of securing a lasting agreement.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-06-19T20:59:15.174988+00:00",
+    "fetched_at": "2026-06-19T22:02:55.740717+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-19T20:59:14.594935+00:00",
+    "fetched_at": "2026-06-19T22:02:55.219964+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-19T20:59:14.594999+00:00",
+    "fetched_at": "2026-06-19T22:02:55.220029+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-19T20:59:14.703149+00:00",
+    "fetched_at": "2026-06-19T22:02:55.320029+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-19T20:59:14.703209+00:00",
+    "fetched_at": "2026-06-19T22:02:55.320086+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-19T20:59:14.809510+00:00",
+    "fetched_at": "2026-06-19T22:02:55.427013+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-19T20:59:14.809633+00:00",
+    "fetched_at": "2026-06-19T22:02:55.427087+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-19T20:59:15.782442+00:00",
+    "fetched_at": "2026-06-19T22:02:56.416176+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-19T20:59:15.782499+00:00",
+    "fetched_at": "2026-06-19T22:02:56.416231+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
