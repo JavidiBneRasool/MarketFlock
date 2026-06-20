@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-20T09:56:22.979507+00:00",
+    "fetched_at": "2026-06-20T11:51:06.212797+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,7 +18,19 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-20T09:56:22.979579+00:00",
+    "fetched_at": "2026-06-20T11:51:06.212881+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Ships Told They Can Use South Hormuz Route With Signals On",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-20/ships-can-use-hormuz-southern-route-with-signals-on-jmic-says",
+    "summary": "Ships can consider transiting the Strait of Hormuz along the southern route at any time of day with their signals on, a key naval information group said, as energy traders and shipowners look for clues about how quickly and safely Hormuz traffic can return to normal.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-06-20T11:51:07.096663+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,19 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-20T09:56:23.774718+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "<strong>How Substack Creators Are Covering This Strange Markets Era</strong>",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-20/how-substack-creators-are-covering-this-strange-markets-era",
-    "summary": "A panel with James van Geelen, Sam Ro, and Jasmine Sun.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-06-20T09:56:23.774779+00:00",
+    "fetched_at": "2026-06-20T11:51:07.096720+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-20T09:56:23.278715+00:00",
+    "fetched_at": "2026-06-20T11:51:06.594321+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-20T09:56:23.278785+00:00",
+    "fetched_at": "2026-06-20T11:51:06.594392+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-20T09:56:23.370560+00:00",
+    "fetched_at": "2026-06-20T11:51:06.679410+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-20T09:56:23.370617+00:00",
+    "fetched_at": "2026-06-20T11:51:06.679476+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-20T09:56:23.454207+00:00",
+    "fetched_at": "2026-06-20T11:51:06.756232+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-20T09:56:23.454338+00:00",
+    "fetched_at": "2026-06-20T11:51:06.756328+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,19 +126,19 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-20T09:56:24.370635+00:00",
+    "fetched_at": "2026-06-20T11:51:07.872519+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Iran to seek \u2018insurance fees\u2019 for passage through Strait of Hormuz",
-    "url": "https://www.ft.com/content/e1068044-5124-47d9-81ba-c4a3efc16384",
-    "summary": "Vessels must hold Tehran-approved insurance policy to use vital waterway, says government agency",
+    "title": "Big Tech is stoking unrest in the UK. Why?",
+    "url": "https://www.ft.com/content/0f3e33d2-0b9e-481d-a911-245d8cc01a9c",
+    "summary": "Elon Musk\u2019s amplification of anti-immigrant sentiment in Belfast, Southampton and beyond cannot be explained by ideology alone",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-20T09:56:24.370694+00:00",
+    "fetched_at": "2026-06-20T11:51:07.872574+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
