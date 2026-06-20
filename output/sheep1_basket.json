@@ -1,21 +1,30 @@
 [
   {
+    "title": "S token drops 5% as 3 former execs resign from Sonic Labs board",
+    "url": "https://cointelegraph.com/news/s-token-drops-5-as-3-former-execs-resign-from-sonic-labs-board",
+    "summary": "Andre Cronje, Michael Kong and David Richardson stepped down from the Sonic Labs board on Friday, while Matt Visser has been appointed as CEO, replacing Mitchell Demeter who resigned in February.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-20T02:49:39.100562+00:00"
+  },
+  {
     "title": "Charles Schwab to enter prediction markets with S&P 500 wagers: WSJ",
     "url": "https://cointelegraph.com/news/charles-schwab-prediction-markets-sp500-wagers",
     "summary": "The offering from the financial services company will reportedly only include yes-or-no bets on whether the S&amp;P 500 closes above or below a target price.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-19T23:57:41.749838+00:00"
+    "fetched_at": "2026-06-20T02:49:39.100639+00:00"
   },
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
+    "title": "Australia Detects H5 Bird Flu as Virus Reaches Every Continent",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-20/australia-detects-h5-bird-flu-as-virus-reaches-every-continent",
+    "summary": "Australia reported its first mainland case of H5 bird flu, marking the spread of the deadly virus to every continent on the planet.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-19T23:57:41.749909+00:00"
+    "fetched_at": "2026-06-20T02:49:39.920651+00:00"
   },
   {
     "title": "Value Investing Legend Seth Klarman: Masters in Business",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-19T23:57:42.662932+00:00"
-  },
-  {
-    "title": "Latin American FX Edge Higher With Markets in \u2018Holding Pattern\u2019",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-19/emerging-equities-touch-record-high-as-iran-deal-takes-effect",
-    "summary": "Most Latin American currencies advanced in a quiet session for global markets amid holidays in the US and parts of Asia, leaving assets in a holding pattern as traders await fresh news out of the Middle East.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-06-19T23:57:42.663009+00:00"
+    "fetched_at": "2026-06-20T02:49:39.920707+00:00"
   },
   {
     "title": "JPMorgan: Bitcoin Mining Costs Have \u2018Worsened\u2019 as BTC Trades Below Production Cost",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-19T23:57:42.004227+00:00"
+    "fetched_at": "2026-06-20T02:49:39.331183+00:00"
   },
   {
     "title": "Prediction Market Kalshi Eyes IPO as Revenue Hits $2 Billion",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-19T23:57:42.004292+00:00"
+    "fetched_at": "2026-06-20T02:49:39.331248+00:00"
   },
   {
     "title": "Charles Schwab Planning to Roll Out S&#038;P 500 Prediction Markets With Cboe: WSJ",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-19T23:57:42.108125+00:00"
+    "fetched_at": "2026-06-20T02:49:39.443592+00:00"
   },
   {
     "title": "House Republican Introduces Insider Trading Bill to Ban Lawmaker Prediction Market Bets",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-19T23:57:42.108185+00:00"
+    "fetched_at": "2026-06-20T02:49:39.443655+00:00"
   },
   {
     "title": "TD Cowen says CME has the upper hand in lawsuit against CFTC over crypto perpetual futures",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-19T23:57:42.206318+00:00"
+    "fetched_at": "2026-06-20T02:49:39.557397+00:00"
   },
   {
     "title": "Two Texas brothers admit to $8 million crypto robbery after holding family at gunpoint, face up to 20 years in prison",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-19T23:57:42.206431+00:00"
+    "fetched_at": "2026-06-20T02:49:39.557472+00:00"
   },
   {
     "title": "Israel and Hizbollah agree ceasefire",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-19T23:57:44.194411+00:00"
+    "fetched_at": "2026-06-20T02:49:40.616333+00:00"
   },
   {
     "title": "Iran deal brings little relief for inflation-wary central banks",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-19T23:57:44.194466+00:00"
+    "fetched_at": "2026-06-20T02:49:40.616386+00:00"
   }
 ]
