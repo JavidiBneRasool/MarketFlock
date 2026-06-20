@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-20T21:01:58.629031+00:00",
+    "fetched_at": "2026-06-20T22:56:31.620344+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,7 +18,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-20T21:01:58.629107+00:00",
+    "fetched_at": "2026-06-20T22:56:31.620418+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,7 +30,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-20T21:01:59.418915+00:00",
+    "fetched_at": "2026-06-20T22:56:32.452952+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -42,7 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-20T21:01:59.418971+00:00",
+    "fetched_at": "2026-06-20T22:56:32.453006+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-20T21:01:58.905772+00:00",
+    "fetched_at": "2026-06-20T22:56:31.964338+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-20T21:01:58.905866+00:00",
+    "fetched_at": "2026-06-20T22:56:31.964403+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-20T21:01:59.016018+00:00",
+    "fetched_at": "2026-06-20T22:56:32.061405+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,19 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-20T21:01:59.016080+00:00",
+    "fetched_at": "2026-06-20T22:56:32.061465+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Secret Network\u2019s Axelar bridge drained for $4.67 million in infinite-mint exploit that went unnoticed for seven days",
+    "url": "https://www.theblock.co/post/405459/secret-networks-axelar-bridge-drained-for-4-67-million-in-infinite-mint-exploit-that-went-unnoticed-for-seven-days",
+    "summary": "Secret Network says about $770,000 of the stolen funds still sits in the attacker's Axelar wallet, and that Axelar declined its request to freeze it.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-20T22:56:32.170568+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,19 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-20T21:01:59.091734+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Andre Cronje, two others resign from Sonic Labs board as S token trades 97% below its peak",
-    "url": "https://www.theblock.co/post/405450/andre-cronje-two-others-resign-from-sonic-labs-board-as-s-token-trades-97-below-its-peak",
-    "summary": "Sonic Labs said the three \"remain invested in Sonic's success\" but will no longer make business decisions for the Layer 1 network, formerly Fantom.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-20T21:01:59.091805+00:00",
+    "fetched_at": "2026-06-20T22:56:32.170642+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -122,11 +122,11 @@
   {
     "title": "Iran says it closed Strait of Hormuz after Israel and Hizbollah exchange fire",
     "url": "https://www.ft.com/content/fad77f6e-b1db-460a-a0c8-c2fd132932f5",
-    "summary": "Setback for Donald Trump\u2019s push to end war with the Islamic republic",
+    "summary": "Set-back comes as US vice-president heads to Switzerland for peace talks with negotiators from the Islamic republic",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-20T21:02:00.273400+00:00",
+    "fetched_at": "2026-06-20T22:56:33.006794+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-20T21:02:00.273459+00:00",
+    "fetched_at": "2026-06-20T22:56:33.006857+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
