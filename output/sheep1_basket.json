@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-20T17:13:47.084043+00:00"
+    "fetched_at": "2026-06-20T19:06:21.108941+00:00"
   },
   {
     "title": "Pudgy Penguins expands retail footprint with Target trading card rollout",
@@ -15,7 +15,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-20T17:13:47.084117+00:00"
+    "fetched_at": "2026-06-20T19:06:21.109012+00:00"
   },
   {
     "title": "Brazil\u2019s Lula Holds Lead Against Bolsonaro After Bank Scandal",
@@ -24,7 +24,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-20T17:13:52.974055+00:00"
+    "fetched_at": "2026-06-20T19:06:21.932690+00:00"
   },
   {
     "title": "Pointed News Quiz | Bonds, Streaming, Yogurt",
@@ -33,7 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-20T17:13:52.974112+00:00"
+    "fetched_at": "2026-06-20T19:06:21.932748+00:00"
   },
   {
     "title": "JPMorgan: Bitcoin Mining Costs Have \u2018Worsened\u2019 as BTC Trades Below Production Cost",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-20T17:13:47.468031+00:00"
+    "fetched_at": "2026-06-20T19:06:21.368154+00:00"
   },
   {
     "title": "Prediction Market Kalshi Eyes IPO as Revenue Hits $2 Billion",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-20T17:13:47.468096+00:00"
+    "fetched_at": "2026-06-20T19:06:21.368218+00:00"
+  },
+  {
+    "title": "OpenRouter's Fusion Promises Claude Fable-Level AI for Cheap\u2014Right as Fable 5 Goes Dark",
+    "url": "https://decrypt.co/371711/openrouter-fusion-claude-fable-level-ai-cheap",
+    "summary": "OpenRouter's compound-model API stacks budget AI models\u2014and beat GPT-5.5 and Claude Opus 4.8 outright in benchmark testing.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-20T19:06:21.495476+00:00"
   },
   {
     "title": "Bitcoin Network Activity Is Rising as BTC Falls Nearly 50% Below Peak Price: CryptoQuant",
@@ -60,16 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-20T17:13:47.547919+00:00"
-  },
-  {
-    "title": "Charles Schwab Planning to Roll Out S&#038;P 500 Prediction Markets With Cboe: WSJ",
-    "url": "https://decrypt.co/371708/charles-schwab-planning-sp-500-prediction-markets-cboe",
-    "summary": "Global financial institution Charles Schwab is the latest firm hoping to steal a piece of the growing prediction market pie.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-20T17:13:47.547980+00:00"
+    "fetched_at": "2026-06-20T19:06:21.495541+00:00"
   },
   {
     "title": "Andre Cronje, two others resign from Sonic Labs board as S token trades 97% below its peak",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-20T17:13:47.622768+00:00"
+    "fetched_at": "2026-06-20T19:06:21.589826+00:00"
   },
   {
     "title": "TD Cowen says CME has the upper hand in lawsuit against CFTC over crypto perpetual futures",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-20T17:13:47.622837+00:00"
+    "fetched_at": "2026-06-20T19:06:21.589895+00:00"
   },
   {
     "title": "Iran closes Strait of Hormuz after Israel and Hizbollah exchange fire",
@@ -96,15 +96,15 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-20T17:13:53.697016+00:00"
+    "fetched_at": "2026-06-20T19:06:22.548898+00:00"
   },
   {
-    "title": "Big Tech is stoking unrest in the UK. Why?",
-    "url": "https://www.ft.com/content/0f3e33d2-0b9e-481d-a911-245d8cc01a9c",
-    "summary": "Elon Musk\u2019s amplification of anti-immigrant sentiment in Belfast, Southampton and beyond cannot be explained by ideology alone",
+    "title": "Rahm Emanuel says Trump \u2018got schooled\u2019 by Iran in bad ceasefire deal",
+    "url": "https://www.ft.com/content/3be5a96f-f22e-4b8e-898f-fe10c2f84058",
+    "summary": "Possible Democratic presidential candidate describes war as historic \u2018American national security mess\u2019",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-20T17:13:53.697071+00:00"
+    "fetched_at": "2026-06-20T19:06:22.548958+00:00"
   }
 ]
