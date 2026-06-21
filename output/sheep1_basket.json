@@ -1,39 +1,39 @@
 [
   {
+    "title": "Notorious \u2018sandwich attack\u2019 bot Jaredfromsubway.eth exploited for $7.5M",
+    "url": "https://cointelegraph.com/news/notorious-sandwich-attack-bot-jaredfromsubwayeth-exploited-for-75m",
+    "summary": "Jaredfromsubway.eth was responsible for 70% of sandwich attacks on Ethereum between November 2024 and October 2025.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-21T04:19:01.483894+00:00"
+  },
+  {
     "title": "Bitcoin rotations into altcoins collapses: Have altseasons 'disappeared'?",
     "url": "https://cointelegraph.com/markets/bitcoin-rotations-into-altcoins-collapses-have-altseasons-disappeared",
     "summary": "BTC's crypto market dominance is holding above a key support, signaling Bitcoin may keep absorbing capital from altcoins and delay a broader altseason.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-21T00:00:03.031357+00:00"
+    "fetched_at": "2026-06-21T04:19:01.483978+00:00"
   },
   {
-    "title": "Crypto industry looks to stablecoins and DeFi revisions in MiCA 2.0",
-    "url": "https://cointelegraph.com/features/crypto-industry-stablecoins-defi-mica",
-    "summary": "The European Commission is seeking comment on how it can tweak MiCA, its regulatory framework for the crypto and blockchain industries.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-06-21T00:00:03.031441+00:00"
-  },
-  {
-    "title": "Fed\u2019s Favorite Gauge Is Seen Showing Faster Inflation",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-20/fed-s-favorite-gauge-is-seen-showing-faster-inflation",
-    "summary": "The latest update to the Federal Reserve\u2019s favorite inflation gauge is unlikely to challenge a growing consensus at the US central bank around the need for interest-rate hikes this year.",
+    "title": "Swiss Voters Set to Reject Stricter Neutrality, Early Poll Shows",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-21/swiss-voters-set-to-reject-stricter-neutrality-early-poll-shows",
+    "summary": "Swiss voters are set to reject an initiative to strengthen neutrality, according to an early poll, a result that could support keeping up sanctions against Russia.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-21T00:00:03.834971+00:00"
+    "fetched_at": "2026-06-21T04:19:02.656017+00:00"
   },
   {
-    "title": "Brazil\u2019s Lula Holds Lead Against Bolsonaro After Bank Scandal",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-20/brazil-lula-maintains-lead-against-bolsonaro-after-bank-scandal",
-    "summary": "President Luiz Inacio Lula da Silva maintained his lead in polls on the Brazilian presidential election against Senator Flavio Bolsonaro, who is weighed down by his ties to a former banker involved in the country\u2019s biggest bank fraud scandal.",
+    "title": "A Stock\u00a0Trader\u2019s\u00a0Guide\u00a0to Navigating a Rare \u2018Super El Ni\u00f1o\u2019",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-21/a-stock-trader-s-guide-to-navigating-a-rare-super-el-nino",
+    "summary": "As concerns over the Iran war recede, stock investors are confronting another threat: climate risk, which is prompting a reassessment of bets across sectors from agriculture to insurance.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-21T00:00:03.835030+00:00"
+    "fetched_at": "2026-06-21T04:19:02.656084+00:00"
   },
   {
     "title": "JPMorgan: Bitcoin Mining Costs Have \u2018Worsened\u2019 as BTC Trades Below Production Cost",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-21T00:00:03.289753+00:00"
+    "fetched_at": "2026-06-21T04:19:01.862868+00:00"
   },
   {
     "title": "Prediction Market Kalshi Eyes IPO as Revenue Hits $2 Billion",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-21T00:00:03.289871+00:00"
+    "fetched_at": "2026-06-21T04:19:01.862932+00:00"
   },
   {
     "title": "OpenRouter's Fusion Promises Claude Fable-Level AI for Cheap\u2014Right as Fable 5 Goes Dark",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-21T00:00:03.396909+00:00"
+    "fetched_at": "2026-06-21T04:19:02.029129+00:00"
   },
   {
     "title": "Bitcoin Network Activity Is Rising as BTC Falls Nearly 50% Below Peak Price: CryptoQuant",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-21T00:00:03.396974+00:00"
+    "fetched_at": "2026-06-21T04:19:02.029194+00:00"
   },
   {
     "title": "Secret Network\u2019s Axelar bridge drained for $4.67 million in infinite-mint exploit that went unnoticed for seven days",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-21T00:00:03.504655+00:00"
+    "fetched_at": "2026-06-21T04:19:02.194685+00:00"
   },
   {
     "title": "Charles Schwab is working with Cboe to launch S&P 500 \u2018yes-or-no\u2019 binary options contracts: WSJ",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-21T00:00:03.504729+00:00"
+    "fetched_at": "2026-06-21T04:19:02.194773+00:00"
   },
   {
     "title": "Iran says it closed Strait of Hormuz after Israel and Hizbollah exchange fire",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-21T00:00:04.648497+00:00"
+    "fetched_at": "2026-06-21T04:19:03.565815+00:00"
   },
   {
     "title": "Rahm Emanuel says Trump \u2018got schooled\u2019 by Iran in bad ceasefire deal",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-21T00:00:04.648560+00:00"
+    "fetched_at": "2026-06-21T04:19:03.565879+00:00"
   }
 ]
