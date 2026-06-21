@@ -1,39 +1,39 @@
 [
   {
-    "title": "Dash eyes Philippines as market for crypto payments",
-    "url": "https://cointelegraph.com/news/dash-eyes-philippines-crypto-payments-market",
-    "summary": "Dash is assessing the Philippines for a crypto payments push as regulators promote easier business registration, though industry participants say compliant market entry can still take years.",
+    "title": "Bitcoin tipped for $66K top as trader flags 'suspicious' BTC price gains",
+    "url": "https://cointelegraph.com/markets/bitcoin-tipped-for-66k-top-as-trader-flags-suspicious-btc-price-gains",
+    "summary": "Bitcoin pushed for a $64,000 reclaim despite the US-Iran war making a partial comeback and Binance spot sellers keeping up pressure from earlier in the week.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-21T13:43:54.476433+00:00"
+    "fetched_at": "2026-06-21T15:43:56.411125+00:00"
   },
   {
-    "title": "Bitcoin price is down over 40% since STRC launched: Is Strategy 'fine'?",
-    "url": "https://cointelegraph.com/markets/bitcoin-price-is-down-over-40-since-strc-launched-is-strategy-fine",
-    "summary": "STRC\u2019s slide below par has emboldened critics, slowed Strategy\u2019s Bitcoin buys and sparked debate over whether Michael Saylor\u2019s BTC flywheel is still fine.",
+    "title": "Bitcoin price may hit $24K if US stock market crashes by 50%, analyst warns",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-may-hit-24k-if-us-stock-market-crashes-by-50-analyst-warns",
+    "summary": "Bitcoin\u2019s drop to $23,980 remains the worst-case scenario as weaker ETF flows and low US demand show big investors are still cautious.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-21T13:43:54.476510+00:00"
+    "fetched_at": "2026-06-21T15:43:56.411202+00:00"
   },
   {
-    "title": "Efforts Underway for Safe Evacuation of Strait of Hormuz",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-21/efforts-underway-for-safe-evacuation-of-strait-of-hormuz-video",
-    "summary": "Secretary-General of the International Maritime Organization Arsenio Dominguez joins David Gura and Christina Ruffini on Bloomberg This Weekend to discuss the ongoing coordination efforts to establish a safe evacuation route for vessels through in the Strait of Hormuz. (Source: Bloomberg)",
+    "title": "Esper: Hezbollah is 'Spoiler' for US-Iran Deal",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-21/esper-hezbollah-is-spoiler-for-us-iran-deal-video",
+    "summary": "Former US Defense Secretary Mark Esper joins David Gura and Christina Ruffini on Bloomberg This Weekend and explains how Hezbollah remains a key spoiler to any lasting Iran deal because the group continues attacking Israeli forces and communities, giving Israel justification to keep responding milit",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-21T13:43:55.243831+00:00"
+    "fetched_at": "2026-06-21T15:43:56.993064+00:00"
   },
   {
-    "title": "Oil Glut Bets Are Back in Play as Crude Sinks After US-Iran Deal",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-21/oil-glut-bets-are-back-in-play-as-crude-sinks-after-us-iran-deal",
-    "summary": "A slew of all-but-forgotten niche option positions betting on an oil glut are coming back into play as crude futures slump following a peace deal between the US and Iran.",
+    "title": "Oil Keeps Flowing Through Hormuz Despite Iran Saying It\u2019s Shut",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-21/three-indian-tankers-reemerge-pointing-to-hormuz-traffic-uptick",
+    "summary": "Millions of barrels of oil continued to flow through the Strait of Hormuz this weekend even after Iran claimed to have closed the waterway again, as Washington and Tehran offer contrasting narratives over the status of the world\u2019s most important shipping chokepoint.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-21T13:43:55.243889+00:00"
+    "fetched_at": "2026-06-21T15:43:56.993123+00:00"
   },
   {
     "title": "JPMorgan: Bitcoin Mining Costs Have \u2018Worsened\u2019 as BTC Trades Below Production Cost",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-21T13:43:54.778767+00:00"
+    "fetched_at": "2026-06-21T15:43:56.579897+00:00"
   },
   {
     "title": "Prediction Market Kalshi Eyes IPO as Revenue Hits $2 Billion",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-21T13:43:54.778832+00:00"
+    "fetched_at": "2026-06-21T15:43:56.579968+00:00"
   },
   {
     "title": "AI 'Amplification Spiral' May Be Causing Delusions Among Users, Study Suggests",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-21T13:43:54.853880+00:00"
+    "fetched_at": "2026-06-21T15:43:56.653467+00:00"
   },
   {
     "title": "OpenRouter's Fusion Promises Claude Fable-Level AI for Cheap\u2014Right as Fable 5 Goes Dark",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-21T13:43:54.853943+00:00"
+    "fetched_at": "2026-06-21T15:43:56.653529+00:00"
+  },
+  {
+    "title": "Notorious \u2018jaredfromsubway\u2019 MEV bot drained for roughly $7.5 million in counter-MEV honeypot",
+    "url": "https://www.theblock.co/post/405464/notorious-jaredfromsubway-mev-bot-drained-for-roughly-7-5-million-in-counter-mev-honeypot",
+    "summary": "An X account using the bot's name claimed a $15 million loss and offered a $1 million bounty, but evidence shows it is a likely impersonator.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-21T15:43:56.742187+00:00"
   },
   {
     "title": "Secret Network\u2019s Axelar bridge drained for $4.67 million in infinite-mint exploit that went unnoticed for seven days",
@@ -78,25 +87,16 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-21T13:43:54.924580+00:00"
+    "fetched_at": "2026-06-21T15:43:56.742262+00:00"
   },
   {
-    "title": "Charles Schwab is working with Cboe to launch S&P 500 \u2018yes-or-no\u2019 binary options contracts: WSJ",
-    "url": "https://www.theblock.co/post/405454/charles-schwab-is-working-with-cboe-to-launch-sp-500-yes-or-no-binary-options-contracts-wsj",
-    "summary": "The binary contracts would mark the brokerage's first move into prediction-market-style products, a sector that Kalshi and Polymarket already dominate.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-21T13:43:54.924653+00:00"
-  },
-  {
-    "title": "Crunch US-Iran talks begin in Switzerland",
+    "title": "US and Iran hold crunch talks in Switzerland",
     "url": "https://www.ft.com/content/c1014643-940c-4874-998a-0a52eb517c49",
     "summary": "Negotiations aimed at reaching permanent end to war will initially focus on Israeli-Hizbollah conflict in Lebanon",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-21T13:43:55.999518+00:00"
+    "fetched_at": "2026-06-21T15:43:57.575199+00:00"
   },
   {
     "title": "Rahm Emanuel says Trump \u2018got schooled\u2019 by Iran in bad ceasefire deal",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-21T13:43:55.999576+00:00"
+    "fetched_at": "2026-06-21T15:43:57.575267+00:00"
   }
 ]
