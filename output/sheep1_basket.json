@@ -1,21 +1,39 @@
 [
   {
-    "title": "Oil Declines After US-Iran Peace Talks Show Signs of Progress",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-21/latest-oil-market-news-and-analysis-for-june-22",
-    "summary": "Oil dropped following signs of progress in peace talks between Washington and Tehran, which appeared to get off to a rocky start after US President Donald Trump issued a fresh threat against Iran.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
+    "title": "EUR trading accounts for 1% of Binance spot volume, CryptoQuant says",
+    "url": "https://cointelegraph.com/news/eur-trades-binance-spot-volume-cryptoquant",
+    "summary": "Euro-denominated trading accounts for around 1% of Binance's spot volume, according to CryptoQuant data, as the exchange faces uncertainty ahead of MiCA's July 1 deadline.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-22T06:20:48.492163+00:00"
+    "fetched_at": "2026-06-22T12:41:11.891969+00:00"
   },
   {
-    "title": "Castlelake Says Three Separate Offers to EasyJet Were Rebuffed",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-22/castlelake-says-three-separate-offers-to-easyjet-were-rebuffed",
-    "summary": "EasyJet Plc has rejected three separate offers from Castlelake, with the investment firm saying it made the most recent proposal over the weekend as a deadline to commit or walk away draws to a close.",
+    "title": "These XRP price charts hint at a potential 25% relief rally in July",
+    "url": "https://cointelegraph.com/markets/these-xrp-price-charts-hint-at-a-potential-25-relief-rally-in-july",
+    "summary": "An XRP death cross and liquidation signals align for a possible 25% relief rally in the short term, while one analyst eyes a longer-term rebound toward $8.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-22T12:41:11.892044+00:00"
+  },
+  {
+    "title": "RBC Says Stocks Can Weather Fed Hikes, But Not Too Many",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-22/rbc-says-stocks-can-weather-fed-hikes-but-not-too-many-video",
+    "summary": "Lori Calvasina, head of US equity strategy research at RBC Capital Markets, says the strength of US corporate earnings is propping up stocks amid concern that the Federal Reserve will raise interest rates. But there are limits to how many hikes the market can withstand, she says on Bloomberg Televis",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-22T06:20:48.492220+00:00"
+    "fetched_at": "2026-06-22T12:41:12.794592+00:00"
+  },
+  {
+    "title": "Stocks Drift Despite Drop in Oil on US-Iran Talks: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-21/us-futures-slip-oil-climbs-on-renewed-iran-threat-markets-wrap",
+    "summary": "US stocks are heading for a quiet open after the long weekend, with equities finding little support from lower oil prices amid signs of diplomatic headway between the US and Iran.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-06-22T12:41:12.794652+00:00"
   },
   {
     "title": "JPMorgan: Bitcoin Mining Costs Have \u2018Worsened\u2019 as BTC Trades Below Production Cost",
@@ -24,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-22T06:20:47.682039+00:00"
+    "fetched_at": "2026-06-22T12:41:12.148643+00:00"
   },
   {
     "title": "Prediction Market Kalshi Eyes IPO as Revenue Hits $2 Billion",
@@ -33,78 +51,60 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-22T06:20:47.682111+00:00"
+    "fetched_at": "2026-06-22T12:41:12.148707+00:00"
   },
   {
-    "title": "Inception Labs' Mercury 2 AI Beats Google's DiffusionGemma at Its Own Game",
-    "url": "https://decrypt.co/371722/inception-labs-mercury-2-ai-beats-googles-diffusiongemma",
-    "summary": "Both models trade word-by-word generation for parallel denoising. Only one of them does it without losing intelligence in the trade.",
+    "title": "Bitcoin 'Resilient' After Hawkish Fed, But No 'Return of Demand': Analysts",
+    "url": "https://decrypt.co/371760/bitcoin-resilient-after-hawkish-fed-but-no-return-of-demand-analysts",
+    "summary": "With ETF outflows persisting and selling \"nearly exhausted,\" analysts say Bitcoin is range-bound and waiting for a catalyst.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-22T06:20:47.830175+00:00"
+    "fetched_at": "2026-06-22T12:41:12.306096+00:00"
   },
   {
-    "title": "AI 'Amplification Spiral' May Be Causing Delusions Among Users, Study Suggests",
-    "url": "https://decrypt.co/371648/ai-amplification-spiral-causing-delusions-among-users-study",
-    "summary": "New research outlines how chatbot behaviors, including personalization, mirroring, and excessive agreement, reinforce delusions.",
+    "title": "$1.9M in Fake Bets Drove Polymarket Hype: WSJ",
+    "url": "https://decrypt.co/371756/1-9m-in-fake-bets-drove-polymarket-hype-wsj",
+    "summary": "A Wall Street Journal probe found none of the roughly $1.9 million in bets shown across 1,100-plus creator videos were real.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-22T06:20:47.830231+00:00"
+    "fetched_at": "2026-06-22T12:41:12.306148+00:00"
   },
   {
-    "title": "Japan\u2019s corporate pension fund plans to allocate 1% of assets to crypto: reports",
-    "url": "https://www.theblock.co/post/405489/japan-pension-fund-crypto-allocation",
-    "summary": "The National Business Corporate Pension Fund plans to allocate roughly 1% of its assets to crypto, according to Coinpost.",
+    "title": "MoneyGram becomes Solana validator, expands blockchain payments strategy",
+    "url": "https://www.theblock.co/post/405568/moneygram-solana-validator-blockchain-payments",
+    "summary": "Solana is now the third blockchain where MoneyGram operates an official validator, alongside Tempo and the Midnight Network.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-22T06:20:47.995831+00:00"
+    "fetched_at": "2026-06-22T12:41:12.473690+00:00"
   },
   {
-    "title": "Ethereum Layer 2 Taiko halts block production following exploit; urges users to withdraw funds",
-    "url": "https://www.theblock.co/post/405486/taiko-confirms-exploit",
-    "summary": "Onchain security firm Blockaid said the root cause of the exploit could be a flaw in Taiko bridge's source-signal proof validation.",
+    "title": "Michael Saylor\u2019s Strategy buys another 520 BTC for $35 million, adds to USD reserve despite STRC slide",
+    "url": "https://www.theblock.co/post/405565/michael-saylor-strategy-buys-more-bitcoin-despite-strc-slide",
+    "summary": "Strategy's total holdings account for more than 4% of the 21 million bitcoin supply cap \u2014 worth around $55 billion.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-22T06:20:47.995898+00:00"
+    "fetched_at": "2026-06-22T12:41:12.473766+00:00"
   },
   {
-    "title": "Iran hails \u2018progress\u2019 to end Lebanon war",
-    "url": "https://www.ft.com/content/52ee33ce-3576-4d8c-ac45-bff963074676",
-    "summary": "Tehran and Washington locked in talks in Switzerland over deal to settle four-month conflict",
+    "title": "Keir Starmer steps down as UK prime minister",
+    "url": "https://www.ft.com/content/71001d5b-4567-4ac3-b4ec-355fa89efaf6",
+    "summary": "Departure comes as Wes Streeting backs Andy Burnham to be the next PM",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-22T06:20:49.354884+00:00"
+    "fetched_at": "2026-06-22T12:41:13.579244+00:00"
   },
   {
-    "title": "Germany\u2019s spy agency comes in from the cold",
-    "url": "https://www.ft.com/content/50069749-fe38-4a6e-80d4-fe84d53f94a1",
-    "summary": "Berlin wants to loosen the shackles on the BND as part of a Europe-wide drive to reduce dependence on US intelligence",
+    "title": "Streeting backs Burnham to be next prime minister",
+    "url": "https://www.ft.com/content/d586063a-bf52-4041-adc0-3b357354df26",
+    "summary": "Gilt yields dip amid speculation former health secretary will succeed Rachel Reeves as chancellor",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-22T06:20:49.354939+00:00"
-  },
-  {
-    "title": "This bull market isn\u2019t going to end because of Fed rate hikes under Warsh",
-    "url": "https://www.marketwatch.com/story/this-bull-market-isnt-going-to-end-because-of-fed-rate-hikes-under-warsh-8f63fa85?mod=mw_rss_topstories",
-    "summary": "Trump-selected Fed chair Kevin Warsh may hope the threat of rate hikes is enough. But stocks might gain ground if he does. Past rate-hike cycles can be a guide.",
-    "source": "MarketWatch",
-    "category": "Stocks",
-    "tier": 9,
-    "fetched_at": "2026-06-22T06:20:49.690005+00:00"
-  },
-  {
-    "title": "The loneliness crisis has gotten so bad that lawmakers are ready to spend millions of dollars to fight it",
-    "url": "https://www.marketwatch.com/story/the-loneliness-crisis-has-gotten-so-bad-that-lawmakers-are-ready-to-spend-millions-of-dollars-to-fight-it-f7e7c7b7?mod=mw_rss_topstories",
-    "summary": "The health damage of loneliness is similar to heavy smoking and obesity",
-    "source": "MarketWatch",
-    "category": "Stocks",
-    "tier": 9,
-    "fetched_at": "2026-06-22T06:20:49.690078+00:00"
+    "fetched_at": "2026-06-22T12:41:13.579297+00:00"
   }
 ]
