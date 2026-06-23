@@ -1,39 +1,39 @@
 [
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "title": "Bitcoin gets new $54K warning as BTC price hits 11-day low on Asia tech sell-off",
+    "url": "https://cointelegraph.com/markets/bitcoin-gets-new-54k-warning-as-btc-price-hits-11-day-low-on-asia-tech-sell-off",
+    "summary": "Bitcoin analysis warned of \"new lows\" as Asia markets dropped up to 10% and BTC price action dipped below $62,000 for the first time in nearly two weeks.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-23T06:37:43.083524+00:00"
+    "fetched_at": "2026-06-23T10:26:45.186207+00:00"
   },
   {
-    "title": "US Senate passes housing bill with CBDC ban until 2030",
-    "url": "https://cointelegraph.com/news/senate-passes-housing-bill-that-includes-a-cbdc-ban-through-2030",
-    "summary": "The Senate voted 85-5 to pass a major housing affordability bill that includes a ban on the Federal Reserve making a central bank digital currency until 2030.",
+    "title": "THORChain resumes trading more than a month after $10M exploit",
+    "url": "https://cointelegraph.com/news/thorchain-resumes-trading-month-10m-exploit",
+    "summary": "THORChain resumed all network activity after implementing multiple security upgrades and a vault migration to fix the vulnerabilities that led to the $10.7 million exploit.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-23T06:37:43.083598+00:00"
+    "fetched_at": "2026-06-23T10:26:45.186279+00:00"
   },
   {
-    "title": "Wimbledon Investors Cash In With VIP Seats Costing Over $500,000",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-23/wimbledon-investors-cash-in-with-vip-seats-costing-over-500-000",
-    "summary": "A niche financial instrument that grants the holder some of the best seats at Wimbledon are now changing hands for more than $500,000.",
+    "title": "NYC Votes in Lively Primaries, With Suburban Race Key to House",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-23/ny-democratic-primaries-2026-suburban-race-key-to-us-house",
+    "summary": "New York City is living through the noisiest Congressional primary season in a generation.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-23T06:37:44.219340+00:00"
+    "fetched_at": "2026-06-23T10:26:46.087085+00:00"
   },
   {
-    "title": "Stocks Hit by Tech Selloff, Yen Near 40-Year Low: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-22/asian-stocks-set-for-gains-as-oil-holds-losses-markets-wrap",
-    "summary": "Global stocks slumped as investors rotated out of some of this year\u2019s high-performing technology shares while awaiting further developments in US-Iran peace talks.",
+    "title": "Tech Losses Pile Up as Investors Focus on AI Risks",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-06-23/tech-losses-pile-up-as-investors-focus-on-ai-risks",
+    "summary": "Investors are focusing on AI risks and potential interest rate hikes.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-23T06:37:44.219395+00:00"
+    "fetched_at": "2026-06-23T10:26:46.087138+00:00"
   },
   {
     "title": "Trump Signs Quantum Computing Orders \u2014 What Does This Mean For Bitcoin?",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-23T06:37:43.378682+00:00"
+    "fetched_at": "2026-06-23T10:26:45.477713+00:00"
   },
   {
     "title": "Franklin Templeton Closes 250 Digital Deal, Launches Institutional Crypto Division",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-23T06:37:43.378746+00:00"
+    "fetched_at": "2026-06-23T10:26:45.477794+00:00"
+  },
+  {
+    "title": "US Senate Passes Housing Bill With Four-Year Fed CBDC Ban",
+    "url": "https://decrypt.co/371848/us-senate-passes-housing-bill-with-four-year-fed-cbdc-ban",
+    "summary": "A bipartisan housing bill the Senate passed 85-5 Monday would block a Fed digital dollar through 2030, and now heads to the House.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-23T10:26:45.557084+00:00"
   },
   {
     "title": "Comparing Bitcoin Giant Strategy to Terra Luna Is a STRC, Benchmark Says",
@@ -60,16 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-23T06:37:43.483305+00:00"
+    "fetched_at": "2026-06-23T10:26:45.557144+00:00"
   },
   {
-    "title": "BitMine, Sharplink, Joe Lubin Back New Ethereum Research and Development Lab",
-    "url": "https://decrypt.co/371811/bitmine-sharplink-joe-lubin-ethereum-research-lab-ethlabs",
-    "summary": "Some of Ethereum's largest holders are coming together to fund a new research and development lab aimed at boosting the network and ETH.",
-    "source": "Decrypt",
+    "title": "David Bailey\u2019s Nakamoto closes legacy healthcare clinics as bitcoin operating company pivot nears completion",
+    "url": "https://www.theblock.co/post/405755/david-baileys-nakamoto-closes-legacy-healthcare-clinics-as-bitcoin-operating-company-pivot-nears-completion",
+    "summary": "Nakamoto closed its healthcare clinics on June 19, completing a merger-linked wind-down as it pivots fully to bitcoin operations.",
+    "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-23T06:37:43.483365+00:00"
+    "fetched_at": "2026-06-23T10:26:45.629205+00:00"
   },
   {
     "title": "US Senate passes housing supply bill featuring CBDC ban in 85-5 vote",
@@ -78,16 +87,16 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-23T06:37:43.662667+00:00"
+    "fetched_at": "2026-06-23T10:26:45.629269+00:00"
   },
   {
-    "title": "Trump signs executive orders setting 2031 deadline for post-quantum migration",
-    "url": "https://www.theblock.co/post/405737/trump-executive-orders-quantum-computing",
-    "summary": "One order mandated that all federal high-value assets and systems transition to Post-Quantum Cryptography by the end of 2031.",
-    "source": "The Block",
-    "category": "Crypto",
+    "title": "Big Tech leads sell-off in global stocks",
+    "url": "https://www.ft.com/content/10623865-5ff4-4357-9293-3c4ec841d1c4",
+    "summary": "Declines on Wall Street reverberate across global markets as SpaceX rally reverses",
+    "source": "Financial Times",
+    "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-23T06:37:43.662729+00:00"
+    "fetched_at": "2026-06-23T10:26:46.685232+00:00"
   },
   {
     "title": "SpaceX sheds $400bn in market value as debut rally hits reverse",
@@ -96,15 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-23T06:37:44.866939+00:00"
-  },
-  {
-    "title": "Citadel: the hedge fund that became an energy giant",
-    "url": "https://www.ft.com/content/3d0842dd-a8f4-435d-b888-5587b4b9eeda",
-    "summary": "From the ashes of Enron, Ken Griffin built a commodities empire that extends beyond financial trading",
-    "source": "Financial Times",
-    "category": "Markets",
-    "tier": 9,
-    "fetched_at": "2026-06-23T06:37:44.866989+00:00"
+    "fetched_at": "2026-06-23T10:26:46.685288+00:00"
   }
 ]
