@@ -1,39 +1,39 @@
 [
   {
-    "title": "BTC price four-year trend calls for $76K as analysis says Bitcoin 'not broken'",
-    "url": "https://cointelegraph.com/markets/bitcoin-four-year-trend-calls-for-76k-as-analysis-says-btc-price-not-broken",
-    "summary": "Bitcoin research said that BTC price action remained in tune with previous cycles as the bear market produces a 20% discount to its four-year \"adoption structure\" trend line.",
+    "title": "SecondFi traces Cardano wallet exploit to address-level issue",
+    "url": "https://cointelegraph.com/news/cardano-wallet-secondfi-flaw-16-million-ada-exploit",
+    "summary": "Cardano wallet SecondFi traced the incident to an address-level issue and secured 129 million ADA after attackers drained funds from 374 addresses.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-24T10:11:58.416689+00:00"
+    "fetched_at": "2026-06-24T13:09:51.155740+00:00"
   },
   {
-    "title": "South Korea adds token securities to capital market overhaul",
-    "url": "https://cointelegraph.com/news/south-korea-token-securities-capital-market-overhaul",
-    "summary": "South Korea\u2019s Financial Services Commission has placed token securities infrastructure within a wider capital-market modernization plan covering faster settlement, longer trading hours and digital transformation.",
+    "title": "CBOE debuts prediction market with S&P 500 contracts",
+    "url": "https://cointelegraph.com/news/cboe-debuts-prediction-market-sp-500-contracts",
+    "summary": "Cboe launched its first prediction market product tied to the S&amp;P 500 index, citing a growing investor demand for binary options contracts.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-24T10:11:58.416759+00:00"
+    "fetched_at": "2026-06-24T13:09:51.155820+00:00"
   },
   {
-    "title": "Investors Maxing Out AI Trade Feed Stock Market Volatility",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-06-24/investors-maxing-out-ai-trade-feed-stock-market-volatility",
-    "summary": "Investors are maxing out the AI trade, setting the stock market up for a volatile summer.",
+    "title": "Paramount\u2019s $110 Billion Warner Bid on Track for EU Approval",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-24/paramount-s-110-billion-warner-deal-faces-eu-moviemaker-test",
+    "summary": "Paramount Skydance Corp.\u2019s $110 billion takeover of Warner Bros. Discovery Inc. is on track for European Union approval, with the firms open to offering concessions to appease concerns over film distribution flagged by the bloc\u2019s competition chief Teresa Ribera.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-24T10:11:59.175965+00:00"
+    "fetched_at": "2026-06-24T13:09:51.970371+00:00"
   },
   {
-    "title": "Gold Drops to Near $4,000 on Stronger Dollar, Fed Rate Outlook",
+    "title": "Gold Breaks Below $4,000 as Multi-Year Rally Grinds to a Halt",
     "url": "https://www.bloomberg.com/news/articles/2026-06-23/gold-drops-below-4-100-as-tech-led-selloff-spurs-liquidation",
-    "summary": "Gold fell for a second day, extending losses to trade near $4,000 an ounce as a stronger US dollar continues to put pressure on prices.",
+    "summary": "Gold fell below $4,000 an ounce for the first time since November, as a resurgent dollar and the prospect of higher interest rates bring bullion\u2019s three-year bull market to a halt.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-24T10:11:59.176022+00:00"
+    "fetched_at": "2026-06-24T13:09:51.970437+00:00"
   },
   {
     "title": "Congress Schedules CLARITY Act Hearing for July 17 in New York",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-24T10:11:58.714240+00:00"
+    "fetched_at": "2026-06-24T13:09:51.391384+00:00"
   },
   {
     "title": "Craig Raw Built One of Bitcoin\u2019s Best Wallets for Free. Apple Might Kill It by June 30.",
@@ -51,43 +51,43 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-24T10:11:58.714311+00:00"
+    "fetched_at": "2026-06-24T13:09:51.391476+00:00"
   },
   {
-    "title": "Meet Qwable: The Free Local Model That Thinks Like Claude Fable",
-    "url": "https://decrypt.co/371914/meet-qwable-free-local-model-thinks-like-claude-fable",
-    "summary": "Someone fine-tuned Fable 5's reasoning style into a local Qwen model. Then someone else removed its conscience.",
+    "title": "Morning Minute: Meta Is Building a Prediction Market",
+    "url": "https://decrypt.co/371953/morning-minute-meta-is-building-a-prediction-market",
+    "summary": "Arthur Hayes put out a bull case for the CARDS token, and the Clarity Act is facing some surprising opposition from a new group.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-24T10:11:58.805291+00:00"
+    "fetched_at": "2026-06-24T13:09:51.486113+00:00"
   },
   {
-    "title": "Trump's Quantum Push Wins Praise, But Experts Warn Bitcoin Isn't Ready",
-    "url": "https://decrypt.co/371916/trump-quantum-praise-experts-warn-bitcoin-not-ready",
-    "summary": "Industry leaders welcomed President Trump's quantum executive orders, while researchers said the accelerated timelines reflect growing urgency around post-quantum security and cryptocurrency infrastructure.",
+    "title": "DOJ Seizes Huione Infrastructure Linked to Billions in Crypto Laundering",
+    "url": "https://decrypt.co/371950/doj-seizes-huione-infrastructure-linked-to-billions-in-crypto-laundering",
+    "summary": "The seizure hits a cloud account that powered Huione Guarantee, a Telegram marketplace tied to billions in Southeast Asian scam proceeds.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-24T10:11:58.805346+00:00"
+    "fetched_at": "2026-06-24T13:09:51.486171+00:00"
   },
   {
-    "title": "SBI Group launches Japan\u2019s first trust bank-backed stablecoin JPYSC",
-    "url": "https://www.theblock.co/post/405952/japan-sbi-group-launches-jpysc",
-    "summary": "JPYSC's availability will be limited to SBI VC Trade accounts, until regulatory and tax treatment of the stablecoin is clarified.",
+    "title": "Black Lake, Nuva Labs tokenize $25 million in mortgage loans on Provenance in RWA push",
+    "url": "https://www.theblock.co/post/405963/black-lake-nuva-labs-tokenize-25-million-in-mortgage-loans-on-provenance-in-rwa-push",
+    "summary": "Black Lake and Nuva Labs completed the onchain minting of $25 million in mortgage loans on Provenance Blockchain.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-24T10:11:58.877435+00:00"
+    "fetched_at": "2026-06-24T13:09:51.565226+00:00"
   },
   {
-    "title": "Law enforcement groups warn Clarity Act could hinder crypto crime investigations",
-    "url": "https://www.theblock.co/post/405945/law-enforcement-groups-warn-clarity-act",
-    "summary": "A provision in the Clarity Act could make it harder for law enforcement to investigate illicit crypto activity, the groups said.",
+    "title": "21Shares says bitcoin\u2019s post-halving price action \u2018still looks familiar,\u2019 but sees recovery toward $100,000 by year-end",
+    "url": "https://www.theblock.co/post/405960/21shares-says-bitcoins-post-halving-price-action-still-looks-familiar-but-sees-recovery-toward-100000-by-year-end",
+    "summary": "Bitcoin sits roughly 50% below its $126,000 peak in October 2025 as 21Shares points to a $100,000 base-case recovery by year-end.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-24T10:11:58.877500+00:00"
+    "fetched_at": "2026-06-24T13:09:51.565312+00:00"
   },
   {
     "title": "Venezuela to reveal $240bn debt pile in world\u2019s largest restructuring",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-24T10:11:59.664017+00:00"
+    "fetched_at": "2026-06-24T13:09:52.703701+00:00"
   },
   {
     "title": "What a decade covering Burnham reveals",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-24T10:11:59.664067+00:00"
+    "fetched_at": "2026-06-24T13:09:52.703756+00:00"
   }
 ]
