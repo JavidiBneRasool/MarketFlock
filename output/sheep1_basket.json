@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-25T21:20:02.933368+00:00"
+    "fetched_at": "2026-06-25T23:05:52.120052+00:00"
   },
   {
     "title": "Bitcoin options traders hedge downside as uncertainty lingers, Anchorage says",
@@ -15,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-25T21:20:02.933452+00:00"
+    "fetched_at": "2026-06-25T23:05:52.120131+00:00"
   },
   {
-    "title": "Fire Breaks Out at Delta Air Lines Refinery in Pennsylvania",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-25/fire-breaks-out-at-delta-air-lines-dal-refinery-in-pennsylvania",
-    "summary": "A fire broke out at Delta Air Lines Inc.\u2019s refinery in Trainer, Pennsylvania, on Thursday.",
+    "title": "Oil Holds Gain as Traders Weigh Hormuz Flows After Ship Attack",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-25/latest-oil-market-news-and-analysis-for-june-26",
+    "summary": "Oil held the bulk of a gain after a cargo ship was attacked in the Strait of Hormuz, renewing concerns about safe passage through the crucial waterway following a recent uptick in transits.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-25T21:20:03.995164+00:00"
+    "fetched_at": "2026-06-25T23:05:53.163585+00:00"
   },
   {
-    "title": "South Korea\u2019s \u2018Ant\u2019 Army Is Driving an AI Market Frenzy",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-25/south-korea-s-ant-army-is-driving-an-ai-market-frenzy",
-    "summary": "Some 14 million&nbsp;retail investors are piling into shares of two big tech giants, but worries are growing about what happens if chip demand dries up.",
+    "title": "H.B. Fuller Agrees to Acquire UK-Listed AMS for \u00a3659 Million",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-25/h-b-fuller-agrees-to-acquire-uk-medtech-ams-for-659-million",
+    "summary": "H.B. Fuller Co. agreed to acquire Advanced Medical Solutions Group Plc, a British maker of tissue-healing medical products, for \u00a3659 million ($870 million).",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-25T21:20:03.995233+00:00"
+    "fetched_at": "2026-06-25T23:05:53.163644+00:00"
   },
   {
     "title": "Strategy Stock (MSTR) Nearly Craters Another 10% as Securities Lawsuit Lands",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-25T21:20:03.318702+00:00"
+    "fetched_at": "2026-06-25T23:05:52.345907+00:00"
   },
   {
     "title": "Trezor Academy Releases Documentary on Africa\u2019s Bitcoin Economy, Opens Education Donations",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-25T21:20:03.318774+00:00"
+    "fetched_at": "2026-06-25T23:05:52.345977+00:00"
   },
   {
     "title": "Anthropic Urges Congress to Crack Down on AI Distillation By Chinese Rivals",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-25T21:20:03.427026+00:00"
+    "fetched_at": "2026-06-25T23:05:52.516216+00:00"
   },
   {
     "title": "Polymarket to Refund Users After Scammers Swipe Millions in Website Exploit",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-25T21:20:03.427107+00:00"
+    "fetched_at": "2026-06-25T23:05:52.516272+00:00"
+  },
+  {
+    "title": "Aave founder Stani Kulechov says AAVE isn\u2019t for sale \u2018at a 70% discount\u2019 following report of Payward bid",
+    "url": "https://www.theblock.co/post/406252/aave-stani-kulechov-says-aave-isnt-for-sale-at-70-discount-report-payward-bid",
+    "summary": "The Aave Will Win proposal redirected 100% of protocol and Aave-branded product revenue to the DAO and AAVE token holders.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-25T23:05:52.684101+00:00"
   },
   {
     "title": "Senate races to advance crypto legislation in July as housing bill turmoil threatens timeline",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-25T21:20:03.547855+00:00"
-  },
-  {
-    "title": "Trillion-dollar asset manager Invesco looks to plant a flag in tokenized stablecoin reserve sector",
-    "url": "https://www.theblock.co/post/406239/trillion-dollar-asset-manager-invesco-plant-flag-tokenized-stablecoin-reserve-sector",
-    "summary": "The fund will invest primarily in U.S. Treasuries, repo agreements, and cash equivalents to maintain a stable $1 net asset value.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-25T21:20:03.547928+00:00"
+    "fetched_at": "2026-06-25T23:05:52.684170+00:00"
   },
   {
     "title": "Attack in Strait of Hormuz halts evacuation plan for stranded ships",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-25T21:20:04.567344+00:00"
+    "fetched_at": "2026-06-25T23:05:53.980036+00:00"
   },
   {
     "title": "Trump\u2019s Iran deal is better than ongoing war",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-25T21:20:04.567407+00:00"
+    "fetched_at": "2026-06-25T23:05:53.980092+00:00"
   }
 ]
