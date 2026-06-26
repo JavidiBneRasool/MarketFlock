@@ -1,21 +1,39 @@
 [
   {
-    "title": "Markets, Economy Ignoring Policy Shocks: Skelly",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-26/markets-economy-ignoring-policy-shocks-skelly-video",
-    "summary": "Dan Skelly, managing director and head of the equity model portfolio team at Morgan Stanley Wealth Management, joins Lisa Mateo and Tom Keene on \"Bloomberg Money.\" (Source: Bloomberg)",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
+    "title": "Old Ether wallets move 37,806 ETH as whale conviction faces key test at $1.5K",
+    "url": "https://cointelegraph.com/markets/old-ether-wallets-move-37806-eth-as-whale-conviction-faces-key-test",
+    "summary": "Old Ether wallets moved 37,806 ETH as long-term whale profitability turned negative for the first time since 2019, signaling mixed sentiment among large holders. ",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-26T22:02:39.258886+00:00"
+    "fetched_at": "2026-06-26T23:07:56.041161+00:00"
   },
   {
-    "title": "Magnolia Oil &amp; Gas Is in Lead to Acquire WildFire for Over $4 Billion",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-26/magnolia-oil-gas-is-in-lead-to-acquire-wildfire-for-over-4-billion",
-    "summary": "Magnolia Oil &amp; Gas Corp. has emerged as the front-runner to acquire closely held WildFire Energy for more than $4 billion in what would rank as its largest-ever acquisition, according to people familiar with the matter.",
+    "title": "Spain regulator rules out extension for non-MiCA compliant crypto companies",
+    "url": "https://cointelegraph.com/news/spain-no-extension-mica-compliance-crypto-companies",
+    "summary": "Carlos San Basilio said that \u201cthere will be no exceptions \u200bor extensions\u201d to the MiCA deadline requiring crypto exchanges offering services to EU-based users to be licensed.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-26T23:07:56.041236+00:00"
+  },
+  {
+    "title": "Earn Your Leisure Co-Founders on Financial Literacy",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-26/earn-your-leisure-co-founders-on-financial-literacy-video",
+    "summary": "The CEOs and co-founders of Earn Your Leisure, Rashad Bilal and Troy Millings, explain their educational platform that looks to help individuals gain \n financial freedom and generational wealth. They discuss how to ride the tech stock wave with Romaine Bostick and Katie Greifeld on Bloomberg's \"The ",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-26T22:02:39.258943+00:00"
+    "fetched_at": "2026-06-26T23:07:56.766283+00:00"
+  },
+  {
+    "title": "Tennis Pro Caroline Wozniacki on Wimbledon",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-26/tennis-pro-caroline-wozniacki-on-wimbledon-video",
+    "summary": "Tennis champion Caroline Wozniacki sat down with Romaine Bostick and Katie Greifeld on the sidelines of The Wimbledon Court in Central Park. She discusses the future of the sport, player compensation, and advice for her fellow tennis star Serena Williams re-entering competition.  (Source: Bloomberg)",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-06-26T23:07:56.766332+00:00"
   },
   {
     "title": "Galaxy Research Cuts CLARITY Act Passage Odds to 50-50 as Senate Clock Runs Out",
@@ -24,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-26T22:02:38.773867+00:00"
+    "fetched_at": "2026-06-26T23:07:56.293403+00:00"
   },
   {
     "title": "Billionaire Investor Jeremy Grantham: Bitcoin Will \u2018Dwindle Away With a Whimper\u2019",
@@ -33,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-26T22:02:38.773947+00:00"
+    "fetched_at": "2026-06-26T23:07:56.293469+00:00"
   },
   {
     "title": "Wall Street's Next Tokenization Test: BlackRock-Backed Securitize's Market Debut",
@@ -42,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-26T22:02:38.878022+00:00"
+    "fetched_at": "2026-06-26T23:07:56.372552+00:00"
   },
   {
     "title": "Linux Foundation, Tech Giants Launch Akrites to Defend Open Source Against AI-Powered Attacks",
@@ -51,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-26T22:02:38.878083+00:00"
+    "fetched_at": "2026-06-26T23:07:56.372639+00:00"
   },
   {
     "title": "Strategy loses its bitcoin premium as enterprise mNAV dips below 1",
@@ -60,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-26T22:02:38.978645+00:00"
+    "fetched_at": "2026-06-26T23:07:56.459723+00:00"
   },
   {
     "title": "Ripple CEO says Michael Saylor has hurt crypto market as Strategy\u2019s STRC trades 25% below par",
@@ -69,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-26T22:02:38.978712+00:00"
+    "fetched_at": "2026-06-26T23:07:56.459791+00:00"
   },
   {
     "title": "Trump warns of 100% tariff on countries implementing digital services tax",
@@ -78,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-26T22:02:40.004571+00:00"
+    "fetched_at": "2026-06-26T23:07:57.453088+00:00"
   },
   {
     "title": "Blackwater founder Erik Prince: Trump was \u2018badly advised\u2019 on Iran",
@@ -87,24 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-26T22:02:40.004628+00:00"
-  },
-  {
-    "title": "U.S. confirms retaliatory strike on Iran, pulling oil prices up in after-hours trading",
-    "url": "https://www.marketwatch.com/story/oil-heads-for-another-losing-week-but-analyst-warns-sluggish-strait-of-hormuz-traffic-could-send-it-soaring-again-80ab9ba8?mod=mw_rss_topstories",
-    "summary": "Oil futures settled lower to post a third-straight weekly loss on Friday, but moved up in extended trading after the U.S. military confirmed a retaliatory strike on Iran.",
-    "source": "MarketWatch",
-    "category": "Stocks",
-    "tier": 9,
-    "fetched_at": "2026-06-26T22:02:40.193708+00:00"
-  },
-  {
-    "title": "Tech stocks just had one of their worst weeks in a year. Here\u2019s how AI momentum went off the rails.",
-    "url": "https://www.marketwatch.com/story/tech-stocks-just-had-one-of-their-worst-weeks-in-a-year-heres-how-ai-momentum-went-off-the-rails-d4596bae?mod=mw_rss_topstories",
-    "summary": "It one of the worst weeks for tech stocks of the year, and Wall Street spent much of it confronting a question it had been too euphoric to ask: what exactly are we getting for all this AI spending?",
-    "source": "MarketWatch",
-    "category": "Stocks",
-    "tier": 9,
-    "fetched_at": "2026-06-26T22:02:40.193781+00:00"
+    "fetched_at": "2026-06-26T23:07:57.453144+00:00"
   }
 ]
