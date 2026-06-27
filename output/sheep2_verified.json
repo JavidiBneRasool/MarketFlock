@@ -1,24 +1,24 @@
 [
   {
+    "title": "Coinbase, Circle underperform Big Tech as crypto stock slump deepens",
+    "url": "https://cointelegraph.com/news/crypto-stocks-underperform-tech-market-slump",
+    "summary": "Coinbase and Circle have posted steeper losses than Oracle, Netflix and Salesforce, highlighting the widening gap between crypto equities and the broader market.\n",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-27T17:04:43.777149+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "SecondFi targets two-week recovery after Cardano wallet exploit",
     "url": "https://cointelegraph.com/news/secondfi-two-week-recovery-cardano-wallet-exploit",
     "summary": "SecondFi says it has completed forensic investigations, taken a final balance snapshot and is preparing to return assets.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-27T15:57:50.671405+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-06-27T15:57:50.671473+00:00",
+    "fetched_at": "2026-06-27T17:04:43.777223+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,7 +30,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-27T15:57:51.324988+00:00",
+    "fetched_at": "2026-06-27T17:04:44.625600+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -42,7 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-27T15:57:51.325038+00:00",
+    "fetched_at": "2026-06-27T17:04:44.625656+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-27T15:57:50.988399+00:00",
+    "fetched_at": "2026-06-27T17:04:44.096919+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,19 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-27T15:57:50.988460+00:00",
+    "fetched_at": "2026-06-27T17:04:44.096992+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "The Stablecoin Founder Map Doesn't Match the Stablecoin Volume Map",
+    "url": "https://decrypt.co/371967/stablecoin-founder-map-doesnt-match-stablecoin-volume-map",
+    "summary": "Emerging markets drive most real-world stablecoin usage, yet founder concentration and venture funding remain U.S.- and Europe-centric.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-27T17:04:44.199244+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,19 +90,19 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-27T15:57:51.084689+00:00",
+    "fetched_at": "2026-06-27T17:04:44.199307+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Wall Street's Next Tokenization Test: BlackRock-Backed Securitize's Market Debut",
-    "url": "https://decrypt.co/372249/wall-street-next-tokenization-test-blackrock-backed-securitize-ipo",
-    "summary": "Securitize expects to begin trading next week under the ticker symbol \u201cSECZ,\u201d following the completion of a merger with a blank-check firm.",
-    "source": "Decrypt",
+    "title": "Average IBIT investor now down about 40% as spot bitcoin ETFs cap second-worst week on record",
+    "url": "https://www.theblock.co/post/406451/average-ibit-investor-now-down-about-40-as-spot-bitcoin-etfs-cap-second-worst-week-on-record",
+    "summary": "Friday's $444.51 million net outflow capped a seventh straight negative week, the longest weekly run on record for the category.",
+    "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-27T15:57:51.084747+00:00",
+    "fetched_at": "2026-06-27T17:04:44.272854+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,19 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-27T15:57:51.157635+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Ripple CEO says Michael Saylor has hurt crypto market as Strategy\u2019s STRC trades 25% below par",
-    "url": "https://www.theblock.co/post/406432/ripple-ceo-says-michael-saylor-has-hurt-crypto-market-as-strategys-strc-trades-25-below-par",
-    "summary": "\"Financial engineering does not drive long-term value ... long-term value of any digital asset is going to be driven by utility,\" said Garlinghouse.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-27T15:57:51.157722+00:00",
+    "fetched_at": "2026-06-27T17:04:44.272922+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-27T15:57:51.756870+00:00",
+    "fetched_at": "2026-06-27T17:04:45.347270+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-27T15:57:51.756924+00:00",
+    "fetched_at": "2026-06-27T17:04:45.347331+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
