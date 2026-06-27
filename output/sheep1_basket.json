@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-27T14:21:59.100360+00:00"
+    "fetched_at": "2026-06-27T15:57:50.671405+00:00"
   },
   {
     "title": "Here\u2019s what happened in crypto today",
@@ -15,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-27T14:21:59.100415+00:00"
+    "fetched_at": "2026-06-27T15:57:50.671473+00:00"
   },
   {
-    "title": "Sen. Armstrong: Permitting Is Key to Lower Energy Costs",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-27/sen-armstrong-permitting-is-key-to-lower-energy-costs-video",
-    "summary": "Senator Alan Armstrong (R-Oklahoma) joins David Gura and Christina Ruffini on Bloomberg This Weekend and says permitting reform&mdash;not additional federal spending&mdash;is the most effective way to lower housing and energy costs, arguing regulatory delays have created infrastructure bottlenecks t",
+    "title": "Aid Groups Flock to Venezuela In Search-and-Rescue Frenzy",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-27/aid-groups-flock-to-venezuela-in-search-and-rescue-frenzy",
+    "summary": "Two of the US military ships used in a blockade meant to pressure Nicol\u00e1s Maduro have headed back toward Venezuela, this time with rescue teams, equipment and medical aid after devastating twin earthquakes struck the country this week.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-27T14:21:59.833812+00:00"
+    "fetched_at": "2026-06-27T15:57:51.324988+00:00"
   },
   {
-    "title": "America\u2019s Farmers Need USMCA More Than Ever",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-27/america-s-farmers-need-usmca-more-than-ever-video",
-    "summary": "For many American farmers, Canada and Mexico have become indispensable export markets at a time when trade disputes, weak commodity prices, and rising costs are already straining the agricultural economy. Iowa farmer Stu Swanson says many producers are operating on dwindling hope as financial  press",
+    "title": "Pointed News Quiz | Reddit, Music, YA Novels",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-27/pointed-news-quiz-reddit-music-ya-novels-video",
+    "summary": "David Gura, Christina Ruffini, and Lisa Mateo of \u201cBloomberg This Weekend\u201d play Pointed! Wager your points, leverage your bets and answer wisely. A new quiz is available to play each week on Bloomberg.com  (Source: Bloomberg)",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-27T14:21:59.833858+00:00"
+    "fetched_at": "2026-06-27T15:57:51.325038+00:00"
   },
   {
     "title": "Galaxy Research Cuts CLARITY Act Passage Odds to 50-50 as Senate Clock Runs Out",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-27T14:21:59.276395+00:00"
+    "fetched_at": "2026-06-27T15:57:50.988399+00:00"
   },
   {
     "title": "Billionaire Investor Jeremy Grantham: Bitcoin Will \u2018Dwindle Away With a Whimper\u2019",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-27T14:21:59.276450+00:00"
+    "fetched_at": "2026-06-27T15:57:50.988460+00:00"
+  },
+  {
+    "title": "Billionaire Jeremy Grantham Dismisses Bitcoin, Says Crypto Will Fade 'With a Whimper'",
+    "url": "https://decrypt.co/372205/billionaire-jeremy-grantham-dismisses-bitcoin-crypto",
+    "summary": "The seasoned investor has little faith in Bitcoin's staying power, expecting crypto to quietly fade away over time.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-27T15:57:51.084689+00:00"
   },
   {
     "title": "Wall Street's Next Tokenization Test: BlackRock-Backed Securitize's Market Debut",
@@ -60,16 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-27T14:21:59.365709+00:00"
-  },
-  {
-    "title": "Linux Foundation, Tech Giants Launch Akrites to Defend Open Source Against AI-Powered Attacks",
-    "url": "https://decrypt.co/372244/linux-foundation-tech-giants-akrites-defend-open-source-ai-attacks",
-    "summary": "A coalition of 19 organizations\u2014including every major AI lab and Wall Street banks\u2014just built the security team that open-source maintainers never had.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-27T14:21:59.365756+00:00"
+    "fetched_at": "2026-06-27T15:57:51.084747+00:00"
   },
   {
     "title": "Strategy loses its bitcoin premium as enterprise mNAV dips below 1",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-27T14:21:59.421747+00:00"
+    "fetched_at": "2026-06-27T15:57:51.157635+00:00"
   },
   {
     "title": "Ripple CEO says Michael Saylor has hurt crypto market as Strategy\u2019s STRC trades 25% below par",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-27T14:21:59.421800+00:00"
+    "fetched_at": "2026-06-27T15:57:51.157722+00:00"
   },
   {
     "title": "Apple seeks to buy memory chips from blacklisted Chinese company",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-27T14:22:00.531988+00:00"
+    "fetched_at": "2026-06-27T15:57:51.756870+00:00"
   },
   {
     "title": "Trump administration allows some access to Anthropic\u2019s Mythos",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-27T14:22:00.532035+00:00"
+    "fetched_at": "2026-06-27T15:57:51.756924+00:00"
   }
 ]
