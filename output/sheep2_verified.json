@@ -1,24 +1,36 @@
 [
   {
+    "title": "DCG-backed Yuma launches fund offering institutional exposure to Bittensor",
+    "url": "https://cointelegraph.com/news/yuma-bittensor-fund-institutional-tao-decentralized-ai",
+    "summary": "The new investment vehicle arrives as asset managers expand TAO offerings and decentralized AI gains momentum following recent restrictions on Anthropic's models.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-27T19:00:36.774300+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "Coinbase, Circle underperform Big Tech as crypto stock slump deepens",
     "url": "https://cointelegraph.com/news/crypto-stocks-underperform-tech-market-slump",
     "summary": "Coinbase and Circle have posted steeper losses than Oracle, Netflix and Salesforce, highlighting the widening gap between crypto equities and the broader market.\n",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-27T17:04:43.777149+00:00",
+    "fetched_at": "2026-06-27T19:00:36.774376+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "SecondFi targets two-week recovery after Cardano wallet exploit",
-    "url": "https://cointelegraph.com/news/secondfi-two-week-recovery-cardano-wallet-exploit",
-    "summary": "SecondFi says it has completed forensic investigations, taken a final balance snapshot and is preparing to return assets.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
+    "title": "Bloomberg This Weekend 6/27/2026",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-27/bloomberg-this-weekend-6-27-2026-video",
+    "summary": "The news doesn\u2019t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend\u2019s biggest headlines, LIVE from New York. Joined by Fmr. UN Ambassador and Fmr. USAID Administrator Samantha Power and Oklahoma Senator Alan Armstrong.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-27T17:04:43.777223+00:00",
+    "fetched_at": "2026-06-27T19:00:41.945048+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,19 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-27T17:04:44.625600+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Pointed News Quiz | Reddit, Music, YA Novels",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-27/pointed-news-quiz-reddit-music-ya-novels-video",
-    "summary": "David Gura, Christina Ruffini, and Lisa Mateo of \u201cBloomberg This Weekend\u201d play Pointed! Wager your points, leverage your bets and answer wisely. A new quiz is available to play each week on Bloomberg.com  (Source: Bloomberg)",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-06-27T17:04:44.625656+00:00",
+    "fetched_at": "2026-06-27T19:00:41.945105+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-27T17:04:44.096919+00:00",
+    "fetched_at": "2026-06-27T19:00:37.019433+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-27T17:04:44.096992+00:00",
+    "fetched_at": "2026-06-27T19:00:37.019500+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-27T17:04:44.199244+00:00",
+    "fetched_at": "2026-06-27T19:00:37.117759+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-27T17:04:44.199307+00:00",
+    "fetched_at": "2026-06-27T19:00:37.117819+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-27T17:04:44.272854+00:00",
+    "fetched_at": "2026-06-27T19:00:37.215547+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-27T17:04:44.272922+00:00",
+    "fetched_at": "2026-06-27T19:00:37.215608+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-27T17:04:45.347270+00:00",
+    "fetched_at": "2026-06-27T19:00:42.578953+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-27T17:04:45.347331+00:00",
+    "fetched_at": "2026-06-27T19:00:42.579017+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
