@@ -1,39 +1,39 @@
 [
   {
-    "title": "Fidelity rebuts claims Bitcoin becomes less secure after halvings",
-    "url": "https://cointelegraph.com/news/fidelity-bitcoin-long-term-security-halvings-report",
-    "summary": "The asset manager argues Bitcoin's fixed supply schedule does not undermine network security, even as miners face shrinking block rewards after each halving.",
+    "title": "Base post-mortem reveals sequencer bug behind back-to-back outages",
+    "url": "https://cointelegraph.com/news/base-post-mortem-reveals-sequencer-bug-behind-back-to-back-outages",
+    "summary": "A \u201crace condition\u201d after the system was reset prevented the sequencers from catching up, causing the second outage. \n",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-28T02:09:30.844603+00:00"
+    "fetched_at": "2026-06-28T06:51:57.284341+00:00"
   },
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "title": "Bitcoin unspent transaction outputs signal capitulation underway: analyst",
+    "url": "https://cointelegraph.com/news/bitcoin-unspent-transaction-outputs-signal-capitulation-underway-analyst",
+    "summary": "\u201cThese periods have always been profitable for long-term investors,\u201d said CryptoQuant analyst Darkfost. \n",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-28T02:09:30.844695+00:00"
+    "fetched_at": "2026-06-28T06:51:57.284451+00:00"
   },
   {
-    "title": "Warsh Makes Debut on the Global Stage With the Class of 2008",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-27/warsh-makes-debut-on-the-global-stage-with-the-class-of-2008",
-    "summary": "Kevin Warsh and three other veterans of the 2008 global financial crisis will share a stage this week as the danger of renewed turmoil continues to haunt central bankers.",
+    "title": "Sydney Home Auction Activity Weakens as Costs, Tax Changes Weigh",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-28/sydney-home-auction-activity-weakens-as-costs-tax-changes-weigh",
+    "summary": "Sydney posted its weakest weekend home auction clearance rate in more than six years as higher interest rates and property tax changes dampen activity and weigh on prices, after years of rapid gains.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-28T02:09:31.914555+00:00"
+    "fetched_at": "2026-06-28T06:51:58.109760+00:00"
   },
   {
-    "title": "Tech Equity Sales Renew AI Debt-Binge Worries",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-27/tech-equity-sales-renew-ai-debt-binge-worries-credit-weekly",
-    "summary": "Tech companies are selling stock like it\u2019s the dot-com boom, and some investors fear that\u2019s a bad sign for bondholders.",
+    "title": "Burnham\u2019s Rise Revives Talk of War Bonds to Fund the UK Military",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-28/burnham-s-rise-revives-talk-of-war-bonds-to-fund-the-uk-military",
+    "summary": "Britain\u2019s soon-to-be prime minister wants an array of bold new policies to attract voters who have grown tired of a Labour government mired in indecision and political backbiting. One idea that could raise Andy Burnham\u2019s famously thick eyebrows is the issuing of war bonds.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-28T02:09:31.914606+00:00"
+    "fetched_at": "2026-06-28T06:51:58.109821+00:00"
   },
   {
     "title": "Galaxy Research Cuts CLARITY Act Passage Odds to 50-50 as Senate Clock Runs Out",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T02:09:31.149829+00:00"
+    "fetched_at": "2026-06-28T06:51:57.542504+00:00"
   },
   {
     "title": "Billionaire Investor Jeremy Grantham: Bitcoin Will \u2018Dwindle Away With a Whimper\u2019",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T02:09:31.149897+00:00"
+    "fetched_at": "2026-06-28T06:51:57.542584+00:00"
   },
   {
     "title": "The Stablecoin Founder Map Doesn't Match the Stablecoin Volume Map",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T02:09:31.272905+00:00"
+    "fetched_at": "2026-06-28T06:51:57.635425+00:00"
   },
   {
     "title": "Billionaire Jeremy Grantham Dismisses Bitcoin, Says Crypto Will Fade 'With a Whimper'",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T02:09:31.272962+00:00"
+    "fetched_at": "2026-06-28T06:51:57.635486+00:00"
   },
   {
     "title": "SecondFi maps recovery path after $2.4 million Cardano wallet exploit, aims to return funds within two weeks",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T02:09:31.404507+00:00"
+    "fetched_at": "2026-06-28T06:51:57.729704+00:00"
   },
   {
     "title": "Average IBIT investor now down about 40% as spot bitcoin ETFs cap second-worst week on record",
@@ -87,24 +87,24 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T02:09:31.404577+00:00"
+    "fetched_at": "2026-06-28T06:51:57.729773+00:00"
   },
   {
-    "title": "US carries out second day of strikes against Iran",
+    "title": "US and Iran trade strikes as ceasefire falters",
     "url": "https://www.ft.com/content/5f4cd16c-fa4a-4806-94ce-84df6f51ecc0",
-    "summary": "Military action in response to Iranian attacks on shipping is a further blow to hopes of sustained ceasefire",
+    "summary": "Truce under pressure as Tehran counters US attacks by targeting military installations in Bahrain and Kuwait",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-28T02:09:32.727432+00:00"
+    "fetched_at": "2026-06-28T06:51:58.785706+00:00"
   },
   {
-    "title": "New York\u2019s socialist insurgency raises alarm among anxious Democrats",
-    "url": "https://www.ft.com/content/831d18c4-7272-4543-bcfc-d134df238dd7",
-    "summary": "Sweeping victories by progressives expose divisions over how party takes on Trump in November\u2019s elections",
+    "title": "Mines will hold back Strait of Hormuz shipping for months, CEO warns",
+    "url": "https://www.ft.com/content/a0739198-318c-4ae8-9953-ba88201edc45",
+    "summary": "NYK\u2019s Takaya Soga says safe routes are \u2018extremely limited\u2019, restricting traffic to half prewar levels",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-28T02:09:32.727488+00:00"
+    "fetched_at": "2026-06-28T06:51:58.785764+00:00"
   }
 ]
