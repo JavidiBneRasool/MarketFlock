@@ -1,24 +1,36 @@
 [
   {
+    "title": "Here\u2019s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-28T21:52:18.136716+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "BIS warns stablecoins risk fragmenting global financial system",
     "url": "https://cointelegraph.com/news/bis-warns-stablecoins-risk-fragmenting-global-financial-system",
     "summary": "The Basel-based institution said that private digital tokens fall short of the requirements for sound money and urged policymakers to accelerate work on tokenized forms of central bank and commercial bank money.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-28T20:49:40.723225+00:00",
+    "fetched_at": "2026-06-28T21:52:18.136772+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Will Bitcoin price recover in July?",
-    "url": "https://cointelegraph.com/markets/will-bitcoin-price-recover-in-july",
-    "summary": "Bitcoin\u2019s past July gains and heavy short bets point to a rally toward $75,000, but a break below key support keeps the risk of $55,000 in play.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
+    "title": "Private Credit Quietly Backs the Craze Propping Up US Consumers",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-28/private-credit-quietly-backs-the-craze-propping-up-us-consumers",
+    "summary": "Private credit companies are increasingly backing the \"buy now, pay later\" craze that's propping up US consumers. This trend is throwing up red flags for credit raters, former regulatory chiefs and others on guard for potential risks. Ren\u00e9 Ismail explains  (Source: Bloomberg)",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-28T20:49:40.723293+00:00",
+    "fetched_at": "2026-06-28T21:52:19.280996+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,19 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-28T20:49:41.522197+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Bond Heavyweights Target a Market Sweet Spot for New Warsh Era",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-28/bond-heavyweights-target-a-market-sweet-spot-for-new-warsh-era",
-    "summary": "Some of the biggest bond managers are zeroing in on one specific area of the market as the best place to ride out the early days of the Kevin Warsh era.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-06-28T20:49:41.522256+00:00",
+    "fetched_at": "2026-06-28T21:52:19.281041+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T20:49:40.974197+00:00",
+    "fetched_at": "2026-06-28T21:52:18.397374+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T20:49:40.974265+00:00",
+    "fetched_at": "2026-06-28T21:52:18.397441+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T20:49:41.062898+00:00",
+    "fetched_at": "2026-06-28T21:52:18.581442+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T20:49:41.062954+00:00",
+    "fetched_at": "2026-06-28T21:52:18.581486+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T20:49:41.131909+00:00",
+    "fetched_at": "2026-06-28T21:52:18.735952+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T20:49:41.131979+00:00",
+    "fetched_at": "2026-06-28T21:52:18.736010+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-28T20:49:42.181201+00:00",
+    "fetched_at": "2026-06-28T21:52:19.977384+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-28T20:49:42.181260+00:00",
+    "fetched_at": "2026-06-28T21:52:19.977447+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
