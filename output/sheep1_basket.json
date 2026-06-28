@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-28T13:09:56.261030+00:00"
+    "fetched_at": "2026-06-28T15:09:43.134053+00:00"
   },
   {
     "title": "Binance posts over $400M in weekly net outflows as MiCA deadline nears",
@@ -15,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-28T13:09:56.261111+00:00"
-  },
-  {
-    "title": "By The Way: Interesting Headlines You May Have Missed",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-28/by-the-way-interesting-headlines-you-may-have-missed-video",
-    "summary": "Hacky sack makes a comeback, the US Men's National soccer team plays with some puppies, Doctors vs Podcast advise, and Robotaxi rules easing. Lisa Mateo, Christina Ruffini and David Gura dive into the headlines you may have missed on Bloomberg This Weekend. (Source: Bloomberg)",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-06-28T13:09:57.447625+00:00"
+    "fetched_at": "2026-06-28T15:09:43.134132+00:00"
   },
   {
     "title": "Aramco Helicopter Crash in Ras Tanura Kills All 14 on Board",
     "url": "https://www.bloomberg.com/news/articles/2026-06-28/aramco-helicopter-crash-in-ras-tanura-kills-all-14-passengers",
-    "summary": "A helicopter operated by Saudi Aramco crashed Sunday in the Saudi city of Ras Tanura, killing all 14 passengers on board, the state-owned SPA news agency reported.",
+    "summary": "A helicopter operated by Saudi Aramco crashed Sunday in the energy heartland of Ras Tanura, killing all 14 passengers on board.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-28T13:09:57.447686+00:00"
+    "fetched_at": "2026-06-28T15:09:43.846148+00:00"
+  },
+  {
+    "title": "Can USMCA Survive Trump\u2019s Second Term?",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-28/can-usmca-survive-trump-s-second-term-video",
+    "summary": "As Canada, Mexico, and the United States begin reviewing the USMCA trade pact, former diplomats and trade negotiators say the stakes extend far beyond tariffs. Former Canadian Ambassador Kirsten Hillman, former Mexican Ambassador Ger\u00f3nimo Guti\u00e9rrez, and former US trade counsel Kelly Ann Shaw argue t",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-06-28T15:09:43.846202+00:00"
   },
   {
     "title": "Galaxy Research Cuts CLARITY Act Passage Odds to 50-50 as Senate Clock Runs Out",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T13:09:56.614991+00:00"
+    "fetched_at": "2026-06-28T15:09:43.391098+00:00"
   },
   {
     "title": "Billionaire Investor Jeremy Grantham: Bitcoin Will \u2018Dwindle Away With a Whimper\u2019",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T13:09:56.615065+00:00"
+    "fetched_at": "2026-06-28T15:09:43.391165+00:00"
   },
   {
     "title": "The Future Cyberpunk Imagined Is Here: How Much Did It Get Right?",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T13:09:56.745081+00:00"
+    "fetched_at": "2026-06-28T15:09:43.466482+00:00"
   },
   {
     "title": "The Stablecoin Founder Map Doesn't Match the Stablecoin Volume Map",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T13:09:56.745140+00:00"
+    "fetched_at": "2026-06-28T15:09:43.466536+00:00"
   },
   {
     "title": "SecondFi maps recovery path after $2.4 million Cardano wallet exploit, aims to return funds within two weeks",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T13:09:56.922008+00:00"
+    "fetched_at": "2026-06-28T15:09:43.536256+00:00"
   },
   {
     "title": "Average IBIT investor now down about 40% as spot bitcoin ETFs cap second-worst week on record",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T13:09:56.922081+00:00"
+    "fetched_at": "2026-06-28T15:09:43.536323+00:00"
   },
   {
     "title": "AI \u2018exuberance\u2019 risks ending in lengthy investment bust, BIS warns",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-28T13:09:58.252316+00:00"
+    "fetched_at": "2026-06-28T15:09:44.538003+00:00"
   },
   {
     "title": "Google caps Meta\u2019s Gemini use as AI demand strains capacity",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-28T13:09:58.252389+00:00"
+    "fetched_at": "2026-06-28T15:09:44.538064+00:00"
   }
 ]
