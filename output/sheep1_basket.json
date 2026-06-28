@@ -1,39 +1,39 @@
 [
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "title": "Will Bitcoin price recover in July?",
+    "url": "https://cointelegraph.com/markets/will-bitcoin-price-recover-in-july",
+    "summary": "Bitcoin\u2019s past July gains and heavy short bets point to a rally toward $75,000, but a break below key support keeps the risk of $55,000 in play.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-28T15:09:43.134053+00:00"
+    "fetched_at": "2026-06-28T16:55:53.241331+00:00"
   },
   {
-    "title": "Binance posts over $400M in weekly net outflows as MiCA deadline nears",
-    "url": "https://cointelegraph.com/news/binance-400m-weekly-net-outflows-mica-deadline-nears",
-    "summary": "Early exchange flow data show no clear signs of a mass migration from Binance ahead of the EU MiCA transition deadline, despite rivals' efforts to attract users.",
+    "title": "EU Watchdog EBA Details Big Crypto Fines as Landmark Laws Bite",
+    "url": "https://cointelegraph.com/news/eu-watchdog-eba-details-big-crypto-fines-as-landmark-laws-bite",
+    "summary": "The European Banking Authority laid out a proposed penalty framework on Friday that can strip non-compliant significant token issuers of up to 12.5% of their annual revenue.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-28T15:09:43.134132+00:00"
+    "fetched_at": "2026-06-28T16:55:53.241403+00:00"
   },
   {
-    "title": "Aramco Helicopter Crash in Ras Tanura Kills All 14 on Board",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-28/aramco-helicopter-crash-in-ras-tanura-kills-all-14-passengers",
-    "summary": "A helicopter operated by Saudi Aramco crashed Sunday in the energy heartland of Ras Tanura, killing all 14 passengers on board.",
+    "title": "Venezuela\u2019s Machado Attempts Fast Return Amid Quake Response",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-28/venezuela-s-machado-plans-quick-return-amid-quake-response",
+    "summary": "Venezuela\u2019s opposition leader Mar\u00eda Corina Machado is working to return to the country as soon as possible, according to people with direct knowledge of her plans, a move that could reshape the political landscape as acting President Delcy Rodr\u00edguez struggles to respond to the nation\u2019s worst natural",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-28T15:09:43.846148+00:00"
+    "fetched_at": "2026-06-28T16:55:54.134329+00:00"
   },
   {
-    "title": "Can USMCA Survive Trump\u2019s Second Term?",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-28/can-usmca-survive-trump-s-second-term-video",
-    "summary": "As Canada, Mexico, and the United States begin reviewing the USMCA trade pact, former diplomats and trade negotiators say the stakes extend far beyond tariffs. Former Canadian Ambassador Kirsten Hillman, former Mexican Ambassador Ger\u00f3nimo Guti\u00e9rrez, and former US trade counsel Kelly Ann Shaw argue t",
+    "title": "World Cup Fever Energizes Boston Ahead of Knockout Stage",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-28/world-cup-fever-energizes-boston-ahead-of-knockout-stage-video",
+    "summary": "From Scotts to Haitians, Boston has been a hotspot for memorable moments during the FIFA World Cup. Boston Globe Social Video Journalist Emily Sweeney joins Bloomberg This Weekend and discusses with hosts David Gura, Christina Ruffini and Lisa Mateo vibrant atmosphere and community spirit that has t",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-28T15:09:43.846202+00:00"
+    "fetched_at": "2026-06-28T16:55:54.134388+00:00"
   },
   {
     "title": "Galaxy Research Cuts CLARITY Act Passage Odds to 50-50 as Senate Clock Runs Out",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T15:09:43.391098+00:00"
+    "fetched_at": "2026-06-28T16:55:53.643675+00:00"
   },
   {
     "title": "Billionaire Investor Jeremy Grantham: Bitcoin Will \u2018Dwindle Away With a Whimper\u2019",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T15:09:43.391165+00:00"
+    "fetched_at": "2026-06-28T16:55:53.643748+00:00"
   },
   {
     "title": "The Future Cyberpunk Imagined Is Here: How Much Did It Get Right?",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T15:09:43.466482+00:00"
+    "fetched_at": "2026-06-28T16:55:53.743734+00:00"
   },
   {
     "title": "The Stablecoin Founder Map Doesn't Match the Stablecoin Volume Map",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T15:09:43.466536+00:00"
+    "fetched_at": "2026-06-28T16:55:53.743792+00:00"
+  },
+  {
+    "title": "Michael Saylor signals another bitcoin buy as Strategy sits about $13 billion underwater",
+    "url": "https://www.theblock.co/post/406460/michael-saylor-signals-another-bitcoin-buy-as-strategy-sits-about-13-billion-underwater",
+    "summary": "A Monday filing would mark Strategy's fourth straight week of buying, after a 520 BTC purchase on June 22 that was its smallest recent tranche.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-28T16:55:53.839269+00:00"
   },
   {
     "title": "SecondFi maps recovery path after $2.4 million Cardano wallet exploit, aims to return funds within two weeks",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T15:09:43.536256+00:00"
-  },
-  {
-    "title": "Average IBIT investor now down about 40% as spot bitcoin ETFs cap second-worst week on record",
-    "url": "https://www.theblock.co/post/406451/average-ibit-investor-now-down-about-40-as-spot-bitcoin-etfs-cap-second-worst-week-on-record",
-    "summary": "Friday's $444.51 million net outflow capped a seventh straight negative week, the longest weekly run on record for the category.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-28T15:09:43.536323+00:00"
+    "fetched_at": "2026-06-28T16:55:53.839342+00:00"
   },
   {
     "title": "AI \u2018exuberance\u2019 risks ending in lengthy investment bust, BIS warns",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-28T15:09:44.538003+00:00"
+    "fetched_at": "2026-06-28T16:55:54.738422+00:00"
   },
   {
     "title": "Google caps Meta\u2019s Gemini use as AI demand strains capacity",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-28T15:09:44.538064+00:00"
+    "fetched_at": "2026-06-28T16:55:54.738483+00:00"
   }
 ]
