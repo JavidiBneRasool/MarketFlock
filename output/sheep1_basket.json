@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-28T09:51:13.090519+00:00"
+    "fetched_at": "2026-06-28T11:30:15.485265+00:00"
   },
   {
     "title": "Base post-mortem reveals sequencer bug behind back-to-back outages",
@@ -15,16 +15,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-28T09:51:13.090590+00:00"
-  },
-  {
-    "title": "AI Bust Risks Ripple Effects From Growth to Credit, BIS Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-28/ai-bust-risks-ripple-effects-from-growth-to-credit-bis-says",
-    "summary": "An artificial-intelligence bust, inflation and fiscal stress are among the most alarming threats to global prosperity at present, the Bank for International Settlements warned.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-06-28T09:51:14.221001+00:00"
+    "fetched_at": "2026-06-28T11:30:15.485338+00:00"
   },
   {
     "title": "Warsh Makes Debut on the Global Stage With the Class of 2008",
@@ -33,7 +24,16 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-28T09:51:14.221053+00:00"
+    "fetched_at": "2026-06-28T11:30:16.601558+00:00"
+  },
+  {
+    "title": "AI Bust Risks Ripple Effects From Growth to Credit, BIS Says",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-28/ai-bust-risks-ripple-effects-from-growth-to-credit-bis-says",
+    "summary": "An artificial-intelligence bust, inflation and fiscal stress are among the most alarming threats to global prosperity at present, the Bank for International Settlements warned.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-06-28T11:30:16.601609+00:00"
   },
   {
     "title": "Galaxy Research Cuts CLARITY Act Passage Odds to 50-50 as Senate Clock Runs Out",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T09:51:13.290294+00:00"
+    "fetched_at": "2026-06-28T11:30:15.925073+00:00"
   },
   {
     "title": "Billionaire Investor Jeremy Grantham: Bitcoin Will \u2018Dwindle Away With a Whimper\u2019",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T09:51:13.290361+00:00"
+    "fetched_at": "2026-06-28T11:30:15.925141+00:00"
   },
   {
     "title": "The Stablecoin Founder Map Doesn't Match the Stablecoin Volume Map",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T09:51:13.602516+00:00"
+    "fetched_at": "2026-06-28T11:30:16.068537+00:00"
   },
   {
     "title": "Billionaire Jeremy Grantham Dismisses Bitcoin, Says Crypto Will Fade 'With a Whimper'",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T09:51:13.602571+00:00"
+    "fetched_at": "2026-06-28T11:30:16.068594+00:00"
   },
   {
     "title": "SecondFi maps recovery path after $2.4 million Cardano wallet exploit, aims to return funds within two weeks",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T09:51:13.759519+00:00"
+    "fetched_at": "2026-06-28T11:30:16.230729+00:00"
   },
   {
     "title": "Average IBIT investor now down about 40% as spot bitcoin ETFs cap second-worst week on record",
@@ -87,24 +87,24 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-28T09:51:13.759583+00:00"
+    "fetched_at": "2026-06-28T11:30:16.230803+00:00"
   },
   {
-    "title": "US and Iran trade strikes as ceasefire falters",
-    "url": "https://www.ft.com/content/5f4cd16c-fa4a-4806-94ce-84df6f51ecc0",
-    "summary": "Truce under pressure as Tehran counters US attacks by targeting military installations in Bahrain and Kuwait",
+    "title": "AI \u2018exuberance\u2019 risks ending in lengthy investment bust, BIS warns",
+    "url": "https://www.ft.com/content/e81ce414-e4bd-4e8c-bac7-94f7bf17def4",
+    "summary": "Weak returns could trigger a sharp pullback in funding for tech companies that threatens the global economy",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-28T09:51:14.924412+00:00"
+    "fetched_at": "2026-06-28T11:30:17.347090+00:00"
   },
   {
-    "title": "Mines will hold back Strait of Hormuz shipping for months, CEO warns",
-    "url": "https://www.ft.com/content/a0739198-318c-4ae8-9953-ba88201edc45",
-    "summary": "NYK\u2019s Takaya Soga says safe routes are \u2018extremely limited\u2019, restricting traffic to half prewar levels",
+    "title": "Google caps Meta\u2019s Gemini use as AI demand strains capacity",
+    "url": "https://www.ft.com/content/c5d52f72-71ef-40bc-bad3-61afdba8b378",
+    "summary": "Surging appetite for advanced models is turning computing power into the tech industry\u2019s scarcest commodity",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-28T09:51:14.924465+00:00"
+    "fetched_at": "2026-06-28T11:30:17.347149+00:00"
   }
 ]
