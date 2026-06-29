@@ -1,39 +1,39 @@
 [
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "title": "UK sets final crypto rules as firms face 2027 FCA authorization deadline",
+    "url": "https://cointelegraph.com/news/uk-crypto-rules-2027-fca-authorization-deadline",
+    "summary": "The UK\u2019s financial regulator has published its crypto regulatory framework, setting the authorization deadline for cryptocurrency firms for February 2027.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-29T22:02:38.444762+00:00"
+    "fetched_at": "2026-06-29T23:51:17.054631+00:00"
   },
   {
-    "title": "Donald Trump has 10 days to decide on housing bill with CBDC ban",
-    "url": "https://cointelegraph.com/news/cbdc-ban-housing-bill-donald-trump",
-    "summary": "House Speaker Mike Johnson transmitted a housing bill with a provision barring the US Federal Reserve issuing or creating a CBDC until 2030 to Donald Trump on Monday.",
+    "title": "Bitcoin faces critical test as bulls aim to hold $60K: Did BTC bottom?",
+    "url": "https://cointelegraph.com/markets/bitcoin-faces-critical-test-as-bulls-aim-to-hold-60k-did-btc-bottom",
+    "summary": "Bitcoin\u2019s loose hold on $60,000 and soft futures markets raise questions about whether BTC has bottomed.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-29T22:02:38.444838+00:00"
+    "fetched_at": "2026-06-29T23:51:17.054733+00:00"
   },
   {
-    "title": "CEO Behind Knicks Flyfish Club Afterparty on What\u2019s Next",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-29/ceo-behind-knicks-flyfish-club-afterparty-on-what-s-next-video",
-    "summary": "David Rodolitz, Founder and CEO of VCR Group, joined the live broadcast to discuss the recent celebration held by the New York Knicks at the Flyfish Club following their NBA Finals victory. As the owner of the Flyfish Club, Rodolitz shared insights on the significance of hosting such a high-profile ",
+    "title": "China Misses AI Boom as Stocks Trail Most Since 2001",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-29/china-misses-out-on-ai-boom-as-stocks-trail-by-most-since-2001",
+    "summary": "After a banner year for Chinese stocks on the back of AI advances, 2026 is not going well.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-29T22:02:39.522168+00:00"
+    "fetched_at": "2026-06-29T23:51:17.823691+00:00"
   },
   {
-    "title": "Grasshopper Club Zurich Sold by LA Team to Bridge Football",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-29/grasshopper-club-zurich-sold-by-la-team-to-bridge-football",
-    "summary": "Bridge Football Group has bought Grasshopper Club Zurich, one of Switzerland\u2019s most storied football teams.",
+    "title": "Yen Hits Four-Decade Low in Historic Slide That\u2019s Rattled Japan",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-29/yen-jpy-usd-hits-four-decade-low-in-historic-slide-that-s-rattled-japan",
+    "summary": "The yen slid to its weakest level against the dollar since 1986, a milestone that will generate unease in Japan and put traders on high alert for authorities wading into the market.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-29T22:02:39.522229+00:00"
+    "fetched_at": "2026-06-29T23:51:17.823756+00:00"
   },
   {
     "title": "Strategy (MSTR) Surges Over 12% As Bitcoin-Linked Stocks Have Green Day",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-29T22:02:38.764405+00:00"
+    "fetched_at": "2026-06-29T23:51:17.315814+00:00"
   },
   {
     "title": "JPMorgan Backs U.S. Crypto Bill, But Puts a Warning Label Front and Center as Senate Eyes August Deadline",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-29T22:02:38.764478+00:00"
+    "fetched_at": "2026-06-29T23:51:17.315887+00:00"
   },
   {
     "title": "Ornith Is the Open-Source Coding Model Built for Agents, Not Humans",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-29T22:02:38.934591+00:00"
+    "fetched_at": "2026-06-29T23:51:17.391151+00:00"
   },
   {
     "title": "Strategy Snaps 9-Day Losing Streak as Bitcoin Giant Adopts 'Robust' Capital Framework",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-29T22:02:38.934651+00:00"
+    "fetched_at": "2026-06-29T23:51:17.391211+00:00"
+  },
+  {
+    "title": "UK sets capital, market abuse rules in landmark crypto framework",
+    "url": "https://www.theblock.co/post/406546/uk-sets-capital-market-abuse-rules-landmark-crypto-framework",
+    "summary": "The FCA finalized UK crypto rules covering capital, stablecoins and market abuse ahead of Oct. 2027 implementation.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-29T23:51:17.476731+00:00"
   },
   {
     "title": "TD Cowen says crypto market structure bill passage \u2018far from assured\u2019 before midterm election",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-29T22:02:39.101504+00:00"
-  },
-  {
-    "title": "SEC wraps up NanoBit crypto fraud case in final judgment, ordering over $5 million in fines",
-    "url": "https://www.theblock.co/post/406613/sec-wraps-up-nanobit-crypto-fraud-case-final-judgment-ordering-5-million-fines",
-    "summary": "The SEC resolved its case against NanoBit after alleging the crypto platform lied to investors and stole their money. ",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-29T22:02:39.101577+00:00"
+    "fetched_at": "2026-06-29T23:51:17.476802+00:00"
   },
   {
     "title": "Supreme Court blocks Trump from sacking Fed governor Cook",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-29T22:02:40.544199+00:00"
+    "fetched_at": "2026-06-29T23:51:18.638625+00:00"
   },
   {
     "title": "Supreme Court protects the Federal Reserve, but what about everybody else?",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-29T22:02:40.544257+00:00"
+    "fetched_at": "2026-06-29T23:51:18.638708+00:00"
   }
 ]
