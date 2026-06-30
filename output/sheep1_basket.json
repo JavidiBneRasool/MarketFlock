@@ -1,39 +1,39 @@
 [
   {
+    "title": "Singapore's Hyperliquid warning, Indonesia's FinFluencer licence: Asia Express",
+    "url": "https://cointelegraph.com/features/singapores-hyperliquid-warning-indonesias-finfluencer-licence-asia-express",
+    "summary": "Hyperliquid follows Bybit onto Singapore's \"naughty\" list, Indonesia's new scheme to certify social media influencers promoting crypto: Asia Express.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-30T02:04:19.109797+00:00"
+  },
+  {
     "title": "UK sets final crypto rules as firms face 2027 FCA authorization deadline",
     "url": "https://cointelegraph.com/news/uk-crypto-rules-2027-fca-authorization-deadline",
     "summary": "The UK\u2019s financial regulator has published its crypto regulatory framework, setting the authorization deadline for cryptocurrency firms for February 2027.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-29T23:51:17.054631+00:00"
+    "fetched_at": "2026-06-30T02:04:19.109879+00:00"
   },
   {
-    "title": "Bitcoin faces critical test as bulls aim to hold $60K: Did BTC bottom?",
-    "url": "https://cointelegraph.com/markets/bitcoin-faces-critical-test-as-bulls-aim-to-hold-60k-did-btc-bottom",
-    "summary": "Bitcoin\u2019s loose hold on $60,000 and soft futures markets raise questions about whether BTC has bottomed.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-06-29T23:51:17.054733+00:00"
-  },
-  {
-    "title": "China Misses AI Boom as Stocks Trail Most Since 2001",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-29/china-misses-out-on-ai-boom-as-stocks-trail-by-most-since-2001",
-    "summary": "After a banner year for Chinese stocks on the back of AI advances, 2026 is not going well.",
+    "title": "Oil Set for Quarterly Drop as Morgan Stanley Warns of Glut Risks",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-29/latest-oil-market-news-and-analysis-for-june-30",
+    "summary": "Oil headed for the biggest quarterly decline since the pandemic as flows through the Strait of Hormuz accelerated following progress on a peace deal, with Morgan Stanley warning of a potential glut.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-29T23:51:17.823691+00:00"
+    "fetched_at": "2026-06-30T02:04:19.857012+00:00"
   },
   {
-    "title": "Yen Hits Four-Decade Low in Historic Slide That\u2019s Rattled Japan",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-29/yen-jpy-usd-hits-four-decade-low-in-historic-slide-that-s-rattled-japan",
-    "summary": "The yen slid to its weakest level against the dollar since 1986, a milestone that will generate unease in Japan and put traders on high alert for authorities wading into the market.",
+    "title": "Asia Stocks Eye Best Quarter Since 2009, Yen Drops: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-29/japan-stocks-set-to-climb-as-yen-hits-40-year-low-markets-wrap",
+    "summary": "Asian equities were on track for their best quarterly gain in 17 years as technology stocks rallied on optimism over the artificial-intelligence trade. The yen slid to its weakest level against the dollar since 1986.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-29T23:51:17.823756+00:00"
+    "fetched_at": "2026-06-30T02:04:19.857070+00:00"
   },
   {
     "title": "Strategy (MSTR) Surges Over 12% As Bitcoin-Linked Stocks Have Green Day",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-29T23:51:17.315814+00:00"
+    "fetched_at": "2026-06-30T02:04:19.435492+00:00"
   },
   {
     "title": "JPMorgan Backs U.S. Crypto Bill, But Puts a Warning Label Front and Center as Senate Eyes August Deadline",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-29T23:51:17.315887+00:00"
+    "fetched_at": "2026-06-30T02:04:19.435587+00:00"
   },
   {
     "title": "Ornith Is the Open-Source Coding Model Built for Agents, Not Humans",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-29T23:51:17.391151+00:00"
+    "fetched_at": "2026-06-30T02:04:19.515095+00:00"
   },
   {
     "title": "Strategy Snaps 9-Day Losing Streak as Bitcoin Giant Adopts 'Robust' Capital Framework",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-29T23:51:17.391211+00:00"
+    "fetched_at": "2026-06-30T02:04:19.515160+00:00"
+  },
+  {
+    "title": "Ark Invest loads up on Coinbase, Circle, Bullish, Robinhood shares as stocks rally higher",
+    "url": "https://www.theblock.co/post/406628/ark-invest-coinbase-circle-bullish-robinhood-monday",
+    "summary": "Ark bought $6.85 million worth of Coinbase, $6.21 million worth of Circle Internet Group, and $3.54 million in Bullish on Monday.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-30T02:04:19.604615+00:00"
   },
   {
     "title": "UK sets capital, market abuse rules in landmark crypto framework",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-29T23:51:17.476731+00:00"
-  },
-  {
-    "title": "TD Cowen says crypto market structure bill passage \u2018far from assured\u2019 before midterm election",
-    "url": "https://www.theblock.co/post/406621/td-cowen-crypto-market-structure-bill-clarity-act",
-    "summary": "The passage of the crypto market structure bill, or Clarity Act, before the November midterm election is \"far from assured,\" said TD Cowen.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-29T23:51:17.476802+00:00"
+    "fetched_at": "2026-06-30T02:04:19.604679+00:00"
   },
   {
     "title": "Supreme Court blocks Trump from sacking Fed governor Cook",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-29T23:51:18.638625+00:00"
+    "fetched_at": "2026-06-30T02:04:20.421092+00:00"
   },
   {
     "title": "Supreme Court protects the Federal Reserve, but what about everybody else?",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-29T23:51:18.638708+00:00"
+    "fetched_at": "2026-06-30T02:04:20.421151+00:00"
   }
 ]
