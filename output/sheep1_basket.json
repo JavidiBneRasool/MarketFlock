@@ -1,21 +1,30 @@
 [
   {
+    "title": "Has Strategy\u2019s capital overhaul put an end to \u2018death spiral\u2019 fears?",
+    "url": "https://cointelegraph.com/features/does-strategys-new-capital-plan-put-an-end-to-death-spiral-fears",
+    "summary": "Strategy's latest plan includes MSTR and STRC buybacks, expanded cash reserves and even potential Bitcoin sales. Will it be enough to defuse the overheated \u201cdeath spiral\u201d fears?",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-06-30T23:55:56.411980+00:00"
+  },
+  {
     "title": "Bitcoin just $5K away from \u2018best investment opportunity\u2019 of bear market",
     "url": "https://cointelegraph.com/markets/bitcoin-is-just-a-5k-drop-away-from-its-best-investment-opportunity-analysis",
     "summary": "Bitcoin's recent selloff brought it within 10% of its realized price \u2014 a line that has marked the bottoming zone in Bitcoin's previous bear markets.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-30T22:06:45.286792+00:00"
+    "fetched_at": "2026-06-30T23:55:56.412056+00:00"
   },
   {
-    "title": "Massachusetts AG files amended lawsuit against Kalshi over sports betting after court ruling",
-    "url": "https://cointelegraph.com/news/massachusetts-lawsuit-kalshi-sports-betting",
-    "summary": "The amended complaint, granted by a judge on Tuesday, included allegations that Kalshi targeted users under 21 years old through social media and marketing on university campuses.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
+    "title": "Alcoa Bets on Aluminum Boom With $5.6 Billion South32 Deal",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-30/south32-sells-aluminum-assets-to-alcoa-in-5-6-billion-deal",
+    "summary": "Alcoa Corp. has agreed to buy South32 Ltd.\u2019s bauxite, alumina and aluminum assets in Australia, Brazil and South Africa in a deal valued at as much as $5.6 billion, cementing its position among the world\u2019s largest aluminum producers as long-term demand strengthens.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-30T22:06:45.286868+00:00"
+    "fetched_at": "2026-06-30T23:55:57.212269+00:00"
   },
   {
     "title": "Trump Reports at Least $1.4 Billion in 2025 Crypto Earnings",
@@ -24,16 +33,16 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-30T22:06:45.953687+00:00"
+    "fetched_at": "2026-06-30T23:55:57.212322+00:00"
   },
   {
-    "title": "Nike Appoints Pfizer CFO as New Finance Chief Amid Industry Experience Questions",
-    "url": "https://www.bloomberg.com/news/videos/2026-06-30/nike-appoints-pfizer-cfo-as-new-finance-chief-video",
-    "summary": "Nina Trentmann, Senior Editor at Bloomberg News, discussed the recent appointment of Dave Denton, formerly Pfizer's CFO, as Nike's new Finance Chief. While some analysts have expressed concerns about Denton's lack of direct retail and apparel industry experience, Trentmann noted that for large compa",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-06-30T22:06:45.953745+00:00"
+    "title": "President Donald Trump Discloses More Than $50 Million in Bitcoin Held in Cold Storage",
+    "url": "https://bitcoinmagazine.com/news/president-donald-trump-50-million-bitcoin",
+    "summary": "Bitcoin Magazine\n\nPresident Donald Trump Discloses More Than $50 Million in Bitcoin Held in Cold Storage\nPresident Donald Trump's 2025 financial disclosure revealed more than $50 million in self-custodied Bitcoin held in cold storage and over $1 billion in crypto-related reported revenue and proceed",
+    "source": "Bitcoin Magazine",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-30T23:55:56.731214+00:00"
   },
   {
     "title": "Anchorage Digital and Binance Launch Off-Exchange Settlement for Institutional Crypto Trading",
@@ -42,16 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-30T22:06:45.610315+00:00"
+    "fetched_at": "2026-06-30T23:55:56.731277+00:00"
   },
   {
-    "title": "Visa, Mastercard, And Over 140 Companies Launch Stablecoin Open USD",
-    "url": "https://bitcoinmagazine.com/news/visa-mastercard-and-over-140-open-usd",
-    "summary": "Bitcoin Magazine\n\nVisa, Mastercard, And Over 140 Companies Launch Stablecoin Open USD\nVisa, Mastercard, Stripe, Coinbase, and 140+ firms have launched Open USD (OUSD), a new yield-sharing stablecoin that aims to challenge Circle and reshape the economics of the $300 billion stablecoin market.\nThis p",
-    "source": "Bitcoin Magazine",
+    "title": "Trump Discloses Over $1.2 Billion in Crypto Earnings, $50M in Bitcoin Holdings",
+    "url": "https://decrypt.co/372484/trump-disclosure-filing-crypto-earnings-bitcoin-holdings",
+    "summary": "The president\u2019s annual financial disclosure report was released on Tuesday.",
+    "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-30T22:06:45.610375+00:00"
+    "fetched_at": "2026-06-30T23:55:56.818056+00:00"
   },
   {
     "title": "Binance, Changpeng Zhao Sued for $200M by British Investors: Reuters",
@@ -60,16 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-30T22:06:45.698154+00:00"
+    "fetched_at": "2026-06-30T23:55:56.818111+00:00"
   },
   {
-    "title": "Anthropic's Claude Sonnet 5 Closes In on Opus 4.8 at a Fraction of the Price",
-    "url": "https://decrypt.co/372458/anthropic-claude-sonnet-5-close-opus-4-8",
-    "summary": "Anthropic's new mid-tier model Claude Sonnet 5 arrives as Fable and Mythos sit boxed up under a U.S. export order.",
-    "source": "Decrypt",
+    "title": "President Trump\u2019s financial disclosures show hundreds of millions in crypto-related income",
+    "url": "https://www.theblock.co/post/406782/president-trump-financial-disclosures-hundreds-millions-crypto-related-income",
+    "summary": "Trump disclosed over $65 million from equity sales and $236 million in World Liberty token proceeds.",
+    "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-30T22:06:45.698215+00:00"
+    "fetched_at": "2026-06-30T23:55:56.895076+00:00"
   },
   {
     "title": "ENS co-founder Nick Johnson blocks Security Council renewal with 80% of votes",
@@ -78,25 +87,16 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-30T22:06:45.768611+00:00"
+    "fetched_at": "2026-06-30T23:55:56.895141+00:00"
   },
   {
-    "title": "Circle shares sink 16% after Open USD reveal, analysts say fears are \u2018overblown\u2019",
-    "url": "https://www.theblock.co/post/406758/circle-shares-sink-16-open-usd-reveal-analysts-say-fears-overblown",
-    "summary": "William Blair reiterated its Outperform rating on Circle's CRCL stock, calling Tuesday's selloff a buying opportunity.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-30T22:06:45.768681+00:00"
-  },
-  {
-    "title": "Europe\u2019s rearmament drive is sustaining 195,000 US defence jobs, Nato chief says",
-    "url": "https://www.ft.com/content/b0e09632-81b9-43ee-881e-f14712c5d7b6",
-    "summary": "Mark Rutte makes economic case for Donald Trump to remain committed to the alliance in FT interview",
+    "title": "Trump made more than $500mn from sale of family\u2019s crypto tokens last year",
+    "url": "https://www.ft.com/content/dab0dd71-2d95-4838-b0df-e942f9cc5dec",
+    "summary": "US president also earned hundreds of thousands of dollars from licensing of Bibles, watches and perfume while in office",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-30T22:06:46.477505+00:00"
+    "fetched_at": "2026-06-30T23:55:57.754151+00:00"
   },
   {
     "title": "Comcast\u2019s \u2018amicable divorce\u2019 unwinds Hollywood\u2019s corporate experiment",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-30T22:06:46.477566+00:00"
+    "fetched_at": "2026-06-30T23:55:57.754208+00:00"
   }
 ]
