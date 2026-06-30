@@ -1,39 +1,39 @@
 [
   {
-    "title": "SEC seeks public comment on regulating next generation of ETFs",
-    "url": "https://cointelegraph.com/news/sec-seeks-public-comment-on-regulating-novel-etfs",
-    "summary": "The request from the US agency seeks feedback on how emerging ETF structures and investment strategies should be regulated as issuers roll out increasingly specialized products.",
+    "title": "Bitcoin just $5K away from \u2018best investment opportunity\u2019 of bear market",
+    "url": "https://cointelegraph.com/markets/bitcoin-is-just-a-5k-drop-away-from-its-best-investment-opportunity-analysis",
+    "summary": "Bitcoin's recent selloff brought it within 10% of its realized price \u2014 a line that has marked the bottoming zone in Bitcoin's previous bear markets.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-30T20:49:34.978191+00:00"
+    "fetched_at": "2026-06-30T22:06:45.286792+00:00"
   },
   {
-    "title": "Financial companies join forces for US dollar stablecoin, keeping reserve earnings",
-    "url": "https://cointelegraph.com/news/financial-companies-us-dollar-payment-stablecoin",
-    "summary": "The project, supported by Visa, Mastercard and many crypto companies, could be in a position to challenge Tether\u2019s USDT and Circle\u2019s USDC, currently the two largest stablecoins by market capitalization.",
+    "title": "Massachusetts AG files amended lawsuit against Kalshi over sports betting after court ruling",
+    "url": "https://cointelegraph.com/news/massachusetts-lawsuit-kalshi-sports-betting",
+    "summary": "The amended complaint, granted by a judge on Tuesday, included allegations that Kalshi targeted users under 21 years old through social media and marketing on university campuses.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-30T20:49:34.978271+00:00"
+    "fetched_at": "2026-06-30T22:06:45.286868+00:00"
   },
   {
-    "title": "Trump Tariff Defeat Is Market Tailwind \u2018No One Is Talking About\u2019",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-30/trump-tariff-defeat-is-market-tailwind-no-one-is-talking-about",
-    "summary": "The sweeping tariffs underpinning President Donald Trump\u2019s economic policy may have gone from a headwind to a tailwind for the stock market, with the Supreme Court\u2019s decision to unwind them setting the stage for a potential earnings boon for some companies.",
+    "title": "Trump Reports at Least $1.4 Billion in 2025 Crypto Earnings",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-30/trump-reports-at-least-1-2-billion-in-crypto-earnings-for-2025",
+    "summary": "President Donald Trump reported earning at least $1.4 billion in 2025 from crypto and memecoin-related businesses, according to his latest annual financial disclosure.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-30T20:49:36.274243+00:00"
+    "fetched_at": "2026-06-30T22:06:45.953687+00:00"
   },
   {
-    "title": "Bitcoin Slides Below $60,000 as Strategy Selloff Refuels Anxiety",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-30/bitcoin-slides-below-60-000-as-strategy-selloff-refuels-anxiety",
-    "summary": "Bitcoin tumbled as much as 3.5% toward $58,000 on Tuesday as investors reversed an initial vote of confidence in Michael Saylor\u2019s financing overhaul at Strategy Inc., raising fresh concerns that one of the cryptocurrency\u2019s biggest buyers may no longer be a consistent source of demand.",
+    "title": "Nike Appoints Pfizer CFO as New Finance Chief Amid Industry Experience Questions",
+    "url": "https://www.bloomberg.com/news/videos/2026-06-30/nike-appoints-pfizer-cfo-as-new-finance-chief-video",
+    "summary": "Nina Trentmann, Senior Editor at Bloomberg News, discussed the recent appointment of Dave Denton, formerly Pfizer's CFO, as Nike's new Finance Chief. While some analysts have expressed concerns about Denton's lack of direct retail and apparel industry experience, Trentmann noted that for large compa",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-30T20:49:36.274308+00:00"
+    "fetched_at": "2026-06-30T22:06:45.953745+00:00"
   },
   {
     "title": "Anchorage Digital and Binance Launch Off-Exchange Settlement for Institutional Crypto Trading",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-30T20:49:35.189885+00:00"
+    "fetched_at": "2026-06-30T22:06:45.610315+00:00"
   },
   {
     "title": "Visa, Mastercard, And Over 140 Companies Launch Stablecoin Open USD",
@@ -51,25 +51,34 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-30T20:49:35.189953+00:00"
+    "fetched_at": "2026-06-30T22:06:45.610375+00:00"
   },
   {
-    "title": "New York Life Investment Management Debuts First Tokenized Bond Fund",
-    "url": "https://decrypt.co/372457/new-york-life-investment-management-first-tokenized-bond-fund",
-    "summary": "The tokenized NYLIM Anemoy U.S. High Yield Corporate Bond Segregated Portfolio is launching in collaboration with Centrifuge.",
+    "title": "Binance, Changpeng Zhao Sued for $200M by British Investors: Reuters",
+    "url": "https://decrypt.co/372452/binance-changpeng-zhao-sued-200-million-british-investors-reuters",
+    "summary": "Crypto exchange Binance and its founder were sued for nearly $200 million in a new lawsuit filed in the United Kingdom.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-30T20:49:35.409584+00:00"
+    "fetched_at": "2026-06-30T22:06:45.698154+00:00"
   },
   {
-    "title": "Kalshi Sports Markets Banned in Michigan as Temporary Blackout Takes Effect",
-    "url": "https://decrypt.co/372454/kalshi-sports-markets-banned-michigan-temporary-blackout",
-    "summary": "A Michigan judge granted a restraining order preventing the prediction market from offering sports-related wagers for the next 14 days.",
+    "title": "Anthropic's Claude Sonnet 5 Closes In on Opus 4.8 at a Fraction of the Price",
+    "url": "https://decrypt.co/372458/anthropic-claude-sonnet-5-close-opus-4-8",
+    "summary": "Anthropic's new mid-tier model Claude Sonnet 5 arrives as Fable and Mythos sit boxed up under a U.S. export order.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-30T20:49:35.409642+00:00"
+    "fetched_at": "2026-06-30T22:06:45.698215+00:00"
+  },
+  {
+    "title": "ENS co-founder Nick Johnson blocks Security Council renewal with 80% of votes",
+    "url": "https://www.theblock.co/post/406767/ens-co-founder-nick-johnson-blocks-security-council-renewal-with-80-of-votes",
+    "summary": "Johnson cited unaddressed concerns with the Security Council while backing an alternative proposal submitted on Tuesday.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-06-30T22:06:45.768611+00:00"
   },
   {
     "title": "Circle shares sink 16% after Open USD reveal, analysts say fears are \u2018overblown\u2019",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-30T20:49:35.666813+00:00"
-  },
-  {
-    "title": "SEC opens ETF rule review following crypto fund surge, prediction markets push",
-    "url": "https://www.theblock.co/post/406750/sec-opens-etf-rule-review-following-crypto-fund-surge-prediction-markets-push",
-    "summary": "The SEC is taking a fresh look at how a proposed fast-growing new class of ETFs tied to prediction markets should be regulated.\u00a0",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-30T20:49:35.666884+00:00"
+    "fetched_at": "2026-06-30T22:06:45.768681+00:00"
   },
   {
     "title": "Europe\u2019s rearmament drive is sustaining 195,000 US defence jobs, Nato chief says",
@@ -96,15 +96,15 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-30T20:49:37.159986+00:00"
+    "fetched_at": "2026-06-30T22:06:46.477505+00:00"
   },
   {
-    "title": "The great wealth transfer rattling Wall Street",
-    "url": "https://www.ft.com/content/c914cbf5-4ede-4342-a4ac-9f1289c47dc9",
-    "summary": "Tens of trillions of dollars are moving between generations \u2014 and younger heirs feel little loyalty to traditional advisers",
+    "title": "Comcast\u2019s \u2018amicable divorce\u2019 unwinds Hollywood\u2019s corporate experiment",
+    "url": "https://www.ft.com/content/b6c4e4db-b8f4-4ff3-bf85-71c8a8d032df",
+    "summary": "NBCUniversal split sparks talk of future deals amid ongoing media and entertainment consolidation",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-30T20:49:37.160044+00:00"
+    "fetched_at": "2026-06-30T22:06:46.477566+00:00"
   }
 ]
