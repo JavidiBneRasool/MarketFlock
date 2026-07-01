@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-30T23:55:56.411980+00:00",
+    "fetched_at": "2026-07-01T02:31:21.586296+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,7 +18,19 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-06-30T23:55:56.412056+00:00",
+    "fetched_at": "2026-07-01T02:31:21.586391+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Oil Steadies as Peace Talks Continue, Hormuz Traffic Recovers",
+    "url": "https://www.bloomberg.com/news/articles/2026-06-30/latest-oil-market-news-and-analysis-for-july-1",
+    "summary": "Oil steadied after the biggest quarterly drop since the pandemic, as traders monitored peace talks between the US and Iran and the return of shipping through the Strait of Hormuz.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-07-01T02:31:22.599496+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -26,23 +38,11 @@
   {
     "title": "Alcoa Bets on Aluminum Boom With $5.6 Billion South32 Deal",
     "url": "https://www.bloomberg.com/news/articles/2026-06-30/south32-sells-aluminum-assets-to-alcoa-in-5-6-billion-deal",
-    "summary": "Alcoa Corp. has agreed to buy South32 Ltd.\u2019s bauxite, alumina and aluminum assets in Australia, Brazil and South Africa in a deal valued at as much as $5.6 billion, cementing its position among the world\u2019s largest aluminum producers as long-term demand strengthens.",
+    "summary": "Alcoa Corp. has agreed to buy South32 Ltd.\u2019s bauxite, alumina and aluminum assets in a deal worth as much as $5.6 billion, cementing its position as a top producer as long-term demand strengthens and the Iran war exposes supply concerns.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-06-30T23:55:57.212269+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Trump Reports at Least $1.4 Billion in 2025 Crypto Earnings",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-30/trump-reports-at-least-1-2-billion-in-crypto-earnings-for-2025",
-    "summary": "President Donald Trump reported earning at least $1.4 billion in 2025 from crypto and memecoin-related businesses, according to his latest annual financial disclosure.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-06-30T23:55:57.212322+00:00",
+    "fetched_at": "2026-07-01T02:31:22.599555+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-30T23:55:56.731214+00:00",
+    "fetched_at": "2026-07-01T02:31:21.831438+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-30T23:55:56.731277+00:00",
+    "fetched_at": "2026-07-01T02:31:21.831505+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-30T23:55:56.818056+00:00",
+    "fetched_at": "2026-07-01T02:31:21.994288+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,19 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-30T23:55:56.818111+00:00",
+    "fetched_at": "2026-07-01T02:31:21.994363+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Million-dollar homes, luxury bags and Lamborghinis: Florida man pleads guilty in crypto fraud scheme",
+    "url": "https://www.theblock.co/post/406789/florida-man-pleads-guilty-crypto-fraud",
+    "summary": "A man pleaded guilty to fraud charges after prosecutors said he tricked people into the promise of making returns in crypto liquidity pools.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-01T02:31:22.184468+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,31 +114,19 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-06-30T23:55:56.895076+00:00",
+    "fetched_at": "2026-07-01T02:31:22.184540+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "ENS co-founder Nick Johnson blocks Security Council renewal with 80% of votes",
-    "url": "https://www.theblock.co/post/406767/ens-co-founder-nick-johnson-blocks-security-council-renewal-with-80-of-votes",
-    "summary": "Johnson cited unaddressed concerns with the Security Council while backing an alternative proposal submitted on Tuesday.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-06-30T23:55:56.895141+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Trump made more than $500mn from sale of family\u2019s crypto tokens last year",
+    "title": "Donald Trump made more than $1bn last year in return to presidency",
     "url": "https://www.ft.com/content/dab0dd71-2d95-4838-b0df-e942f9cc5dec",
     "summary": "US president also earned hundreds of thousands of dollars from licensing of Bibles, watches and perfume while in office",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-30T23:55:57.754151+00:00",
+    "fetched_at": "2026-07-01T02:31:23.355817+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-06-30T23:55:57.754208+00:00",
+    "fetched_at": "2026-07-01T02:31:23.355880+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
