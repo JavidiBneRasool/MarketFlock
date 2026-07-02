@@ -1,39 +1,48 @@
 [
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "title": "The biggest blockchain upgrades still to come in 2026",
+    "url": "https://cointelegraph.com/features/the-biggest-blockchain-upgrades-still-to-come-in-2026",
+    "summary": "From Ethereum\u2019s Glamsterdam to Solana\u2019s Alpenglow, 2026\u2019s most important developments are protocol upgrades, not price charts.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-02T12:52:28.256034+00:00"
+    "fetched_at": "2026-07-02T15:03:21.028064+00:00"
   },
   {
-    "title": "Standard Chartered, Circle bring USDC minting onto banking rails",
-    "url": "https://cointelegraph.com/news/standard-chartered-circle-usdc-minting-banking-rails",
-    "summary": "Standard Chartered and Circle launch bank-led USDC minting and redemption for institutions, starting in Dubai\u2019s DIFC with planned global expansion.",
+    "title": "UK payments blueprint outlines tokenized payments for \u2018multi-money ecosystem\u2019",
+    "url": "https://cointelegraph.com/news/uk-payment-blueprint-tokenized-payments-multi-money-ecosystem",
+    "summary": "UK regulators published an update to a national retail payments blueprint, calling for infrastructure support for tokenization and interoperability with new forms of digital money.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-02T12:52:28.256111+00:00"
+    "fetched_at": "2026-07-02T15:03:21.028141+00:00"
   },
   {
-    "title": "Stocks Rise and Bond Yields Fall After Jobs Report: Markets Wrap",
+    "title": "S&amp;P 500 Trims Jobs-Fueled Gain as Chip Stocks Sink: Markets Wrap",
     "url": "https://www.bloomberg.com/news/articles/2026-07-01/asian-stocks-to-decline-as-traders-weigh-ai-warsh-markets-wrap",
-    "summary": "A slower-than-anticipated increase in US jobs drove stocks higher as bonds yields fell on speculation the Federal Reserve won\u2019t be forced to raise interest rates any time soon.",
+    "summary": "A slower-than-anticipated increase in US jobs drove most stocks higher as short-dated bond yields fell on bets the Federal Reserve won\u2019t be forced to raise interest rates any time soon.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-02T12:52:29.034083+00:00"
+    "fetched_at": "2026-07-02T15:03:21.897171+00:00"
   },
   {
-    "title": "US Hiring Slows Sharply, Curbing Recent Job-Market Momentum",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-02/us-hiring-slows-sharply-curbing-recent-momentum-in-job-growth",
-    "summary": "US hiring slowed sharply in June even as the unemployment rate fell, curbing some of the budding momentum in job growth this year.",
+    "title": "Oil Deepens Slide as Saudi Exports Reach 90% of Pre-War Levels",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-01/latest-oil-market-news-and-analysis-for-july-2",
+    "summary": "Oil deepened its slide below pre-war levels as Saudi Arabia ramped up crude exports toward normal rates, extending the recovery in flows from the Persian Gulf and heightening the prospect of a supply surplus.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-02T12:52:29.034145+00:00"
+    "fetched_at": "2026-07-02T15:03:21.897231+00:00"
+  },
+  {
+    "title": "FBI Director Kash Patel Did Not Disclose Six-Figure Strategy (MSTR) Stake: Report",
+    "url": "https://bitcoinmagazine.com/news/fbi-director-kash-patel-did-not-disclose",
+    "summary": "Bitcoin Magazine\n\nFBI Director Kash Patel Did Not Disclose Six-Figure Strategy (MSTR) Stake: Report\nThe late disclosure of FBI Director Kash Patel's six-figure investment in Strategy has reignited some scrutiny over ethics compliance.\nThis post FBI Director Kash Patel Did Not Disclose Six-Figure Str",
+    "source": "Bitcoin Magazine",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-02T15:03:21.273650+00:00"
   },
   {
     "title": "Metaplanet Adds 2,823 Bitcoin, Reaches 43,000 BTC and Becomes World\u2019s Third-Largest Corporate Treasury",
@@ -42,61 +51,52 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-02T12:52:28.488177+00:00"
+    "fetched_at": "2026-07-02T15:03:21.273728+00:00"
   },
   {
-    "title": "The 2036 Issue: The Future Is Now, Words of Wisdom from Jeff Booth",
-    "url": "https://bitcoinmagazine.com/print/the-2036-issue-the-future-is-now-words-of-wisdom-from-jeff-booth",
-    "summary": "Bitcoin Magazine\n\nThe 2036 Issue: The Future Is Now, Words of Wisdom from Jeff Booth\nFrom The 2036 Issue: An interview with Jeff Booth on where Bitcoin is going over the next decade, by Frank Corva. \nThis post The 2036 Issue: The Future Is Now, Words of Wisdom from Jeff Booth first appeared on Bitco",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-02T12:52:28.488251+00:00"
-  },
-  {
-    "title": "Morning Minute: Robinhood Debuts 'Robinhood Chain'",
-    "url": "https://decrypt.co/372667/morning-minute-robinhood-debuts-robinhood-chain",
-    "summary": "The market liked it with HOOD shares jumping 8% and their crypto perp dex partner up even more. Plus crypto's latest unicorn is crowned.",
+    "title": "FBI Director Kash Patel's Undisclosed Stock Buy in Bitcoin Giant Strategy Is Down 44%",
+    "url": "https://decrypt.co/372677/fbi-director-kash-patel-undisclosed-stock-buy-bitcoin-giant-strategy",
+    "summary": "FBI Director Kash Patel failed to disclose a significant purchase of stock in Bitcoin treasury firm Strategy from last November.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-02T12:52:28.575291+00:00"
+    "fetched_at": "2026-07-02T15:03:21.427547+00:00"
   },
   {
-    "title": "Scattered Spider Suspect Extradited to US Over $8M Crypto Ransom Demand",
-    "url": "https://decrypt.co/372665/scattered-spider-suspect-extradited-to-us-over-8m-crypto-ransom-demand",
-    "summary": "The teenager allegedly helped to breach a luxury jeweler and demand $8 million in crypto, as part of a crew tied to $100 million in ransoms.",
+    "title": "Standard Chartered Becomes First Global Bank to Offer Direct USDC Access to Institutions",
+    "url": "https://decrypt.co/372674/standard-chartered-first-global-bank-direct-usdc-access",
+    "summary": "Standard Chartered is the first Global Systemically Important Bank authorized to let institutions mint and redeem Circle's USDC.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-02T12:52:28.575350+00:00"
+    "fetched_at": "2026-07-02T15:03:21.427610+00:00"
   },
   {
-    "title": "\u2018I think we\u2019re nearing the bottom\u2019: Bitwise CIO says Strategy\u2019s STRC selloff is part of bitcoin\u2019s end-of-cycle dynamics",
-    "url": "https://www.theblock.co/post/407013/i-think-were-nearing-the-bottom-bitwise-cio-says-strategys-strc-selloff-is-part-of-bitcoins-end-of-cycle-dynamics",
-    "summary": "Bitwise CIO Matt Hougan says Strategy's STRC selloff reflects the kind of \"end-of-cycle\" deleveraging that precedes a bitcoin market bottom.",
+    "title": "Ondo tokenizes BlackRock\u2019s IVV ETF and Micron stock under US custodial model",
+    "url": "https://www.theblock.co/post/407031/ondo-tokenizes-blackrocks-ivv-etf-and-micron-stock-under-us-custodial-model",
+    "summary": "Ondo Finance launches tokenized BlackRock IVV ETF and Micron shares under SEC-defined custodial model with Ethereum-based settlement.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-02T12:52:28.655478+00:00"
+    "fetched_at": "2026-07-02T15:03:21.595191+00:00"
   },
   {
-    "title": "FBI Director Kash Patel disclosed six-figure Strategy stock purchase months after trade: report",
-    "url": "https://www.theblock.co/post/407007/fbi-director-kash-patel-disclosed-six-figure-strategy-stock-purchase-months-after-trade-report",
-    "summary": "FBI Director Kash Patel disclosed a six-figure Strategy stock purchase months after execution in a delayed federal ethics filing. ",
+    "title": "Bitget expands Stock+ platform with US stock options trading",
+    "url": "https://www.theblock.co/post/407017/bitget-expands-stock-platform-with-us-stock-options-trading",
+    "summary": "Bitget launched U.S. stock options, adding equity derivatives to its Stock+ platform alongside crypto and tokenized stocks.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-02T12:52:28.655556+00:00"
+    "fetched_at": "2026-07-02T15:03:21.595255+00:00"
   },
   {
     "title": "US economy undershoots forecasts with 57,000 jobs added in June",
     "url": "https://www.ft.com/content/4fd134b3-b75b-4a25-9f2c-8bdb4f8f7dea",
-    "summary": "Hiring slows after three-month streak of overperformance",
+    "summary": "Hiring slows after 3-month streak of overperformance",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-02T12:52:29.708210+00:00"
+    "fetched_at": "2026-07-02T15:03:22.597156+00:00"
   },
   {
     "title": "Trump\u2019s $1bn plan to remake America\u2019s capital",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-02T12:52:29.708272+00:00"
+    "fetched_at": "2026-07-02T15:03:22.597215+00:00"
   }
 ]
