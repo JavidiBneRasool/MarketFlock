@@ -1,39 +1,39 @@
 [
   {
-    "title": "Crypto Biz: Bitcoin maximalism meets the realities of capital markets",
-    "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-maximalism-meets-capital-markets",
-    "summary": "Strategy authorizes Bitcoin sales, Open USD takes on USDT and USDC, Fidelity defends Bitcoin security and crypto ramps up political spending for 2026.",
+    "title": "Donald Trump says \u2018nothing wrong\u2019 with $1.4B crypto windfall while in office",
+    "url": "https://cointelegraph.com/news/donald-trump-crypto-investments-president-profit-office",
+    "summary": "The US President disclosed earning more than $1 billion from crypto ventures amid discussions of a digital asset market structure bill in Congress and legislation to ban CBDCs awaiting his desk.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-03T16:25:36.710404+00:00"
+    "fetched_at": "2026-07-03T18:06:48.611010+00:00"
   },
   {
-    "title": "Bitcoin price tags $62.3K nine-day high after global stocks hit historic record",
-    "url": "https://cointelegraph.com/markets/bitcoin-price-tags-623k-nine-day-high-after-global-stocks-hit-historic-record",
-    "summary": "Bitcoin set new highs for July after the Dow Jones and global stocks market cap set new all-time highs before the US Independence Day holiday.",
+    "title": "ESMA warns many prediction market event contracts already face EU retail ban",
+    "url": "https://cointelegraph.com/news/esma-warns-many-prediction-market-contracts-may-be-prohibited-eu-retail-investors",
+    "summary": "The European regulator said companies cannot circumvent EU financial rules by marketing binary-style products as event contracts rather than derivatives.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-03T16:25:36.710476+00:00"
+    "fetched_at": "2026-07-03T18:06:48.611087+00:00"
   },
   {
-    "title": "European Stocks Rally to Cap Best Week Since May: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-02/stock-market-today-dow-s-p-live-updates",
-    "summary": "Stocks rose as the latest round of jitters about the artificial-intelligence trade subsided, with Europe\u2019s benchmark rising to an all-time high. The dollar touched a two-week low while gold extended gains.",
+    "title": "Oil Is Little Changed as Persian Gulf Flows Near Pre-War Levels",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-02/latest-oil-market-news-and-analysis-for-july-1",
+    "summary": "Oil prices were little changed in thin trading as the recovery of Persian Gulf flows fomented a new surplus in key parts of the global market.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-03T16:25:37.665964+00:00"
+    "fetched_at": "2026-07-03T18:06:49.215765+00:00"
   },
   {
-    "title": "CPP Invests $1.75 Billion in EQT\u2019s AI Infrastructure Buildout",
+    "title": "CPP Invests $1.75 Billion in EQT\u2019s AI Buildout",
     "url": "https://www.bloomberg.com/news/articles/2026-07-03/canada-pension-plan-commits-1-75-billion-to-eqt-eqt-for-ai-infrastructure",
     "summary": "Canada Pension Plan Investment Board will invest $1.75 billion to support EQT Corp.\u2019s artificial intelligence infrastructure buildout, it announced Friday.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-03T16:25:37.666023+00:00"
+    "fetched_at": "2026-07-03T18:06:49.215826+00:00"
   },
   {
     "title": "Bitcoin Exchange Inflows Spike to 49,000 BTC in a Day, Signaling More Volatility is Coming: Report",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-03T16:25:36.989262+00:00"
+    "fetched_at": "2026-07-03T18:06:48.762700+00:00"
   },
   {
     "title": "Wavespace Launches MiCA-Compliant Self-Custodial Bitcoin Debit Card Powered by Lightning and NWC",
@@ -51,25 +51,34 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-03T16:25:36.989328+00:00"
+    "fetched_at": "2026-07-03T18:06:48.762770+00:00"
   },
   {
-    "title": "What Is Q-Day? The Quantum Threat to Bitcoin Explained",
-    "url": "https://decrypt.co/resources/what-q-day-quantum-threat-bitcoin-explained",
-    "summary": "Experts warn quantum computers could someday forge Bitcoin\u2019s digital signatures, allowing unauthorized transactions.",
+    "title": "Zcash Ironwood Upgrade Nears as Developers Work to Restore Confidence After ZEC Crash",
+    "url": "https://decrypt.co/372738/zcash-ironwood-upgrade-developers-restore-confidence-zec-crash",
+    "summary": "Developers say security testing has uncovered no new serious bugs as Zcash's Ironwood upgrade moves toward testnet activation.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-03T16:25:37.124350+00:00"
+    "fetched_at": "2026-07-03T18:06:48.835993+00:00"
   },
   {
-    "title": "American Charged in Israel With Spying for Iran in Exchange for Crypto",
-    "url": "https://decrypt.co/372729/american-charged-israel-spying-iran-exchange-crypto",
-    "summary": "Israeli prosecutors charged a 21-year-old American man with spying for Iran while studying at a seminary in Jerusalem.",
+    "title": "'Every Time I Buy It, It Tanks': Dave Portnoy Says He's Losing Millions as Bitcoin Falls",
+    "url": "https://decrypt.co/372737/dave-portnoy-losing-millions-bitcoin-falls",
+    "summary": "Barstool Sports founder Dave Portnoy says he's down millions on Bitcoin, but he's intent on holding this time\u2014even if it falls to zero.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-03T16:25:37.124402+00:00"
+    "fetched_at": "2026-07-03T18:06:48.836054+00:00"
+  },
+  {
+    "title": "CryptoQuant says bitcoin and altcoin exchange deposits have spiked, indicating higher volatility ahead",
+    "url": "https://www.theblock.co/post/407160/cryptoquant-bitcoin-ether-altcoin-exchange-deposits-volatility",
+    "summary": "Bitcoin deposits to exchanges recently climbed to nearly 49,000 BTC, \"a rare extreme\" seen only four other times this year, CryptoQuant said.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-03T18:06:48.950442+00:00"
   },
   {
     "title": "Samsung, Dunamu say they were listed as OUSD stablecoin consortium members without official consultation: report",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-03T16:25:37.236031+00:00"
-  },
-  {
-    "title": "Grvt and the Rise of Composable Onchain Wealth",
-    "url": "https://www.theblock.co/post/407075/grvt-and-the-rise-of-composable-onchain-wealth",
-    "summary": "Perp DEX Market Overview\u00a0 Perp DEX sector growth\u00a0 Perpetual futures have become the dominant instrument in crypto derivatives markets, with the decentralized venues offering them becoming the fastest-growing sector in Web3. Figure 1: Perp DEX share of total crypto perpetuals volume (Perp DEX vs. CEX",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-03T16:25:37.236106+00:00"
+    "fetched_at": "2026-07-03T18:06:48.950509+00:00"
   },
   {
     "title": "\u2018It\u2019s whack-a-mole\u2019: how Europe\u2019s smart border melted down",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-03T16:25:38.509289+00:00"
+    "fetched_at": "2026-07-03T18:06:49.832378+00:00"
   },
   {
     "title": "John Roberts, the US chief justice playing the long game",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-03T16:25:38.509342+00:00"
+    "fetched_at": "2026-07-03T18:06:49.832437+00:00"
   }
 ]
