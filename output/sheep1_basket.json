@@ -1,39 +1,39 @@
 [
   {
+    "title": "SOL rallies as Solana memecoins, prediction market activity surge: Are bulls back?",
+    "url": "https://cointelegraph.com/markets/sol-rallies-as-solana-memecoins-prediction-market-activity-surge-are-bulls-back",
+    "summary": "Rising interest in Solana-network memecoins and prediction markets was followed by a rally in SOL price. Will the momentum continue?\n",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-07-03T21:54:09.408457+00:00"
+  },
+  {
     "title": "Here\u2019s what happened in crypto today",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-03T20:07:55.062795+00:00"
+    "fetched_at": "2026-07-03T21:54:09.408526+00:00"
   },
   {
-    "title": "US senator calls for ban on elected officials issuing memecoins",
-    "url": "https://cointelegraph.com/news/us-senator-ban-elected-officials-memecoins",
-    "summary": "The restriction proposed by Senator Kirsten Gillibrand would bar members of Congress, the US president and their spouses from \u201cissuing or sponsoring their own digital assets.\u201d",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-07-03T20:07:55.062868+00:00"
-  },
-  {
-    "title": "Canada, Philippines Agree to Sign Trade Deal This Year, Grow Defense Ties",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-02/canada-philippines-agree-to-sign-trade-deal-this-year-grow-defense-ties",
-    "summary": "Canada and the Philippines plan to finalize a free trade agreement this year, and signed agreements to deepen cooperation on energy, defense, labor and migration, Prime Minister Mark Carney said Thursday.",
+    "title": "Venture Capital During the AI Revolution: Masters in Business with Mamoon Hamid",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-03/masters-in-business-with-mamoon-hamid-video",
+    "summary": "Barry sits down with Kleiner Perkins Partner, Mamoon Hamid. They discuss Mamoon's thoughts on the AI revolution and his approach to early AI investing.  Mamoon also breaks down how he became an early investor in giants like Slack, Figma, and how Kleiner Perkins assesses the investments they missed. ",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-03T20:07:55.790152+00:00"
+    "fetched_at": "2026-07-03T21:54:10.028629+00:00"
   },
   {
-    "title": "Copper Tracks Dollar Swings as Traders Weigh US Rate Outlook",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-03/copper-climbs-with-industrial-metals-as-rate-hike-prospects-fade",
-    "summary": "Copper rose on Friday, tracking small swings in the US dollar as investors continue to assess the outlook for US monetary policy.",
+    "title": "Toronto Stocks Enjoy Broad Gains After New Pipeline Proposal",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-03/canadian-stocks-enjoy-broad-gains-after-new-pipeline-proposal",
+    "summary": "Canada\u2019s stocks benchmark climbed Friday morning after Prime Minister Mark Carney unveiled a new pipeline project to the country\u2019s West Coast.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-03T20:07:55.790204+00:00"
+    "fetched_at": "2026-07-03T21:54:10.028699+00:00"
   },
   {
     "title": "Bitcoin Exchange Inflows Spike to 49,000 BTC in a Day, Signaling More Volatility is Coming: Report",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-03T20:07:55.315909+00:00"
+    "fetched_at": "2026-07-03T21:54:09.613014+00:00"
   },
   {
     "title": "Wavespace Launches MiCA-Compliant Self-Custodial Bitcoin Debit Card Powered by Lightning and NWC",
@@ -51,25 +51,25 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-03T20:07:55.315978+00:00"
+    "fetched_at": "2026-07-03T21:54:09.613081+00:00"
   },
   {
-    "title": "Zcash Ironwood Upgrade Nears as Developers Work to Restore Confidence After ZEC Crash",
-    "url": "https://decrypt.co/372738/zcash-ironwood-upgrade-developers-restore-confidence-zec-crash",
-    "summary": "Developers say security testing has uncovered no new serious bugs as Zcash's Ironwood upgrade moves toward testnet activation.",
+    "title": "Claude Fable 5 Isn't Nerfed. The Router Is Just Paranoid",
+    "url": "https://decrypt.co/372750/claude-fable-5-not-nerfed-router-paranoid",
+    "summary": "Did Claude Fable 5 get dumber? Two benchmarks, two wildly different conclusions\u2014and one routing layer that explains the whole mess.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-03T20:07:55.404985+00:00"
+    "fetched_at": "2026-07-03T21:54:09.704109+00:00"
   },
   {
-    "title": "'Every Time I Buy It, It Tanks': Dave Portnoy Says He's Losing Millions as Bitcoin Falls",
-    "url": "https://decrypt.co/372737/dave-portnoy-losing-millions-bitcoin-falls",
-    "summary": "Barstool Sports founder Dave Portnoy says he's down millions on Bitcoin, but he's intent on holding this time\u2014even if it falls to zero.",
+    "title": "Senator Gillibrand Seeks to Ban Trump, Elected Officials From Launching Meme Coins",
+    "url": "https://decrypt.co/372749/senator-gillibrand-ban-trump-elected-officials-launching-meme-coins",
+    "summary": "After President Trump disclosed over $1 billion in crypto-related earnings, Senator Kirsten Gillibrand is calling for a meme coin ban.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-03T20:07:55.405044+00:00"
+    "fetched_at": "2026-07-03T21:54:09.704164+00:00"
   },
   {
     "title": "CryptoQuant says bitcoin and altcoin exchange deposits have spiked, indicating higher volatility ahead",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-03T20:07:55.485889+00:00"
+    "fetched_at": "2026-07-03T21:54:09.784331+00:00"
   },
   {
     "title": "Samsung, Dunamu say they were listed as OUSD stablecoin consortium members without official consultation: report",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-03T20:07:55.485954+00:00"
+    "fetched_at": "2026-07-03T21:54:09.784399+00:00"
   },
   {
     "title": "\u2018It\u2019s whack-a-mole\u2019: how Europe\u2019s smart border melted down",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-03T20:07:56.378105+00:00"
+    "fetched_at": "2026-07-03T21:54:10.539226+00:00"
   },
   {
     "title": "John Roberts, the US chief justice playing the long game",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-03T20:07:56.378158+00:00"
+    "fetched_at": "2026-07-03T21:54:10.539282+00:00"
   }
 ]
