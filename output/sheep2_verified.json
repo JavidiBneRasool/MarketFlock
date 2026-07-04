@@ -1,24 +1,36 @@
 [
   {
+    "title": "Kraken lets traders use tokenized stocks as collateral for leveraged trades",
+    "url": "https://cointelegraph.com/news/kraken-lets-traders-use-tokenized-stocks-as-collateral-for-leveraged-trades",
+    "summary": "Eligible users can now use select tokenized stocks and ETFs as collateral for futures and margin trading without selling their holdings.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-07-04T20:05:00.131727+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "Kalshi hits record June trading volume as World Cup fuels prediction markets",
     "url": "https://cointelegraph.com/news/world-cup-drives-prediction-markets-to-record-june-trading-volumes",
     "summary": "DefiLlama data shows Kalshi posted a record month for trading volume as the expanded FIFA World Cup boosted prediction market activity.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-04T18:52:09.798757+00:00",
+    "fetched_at": "2026-07-04T20:05:00.131802+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Bollinger Bands creator eyes Bitcoin bear-market end, 'W'-shaped reversal",
-    "url": "https://cointelegraph.com/markets/bollinger-bands-creator-eyes-bitcoin-bear-market-end-w-shaped-reversal",
-    "summary": "Bitcoin price strength could \"break\" the entire downtrend if the reversal pattern completed, John Bollinger suggested in light of the BTC rebound.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
+    "title": "Bloomberg This Weekend 07/04/2026",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-04/bloomberg-this-weekend-07-04-2026-video",
+    "summary": "The news doesn\u2019t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend\u2019s biggest headlines, LIVE from New York. Joined by Rutgers University Professor Emeritus of American Studies Robert Synder, Retired Navy Vice Admiral ",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-04T18:52:09.798836+00:00",
+    "fetched_at": "2026-07-04T20:05:00.953013+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,19 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-04T18:52:10.496516+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Brazil\u2019s Durigan Says Credit Lines Won\u2019t Affect Monetary Policy",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-04/brazil-s-durigan-says-credit-lines-won-t-affect-monetary-policy",
-    "summary": "Credit measures introduced by President Luiz In\u00e1cio Lula da Silva\u2019s government do not undermine monetary policy, Finance Minister Dario Durigan said in an interview with local news website G1 published on Saturday.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-04T18:52:10.496578+00:00",
+    "fetched_at": "2026-07-04T20:05:00.953066+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-04T18:52:10.045772+00:00",
+    "fetched_at": "2026-07-04T20:05:00.451123+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-04T18:52:10.045846+00:00",
+    "fetched_at": "2026-07-04T20:05:00.451194+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-04T18:52:10.122723+00:00",
+    "fetched_at": "2026-07-04T20:05:00.569101+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-04T18:52:10.122782+00:00",
+    "fetched_at": "2026-07-04T20:05:00.569159+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-04T18:52:10.194123+00:00",
+    "fetched_at": "2026-07-04T20:05:00.653628+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-04T18:52:10.194192+00:00",
+    "fetched_at": "2026-07-04T20:05:00.653697+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-04T18:52:11.205404+00:00",
+    "fetched_at": "2026-07-04T20:05:01.498775+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-04T18:52:11.205457+00:00",
+    "fetched_at": "2026-07-04T20:05:01.498829+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
