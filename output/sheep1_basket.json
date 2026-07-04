@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-04T05:34:39.104247+00:00"
+    "fetched_at": "2026-07-04T08:19:02.527996+00:00"
   },
   {
     "title": "Here\u2019s what happened in crypto today",
@@ -15,7 +15,16 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-04T05:34:39.104314+00:00"
+    "fetched_at": "2026-07-04T08:19:02.528066+00:00"
+  },
+  {
+    "title": "Macron\u2019s Budget Finale Augurs More Political Chaos in France",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-04/macron-s-budget-finale-augurs-more-political-chaos-in-france",
+    "summary": "The final budget showdown of Emmanuel Macron\u2019s presidency is already gearing up to be France\u2019s highest-stakes fiscal clash of the decade so far.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-07-04T08:19:03.264066+00:00"
   },
   {
     "title": "Ebola Vaccine Trials Could Start This Year",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-04T05:34:40.144421+00:00"
-  },
-  {
-    "title": "Russia Said It Captured Key Ukraine Stronghold in Donetsk Region",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-04/russia-said-it-captured-key-ukraine-stronghold-in-donetsk-region",
-    "summary": "Russia announced the seizure of a strategic logistics hub in the Donetsk region and claimed full control of Ukraine\u2019s Luhansk region, days after launching its deadliest attack on Kyiv since the war began.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-04T05:34:40.144473+00:00"
+    "fetched_at": "2026-07-04T08:19:03.264118+00:00"
   },
   {
     "title": "Bitcoin Exchange Inflows Spike to 49,000 BTC in a Day, Signaling More Volatility is Coming: Report",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-04T05:34:39.414658+00:00"
+    "fetched_at": "2026-07-04T08:19:02.858064+00:00"
   },
   {
     "title": "Wavespace Launches MiCA-Compliant Self-Custodial Bitcoin Debit Card Powered by Lightning and NWC",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-04T05:34:39.414723+00:00"
+    "fetched_at": "2026-07-04T08:19:02.858153+00:00"
   },
   {
     "title": "Claude Fable 5 Isn't Nerfed. The Router Is Just Paranoid",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-04T05:34:39.570221+00:00"
+    "fetched_at": "2026-07-04T08:19:02.960520+00:00"
   },
   {
     "title": "Senator Gillibrand Seeks to Ban Trump, Elected Officials From Launching Meme Coins",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-04T05:34:39.570273+00:00"
+    "fetched_at": "2026-07-04T08:19:02.960576+00:00"
   },
   {
     "title": "CryptoQuant says bitcoin and altcoin exchange deposits have spiked, indicating higher volatility ahead",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-04T05:34:39.714699+00:00"
+    "fetched_at": "2026-07-04T08:19:03.036295+00:00"
   },
   {
     "title": "Samsung, Dunamu say they were listed as OUSD stablecoin consortium members without official consultation: report",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-04T05:34:39.714764+00:00"
+    "fetched_at": "2026-07-04T08:19:03.036368+00:00"
   },
   {
     "title": "My fellow American: who should be remembered for the next 250 years?",
@@ -96,15 +96,15 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-04T05:34:41.117730+00:00"
+    "fetched_at": "2026-07-04T08:19:03.728468+00:00"
   },
   {
-    "title": "My America: Can we keep this great experiment?",
+    "title": "Stephen Breyer: Can we keep this great experiment?",
     "url": "https://www.ft.com/content/260f93d4-c7a2-443b-8c3a-c62bf8c626d0",
     "summary": "There are some who fear not, but I am optimistic. The students I meet are interested in defending their Constitution",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-04T05:34:41.117781+00:00"
+    "fetched_at": "2026-07-04T08:19:03.728526+00:00"
   }
 ]
