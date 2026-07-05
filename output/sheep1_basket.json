@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-05T14:23:51.739065+00:00"
+    "fetched_at": "2026-07-05T15:58:56.173156+00:00"
   },
   {
     "title": "Binance outflows triple to $1.2B as ETH withdrawals hit 3-year high",
@@ -15,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-05T14:23:51.739143+00:00"
+    "fetched_at": "2026-07-05T15:58:56.173231+00:00"
   },
   {
-    "title": "World Cup Attendance Sets Record",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-05/world-cup-attendance-sets-record-video",
-    "summary": "The USMNT remains competitive heading into its Round of 16 match against Belgium despite the suspension of striker Folarin Balogun, while France remains the tournament favorite led by Kylian Mbapp\u00e9. Bloomberg News Senior Sports Reporter Randall Williams joins David Gura and Christina Ruffini on the ",
+    "title": "New York Thunderstorms Raise Flood Risk as Heat Dissipates",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-05/new-york-thunderstorms-raise-flood-risk-as-heat-dissipates-in-us",
+    "summary": "New York City will have a cooler, soggier Sunday now that the massive heat dome across the US East that taxed power grids and snarled transit has started to crack, while lingering high temperatures in Washington and across the Mid-Atlantic triggered air quality warnings.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-05T14:23:52.543223+00:00"
+    "fetched_at": "2026-07-05T15:58:57.177813+00:00"
   },
   {
-    "title": "Oil, Gas Tankers Cross Hormuz Via Oman-Side Route After U-Turns",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-05/fewer-ships-transiting-hormuz-along-oman-coast-after-u-turns",
-    "summary": "Oil and gas shipping along a US-protected corridor in the Strait of Hormuz showed signs of recovering Sunday, a day after a batch of vessels performed unexplained U-turns and detours in the vital energy corridor.",
+    "title": "Pointed News Quiz | Food & Beverage, Disclosures, Movies",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-05/pointed-news-quiz-07-05-2026-video",
+    "summary": "David Gura, Christina Ruffini, and Lisa Mateo of \u201cBloomberg This Weekend\u201d play Pointed! Wager your points, leverage your bets and answer wisely. A new quiz is available to play each week on Bloomberg.com (Source: Bloomberg)",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-05T14:23:52.543283+00:00"
+    "fetched_at": "2026-07-05T15:58:57.177870+00:00"
   },
   {
     "title": "Bitcoin Exchange Inflows Spike to 49,000 BTC in a Day, Signaling More Volatility is Coming: Report",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-05T14:23:51.973020+00:00"
+    "fetched_at": "2026-07-05T15:58:56.496529+00:00"
   },
   {
     "title": "Wavespace Launches MiCA-Compliant Self-Custodial Bitcoin Debit Card Powered by Lightning and NWC",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-05T14:23:51.973093+00:00"
+    "fetched_at": "2026-07-05T15:58:56.496599+00:00"
+  },
+  {
+    "title": "Fake Mac Clipboard App Delivers New Password-Stealing Malware",
+    "url": "https://decrypt.co/372743/fake-mac-clipboard-app-delivers-password-stealing-malware",
+    "summary": "A new Mac infostealer dubbed PamStealer impersonates the open-source Maccy clipboard manager to steal passwords and more.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-05T15:58:56.599674+00:00"
   },
   {
     "title": "Bitcoin to $53K? Exchange Deposits Jump as Analysts Warn of Increased Volatility",
@@ -60,16 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-05T14:23:52.060029+00:00"
-  },
-  {
-    "title": "Perplexity Co-Founder: AI Safety Is an Excuse to Lock Down Frontier",
-    "url": "https://decrypt.co/372755/perplexity-co-founder-ai-safety-excuse-lock-down-frontier",
-    "summary": "Andy Konwinski used Anthropic's Fable 5 debacle as exhibit A in the case against letting a handful of private labs govern who gets to do AI research.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-05T14:23:52.060089+00:00"
+    "fetched_at": "2026-07-05T15:58:56.599731+00:00"
   },
   {
     "title": "Bitcoin ETFs log record eighth straight negative week despite large Thursday inflow",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-05T14:23:52.143461+00:00"
+    "fetched_at": "2026-07-05T15:58:56.704155+00:00"
   },
   {
     "title": "Nearly 1 million wallets are down $3.81 billion on Trump\u2019s memecoin: report",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-05T14:23:52.143532+00:00"
+    "fetched_at": "2026-07-05T15:58:56.704224+00:00"
   },
   {
     "title": "US voters say Trump\u2019s Iran war not worth the cost \u2014 FT poll",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-05T14:23:53.234396+00:00"
+    "fetched_at": "2026-07-05T15:58:57.754169+00:00"
   },
   {
     "title": "Donald Trump defies storms and heatwave to deliver July 4 address",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-05T14:23:53.234458+00:00"
+    "fetched_at": "2026-07-05T15:58:57.754229+00:00"
   }
 ]
