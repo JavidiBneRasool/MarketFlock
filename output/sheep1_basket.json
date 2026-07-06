@@ -1,39 +1,39 @@
 [
   {
+    "title": "Former Tether CIO seeks to sell stake in stablecoin issuer, Bloomberg reports",
+    "url": "https://cointelegraph.com/news/former-tether-cio-seeks-to-sell-stake-in-stablecoin-issuer-bloomberg-reports",
+    "summary": "The reported transaction comes as Tether maintains it has no plans to go public, even as other crypto companies pursue or delay IPOs.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-07-06T22:54:48.939021+00:00"
+  },
+  {
     "title": "Bitcoin recovers from Strategy's BTC sale, funding rates hit 9%: Are bulls back?",
     "url": "https://cointelegraph.com/markets/bitcoin-recovers-from-strategy-btc-sale-funding-rates-hit-9-are-bulls-back",
     "summary": "Bitcoin sold off as news of Strategy selling BTC shook investors\u2019 nerve but the quick rebound suggests bulls remain ambitiously positioned.\n",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-06T21:18:19.713903+00:00"
+    "fetched_at": "2026-07-06T22:54:48.939123+00:00"
   },
   {
-    "title": "BonkDAO reports $20M theft from \u2018malicious governance proposal\u2019",
-    "url": "https://cointelegraph.com/news/bonk-dao-malicious-governance-proposal",
-    "summary": "The developers behind the memecoin project said they had informed law enforcement after the attack and were working to \u201crecover funds and identify those responsible.\u201d ",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-07-06T21:18:19.713982+00:00"
-  },
-  {
-    "title": "Lone Pine Gains 43% in First Half on Long and Short Bets",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-06/lone-pine-gains-43-in-first-half-on-both-long-and-short-bets",
-    "summary": "Lone Pine Capital posted a 43% gain for its hedge fund investors through June, notching one of its best-ever starts to a year and landing it among 2026\u2019s top performers.",
+    "title": "Oil Holds Drop as Saudi Arabian Price Cut Amplifies Glut Concern",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-06/latest-oil-market-news-and-analysis-for-july-7",
+    "summary": "Oil held a drop on signs of growing oversupply, with Saudi Arabia slashing prices and traffic through the Strait of Hormuz picking up.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-06T21:18:20.501573+00:00"
+    "fetched_at": "2026-07-06T22:54:49.677765+00:00"
   },
   {
-    "title": "Test Your ETF Knowledge In Our IQ Test",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-06/test-your-etf-knowledge-in-our-iq-test-video",
-    "summary": "Bloomberg's Joel Weber puts Scarlet Fu, Katie Greifeld, and Eric Balchunas to the test on \"Bloomberg ETF IQ\" in this week's edition of \"IQ Test.\" (Source: Bloomberg)",
+    "title": "Samsung Scores Profit Beat Due to Runaway Demand for AI Memory",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-06/samsung-scores-profit-beat-due-to-runaway-demand-for-ai-memory",
+    "summary": "Samsung Electronics Co.\u2019s quarterly profit surged 19-fold, soaring past elevated expectations due to rocketing demand for memory chips needed in AI data centers.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-06T21:18:20.501660+00:00"
+    "fetched_at": "2026-07-06T22:54:49.677820+00:00"
   },
   {
     "title": "Trump-Backed American Bitcoin (ABTC) Pushes Treasury Past 8,000 BTC",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-06T21:18:19.899326+00:00"
+    "fetched_at": "2026-07-06T22:54:49.214829+00:00"
   },
   {
     "title": "USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-06T21:18:19.899390+00:00"
+    "fetched_at": "2026-07-06T22:54:49.214894+00:00"
+  },
+  {
+    "title": "ByteDance and Alibaba to Pull Agent Features as China Cracks Down on Humanlike AI",
+    "url": "https://decrypt.co/372873/bytedance-alibaba-agent-features-china-cracks-down-humanlike-ai",
+    "summary": "Beijing's first rules targeting emotional AI are forcing the country's biggest apps to shut down custom agents.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-06T22:54:49.308978+00:00"
   },
   {
     "title": "UK Foreign Secretary Warns of 'AI Hiroshima' if Policymakers Don\u2019t Act",
@@ -60,16 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-06T21:18:19.999462+00:00"
+    "fetched_at": "2026-07-06T22:54:49.309039+00:00"
   },
   {
-    "title": "Solana Meme Coin Bonk Treasury Drained of $20 Million in 'Malicious' Governance Attack",
-    "url": "https://decrypt.co/372862/solana-meme-coin-bonk-treasury-drained-20-million",
-    "summary": "The Bonk DAO wallet was exploited for roughly $20 million worth of the prominent dog-themed meme coin on Solana.",
-    "source": "Decrypt",
+    "title": "Grayscale says Strategy\u2019s recent bitcoin sales should restore confidence in its financing structure",
+    "url": "https://www.theblock.co/post/407360/grayscale-strategy-bitcoin-sales-comments",
+    "summary": "\"Strategy is selling more bitcoin. But this will restore confidence in its financing structure and help bitcoin find a more durable bottom.\"",
+    "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-06T21:18:19.999525+00:00"
+    "fetched_at": "2026-07-06T22:54:49.397322+00:00"
   },
   {
     "title": "President Trump\u2019s strategic bitcoin reserve hits a legal and jurisdictional snag: Bloomberg",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-06T21:18:20.084928+00:00"
-  },
-  {
-    "title": "Paradigm leads $5.5 million seed round in M1X Global to expand tokenized sovereign debt platform",
-    "url": "https://www.theblock.co/post/407341/paradigm-m1x-global-funding-tokenized-sovereign-debt",
-    "summary": "M1X Global, which worked with the Republic of the Marshall Islands on the issuance of the onchain sovereign bond USDM1, has raised funds.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-06T21:18:20.085001+00:00"
+    "fetched_at": "2026-07-06T22:54:49.397392+00:00"
   },
   {
     "title": "Zelenskyy says \u2018battle in the sky\u2019 will decide outcome of war with Russia",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-06T21:18:21.052073+00:00"
+    "fetched_at": "2026-07-06T22:54:50.251600+00:00"
   },
   {
     "title": "Nato backs Ukraine\u2019s push to hit Russia harder, says Finnish president",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-06T21:18:21.052135+00:00"
+    "fetched_at": "2026-07-06T22:54:50.251662+00:00"
   }
 ]
