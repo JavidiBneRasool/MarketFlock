@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-06T22:54:48.939021+00:00",
+    "fetched_at": "2026-07-06T23:56:22.484138+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,31 +18,31 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-06T22:54:48.939123+00:00",
+    "fetched_at": "2026-07-06T23:56:22.484218+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Oil Holds Drop as Saudi Arabian Price Cut Amplifies Glut Concern",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-06/latest-oil-market-news-and-analysis-for-july-7",
-    "summary": "Oil held a drop on signs of growing oversupply, with Saudi Arabia slashing prices and traffic through the Strait of Hormuz picking up.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-06T22:54:49.677765+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Samsung Scores Profit Beat Due to Runaway Demand for AI Memory",
+    "title": "Samsung Scores Profit Beat on Runaway Demand for AI Memory",
     "url": "https://www.bloomberg.com/news/articles/2026-07-06/samsung-scores-profit-beat-due-to-runaway-demand-for-ai-memory",
-    "summary": "Samsung Electronics Co.\u2019s quarterly profit surged 19-fold, soaring past elevated expectations due to rocketing demand for memory chips needed in AI data centers.",
+    "summary": "Samsung Electronics Co.\u2019s quarterly profit surged 19-fold, just surpassing elevated expectations due to relentless demand for memory chips needed in AI data centers.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-06T22:54:49.677820+00:00",
+    "fetched_at": "2026-07-06T23:56:23.669218+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Asian Stocks to Gain, Samsung Slides After Profit: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-06/stock-market-today-dow-s-p-live-updates",
+    "summary": "Stocks in Asia are poised to edge higher after a rally in several US technology giants revived confidence that the AI-driven bull market still has room to run.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-07-06T23:56:23.669270+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-06T22:54:49.214829+00:00",
+    "fetched_at": "2026-07-06T23:56:23.011997+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-06T22:54:49.214894+00:00",
+    "fetched_at": "2026-07-06T23:56:23.012069+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-06T22:54:49.308978+00:00",
+    "fetched_at": "2026-07-06T23:56:23.158929+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-06T22:54:49.309039+00:00",
+    "fetched_at": "2026-07-06T23:56:23.158986+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-06T22:54:49.397322+00:00",
+    "fetched_at": "2026-07-06T23:56:23.321177+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-06T22:54:49.397392+00:00",
+    "fetched_at": "2026-07-06T23:56:23.321242+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-06T22:54:50.251600+00:00",
+    "fetched_at": "2026-07-06T23:56:24.454281+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-06T22:54:50.251662+00:00",
+    "fetched_at": "2026-07-06T23:56:24.454338+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
