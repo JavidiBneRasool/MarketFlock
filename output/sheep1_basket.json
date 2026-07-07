@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-07T22:03:26.545808+00:00"
+    "fetched_at": "2026-07-07T23:44:01.037837+00:00"
   },
   {
     "title": "Ether climbs toward $2K as Bitmine buys ETH, Robinhood L2 boost",
@@ -15,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-07T22:03:26.545887+00:00"
+    "fetched_at": "2026-07-07T23:44:01.037905+00:00"
   },
   {
-    "title": "Exxon Sees $3.7 Billion Profit Surge From War-Driven Oil Rally",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-07/exxon-sees-3-7-billion-profit-surge-from-war-driven-oil-rally",
-    "summary": "ExxonMobil Holdings Corp. said second-quarter earnings jumped by almost $4 billion as the Iran conflict boosted oil prices.",
+    "title": "US Strikes Iran and Blocks Oil Sales in New Threats to Ceasefire",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-07/us-revokes-waiver-allowing-iran-oil-sales-after-tanker-attacks",
+    "summary": "The US launched fresh airstrikes in Iran and revoked a waiver that allowed it to sell oil globally, further imperiling a peace agreement after a series of attacks on ships in the Strait of Hormuz.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-07T22:03:27.328517+00:00"
+    "fetched_at": "2026-07-07T23:44:02.023661+00:00"
   },
   {
-    "title": "US Judge Rejects DOJ Subpoena Over 2020 Georgia Election",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-07/us-judge-rejects-doj-subpoena-related-to-2020-georgia-election",
-    "summary": "A federal judge rejected an effort by the US Justice Department to obtain information on election workers in Fulton County, Georgia, related to the 2020 vote.",
+    "title": "S&amp;P Dow Jones Signals Possible Frontier-Market Cut for Indonesia",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-07/s-p-dow-jones-signals-possible-frontier-market-cut-for-indonesia",
+    "summary": "S&amp;P Dow Jones Indices has listed Indonesia as a country for potential market reclassification, saying it may consider implementing special treatment for its securities if circumstances worsen.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-07T22:03:27.328578+00:00"
+    "fetched_at": "2026-07-07T23:44:02.023717+00:00"
   },
   {
     "title": "Polymarket Turns On Instant Bitcoin Deposits Via Lightning Network, Powered by Spark",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-07T22:03:26.793257+00:00"
+    "fetched_at": "2026-07-07T23:44:01.352928+00:00"
   },
   {
     "title": "Kraken Seeks Final Judgment After $22 Million Award Against Former Auditor",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-07T22:03:26.793325+00:00"
+    "fetched_at": "2026-07-07T23:44:01.352987+00:00"
+  },
+  {
+    "title": "Anthropic Removes Hidden Claude Code Tracker After Researchers Raise Privacy Concerns",
+    "url": "https://decrypt.co/372977/anthropic-removes-hidden-claude-code-tracker-privacy",
+    "summary": "The company says the tool was designed to stop abuse and AI model extraction, but critics questioned the use of undisclosed monitoring.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-07T23:44:01.489914+00:00"
   },
   {
     "title": "SEC's Long-Promised Crypto Safe Harbor to Be Introduced as Soon as This Month",
@@ -60,16 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-07T22:03:26.884432+00:00"
-  },
-  {
-    "title": "Tether Invests $20 Million in Mercado Bitcoin to Fuel Expansion Across Latin America",
-    "url": "https://decrypt.co/372946/tether-invests-20-million-mercado-bitcoin-fuel-expansion-latin-america",
-    "summary": "Brazilian crypto exchange Mercado Bitcoin has raised $20 million in fresh investment from USDT stablecoin issuer Tether.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-07T22:03:26.884499+00:00"
+    "fetched_at": "2026-07-07T23:44:01.489968+00:00"
   },
   {
     "title": "Kraken wins $22 million arbitration against auditor Mazars for ditching the firm during Operation Choke Point 2.0",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-07T22:03:26.967735+00:00"
+    "fetched_at": "2026-07-07T23:44:01.633113+00:00"
   },
   {
     "title": "CFTC charges North Carolina man over alleged $14 million crypto, futures fraud",
@@ -87,16 +87,16 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-07T22:03:26.967806+00:00"
+    "fetched_at": "2026-07-07T23:44:01.633177+00:00"
   },
   {
-    "title": "US strikes Iran in response to attacks on tankers",
+    "title": "US launches new wave of Iran strikes after attacks on tankers",
     "url": "https://www.ft.com/content/c7dac217-4a77-4640-9aa4-17ae7b0d5c0c",
-    "summary": "Move comes after US Treasury revoked a general licence allowing sales of Islamic republic\u2019s oil in escalation of tensions",
+    "summary": "Trump administration also revokes licence allowing Islamic republic\u2019s oil sales, sending crude prices higher",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-07T22:03:28.055728+00:00"
+    "fetched_at": "2026-07-07T23:44:02.849714+00:00"
   },
   {
     "title": "US revokes waiver allowing Iranian oil sales after tanker strikes in Strait of Hormuz",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-07T22:03:28.055792+00:00"
+    "fetched_at": "2026-07-07T23:44:02.849766+00:00"
   }
 ]
