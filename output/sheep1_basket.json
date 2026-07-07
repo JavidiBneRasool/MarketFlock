@@ -1,39 +1,39 @@
 [
   {
-    "title": "Former Tether CIO seeks to sell stake in stablecoin issuer, Bloomberg reports",
-    "url": "https://cointelegraph.com/news/former-tether-cio-seeks-to-sell-stake-in-stablecoin-issuer-bloomberg-reports",
-    "summary": "The reported transaction comes as Tether maintains it has no plans to go public, even as other crypto companies pursue or delay IPOs.",
+    "title": "Bitcoin bulls shake off Strategy's $216M BTC sale as price overtakes $64K",
+    "url": "https://cointelegraph.com/markets/bitcoin-bulls-shake-off-strategys-216m-btc-sale-as-price-overtakes-64k",
+    "summary": "Bitcoin reversed course from its Monday open selloff and closed the day above $64,000 as bulls began to price in Strategy\u2019s selling.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-06T23:56:22.484138+00:00"
+    "fetched_at": "2026-07-07T02:08:15.867375+00:00"
   },
   {
-    "title": "Bitcoin recovers from Strategy's BTC sale, funding rates hit 9%: Are bulls back?",
-    "url": "https://cointelegraph.com/markets/bitcoin-recovers-from-strategy-btc-sale-funding-rates-hit-9-are-bulls-back",
-    "summary": "Bitcoin sold off as news of Strategy selling BTC shook investors\u2019 nerve but the quick rebound suggests bulls remain ambitiously positioned.\n",
+    "title": "Strategy sells $216M Bitcoin, Bollinger bullish on BTC: Hodler's Digest, June 29-July 6, 2026",
+    "url": "https://cointelegraph.com/features/bollinger-is-bullish-on-bitcoin-trumps-ludicrous-crypto-profits-hodlers-digest",
+    "summary": "Bollinger Bands creator John Bollinger says the charts suggest Bitcoin could take off from here. Vitalik Buterin unveils a new Ethereum strawmap, but why is it taking so long? ",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-06T23:56:22.484218+00:00"
+    "fetched_at": "2026-07-07T02:08:15.867455+00:00"
   },
   {
-    "title": "Samsung Scores Profit Beat on Runaway Demand for AI Memory",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-06/samsung-scores-profit-beat-due-to-runaway-demand-for-ai-memory",
-    "summary": "Samsung Electronics Co.\u2019s quarterly profit surged 19-fold, just surpassing elevated expectations due to relentless demand for memory chips needed in AI data centers.",
+    "title": "Hanwha Ocean Plunges Over 20% After Losing Canada Sub Deal",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-07/hanwha-ocean-stocks-sink-after-losing-canada-sub-deal-to-germany",
+    "summary": "Shares of Hanwha Ocean fell more than 23% on Tuesday morning after Canada picked a German bid to replace its aging submarine fleet over the South Korean shipbuilder\u2019s proposal.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-06T23:56:23.669218+00:00"
+    "fetched_at": "2026-07-07T02:08:16.916660+00:00"
   },
   {
-    "title": "Asian Stocks to Gain, Samsung Slides After Profit: Markets Wrap",
+    "title": "Stocks Slip as Tech Weakness Weighs, Samsung Falls: Markets Wrap",
     "url": "https://www.bloomberg.com/news/articles/2026-07-06/stock-market-today-dow-s-p-live-updates",
-    "summary": "Stocks in Asia are poised to edge higher after a rally in several US technology giants revived confidence that the AI-driven bull market still has room to run.",
+    "summary": "Asian equities dropped as technology shares came under renewed selling pressure due to investors rotating into other corners of the market. Chip bellwether Samsung Electronics Co. fell after its results.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-06T23:56:23.669270+00:00"
+    "fetched_at": "2026-07-07T02:08:16.916726+00:00"
   },
   {
     "title": "Trump-Backed American Bitcoin (ABTC) Pushes Treasury Past 8,000 BTC",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-06T23:56:23.011997+00:00"
+    "fetched_at": "2026-07-07T02:08:16.277440+00:00"
   },
   {
     "title": "USDT Returns to Bitcoin: RGB and UTEXO Enable Private Lightning Settlements",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-06T23:56:23.012069+00:00"
+    "fetched_at": "2026-07-07T02:08:16.277502+00:00"
   },
   {
     "title": "ByteDance and Alibaba to Pull Agent Features as China Cracks Down on Humanlike AI",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-06T23:56:23.158929+00:00"
+    "fetched_at": "2026-07-07T02:08:16.385923+00:00"
   },
   {
     "title": "UK Foreign Secretary Warns of 'AI Hiroshima' if Policymakers Don\u2019t Act",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-06T23:56:23.158986+00:00"
+    "fetched_at": "2026-07-07T02:08:16.385984+00:00"
   },
   {
     "title": "Grayscale says Strategy\u2019s recent bitcoin sales should restore confidence in its financing structure",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-06T23:56:23.321177+00:00"
+    "fetched_at": "2026-07-07T02:08:16.481309+00:00"
   },
   {
     "title": "President Trump\u2019s strategic bitcoin reserve hits a legal and jurisdictional snag: Bloomberg",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-06T23:56:23.321242+00:00"
+    "fetched_at": "2026-07-07T02:08:16.481376+00:00"
   },
   {
     "title": "Zelenskyy says \u2018battle in the sky\u2019 will decide outcome of war with Russia",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-06T23:56:24.454281+00:00"
+    "fetched_at": "2026-07-07T02:08:17.569448+00:00"
   },
   {
     "title": "Nato backs Ukraine\u2019s push to hit Russia harder, says Finnish president",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-06T23:56:24.454338+00:00"
+    "fetched_at": "2026-07-07T02:08:17.569505+00:00"
   }
 ]
