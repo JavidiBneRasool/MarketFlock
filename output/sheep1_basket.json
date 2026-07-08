@@ -1,39 +1,39 @@
 [
   {
-    "title": "Secret Network cites AI exploit risks in proposed Arbitrum move",
-    "url": "https://cointelegraph.com/news/secret-network-cites-ai-exploit-risks-in-proposed-arbitrum-move",
-    "summary": "\u201cThe security risk is the part we take most seriously,\u201d the team said, citing old code and AI exploit risks. \n",
+    "title": "EU to again vote to extend \u2018chat control\u2019 rules",
+    "url": "https://cointelegraph.com/news/eu-to-again-vote-to-extend-chat-control-rules",
+    "summary": "So-called \u201cchat control\u201d rules could be revived in the EU, with lawmakers again set to vote on the legislation Thursday.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-08T04:56:19.249704+00:00"
+    "fetched_at": "2026-07-08T07:23:20.995691+00:00"
   },
   {
-    "title": "CFTC charges commodity, crypto pool operator with $14M fraud",
-    "url": "https://cointelegraph.com/news/cftc-charges-commodity-crypto-pool-operator-with-14m-fraud",
-    "summary": "The CFTC has launched a rare crypto-related enforcement action against a commodity pool operator that allegedly defrauded investors of more than $14 million.",
+    "title": "Here\u2019s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-08T04:56:19.249781+00:00"
+    "fetched_at": "2026-07-08T07:23:20.995764+00:00"
   },
   {
-    "title": "Bonds, Stocks Retreat as Mideast Tensions Lift Oil: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-07/oil-jumps-on-iran-attack-asian-stocks-set-to-drop-markets-wrap",
-    "summary": "Oil prices climbed while bonds and stocks slipped after a flare-up in Middle East tensions reignited concerns over energy supplies, clouding the outlook for inflation and interest rates.",
+    "title": "Horizons Middle East & Africa 7/8/2026 (Video)",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-08/horizons-middle-east-africa-7-8-2026-video",
+    "summary": "",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-08T04:56:20.024214+00:00"
+    "fetched_at": "2026-07-08T07:23:22.032137+00:00"
   },
   {
-    "title": "Korean Stocks Extend Drop From Peak to 20% as AI Jitters Spread",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-08/korean-stocks-extend-drop-from-peak-to-20-as-ai-jitters-spread",
-    "summary": "South Korea\u2019s equity market extended declines, pushing the benchmark gauge toward a technical bear market as investors reassessed the outlook for artificial intelligence demand.",
+    "title": "Hedge Funds Shake Off Brutal March for Best Half Since 2021",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-07/hedge-funds-shake-off-brutal-march-to-post-best-half-since-2021",
+    "summary": "The brutal March that battered some of the world\u2019s biggest hedge funds is already fading into the background as the firms reported their strongest first-half results in five years.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-08T04:56:20.024275+00:00"
+    "fetched_at": "2026-07-08T07:23:22.032194+00:00"
   },
   {
     "title": "Polymarket Turns On Instant Bitcoin Deposits Via Lightning Network, Powered by Spark",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-08T04:56:19.552874+00:00"
+    "fetched_at": "2026-07-08T07:23:21.408361+00:00"
   },
   {
     "title": "Kraken Seeks Final Judgment After $22 Million Award Against Former Auditor",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-08T04:56:19.552939+00:00"
+    "fetched_at": "2026-07-08T07:23:21.408424+00:00"
   },
   {
     "title": "Anthropic Removes Hidden Claude Code Tracker After Researchers Raise Privacy Concerns",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-08T04:56:19.651846+00:00"
+    "fetched_at": "2026-07-08T07:23:21.505501+00:00"
   },
   {
     "title": "SEC's Long-Promised Crypto Safe Harbor to Be Introduced as Soon as This Month",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-08T04:56:19.651907+00:00"
+    "fetched_at": "2026-07-08T07:23:21.505558+00:00"
+  },
+  {
+    "title": "Federal judge denies Kalshi\u2019s bid to block New York gambling law enforcement",
+    "url": "https://www.theblock.co/post/407529/judge-denies-kalshi-motion-new-york",
+    "summary": "The judge said New York gambling laws, as applied to Kalshi's sports-event contracts, are not preempted by the federal Commodity Exchange Act.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-08T07:23:21.591844+00:00"
   },
   {
     "title": "Kraken wins $22 million arbitration against auditor Mazars for ditching the firm during Operation Choke Point 2.0",
@@ -78,25 +87,16 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-08T04:56:19.732260+00:00"
-  },
-  {
-    "title": "CFTC charges North Carolina man over alleged $14 million crypto, futures fraud",
-    "url": "https://www.theblock.co/post/407516/cftc-charges-north-carolina-man-alleged-14-million-crypto-futures-fraud",
-    "summary": "The CFTC charged a NC man and his company after the agency said he swindled about 60 people out of $14 million in a commodity pool. ",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-08T04:56:19.732329+00:00"
+    "fetched_at": "2026-07-08T07:23:21.591932+00:00"
   },
   {
     "title": "US launches new wave of Iran strikes after attacks on tankers",
     "url": "https://www.ft.com/content/c7dac217-4a77-4640-9aa4-17ae7b0d5c0c",
-    "summary": "Trump administration also revokes licence allowing Islamic republic\u2019s oil sales, sending crude prices higher",
+    "summary": "Nato secretary-general Rutte backs US action as \u2018absolutely necessary\u2019 as Revolutionary Guards retaliate",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-08T04:56:20.639290+00:00"
+    "fetched_at": "2026-07-08T07:23:22.566402+00:00"
   },
   {
     "title": "Iran projects regional power as Khamenei funeral heads to Iraq",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-08T04:56:20.639343+00:00"
+    "fetched_at": "2026-07-08T07:23:22.566473+00:00"
   }
 ]
