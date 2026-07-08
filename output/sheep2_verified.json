@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-07T23:44:01.037837+00:00",
+    "fetched_at": "2026-07-08T01:23:37.441703+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,7 +18,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-07T23:44:01.037905+00:00",
+    "fetched_at": "2026-07-08T01:23:37.441777+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,19 +30,19 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-07T23:44:02.023661+00:00",
+    "fetched_at": "2026-07-08T01:23:38.249959+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "S&amp;P Dow Jones Signals Possible Frontier-Market Cut for Indonesia",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-07/s-p-dow-jones-signals-possible-frontier-market-cut-for-indonesia",
-    "summary": "S&amp;P Dow Jones Indices has listed Indonesia as a country for potential market reclassification, saying it may consider implementing special treatment for its securities if circumstances worsen.",
+    "title": "S&amp;P Dow Jones Warns of Potential Frontier-Market Cut for Turkey",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-08/try-usd-s-p-dow-jones-signals-potential-frontier-market-cut-for-turkey",
+    "summary": "S&amp;P Dow Jones Indices put Turkey on a watchlist for a potential cut to frontier-market status, joining MSCI Inc. in warning of downgrades.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-07T23:44:02.023717+00:00",
+    "fetched_at": "2026-07-08T01:23:38.250020+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-07T23:44:01.352928+00:00",
+    "fetched_at": "2026-07-08T01:23:37.714711+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-07T23:44:01.352987+00:00",
+    "fetched_at": "2026-07-08T01:23:37.714775+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-07T23:44:01.489914+00:00",
+    "fetched_at": "2026-07-08T01:23:37.819416+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-07T23:44:01.489968+00:00",
+    "fetched_at": "2026-07-08T01:23:37.819477+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-07T23:44:01.633113+00:00",
+    "fetched_at": "2026-07-08T01:23:37.905185+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-07T23:44:01.633177+00:00",
+    "fetched_at": "2026-07-08T01:23:37.905252+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-07T23:44:02.849714+00:00",
+    "fetched_at": "2026-07-08T01:23:38.958527+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-07T23:44:02.849766+00:00",
+    "fetched_at": "2026-07-08T01:23:38.958586+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
