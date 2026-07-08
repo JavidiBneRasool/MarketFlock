@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-08T20:53:42.003617+00:00"
+    "fetched_at": "2026-07-08T21:56:54.557212+00:00"
   },
   {
     "title": "Here\u2019s what happened in crypto today",
@@ -15,25 +15,34 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-08T20:53:42.003688+00:00"
+    "fetched_at": "2026-07-08T21:56:54.557290+00:00"
   },
   {
-    "title": "Emerging Currencies Slide as US Forces Launch New Iran Strikes",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-08/emerging-market-stocks-drop-as-iran-escalation-adds-to-ai-risks",
-    "summary": "Most emerging-market currencies weakened on Wednesday as the US launched a new wave of strikes against Iran after threatening to reimpose an oil embargo, renewing fears of a prolonged conflict and bolstering oil prices.",
+    "title": "Toyota's Major US Plant Expansion in San Antonio Highlights Strategic Shift",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-08/former-hud-secretary-on-toyota-s-plant-expansion-video",
+    "summary": "Henry Cisneros, former US Department of Housing and Urban Development Secretary and former Mayor of San Antonio, discussed the origins and significance of Toyota's investment in San Antonio. He recounted how Toyota executives chose San Antonio for a new plant after observing the high number of picku",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-08T20:53:43.279976+00:00"
+    "fetched_at": "2026-07-08T21:56:55.361728+00:00"
   },
   {
-    "title": "Media M&A in Focus at Sun Valley",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-08/media-m-a-in-focus-at-sun-valley-video",
-    "summary": "Bloomberg's Michelle Davis joins Dani Burger on \"Bloomberg Deals\" to discuss what's top of mind in media M&amp;A as moguls gather in Sun Valley for Allen & Co.'s annual conference.\n (Source: Bloomberg)",
+    "title": "Oil Soars as US Extends Strikes Against Iran Into Second Night",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-07/latest-oil-market-news-and-analysis-for-july-8",
+    "summary": "Oil jumped to a two-week high amid renewed US attacks on Iran and President Donald Trump\u2019s assessment that the interim peace deal is a dead letter, heightening concerns about the free flow of crude from a key energy-producing region.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-08T20:53:43.280023+00:00"
+    "fetched_at": "2026-07-08T21:56:55.361805+00:00"
+  },
+  {
+    "title": "Bitcoin Slips to $62,000, Paring Rebound as CryptoQuant Sees Room Higher",
+    "url": "https://bitcoinmagazine.com/markets/bitcoin-slips-to-62000-paring-rebound",
+    "summary": "Bitcoin Magazine\n\nBitcoin Slips to $62,000, Paring Rebound as CryptoQuant Sees Room Higher\nBitcoin slipped to around $62,000 after rebounding from last week's $57,700 low, while CryptoQuant says improving demand, seasonality and valuation support further gains, though its bearish Bull Score Index su",
+    "source": "Bitcoin Magazine",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-08T21:56:54.789078+00:00"
   },
   {
     "title": "CFTC Chair Says Clarity Act Is \u2018So Close\u2019 As August Deadline Nears",
@@ -42,16 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-08T20:53:42.455234+00:00"
-  },
-  {
-    "title": "Bull Bitcoin Files Landmark Legal Challenge to Annul France\u2019s DAC8 Crypto Data Surveillance Rules",
-    "url": "https://bitcoinmagazine.com/legal/bull-bitcoin-files-landmark-legal-challenge-to-annul-frances-dac8-crypto-data-surveillance-rules",
-    "summary": "Bitcoin Magazine\n\nBull Bitcoin Files Landmark Legal Challenge to Annul France\u2019s DAC8 Crypto Data Surveillance Rules\nThe filing marks the first major legal challenge to DAC8 in the EU. Bull Bitcoin warns that forced consolidation of user data undermines both privacy and the regulation\u2019s own tax-colle",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-08T20:53:42.455300+00:00"
+    "fetched_at": "2026-07-08T21:56:54.789154+00:00"
   },
   {
     "title": "Paradigm Raises $1.2 Billion Fund as Crypto VC Pushes Further Into AI",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-08T20:53:42.618636+00:00"
+    "fetched_at": "2026-07-08T21:56:54.876436+00:00"
   },
   {
     "title": "Bitcoin Stalls as Ethereum Flashes Worst Weekly Signal in Years: Analysis",
@@ -69,25 +69,25 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-08T20:53:42.618689+00:00"
+    "fetched_at": "2026-07-08T21:56:54.876496+00:00"
   },
   {
-    "title": "Cash App owner Block to pay $45 million after states say it made false security promises",
-    "url": "https://www.theblock.co/post/407623/cash-app-owner-block-pay-45-million-states-say-it-made-false-security-promises",
-    "summary": "Block Inc. has agreed to pay $45 million to settle allegations brought by regulators in nearly every U.S. state. ",
+    "title": "Binance Wallet adds Plume\u2019s yield vault offering access to Invesco and Bitwise funds",
+    "url": "https://www.theblock.co/post/407632/binance-wallet-plume-yield-vault-invesco-bitwise-funds",
+    "summary": "Binance Wallet has added Plume's yield vault, giving users access to tokenized funds managed by Invesco and Bitwise.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-08T20:53:42.798631+00:00"
+    "fetched_at": "2026-07-08T21:56:54.960291+00:00"
   },
   {
-    "title": "Paradigm raises $1.2 billion fourth fund, expanding beyond crypto into AI and robotics",
-    "url": "https://www.theblock.co/post/407617/paradigm-raises-1-2-billion-fourth-fund-crypto-ai-robotics",
-    "summary": "Crypto venture firm Paradigm has raised its fourth fund, a $1.2 billion vehicle that will invest in crypto, AI, robotics, and other startups.",
+    "title": "\u2018Best course of action:\u2019 DeFi dashboard Zapper to shut down after 7 years",
+    "url": "https://www.theblock.co/post/407634/defi-dashboard-zapper-shut-down-after-7-years",
+    "summary": "Zapper, which started as a portfolio tracker, raised a $15 million Series A led by Framework Ventures in May 2021.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-08T20:53:42.798694+00:00"
+    "fetched_at": "2026-07-08T21:56:54.960363+00:00"
   },
   {
     "title": "US says it has launched new strikes on Iran",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-08T20:53:44.066870+00:00"
+    "fetched_at": "2026-07-08T21:56:56.201162+00:00"
   },
   {
     "title": "Why the US and Iran are stuck in a cycle of tit-for-tat strikes",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-08T20:53:44.066922+00:00"
+    "fetched_at": "2026-07-08T21:56:56.201230+00:00"
   }
 ]
