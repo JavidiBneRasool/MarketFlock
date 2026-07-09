@@ -1,39 +1,48 @@
 [
   {
+    "title": "Bitcoin miners\u2019 AI pivot faces investor scrutiny over insider sales",
+    "url": "https://cointelegraph.com/news/bitcoin-miners-ai-pivot-faces-investor-scrutiny-over-insider-sales",
+    "summary": "As AI-driven mining stocks retreat, investors are examining executive stock sales, governance and shareholder alignment across leading Bitcoin miners, according to Blocksbridge Consulting.\n",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-07-09T19:18:09.881318+00:00"
+  },
+  {
     "title": "UK politicians mull permanent crypto donation ban in wake of Nigel Farage scandal",
     "url": "https://cointelegraph.com/news/uk-politicians-crypto-donation-ban-nigel-farage-scandal",
     "summary": "Labour lawmakers proposed a full moratorium on crypto donations in March, which some have sought be made permanent after millions of dollars in contributions were linked to Reform leader Nigel Farage.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-09T17:09:53.422942+00:00"
+    "fetched_at": "2026-07-09T19:18:09.881405+00:00"
   },
   {
-    "title": "Can Bitcoin hold $62K ahead of Friday\u2019s $1.4 billion options expiry?",
-    "url": "https://cointelegraph.com/markets/can-bitcoin-hold-62k-ahead-of-fridays-14-billion-options-expiry",
-    "summary": "US 10-year Treasury yields nears dangerous level while major Deribit Bitcoin options expiry approaches.\n",
-    "source": "CoinTelegraph",
+    "title": "Oil Falls as Traders Expect US-Iran Conflict Will Stay Contained",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-08/latest-oil-market-news-and-analysis-for-july-9",
+    "summary": "Oil fell as traders priced in a limited US-Iran conflict, easing initial concerns that energy infrastructure would come under attack again.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-07-09T19:18:10.684874+00:00"
+  },
+  {
+    "title": "Copper Rallies as Risk Assets Shrug Off More US Strikes on Iran",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-09/copper-rises-as-risk-assets-shrug-off-more-us-strikes-on-iran",
+    "summary": "Copper jumped during a broad rally for industrial metals as investors shrugged off a fresh round of US strikes on Iran to track broader gains in risk assets.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-07-09T19:18:10.684930+00:00"
+  },
+  {
+    "title": "Bitcoin\u2019s New Debt Machine is Facing Its First Major Test",
+    "url": "https://bitcoinmagazine.com/markets/bitcoins-new-debt-machine-is-facing",
+    "summary": "Bitcoin Magazine\n\nBitcoin&#8217;s New Debt Machine is Facing Its First Major Test\nBitcoinTreasuries.net says June marked the first major stress test for Bitcoin-backed preferred shares, with Strategy's STRC and Strive's SATA rebounding after a sharp sell-off, reinforcing confidence in the growing co",
+    "source": "Bitcoin Magazine",
     "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-07-09T17:09:53.423028+00:00"
-  },
-  {
-    "title": "Stocks Get Boost From Chipmakers as Oil Declines: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-08/stock-market-today-dow-s-p-live-updates",
-    "summary": "A resurgence in giant chipmakers powered a rebound on Wall Street, with stocks also rising amid a decline in oil prices as traders looked past fresh hostilities between the US and Iran.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-09T17:09:54.326134+00:00"
-  },
-  {
-    "title": "Blackstone Data-Center Firm QTS Taps Leveraged Loans",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-08/blackstone-s-qts-taps-us-loan-market-in-data-center-backed-deal",
-    "summary": "A unit of Blackstone-backed QTS Realty Trust LLC is seeking to raise $2 billion to repay debt tied to US data centers and fund a distribution.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-09T17:09:54.326222+00:00"
+    "tier": 9,
+    "fetched_at": "2026-07-09T19:18:10.158862+00:00"
   },
   {
     "title": "New Hampshire Council Rejects $100 Million Bitcoin-Backed Bond",
@@ -42,34 +51,34 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-09T17:09:53.653105+00:00"
+    "fetched_at": "2026-07-09T19:18:10.158929+00:00"
   },
   {
-    "title": "BitGo Adds Quantum-Risk Controls to Bitcoin Custody",
-    "url": "https://bitcoinmagazine.com/news/bitgo-adds-quantum-risk-controls-bitcoin",
-    "summary": "Bitcoin Magazine\n\nBitGo Adds Quantum-Risk Controls to Bitcoin Custody\nBitGo launched new quantum-risk tools that help institutional Bitcoin holders identify and reduce potential future quantum-computing exposure in their custody wallets.\nThis post BitGo Adds Quantum-Risk Controls to Bitcoin Custody ",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-09T17:09:53.653188+00:00"
-  },
-  {
-    "title": "Swift Readies Ledger for 24/7 Token Transfers\u2014Though True Settlement Is Stuck on Old Rails",
-    "url": "https://decrypt.co/373147/swift-readies-ledger-f24-7-token-transfers-settlement-old-rails",
-    "summary": "Swift\u2019s pilot allows 17 global banks to transfer tokenized deposits on weekends, but ultimate settlement still relies on legacy systems.",
+    "title": "Ethereum Foundation Turns AI Loose on ETH Network to Find Bugs Before Hackers Do",
+    "url": "https://decrypt.co/373169/ethereum-foundation-turns-ai-loose-find-bugs-before-hackers",
+    "summary": "Ethereum researchers are using AI agents to hunt for vulnerabilities, shifting security work from finding bugs to proving which ones are real.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-09T17:09:53.736509+00:00"
+    "fetched_at": "2026-07-09T19:18:10.285278+00:00"
   },
   {
-    "title": "MARA Stock Pops as Bitcoin Miner Agrees to Acquire Massive Powered Texas Land Plot",
-    "url": "https://decrypt.co/373144/mara-stock-pops-bitcoin-miner-agrees-acquire-texas-land-plot",
-    "summary": "MARA Holdings has agreed to purchase a sizable plot of land in Texas to power its Bitcoin mining and growing AI compute ambitions.",
+    "title": "OpenAI Releases GPT-5.6 Sol: Here\u2019s How It Stacks Up Against Other AI Models",
+    "url": "https://decrypt.co/373151/openai-gpt-5-6-sol-how-compares-ai-models",
+    "summary": "OpenAI's new flagship model is out, after spending two weeks locked behind a government-approved preview. It lands the same week Fable 5 leaves Anthropic's subscription plans.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-09T17:09:53.736575+00:00"
+    "fetched_at": "2026-07-09T19:18:10.285342+00:00"
+  },
+  {
+    "title": "White House defends Trump\u2019s regulatory appointments as CFTC vacancies complicate crypto bill push",
+    "url": "https://www.theblock.co/post/407785/white-house-defends-trumps-regulatory-appointments-as-cftc-vacancies-complicate-crypto-bill-push",
+    "summary": "The White House pushed back against Democrats\u2019 criticism that the administration has declined to appoint commissioners to regulatory agencies.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-09T19:18:10.400817+00:00"
   },
   {
     "title": "Hyperliquid Policy Center, Phantom urge CFTC to stop treating onchain protocols like traditional brokers and exchanges",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-09T17:09:53.814263+00:00"
-  },
-  {
-    "title": "JPMorgan says bitcoin\u2019s main risk isn\u2019t Strategy, but blockchain adoption that doesn\u2019t benefit public chains and tokens",
-    "url": "https://www.theblock.co/post/407776/jpmorgan-bitcoin-risk-strategy-blockchain-tokens-crypto",
-    "summary": "JPMorgan says Strategy isn't bitcoin's main structural risk, but blockchain adoption that fails to benefit public blockchains and tokens.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-09T17:09:53.814348+00:00"
+    "fetched_at": "2026-07-09T19:18:10.400896+00:00"
   },
   {
     "title": "US strikes Iranian railway bridges on route to city of Khamenei\u2019s burial",
@@ -96,15 +96,15 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-09T17:09:55.043636+00:00"
+    "fetched_at": "2026-07-09T19:18:11.422321+00:00"
   },
   {
-    "title": "Iran\u2019s new order takes shape after Khamenei burial",
-    "url": "https://www.ft.com/content/fee898fa-1888-4131-9e63-f3868cd3f176",
-    "summary": "Ali Khamenei\u2019s funeral leaves son Mojtaba \u2014 about whom Iranians know little \u2014 to confront enormous challenges facing the regime",
+    "title": "There is no grand plan on Iran",
+    "url": "https://www.ft.com/content/e5df56dc-70d3-49b0-82f4-3ae3af644a8e",
+    "summary": "An over-reaching Tehran seems to be looking at America\u2019s confused moves and wondering what it may be missing",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-09T17:09:55.043694+00:00"
+    "fetched_at": "2026-07-09T19:18:11.422375+00:00"
   }
 ]
