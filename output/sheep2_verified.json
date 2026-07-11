@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-11T04:51:34.529682+00:00",
+    "fetched_at": "2026-07-11T07:04:00.328703+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,7 +18,19 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-11T04:51:34.529761+00:00",
+    "fetched_at": "2026-07-11T07:04:00.328781+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "VW CEO Under Pressure as Labor Unions Torpedo Turnaround Plan",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-11/vw-ceo-under-pressure-as-labor-unions-torpedo-turnaround-plan",
+    "summary": "Volkswagen AG Chief Executive Officer Oliver Blume faces an uphill battle to push through a fundamental overhaul of the carmaker after failing to win initial backing from the supervisory board.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-07-11T07:04:01.261541+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,19 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-11T04:51:35.552134+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Xi Says China\u2019s Backing for Kim and North Korea Won\u2019t Change",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-11/xi-says-china-s-backing-for-kim-and-north-korea-won-t-change",
-    "summary": "President Xi Jinping said China\u2019s commitment to its friendship with North Korea, support for Kim Jong Un\u2019s leadership and determination to safeguard the two countries\u2019 common interests \u201cwill not change,\u201d Xinhua News Agency reported on Saturday.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-11T04:51:35.552194+00:00",
+    "fetched_at": "2026-07-11T07:04:01.261602+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T04:51:34.841402+00:00",
+    "fetched_at": "2026-07-11T07:04:00.725783+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T04:51:34.841464+00:00",
+    "fetched_at": "2026-07-11T07:04:00.725845+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T04:51:34.942618+00:00",
+    "fetched_at": "2026-07-11T07:04:00.828825+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T04:51:34.942673+00:00",
+    "fetched_at": "2026-07-11T07:04:00.828883+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T04:51:35.035472+00:00",
+    "fetched_at": "2026-07-11T07:04:00.900610+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T04:51:35.035541+00:00",
+    "fetched_at": "2026-07-11T07:04:00.900680+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-11T04:51:36.093061+00:00",
+    "fetched_at": "2026-07-11T07:04:01.745800+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-11T04:51:36.093115+00:00",
+    "fetched_at": "2026-07-11T07:04:01.745853+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
