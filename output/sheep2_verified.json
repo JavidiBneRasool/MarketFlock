@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-11T18:41:45.156566+00:00",
+    "fetched_at": "2026-07-11T19:57:30.659373+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,7 +18,19 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-11T18:41:45.156625+00:00",
+    "fetched_at": "2026-07-11T19:57:30.659453+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Banks\u2019 Record Bond Short Sparks Quest for Answers",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-11/banks-record-bond-short-sparks-quest-for-answers-credit-weekly",
+    "summary": "For the first time in recent history, primary dealers have gone net short on debt they used to hold billions of dollars of.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-07-11T19:57:31.400158+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,19 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-11T18:41:46.047981+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Hannah Elliott Highlights Tinnitus Risks",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-11/hannah-elliott-highlights-tinnitus-risks-video",
-    "summary": "Bloomberg Pursuit staff writer Hannah Elliott says Tinnitus affects more than 50 million Americans, remains underdiagnosed and underfunded, and can have profound effects on mental health and quality of life. She says growing awareness of hearing health and new treatments, including the FDA-cleared L",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-11T18:41:46.048019+00:00",
+    "fetched_at": "2026-07-11T19:57:31.400212+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T18:41:45.429844+00:00",
+    "fetched_at": "2026-07-11T19:57:30.888867+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T18:41:45.429893+00:00",
+    "fetched_at": "2026-07-11T19:57:30.888933+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T18:41:45.543190+00:00",
+    "fetched_at": "2026-07-11T19:57:30.969153+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,19 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T18:41:45.543238+00:00",
+    "fetched_at": "2026-07-11T19:57:30.969215+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Hedera lending protocol Bonzo Lend hit for $9 million after Supra verifier accepts manipulated price update",
+    "url": "https://www.theblock.co/post/407960/hedera-lending-protocol-bonzo-lend-hit-for-9-million-after-supra-verifier-accepts-manipulated-price-update",
+    "summary": "A second wallet borrowed another roughly $1 million but identified itself as a white hat hacker and said the funds would be returned.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-11T19:57:31.043928+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,19 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T18:41:45.691552+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Housing bill that includes a CBDC ban passed into law without Trump\u2019s signature",
-    "url": "https://www.theblock.co/post/406548/housing-bill-cbdc-ban-passed-into-law-without-trump-signature",
-    "summary": "The 21st Century ROAD to Housing Act, which includes a provision that bans the Fed from issuing a CBDC, has become law.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-11T18:41:45.691608+00:00",
+    "fetched_at": "2026-07-11T19:57:31.044002+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-11T18:41:46.859786+00:00",
+    "fetched_at": "2026-07-11T19:57:32.067306+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-11T18:41:46.859830+00:00",
+    "fetched_at": "2026-07-11T19:57:32.067361+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
