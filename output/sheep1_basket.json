@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-10T23:45:31.742192+00:00"
+    "fetched_at": "2026-07-11T01:22:58.063325+00:00"
   },
   {
     "title": "Senate Democrats call for hearings into Trump\u2019s ties to crypto amid CLARITY Act discussions",
@@ -15,7 +15,16 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-10T23:45:31.742255+00:00"
+    "fetched_at": "2026-07-11T01:22:58.063408+00:00"
+  },
+  {
+    "title": "SK Hynix Rises After Record US Offering | The Close 7/10/2026",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-10/the-close-7-10-2026-video",
+    "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Winnie Cisar, CreditSights Global Head of Strategy, John Medina, Moody's Ratings SVP, Global Project and Infrastructure Financ",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-07-11T01:22:59.037916+00:00"
   },
   {
     "title": "MGM Resorts Engaged in Deal Talks With Diller, WSJ Says",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-10T23:45:32.510144+00:00"
-  },
-  {
-    "title": "S&P Global: FIFA to Offer Short-Term Economic Boost",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-10/s-p-global-fifa-to-offer-short-term-economic-boost-video",
-    "summary": "Nora Wittstruck, Chief Analytical Officer for Governments at S&amp;P Global, joined Romaine Bostick and Katie Greifeld on Bloomberg's 'The Close' to provide insights on FIFA's financial position during the 2026 World Cup. She highlights how FIFA has emerged financially stronger despite facing numero",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-10T23:45:32.510188+00:00"
+    "fetched_at": "2026-07-11T01:22:59.037973+00:00"
   },
   {
     "title": "U.S. Representatives Urge Senate to Vote on CLARITY Act in July, Address Ethics Concerns",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-10T23:45:31.964050+00:00"
+    "fetched_at": "2026-07-11T01:22:58.409073+00:00"
   },
   {
     "title": "Circle (CRCL) Wins Final OCC Approval for National Trust Bank",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-10T23:45:31.964097+00:00"
+    "fetched_at": "2026-07-11T01:22:58.409136+00:00"
   },
   {
     "title": "Apple Sues OpenAI, Claims Former Employees Stole Trade Secrets",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-10T23:45:32.027598+00:00"
+    "fetched_at": "2026-07-11T01:22:58.500322+00:00"
   },
   {
     "title": "Democrats Call for Senate Hearings on Trump's Massive Crypto Profits",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-10T23:45:32.027639+00:00"
+    "fetched_at": "2026-07-11T01:22:58.500377+00:00"
   },
   {
     "title": "DOJ to drop charges against man accused in $722 million BitClub crypto Ponzi scheme: Bloomberg",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-10T23:45:32.096168+00:00"
+    "fetched_at": "2026-07-11T01:22:58.599209+00:00"
   },
   {
     "title": "Here\u2019s what\u2019s next for the Clarity Act as Congress returns to Washington",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-10T23:45:32.096226+00:00"
+    "fetched_at": "2026-07-11T01:22:58.599285+00:00"
   },
   {
     "title": "Apple sues OpenAI alleging theft of top-secret information",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-10T23:45:33.428061+00:00"
+    "fetched_at": "2026-07-11T01:22:59.785337+00:00"
   },
   {
     "title": "Classicist Emily Wilson: \u2018Odysseus is a different kind of conman\u2019",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-10T23:45:33.428110+00:00"
+    "fetched_at": "2026-07-11T01:22:59.785399+00:00"
   }
 ]
