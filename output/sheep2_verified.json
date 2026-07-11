@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-11T20:41:00.710439+00:00",
+    "fetched_at": "2026-07-11T21:38:03.298936+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,7 +18,19 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-11T20:41:00.710519+00:00",
+    "fetched_at": "2026-07-11T21:38:03.299014+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Modi Courts Indo-Pacific Partners as China, US Reshape Region",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-11/modi-courts-indo-pacific-partners-as-china-us-reshape-region",
+    "summary": "From missiles and uranium to critical minerals and sports diplomacy, Prime Minister Narendra Modi used a three-nation tour to deepen India\u2019s Indo-Pacific partnerships as regional powers strengthen ties amid China\u2019s growing influence and uncertainty over US engagement.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-07-11T21:38:04.103170+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,19 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-11T20:41:01.434899+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Banks\u2019 Record Bond Short Sparks Quest for Answers",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-11/banks-record-bond-short-sparks-quest-for-answers-credit-weekly",
-    "summary": "For the first time in recent history, primary dealers have gone net short on debt they used to hold billions of dollars of.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-11T20:41:01.434953+00:00",
+    "fetched_at": "2026-07-11T21:38:04.103226+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T20:41:00.874123+00:00",
+    "fetched_at": "2026-07-11T21:38:03.544834+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T20:41:00.874205+00:00",
+    "fetched_at": "2026-07-11T21:38:03.544898+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T20:41:00.972498+00:00",
+    "fetched_at": "2026-07-11T21:38:03.643387+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T20:41:00.972559+00:00",
+    "fetched_at": "2026-07-11T21:38:03.643447+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T20:41:01.056049+00:00",
+    "fetched_at": "2026-07-11T21:38:03.747833+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T20:41:01.056117+00:00",
+    "fetched_at": "2026-07-11T21:38:03.747904+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-11T20:41:01.964418+00:00",
+    "fetched_at": "2026-07-11T21:38:04.584136+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-11T20:41:01.964482+00:00",
+    "fetched_at": "2026-07-11T21:38:04.584195+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
