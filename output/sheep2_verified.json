@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-11T07:04:00.328703+00:00",
+    "fetched_at": "2026-07-11T09:14:21.540477+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,7 +18,19 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-11T07:04:00.328781+00:00",
+    "fetched_at": "2026-07-11T09:14:21.540552+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "China Power Load Hits Early Record as Data, EV Demand Rises",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-11/china-power-load-hits-early-record-as-data-ev-demand-rises",
+    "summary": "China\u2019s nationwide electricity load reached a record high for the first time this year on July 10, hitting 1.518 billion kilowatts, the National Energy Administration said in a statement posted on its official WeChat account Saturday.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-07-11T09:14:22.473055+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,19 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-11T07:04:01.261541+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "India, NZ Plan Strategic Partnership Including Maritime Security",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-11/india-nz-plan-strategic-partnership-including-maratime-security",
-    "summary": "India and New Zealand will elevate their relationship to a \u201cstrategic partnership,\u201d as both seek closer trade and security ties.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-11T07:04:01.261602+00:00",
+    "fetched_at": "2026-07-11T09:14:22.473114+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T07:04:00.725783+00:00",
+    "fetched_at": "2026-07-11T09:14:21.941283+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T07:04:00.725845+00:00",
+    "fetched_at": "2026-07-11T09:14:21.941345+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T07:04:00.828825+00:00",
+    "fetched_at": "2026-07-11T09:14:22.064614+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T07:04:00.828883+00:00",
+    "fetched_at": "2026-07-11T09:14:22.064667+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T07:04:00.900610+00:00",
+    "fetched_at": "2026-07-11T09:14:22.158927+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T07:04:00.900680+00:00",
+    "fetched_at": "2026-07-11T09:14:22.158996+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,19 +126,19 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-11T07:04:01.745800+00:00",
+    "fetched_at": "2026-07-11T09:14:23.126035+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Tropical nights come to Europe",
-    "url": "https://www.ft.com/content/d78ed235-b157-4564-a099-2c7e350f0956",
-    "summary": "The biggest rise in extreme temperatures is not in the daytime",
+    "title": "Investors sell longer-dated AI debt amid Big Tech borrowing spree",
+    "url": "https://www.ft.com/content/28380abc-72f9-4287-8d36-2823c73358ce",
+    "summary": "Waning demand highlights scepticism over sector\u2019s long-term profitability",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-11T07:04:01.745853+00:00",
+    "fetched_at": "2026-07-11T09:14:23.126090+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
