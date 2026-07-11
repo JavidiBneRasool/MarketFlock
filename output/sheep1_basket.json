@@ -1,21 +1,30 @@
 [
   {
+    "title": "Bonzo Lend loses $9M in oracle exploit on Hedera",
+    "url": "https://cointelegraph.com/news/bonzo-lend-9m-oracle-exploit-hedera",
+    "summary": "An attacker inflated the value of SAUCE collateral and borrowed $9 million from Bonzo Lend through a flaw in Supra\u2019s on-chain oracle verifier.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-07-11T12:48:49.475129+00:00"
+  },
+  {
     "title": "Bitcoin price gains nearly 10% in July, but traders still see BTC copying 2022 bear market",
     "url": "https://cointelegraph.com/markets/bitcoin-price-gains-nearly-10-in-july-but-traders-still-see-btc-copying-2022-bear-market",
     "summary": "Bitcoin price gains approached 10% for the first two weeks of the month, but analysis warned of the bear market returning from August onward.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-11T11:41:54.471550+00:00"
+    "fetched_at": "2026-07-11T12:48:49.475207+00:00"
   },
   {
-    "title": "Dollar stablecoins could improve FX access but amplify currency runs: IMF paper",
-    "url": "https://cointelegraph.com/news/imf-stablecoins-fx-access-currency-runs",
-    "summary": "An IMF working paper says dollar stablecoins can improve access to foreign currency but may also help coordinate exits from local currencies during periods of severe exchange-rate stress.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
+    "title": "The World\u2019s First Trillionaire and the Company He Won\u2019t Let Go",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-07-11/the-world-s-first-trillionaire-and-the-company-he-won-t-let-go",
+    "summary": "Elon Musk made history last month.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-11T11:41:54.471627+00:00"
+    "fetched_at": "2026-07-11T12:48:52.942885+00:00"
   },
   {
     "title": "EasyJet Has Private Equity Firms Going Out of Their Comfort Zone",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-11T11:41:55.316779+00:00"
-  },
-  {
-    "title": "VW CEO Under Pressure as Labor Unions Torpedo Revival Plan",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-11/vw-ceo-under-pressure-as-labor-unions-torpedo-turnaround-plan",
-    "summary": "Volkswagen AG Chief Executive Officer Oliver Blume is facing an uphill battle to push through a fundamental overhaul of Europe\u2019s biggest carmaker after failing to win initial backing from the supervisory board.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-11T11:41:55.316834+00:00"
+    "fetched_at": "2026-07-11T12:48:52.942946+00:00"
   },
   {
     "title": "U.S. Representatives Urge Senate to Vote on CLARITY Act in July, Address Ethics Concerns",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T11:41:54.721676+00:00"
+    "fetched_at": "2026-07-11T12:48:49.731214+00:00"
   },
   {
     "title": "Circle (CRCL) Wins Final OCC Approval for National Trust Bank",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T11:41:54.721739+00:00"
+    "fetched_at": "2026-07-11T12:48:49.731274+00:00"
   },
   {
     "title": "Apple Sues OpenAI, Claims Former Employees Stole Trade Secrets",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T11:41:54.821337+00:00"
+    "fetched_at": "2026-07-11T12:48:49.807952+00:00"
   },
   {
     "title": "Democrats Call for Senate Hearings on Trump's Massive Crypto Profits",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T11:41:54.821391+00:00"
+    "fetched_at": "2026-07-11T12:48:49.808006+00:00"
   },
   {
     "title": "Housing bill that includes a CBDC ban passed into law without Trump\u2019s signature",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T11:41:54.923665+00:00"
+    "fetched_at": "2026-07-11T12:48:49.892061+00:00"
   },
   {
     "title": "DOJ to drop charges against man accused in $722 million BitClub crypto Ponzi scheme: Bloomberg",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T11:41:54.923740+00:00"
+    "fetched_at": "2026-07-11T12:48:49.892133+00:00"
   },
   {
     "title": "Apple sues OpenAI alleging theft of top-secret information",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-11T11:41:55.865618+00:00"
+    "fetched_at": "2026-07-11T12:48:53.421541+00:00"
   },
   {
     "title": "Investors sell longer-dated AI debt amid Big Tech borrowing spree",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-11T11:41:55.865674+00:00"
+    "fetched_at": "2026-07-11T12:48:53.421597+00:00"
   }
 ]
