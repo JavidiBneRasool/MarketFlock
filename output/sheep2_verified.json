@@ -1,24 +1,36 @@
 [
   {
+    "title": "Bitcoin price gains nearly 10% in July, but traders still see BTC copying 2022 bear market",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-gains-nearly-10-in-july-but-traders-still-see-btc-copying-2022-bear-market",
+    "summary": "Bitcoin price gains approached 10% for the first two weeks of the month, but analysis warned of the bear market returning from August onward.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-07-11T11:41:54.471550+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "Dollar stablecoins could improve FX access but amplify currency runs: IMF paper",
     "url": "https://cointelegraph.com/news/imf-stablecoins-fx-access-currency-runs",
     "summary": "An IMF working paper says dollar stablecoins can improve access to foreign currency but may also help coordinate exits from local currencies during periods of severe exchange-rate stress.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-11T10:51:52.905626+00:00",
+    "fetched_at": "2026-07-11T11:41:54.471627+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
+    "title": "EasyJet Has Private Equity Firms Going Out of Their Comfort Zone",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-11/easyjet-has-private-equity-firms-going-out-of-their-comfort-zone",
+    "summary": "The aviation industry has seen plenty of deals activity in recent years, but the battle between two US funds for EasyJet Plc stands out because the volatile, low-margin airlines business rarely draws financial suitors.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-11T10:51:52.905697+00:00",
+    "fetched_at": "2026-07-11T11:41:55.316779+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,19 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-11T10:51:53.711407+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "China Tells Refiners to Keep Fuel Output High as Iran War Drags",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-11/china-tells-refiners-to-keep-fuel-output-high-as-iran-war-drags",
-    "summary": "China instructed some major refiners to keep fuel production high, according to people familiar with the matter, in an effort to protect domestic consumers as strikes in the Persian Gulf once again threaten oil shipments.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-11T10:51:53.711464+00:00",
+    "fetched_at": "2026-07-11T11:41:55.316834+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T10:51:53.104503+00:00",
+    "fetched_at": "2026-07-11T11:41:54.721676+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T10:51:53.104566+00:00",
+    "fetched_at": "2026-07-11T11:41:54.721739+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T10:51:53.187405+00:00",
+    "fetched_at": "2026-07-11T11:41:54.821337+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T10:51:53.187462+00:00",
+    "fetched_at": "2026-07-11T11:41:54.821391+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T10:51:53.259536+00:00",
+    "fetched_at": "2026-07-11T11:41:54.923665+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-11T10:51:53.259611+00:00",
+    "fetched_at": "2026-07-11T11:41:54.923740+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-11T10:51:54.461686+00:00",
+    "fetched_at": "2026-07-11T11:41:55.865618+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-11T10:51:54.461743+00:00",
+    "fetched_at": "2026-07-11T11:41:55.865674+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
