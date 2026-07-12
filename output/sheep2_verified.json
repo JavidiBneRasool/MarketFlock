@@ -1,24 +1,24 @@
 [
   {
+    "title": "Cambridge study puts Ethereum near the lower end of PoS energy intensity",
+    "url": "https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study",
+    "summary": "Cambridge estimated that Ethereum consumes 7.87 GWh annually and has the second-lowest market-value-adjusted energy intensity among the PoS networks studied.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-07-12T09:41:10.618663+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "Here\u2019s what happened in crypto today",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-12T07:55:14.932063+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Bitcoin bulls Michael Saylor, Adam Back slam BIP-110 Ordinals proposal",
-    "url": "https://cointelegraph.com/news/bitcoin-leaders-michael-saylor-and-adam-back-rebuff-bip-110-proposal",
-    "summary": "The ongoing debate comes despite a broad downturn in Ordinals transaction activity over the last two years.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-07-12T07:55:14.932122+00:00",
+    "fetched_at": "2026-07-12T09:41:10.618742+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,19 +30,19 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-12T07:55:15.715489+00:00",
+    "fetched_at": "2026-07-12T09:41:11.394414+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Korea\u2019s World-Beating Stocks Are Now Trading Cheaper Than Ever",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-12/korea-s-world-beating-stocks-are-now-trading-cheaper-than-ever",
-    "summary": "South Korea\u2019s blistering stock rally has left investors facing an unlikely backdrop: equities trading at record-low valuations.",
+    "title": "US, Iran Trade Wave of Attacks as Tehran Says Hormuz Closed",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-12/us-iran-trade-wave-of-attacks-as-tehran-says-hormuz-closed",
+    "summary": "US forces struck Iran for a third time in a week, prompting retaliatory attacks from Tehran as it declared the Strait of Hormuz would be closed \u201cuntil further notice.\u201d",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-12T07:55:15.715536+00:00",
+    "fetched_at": "2026-07-12T09:41:11.394478+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-12T07:55:15.154790+00:00",
+    "fetched_at": "2026-07-12T09:41:10.833845+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-12T07:55:15.154839+00:00",
+    "fetched_at": "2026-07-12T09:41:10.833910+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-12T07:55:15.225026+00:00",
+    "fetched_at": "2026-07-12T09:41:10.918926+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-12T07:55:15.225082+00:00",
+    "fetched_at": "2026-07-12T09:41:10.918993+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-12T07:55:15.281632+00:00",
+    "fetched_at": "2026-07-12T09:41:10.995949+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,19 +114,19 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-12T07:55:15.281685+00:00",
+    "fetched_at": "2026-07-12T09:41:10.996029+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "US launches more strikes after Tehran declares Strait of Hormuz closed",
+    "title": "US launches fresh strikes after Tehran declares Strait of Hormuz closed",
     "url": "https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d",
-    "summary": "Iran hits commercial ship transiting the waterway, with Centcom saying crew member is missing from vessel",
+    "summary": "Iran hits commercial ship transiting the waterway and targets in Kuwait, Bahrain and Qatar",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-12T07:55:16.397528+00:00",
+    "fetched_at": "2026-07-12T09:41:12.307962+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-12T07:55:16.397569+00:00",
+    "fetched_at": "2026-07-12T09:41:12.308027+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
