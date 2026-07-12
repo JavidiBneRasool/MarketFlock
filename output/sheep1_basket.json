@@ -1,39 +1,39 @@
 [
   {
+    "title": "Pakistan crypto chief seeks dialogue after scholar rules against crypto payments",
+    "url": "https://cointelegraph.com/news/pakistan-crypto-chief-dialogue-islamic-ruling",
+    "summary": "Pakistan\u2019s virtual-assets regulator called for continued dialogue on the treatment of digital assets after meeting an Islamic scholar who backed a ruling against purchases made with crypto.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-07-12T12:50:02.612868+00:00"
+  },
+  {
     "title": "Cambridge study puts Ethereum near the lower end of PoS energy intensity",
     "url": "https://cointelegraph.com/news/ethereum-pos-energy-intensity-cambridge-study",
     "summary": "Cambridge estimated that Ethereum consumes 7.87 GWh annually and has the second-lowest market-value-adjusted energy intensity among the PoS networks studied.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-12T11:02:34.237318+00:00"
+    "fetched_at": "2026-07-12T12:50:02.612970+00:00"
   },
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-07-12T11:02:34.237418+00:00"
-  },
-  {
-    "title": "US-Iran Strikes Ratchet Up Tensions as Tehran Says Hormuz Shut",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-12/us-iran-trade-wave-of-attacks-as-tehran-says-hormuz-closed",
-    "summary": "US forces struck Iran for a third time in a week, prompting retaliatory attacks on at least five Arab nations as Tehran declared the Strait of Hormuz closed \u201cuntil further notice.\u201d",
+    "title": "Funds Fret Over $4.4 Trillion AI Trio\u2019s Grip on Emerging Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-12/funds-fret-over-4-4-trillion-ai-trio-s-grip-on-emerging-markets",
+    "summary": "Investors are rotating beyond AI winners in emerging markets, where just three technology stocks worth $4.4 trillion drive an outsized share of returns.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-12T11:02:35.035893+00:00"
+    "fetched_at": "2026-07-12T12:50:03.727769+00:00"
   },
   {
-    "title": "Hormuz Route Open Despite Iran Declaration, Maritime Group Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-12/hormuz-route-open-despite-iran-declaration-maritime-group-says",
-    "summary": "The Strait of Hormuz\u2019s southern route remained open to shipping on Sunday despite Iran declaring the waterway closed as tit-for-tat attacks between the US and Tehran escalated, a maritime advisory group said.",
+    "title": "How Founder Control Is Reshaping Public Markets",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-12/how-founder-control-is-reshaping-public-markets-video",
+    "summary": "SpaceX\u2019s record-setting IPO gave public investors access to one of the world\u2019s most valuable companies, but not equal voting rights. CEO Elon Musk holds just over 40% of the company\u2019s equity while controlling more than 80% of the vote. IPO adviser Lise Buyer says dual-class shares can protect founde",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-12T11:02:35.035952+00:00"
+    "fetched_at": "2026-07-12T12:50:03.727828+00:00"
   },
   {
     "title": "U.S. Representatives Urge Senate to Vote on CLARITY Act in July, Address Ethics Concerns",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-12T11:02:34.564008+00:00"
+    "fetched_at": "2026-07-12T12:50:02.968123+00:00"
   },
   {
     "title": "Circle (CRCL) Wins Final OCC Approval for National Trust Bank",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-12T11:02:34.564071+00:00"
+    "fetched_at": "2026-07-12T12:50:02.968186+00:00"
   },
   {
     "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-12T11:02:34.675815+00:00"
+    "fetched_at": "2026-07-12T12:50:03.075139+00:00"
   },
   {
     "title": "Nano Banana 2 Lite vs. Nano Banana 2: When to Save Your Money and When to Upgrade",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-12T11:02:34.675875+00:00"
+    "fetched_at": "2026-07-12T12:50:03.075203+00:00"
   },
   {
     "title": "Hedera lending protocol Bonzo Lend hit for $9 million after Supra verifier accepts manipulated price update",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-12T11:02:34.754927+00:00"
+    "fetched_at": "2026-07-12T12:50:03.178551+00:00"
   },
   {
     "title": "Bitcoin, ether ETFs snap eight-week outflow streaks with $282 million combined inflow",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-12T11:02:34.754996+00:00"
+    "fetched_at": "2026-07-12T12:50:03.178632+00:00"
   },
   {
     "title": "US launches fresh strikes after Tehran declares Strait of Hormuz closed",
@@ -96,15 +96,15 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-12T11:02:35.600574+00:00"
+    "fetched_at": "2026-07-12T12:50:04.338653+00:00"
   },
   {
-    "title": "The EU has ways out of its budget trap",
-    "url": "https://www.ft.com/content/127fd859-5e3d-4786-a4e2-318295976764",
-    "summary": "Side agreements and special purpose funds could bypass the usual trench warfare",
+    "title": "The great reinvention of Hunter Biden",
+    "url": "https://www.ft.com/content/8e22b012-9f0f-45a5-b87f-a838e325ddc2",
+    "summary": "You have to hand it to him \u2014 the man knows how to troll with the best of them",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-12T11:02:35.600629+00:00"
+    "fetched_at": "2026-07-12T12:50:04.338707+00:00"
   }
 ]
