@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-12T09:41:10.618663+00:00"
+    "fetched_at": "2026-07-12T11:02:34.237318+00:00"
   },
   {
     "title": "Here\u2019s what happened in crypto today",
@@ -15,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-12T09:41:10.618742+00:00"
+    "fetched_at": "2026-07-12T11:02:34.237418+00:00"
   },
   {
-    "title": "Typhoon Bavi Weakens as Heavy Rain Spreads Across China",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-12/typhoon-bavi-weakens-as-heavy-rain-spreads-across-china",
-    "summary": "China\u2019s National Meteorological Center said Typhoon Bavi weakened to a severe tropical storm on Sunday morning after making landfall in Zhejiang.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-12T09:41:11.394414+00:00"
-  },
-  {
-    "title": "US, Iran Trade Wave of Attacks as Tehran Says Hormuz Closed",
+    "title": "US-Iran Strikes Ratchet Up Tensions as Tehran Says Hormuz Shut",
     "url": "https://www.bloomberg.com/news/articles/2026-07-12/us-iran-trade-wave-of-attacks-as-tehran-says-hormuz-closed",
-    "summary": "US forces struck Iran for a third time in a week, prompting retaliatory attacks from Tehran as it declared the Strait of Hormuz would be closed \u201cuntil further notice.\u201d",
+    "summary": "US forces struck Iran for a third time in a week, prompting retaliatory attacks on at least five Arab nations as Tehran declared the Strait of Hormuz closed \u201cuntil further notice.\u201d",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-12T09:41:11.394478+00:00"
+    "fetched_at": "2026-07-12T11:02:35.035893+00:00"
+  },
+  {
+    "title": "Hormuz Route Open Despite Iran Declaration, Maritime Group Says",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-12/hormuz-route-open-despite-iran-declaration-maritime-group-says",
+    "summary": "The Strait of Hormuz\u2019s southern route remained open to shipping on Sunday despite Iran declaring the waterway closed as tit-for-tat attacks between the US and Tehran escalated, a maritime advisory group said.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-07-12T11:02:35.035952+00:00"
   },
   {
     "title": "U.S. Representatives Urge Senate to Vote on CLARITY Act in July, Address Ethics Concerns",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-12T09:41:10.833845+00:00"
+    "fetched_at": "2026-07-12T11:02:34.564008+00:00"
   },
   {
     "title": "Circle (CRCL) Wins Final OCC Approval for National Trust Bank",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-12T09:41:10.833910+00:00"
+    "fetched_at": "2026-07-12T11:02:34.564071+00:00"
   },
   {
     "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-12T09:41:10.918926+00:00"
+    "fetched_at": "2026-07-12T11:02:34.675815+00:00"
   },
   {
     "title": "Nano Banana 2 Lite vs. Nano Banana 2: When to Save Your Money and When to Upgrade",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-12T09:41:10.918993+00:00"
+    "fetched_at": "2026-07-12T11:02:34.675875+00:00"
   },
   {
     "title": "Hedera lending protocol Bonzo Lend hit for $9 million after Supra verifier accepts manipulated price update",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-12T09:41:10.995949+00:00"
+    "fetched_at": "2026-07-12T11:02:34.754927+00:00"
   },
   {
     "title": "Bitcoin, ether ETFs snap eight-week outflow streaks with $282 million combined inflow",
@@ -87,16 +87,16 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-12T09:41:10.996029+00:00"
+    "fetched_at": "2026-07-12T11:02:34.754996+00:00"
   },
   {
     "title": "US launches fresh strikes after Tehran declares Strait of Hormuz closed",
     "url": "https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d",
-    "summary": "Iran hits commercial ship transiting the waterway and targets in Kuwait, Bahrain and Qatar",
+    "summary": "Iran retaliates against targets in Jordan, Oman, Kuwait, Bahrain and Qatar",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-12T09:41:12.307962+00:00"
+    "fetched_at": "2026-07-12T11:02:35.600574+00:00"
   },
   {
     "title": "The EU has ways out of its budget trap",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-12T09:41:12.308027+00:00"
+    "fetched_at": "2026-07-12T11:02:35.600629+00:00"
   }
 ]
