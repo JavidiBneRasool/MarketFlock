@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-12T20:45:55.923383+00:00"
+    "fetched_at": "2026-07-12T21:38:00.023231+00:00"
   },
   {
     "title": "Pakistan crypto chief seeks dialogue after scholar rules against crypto payments",
@@ -15,7 +15,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-12T20:45:55.923457+00:00"
+    "fetched_at": "2026-07-12T21:38:00.023294+00:00"
   },
   {
     "title": "Traders Grapple With World That\u2019s Good for Dollar, Bad for Bonds",
@@ -24,7 +24,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-12T20:45:56.503969+00:00"
+    "fetched_at": "2026-07-12T21:38:01.026802+00:00"
   },
   {
     "title": "NZ Aims to Sign LNG Import Plant Deal Before November Election",
@@ -33,7 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-12T20:45:56.504104+00:00"
+    "fetched_at": "2026-07-12T21:38:01.026850+00:00"
   },
   {
     "title": "U.S. Representatives Urge Senate to Vote on CLARITY Act in July, Address Ethics Concerns",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-12T20:45:56.079015+00:00"
+    "fetched_at": "2026-07-12T21:38:00.343738+00:00"
   },
   {
     "title": "Circle (CRCL) Wins Final OCC Approval for National Trust Bank",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-12T20:45:56.079096+00:00"
+    "fetched_at": "2026-07-12T21:38:00.343787+00:00"
   },
   {
     "title": "How to Make Product Ads With AI for TikTok and YouTube\u2014For (Almost) Free",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-12T20:45:56.166743+00:00"
+    "fetched_at": "2026-07-12T21:38:00.447773+00:00"
   },
   {
     "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-12T20:45:56.166802+00:00"
+    "fetched_at": "2026-07-12T21:38:00.447819+00:00"
+  },
+  {
+    "title": "Crypto fatwa sparks debate over Pakistan\u2019s digital asset framework",
+    "url": "https://www.theblock.co/post/407969/crypto-fatwa-sparks-debate-over-pakistans-digital-asset-framework",
+    "summary": "Pakistan\u2019s crypto regulator held talks with prominent Islamic scholar Mufti Taqi Usmani after a fatwa declared crypto purchases impermissible under Islam.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-12T21:38:00.569964+00:00"
   },
   {
     "title": "Michael Saylor posts cryptic Strategy chart after $216 million bitcoin sale: \u2018Orange dots tell only part of the story\u2019",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-12T20:45:56.253495+00:00"
-  },
-  {
-    "title": "Hedera lending protocol Bonzo Lend hit for $9 million after Supra verifier accepts manipulated price update",
-    "url": "https://www.theblock.co/post/407960/hedera-lending-protocol-bonzo-lend-hit-for-9-million-after-supra-verifier-accepts-manipulated-price-update",
-    "summary": "A second wallet borrowed another roughly $1 million but identified itself as a white hat hacker and said the funds would be returned.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-12T20:45:56.253572+00:00"
+    "fetched_at": "2026-07-12T21:38:00.570026+00:00"
   },
   {
     "title": "US launches new strikes on Iran in battle over Strait of Hormuz",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-12T20:45:57.173343+00:00"
+    "fetched_at": "2026-07-12T21:38:01.848345+00:00"
   },
   {
     "title": "Iran bets Trump will blink first",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-12T20:45:57.173395+00:00"
+    "fetched_at": "2026-07-12T21:38:01.848385+00:00"
   }
 ]
