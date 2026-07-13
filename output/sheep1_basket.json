@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-13T22:42:28.548330+00:00"
+    "fetched_at": "2026-07-13T23:40:51.659207+00:00"
   },
   {
     "title": "Here\u2019s what happened in crypto today",
@@ -15,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-13T22:42:28.548406+00:00"
+    "fetched_at": "2026-07-13T23:40:51.659283+00:00"
   },
   {
-    "title": "Oil Holds Gains After Trump Reinstates Blockade on Iranian Ships",
+    "title": "Seidler Equity Is Looking to Sell Stake in 139-Year-Old Baseball Gear Maker Rawlings",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-13/seidler-is-looking-to-sell-stake-in-139-year-old-baseball-gear-maker-rawlings",
+    "summary": "The private equity owner of Rawlings Sporting Goods Co., one of the oldest makers of baseball apparel and equipment, is exploring the sale of its stake in the company in an effort to tap booming investor demand for sports-related investments.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-07-13T23:40:52.832482+00:00"
+  },
+  {
+    "title": "Oil Extends Gains as Trump Reinstates Blockade on Iranian Ships",
     "url": "https://www.bloomberg.com/news/articles/2026-07-13/latest-oil-market-news-and-analysis-for-july-14",
-    "summary": "Oil steadied after its biggest advance since April, as US President Donald Trump reimposed a blockade on Iranian ships transiting the Strait of Hormuz and demanded payment for all other cargo moving through the waterway.",
+    "summary": "Oil extended gains after surging more than 9% on Monday, as US President Donald Trump reimposed a blockade on Iranian ships transiting the Strait of Hormuz and demanded payment for all other cargo moving through the vital waterway.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-13T22:42:29.397067+00:00"
-  },
-  {
-    "title": "US Hits Iran With Strikes, Blockade as Trump Plans Hormuz Charge",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-13/trump-says-us-will-be-reimbursed-20-rate-for-hormuz-traffic",
-    "summary": "President Donald Trump reinstated the US blockade of Iranian ships transiting the Strait of Hormuz and demanded a 20% reimbursement on all other cargo shipped through the waterway.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-13T22:42:29.397126+00:00"
+    "fetched_at": "2026-07-13T23:40:52.832543+00:00"
   },
   {
     "title": "Bitwise Sees a Bottom in Bitcoin\u2019s Worst Vibes Yet: \u2018Darkest Before the Dawn\u2019",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-13T22:42:28.895298+00:00"
+    "fetched_at": "2026-07-13T23:40:51.951442+00:00"
   },
   {
     "title": "\u2018Don\u2019t Let China Win\u2019: President Trump Presses Senate on Clarity Act in Final Stretch",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-13T22:42:28.895367+00:00"
+    "fetched_at": "2026-07-13T23:40:51.951514+00:00"
+  },
+  {
+    "title": "Stop Over-Prompting: OpenAI\u2019s New GPT-5.6 Guidelines Change Everything",
+    "url": "https://decrypt.co/373439/openai-new-gpt-5-6-prompt-guide-chatgpt",
+    "summary": "Forget the XML blocks and persistence scripts. OpenAI\u2019s new prompting guide says define the destination, set the stopping conditions, and get out of the way.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-13T23:40:52.080796+00:00"
   },
   {
     "title": "Protesters March on OpenAI, Anthropic, and Google DeepMind Demanding AI Development Pause",
@@ -60,16 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-13T22:42:28.998640+00:00"
-  },
-  {
-    "title": "New Hampshire Follows Bitcoin Reserve With 'Blockchain Basic Laws' Signing",
-    "url": "https://decrypt.co/373424/new-hampshire-bitcoin-reserve-blockchain-basic-laws-signing",
-    "summary": "New Hampshire's newly-signed crypto law introduces protections for users, miners, and stakers within its boundaries.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-13T22:42:28.998697+00:00"
+    "fetched_at": "2026-07-13T23:40:52.080873+00:00"
   },
   {
     "title": "Bitcoin and Ethereum tweet volume falls to 12-month lows despite institutional crypto boom",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-13T22:42:29.095804+00:00"
+    "fetched_at": "2026-07-13T23:40:52.228531+00:00"
   },
   {
     "title": "Hyperliquid\u2019s HIP-3 markets surge to nearly 50% of perp volume as onchain stock trading grows",
@@ -87,16 +87,16 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-13T22:42:29.095874+00:00"
+    "fetched_at": "2026-07-13T23:40:52.228642+00:00"
   },
   {
-    "title": "US launches strikes after Trump warns Washington will hit Iran \u2018hard\u2019",
+    "title": "US launches air strikes as Iran targets tankers with cruise missiles",
     "url": "https://www.ft.com/content/34f93b7e-b1a7-40c3-8e6e-a5cac7dbaa9c",
-    "summary": "Price of Brent crude rises to highest in a month as tensions between Washington and Tehran flare",
+    "summary": "Donald Trump said Washington would hit the Islamic republic \u2018hard\u2019 on Monday and Tuesday nights",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-13T22:42:29.969886+00:00"
+    "fetched_at": "2026-07-13T23:40:53.677410+00:00"
   },
   {
     "title": "Dubai plans new port to bypass Strait of Hormuz",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-13T22:42:29.969941+00:00"
+    "fetched_at": "2026-07-13T23:40:53.677464+00:00"
   }
 ]
