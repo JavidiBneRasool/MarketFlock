@@ -1,21 +1,21 @@
 [
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "title": "Three US senators oppose CLARITY Act on ethics grounds with vote expected soon",
+    "url": "https://cointelegraph.com/news/us-senators-oppose-clarity-act-vote-senate",
+    "summary": "Senate Majority Leader John Thune reportedly said the chamber will consider a vote on the crypto market structure bill before Aug. 10, though it\u2019s unclear whether it has enough Democratic support to pass.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-14T20:03:01.533438+00:00"
+    "fetched_at": "2026-07-14T21:44:49.874173+00:00"
   },
   {
-    "title": "US, UK treasuries to align transatlantic rules on tokenization and stablecoins",
-    "url": "https://cointelegraph.com/news/us-uk-treasuries-rules-tokenized-finance",
-    "summary": "The two governments issued recommendations on the treatment of digital assets as the US prepares to implement a 2025 law on payment stablecoins.",
+    "title": "Velocity raises $38M to build stablecoin treasury infrastructure for enterprises",
+    "url": "https://cointelegraph.com/news/velocity-raises-38m-to-build-stablecoin-treasury-infrastructure-for-enterprises",
+    "summary": "Backed by Dragonfly, FirstMark and Coinbase Ventures, the startup is expanding software that helps businesses integrate stablecoins into treasury and payment workflows.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-14T20:03:01.533517+00:00"
+    "fetched_at": "2026-07-14T21:44:49.874250+00:00"
   },
   {
     "title": "China\u2019s Prosecutors Move to Treat Crypto Mixers as Evidence of Money Laundering",
@@ -24,7 +24,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-14T20:03:01.968322+00:00"
+    "fetched_at": "2026-07-14T21:44:50.107426+00:00"
   },
   {
     "title": "The Bitcoin Softfork That Tried to Police \u201cJunk Data\u201d \u2014 And Why It\u2019s Already Failing",
@@ -33,7 +33,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-14T20:03:01.968395+00:00"
+    "fetched_at": "2026-07-14T21:44:50.107516+00:00"
   },
   {
     "title": "DeepMind CEO Says AGI Will Be Bigger Than Electricity or Fire",
@@ -42,7 +42,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-14T20:03:02.124394+00:00"
+    "fetched_at": "2026-07-14T21:44:50.205997+00:00"
   },
   {
     "title": "Bitcoin Ticks Up to $64K Following Largest Inflation Slowdown in Six Years",
@@ -51,7 +51,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-14T20:03:02.124456+00:00"
+    "fetched_at": "2026-07-14T21:44:50.206077+00:00"
+  },
+  {
+    "title": "Ethereum Foundation privacy team spins out as for-profit EthSystems to serve institutions with Lubin, Bitmine backing",
+    "url": "https://www.theblock.co/post/408331/ethereum-foundation-privacy-team-spins-out-as-for-profit-ethsystems-to-serve-institutions-with-lubin-bitmine-backing",
+    "summary": "The startup will build tech and provide consulting to help institutions operate on Ethereum while maintaining confidentiality.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-14T21:44:50.292047+00:00"
   },
   {
     "title": "CFTC orders Kalshi to honor Michigan trades, escalating clash with state regulators",
@@ -60,16 +69,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-14T20:03:02.216394+00:00"
-  },
-  {
-    "title": "US-UK transatlantic taskforce unveils digital asset roadmap promoting stablecoin innovation",
-    "url": "https://www.theblock.co/post/408305/us-uk-transatlantic-taskforce-unveils-digital-asset-roadmap-promoting-stablecoin-innovation",
-    "summary": "The U.S. and UK are deepening cooperation on digital assets, particularly for stablecoins and tokenized assets. ",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-14T20:03:02.216459+00:00"
+    "fetched_at": "2026-07-14T21:44:50.292115+00:00"
   },
   {
     "title": "IBM shares plunge 25% as customers shift spending to AI",
@@ -78,33 +78,33 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-14T20:03:02.908139+00:00"
+    "fetched_at": "2026-07-14T21:44:51.028036+00:00"
   },
   {
-    "title": "Wall Street banks smash records on stock trading boom",
-    "url": "https://www.ft.com/content/137efc01-087f-4b1d-b2a4-e18ea61197f2",
-    "summary": "Earnings at JPMorgan, Goldman Sachs, Citigroup and BofA benefit from AI frenzy and SpaceX IPO",
+    "title": "Google backs major US solar project to offset fossil fuel emissions",
+    "url": "https://www.ft.com/content/e9db6384-b295-4ab2-96bf-55025db9ee1d",
+    "summary": "Deal signals continued demand for renewable energy despite Trump administration\u2019s efforts to end tax credits and stall plans",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-14T20:03:02.908195+00:00"
+    "fetched_at": "2026-07-14T21:44:51.028091+00:00"
   },
   {
-    "title": "\u2018They are relentless\u2019: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
-    "url": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
-    "summary": "\u201cI\u2019ve just been ignoring their attempts.\u201d",
+    "title": "Three powerful forces are draining family wealth \u2014 and your estate plan is completely unprepared",
+    "url": "https://www.marketwatch.com/story/the-great-wealth-transfer-is-real-but-the-irs-or-a-nursing-home-might-get-your-money-first-d0c46676?mod=mw_rss_topstories",
+    "summary": "From Medicaid cuts to an IRA tax trap, here are the real threats to your family\u2019s inheritance and what to do about them.",
     "source": "MarketWatch",
     "category": "Stocks",
     "tier": 9,
-    "fetched_at": "2026-07-14T20:03:03.246974+00:00"
+    "fetched_at": "2026-07-14T21:44:51.238039+00:00"
   },
   {
-    "title": "My husband and I are retired. Our financial adviser, who is in his 30s, called us \u2018you guyses.\u2019 Is that unprofessional?",
-    "url": "https://www.marketwatch.com/story/my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-you-guyses-is-that-unprofessional-ccddaa9f?mod=mw_rss_topstories",
-    "summary": "\u201cI\u2019m wondering whether I should ask to work with someone closer to our generation.\u201d",
+    "title": "What IBM\u2019s profit warning means: Hardware is \u2018eating everyone\u2019s lunch\u2019",
+    "url": "https://www.marketwatch.com/story/what-ibms-profit-warning-means-hardware-is-eating-everyones-lunch-c6878824?mod=mw_rss_topstories",
+    "summary": "The company said the shortfall in its software and infrastructure business was tied to clients spending on memory ahead of price hikes.",
     "source": "MarketWatch",
     "category": "Stocks",
     "tier": 9,
-    "fetched_at": "2026-07-14T20:03:03.247091+00:00"
+    "fetched_at": "2026-07-14T21:44:51.238110+00:00"
   }
 ]
