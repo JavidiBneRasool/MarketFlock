@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-14T22:44:04.689704+00:00",
+    "fetched_at": "2026-07-14T23:40:28.640221+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,7 +18,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-14T22:44:04.689789+00:00",
+    "fetched_at": "2026-07-14T23:40:28.640344+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,7 +30,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-14T22:44:04.926616+00:00",
+    "fetched_at": "2026-07-14T23:40:28.868767+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-14T22:44:04.926696+00:00",
+    "fetched_at": "2026-07-14T23:40:28.868847+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-14T22:44:05.010962+00:00",
+    "fetched_at": "2026-07-14T23:40:28.964371+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-14T22:44:05.011025+00:00",
+    "fetched_at": "2026-07-14T23:40:28.964437+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-14T22:44:05.095745+00:00",
+    "fetched_at": "2026-07-14T23:40:29.041837+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-14T22:44:05.095821+00:00",
+    "fetched_at": "2026-07-14T23:40:29.041911+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,19 +102,31 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-14T22:44:05.824165+00:00",
+    "fetched_at": "2026-07-14T23:40:30.311930+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Google backs major US solar project to offset fossil fuel emissions",
-    "url": "https://www.ft.com/content/e9db6384-b295-4ab2-96bf-55025db9ee1d",
-    "summary": "Deal signals continued demand for renewable energy despite Trump administration\u2019s efforts to end tax credits and stall plans",
+    "title": "Manic markets show no mercy to IBM",
+    "url": "https://www.ft.com/content/cfec51c1-0435-457f-a140-f302ca6a4e0b",
+    "summary": "Failure will apparently not be tolerated",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-14T22:44:05.824225+00:00",
+    "fetched_at": "2026-07-14T23:40:30.311984+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "This overlooked index is a better investment than the S&P 500",
+    "url": "https://www.marketwatch.com/story/this-overlooked-index-is-a-better-investment-than-the-s-p-500-74c7e698?mod=mw_rss_topstories",
+    "summary": "We did the math over a 30-year period, and it\u2019s not even close.",
+    "source": "MarketWatch",
+    "category": "Stocks",
+    "tier": 9,
+    "fetched_at": "2026-07-14T23:40:30.571726+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,19 +138,7 @@
     "source": "MarketWatch",
     "category": "Stocks",
     "tier": 9,
-    "fetched_at": "2026-07-14T22:44:06.013135+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Your monthly Netflix bill is up 29% in just over a year. Critics say Washington needs to fix it.",
-    "url": "https://www.marketwatch.com/story/your-monthly-netflix-bill-is-up-29-in-just-over-a-year-critics-say-washington-needs-to-fix-it-bcab6e5b?mod=mw_rss_topstories",
-    "summary": "Netflix is still a Wall Street favorite \u2014 and a target for government regulators",
-    "source": "MarketWatch",
-    "category": "Stocks",
-    "tier": 9,
-    "fetched_at": "2026-07-14T22:44:06.013221+00:00",
+    "fetched_at": "2026-07-14T23:40:30.571811+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
