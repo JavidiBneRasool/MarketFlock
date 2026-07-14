@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-13T23:40:51.659207+00:00"
+    "fetched_at": "2026-07-14T01:15:12.337544+00:00"
   },
   {
     "title": "Here\u2019s what happened in crypto today",
@@ -15,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-13T23:40:51.659283+00:00"
+    "fetched_at": "2026-07-14T01:15:12.337638+00:00"
   },
   {
-    "title": "Seidler Equity Is Looking to Sell Stake in 139-Year-Old Baseball Gear Maker Rawlings",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-13/seidler-is-looking-to-sell-stake-in-139-year-old-baseball-gear-maker-rawlings",
-    "summary": "The private equity owner of Rawlings Sporting Goods Co., one of the oldest makers of baseball apparel and equipment, is exploring the sale of its stake in the company in an effort to tap booming investor demand for sports-related investments.",
+    "title": "SK Hynix Shares Waver in Seoul After Wall Street AI Memory Rout",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-14/sk-hynix-shares-waver-in-seoul-after-wall-street-ai-memory-rout",
+    "summary": "SK Hynix Inc. shares fluctuated in Seoul, reflecting the AI memory selloff on Wall Street prompting some buying into weakness.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-13T23:40:52.832482+00:00"
+    "fetched_at": "2026-07-14T01:15:13.688534+00:00"
   },
   {
-    "title": "Oil Extends Gains as Trump Reinstates Blockade on Iranian Ships",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-13/latest-oil-market-news-and-analysis-for-july-14",
-    "summary": "Oil extended gains after surging more than 9% on Monday, as US President Donald Trump reimposed a blockade on Iranian ships transiting the Strait of Hormuz and demanded payment for all other cargo moving through the vital waterway.",
+    "title": "US Hits Iran With Strikes, Blockade as Trump Plans Hormuz Charge",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-13/trump-says-us-will-be-reimbursed-20-rate-for-hormuz-traffic",
+    "summary": "President Donald Trump reinstated the US blockade of Iranian ships transiting the Strait of Hormuz and demanded a 20% reimbursement for all other cargo shipped through the waterway.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-13T23:40:52.832543+00:00"
+    "fetched_at": "2026-07-14T01:15:13.688609+00:00"
   },
   {
     "title": "Bitwise Sees a Bottom in Bitcoin\u2019s Worst Vibes Yet: \u2018Darkest Before the Dawn\u2019",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-13T23:40:51.951442+00:00"
+    "fetched_at": "2026-07-14T01:15:12.964117+00:00"
   },
   {
     "title": "\u2018Don\u2019t Let China Win\u2019: President Trump Presses Senate on Clarity Act in Final Stretch",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-13T23:40:51.951514+00:00"
+    "fetched_at": "2026-07-14T01:15:12.964188+00:00"
   },
   {
     "title": "Stop Over-Prompting: OpenAI\u2019s New GPT-5.6 Guidelines Change Everything",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-13T23:40:52.080796+00:00"
+    "fetched_at": "2026-07-14T01:15:13.100294+00:00"
   },
   {
     "title": "Protesters March on OpenAI, Anthropic, and Google DeepMind Demanding AI Development Pause",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-13T23:40:52.080873+00:00"
+    "fetched_at": "2026-07-14T01:15:13.100359+00:00"
   },
   {
     "title": "Bitcoin and Ethereum tweet volume falls to 12-month lows despite institutional crypto boom",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-13T23:40:52.228531+00:00"
+    "fetched_at": "2026-07-14T01:15:13.267446+00:00"
   },
   {
     "title": "Hyperliquid\u2019s HIP-3 markets surge to nearly 50% of perp volume as onchain stock trading grows",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-13T23:40:52.228642+00:00"
+    "fetched_at": "2026-07-14T01:15:13.267520+00:00"
   },
   {
     "title": "US launches air strikes as Iran targets tankers with cruise missiles",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-13T23:40:53.677410+00:00"
+    "fetched_at": "2026-07-14T01:15:14.649042+00:00"
   },
   {
     "title": "Dubai plans new port to bypass Strait of Hormuz",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-13T23:40:53.677464+00:00"
+    "fetched_at": "2026-07-14T01:15:14.649098+00:00"
   }
 ]
