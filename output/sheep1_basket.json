@@ -1,21 +1,30 @@
 [
   {
-    "title": "UK government defers capital gains on certain crypto with \u2018no gain, no loss\u2019 approach",
-    "url": "https://cointelegraph.com/news/uk-government-capital-gains-lending-liquidity-no-gain-no-loss",
-    "summary": "The change in tax policy, expected to impact about 700,000 people in the UK, was related to the disposal of crypto in lending and liquidity pools.",
+    "title": "Here\u2019s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-14T18:03:32.058854+00:00"
+    "fetched_at": "2026-07-14T20:03:01.533438+00:00"
   },
   {
-    "title": "JCB signs Circle MOU to test stablecoin payments in Japan",
-    "url": "https://cointelegraph.com/news/japans-jcb-signs-mou-with-circle-to-explore-usdc-payments-and-cross-border-settlements",
-    "summary": "The companies will explore using USDC for JCB\u2019s cross-border treasury operations and merchant payments in Japan as regulated stablecoin adoption gains momentum. ",
+    "title": "US, UK treasuries to align transatlantic rules on tokenization and stablecoins",
+    "url": "https://cointelegraph.com/news/us-uk-treasuries-rules-tokenized-finance",
+    "summary": "The two governments issued recommendations on the treatment of digital assets as the US prepares to implement a 2025 law on payment stablecoins.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-14T18:03:32.058914+00:00"
+    "fetched_at": "2026-07-14T20:03:01.533517+00:00"
+  },
+  {
+    "title": "China\u2019s Prosecutors Move to Treat Crypto Mixers as Evidence of Money Laundering",
+    "url": "https://bitcoinmagazine.com/news/chinas-prosecutors-treat-crypto-mixers",
+    "summary": "Bitcoin Magazine\n\nChina&#8217;s Prosecutors Move to Treat Crypto Mixers as Evidence of Money Laundering\nChina's Supreme People's Procuratorate published proposals that would make it easier to prosecute crypto-related money laundering, including treating the use of mixers and privacy coins as presump",
+    "source": "Bitcoin Magazine",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-14T20:03:01.968322+00:00"
   },
   {
     "title": "The Bitcoin Softfork That Tried to Police \u201cJunk Data\u201d \u2014 And Why It\u2019s Already Failing",
@@ -24,16 +33,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-14T18:03:32.377426+00:00"
+    "fetched_at": "2026-07-14T20:03:01.968395+00:00"
   },
   {
-    "title": "CleanSpark Signs $6.6 Billion Data Center Lease as Bitcoin Miner Pivots to Compute",
-    "url": "https://bitcoinmagazine.com/news/cleanspark-signs-6-billion-center-lease",
-    "summary": "Bitcoin Magazine\n\nCleanSpark Signs $6.6 Billion Data Center Lease as Bitcoin Miner Pivots to Compute\nCleanSpark, the Nasdaq-listed bitcoin miner, said on July 14 that it has signed a 20-year infrastructure lease with an unnamed high-investment-grade global technology company at its campus in Sanders",
-    "source": "Bitcoin Magazine",
+    "title": "DeepMind CEO Says AGI Will Be Bigger Than Electricity or Fire",
+    "url": "https://decrypt.co/373511/deepmind-ceo-agi-bigger-than-electricity-fire",
+    "summary": "Demis Hassabis says artificial general intelligence is only a few years away and proposes a new U.S. standards body to test frontier AI models before release.",
+    "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-14T18:03:32.377481+00:00"
+    "fetched_at": "2026-07-14T20:03:02.124394+00:00"
   },
   {
     "title": "Bitcoin Ticks Up to $64K Following Largest Inflation Slowdown in Six Years",
@@ -42,16 +51,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-14T18:03:32.523638+00:00"
+    "fetched_at": "2026-07-14T20:03:02.124456+00:00"
   },
   {
-    "title": "UK to Defer Capital Gains Tax on DeFi Lending, Liquidity Pool Deposits",
-    "url": "https://decrypt.co/373481/uk-to-defer-capital-gains-tax-on-defi-lending-liquidity-pool-deposits",
-    "summary": "Moving crypto into a lending protocol or liquidity pool won\u2019t count as a taxable disposal, deferring the charge until a real cash-out.",
-    "source": "Decrypt",
+    "title": "CFTC orders Kalshi to honor Michigan trades, escalating clash with state regulators",
+    "url": "https://www.theblock.co/post/408323/cftc-orders-kalshi-honor-michigan-trades-escalating-clash-state-regulators",
+    "summary": "Jurisdiction over prediction market platforms is an ongoing dispute between the CFTC and multiple state regulators.",
+    "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-14T18:03:32.523692+00:00"
+    "fetched_at": "2026-07-14T20:03:02.216394+00:00"
   },
   {
     "title": "US-UK transatlantic taskforce unveils digital asset roadmap promoting stablecoin innovation",
@@ -60,16 +69,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-14T18:03:32.680467+00:00"
-  },
-  {
-    "title": "CoinFund\u2019s David Pakman says crypto hasn\u2019t solved tokenomics",
-    "url": "https://www.theblock.co/post/408285/coinfunds-david-pakman-says-crypto-hasnt-solved-tokenomics",
-    "summary": "During an interview on The Starting Block David Pakman suggested projects could pay contributors in stablecoins.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-14T18:03:32.680516+00:00"
+    "fetched_at": "2026-07-14T20:03:02.216459+00:00"
   },
   {
     "title": "IBM shares plunge 25% as customers shift spending to AI",
@@ -78,7 +78,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-14T18:03:33.815870+00:00"
+    "fetched_at": "2026-07-14T20:03:02.908139+00:00"
   },
   {
     "title": "Wall Street banks smash records on stock trading boom",
@@ -87,24 +87,24 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-14T18:03:33.815912+00:00"
+    "fetched_at": "2026-07-14T20:03:02.908195+00:00"
   },
   {
-    "title": "Paychecks are rising faster than prices for a change \u2014 but when will consumers feel the relief?",
-    "url": "https://www.marketwatch.com/story/your-paycheck-is-rising-faster-than-prices-for-a-change-but-when-will-you-feel-the-relief-cbbcb8bd?mod=mw_rss_topstories",
-    "summary": "Wage growth in June outpaced inflation, after falling behind during April and May.",
+    "title": "\u2018They are relentless\u2019: A scammer is trying to change the email on my empty Robinhood account. What do they have to gain?",
+    "url": "https://www.marketwatch.com/story/they-are-relentless-a-scammer-is-trying-to-change-the-email-on-my-empty-robinhood-account-what-do-they-have-to-gain-26103dac?mod=mw_rss_topstories",
+    "summary": "\u201cI\u2019ve just been ignoring their attempts.\u201d",
     "source": "MarketWatch",
     "category": "Stocks",
     "tier": 9,
-    "fetched_at": "2026-07-14T18:03:34.065115+00:00"
+    "fetched_at": "2026-07-14T20:03:03.246974+00:00"
   },
   {
-    "title": "Global oil prices on track to notch back-to-back rise, remain \u2018tethered to the Hormuz narrative\u2019",
-    "url": "https://www.marketwatch.com/story/oil-prices-see-largest-two-day-percentage-gain-in-four-months-on-u-s-iran-fighting-040d7163?mod=mw_rss_topstories",
-    "summary": "Global oil prices Tuesday were on track to notch their largest two-day rise since mid-March, buoyed by further escalation in the U.S.-Iran conflict.",
+    "title": "My husband and I are retired. Our financial adviser, who is in his 30s, called us \u2018you guyses.\u2019 Is that unprofessional?",
+    "url": "https://www.marketwatch.com/story/my-husband-and-i-are-retired-our-financial-adviser-who-is-in-his-30s-called-us-you-guyses-is-that-unprofessional-ccddaa9f?mod=mw_rss_topstories",
+    "summary": "\u201cI\u2019m wondering whether I should ask to work with someone closer to our generation.\u201d",
     "source": "MarketWatch",
     "category": "Stocks",
     "tier": 9,
-    "fetched_at": "2026-07-14T18:03:34.065173+00:00"
+    "fetched_at": "2026-07-14T20:03:03.247091+00:00"
   }
 ]
