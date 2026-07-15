@@ -1,21 +1,21 @@
 [
   {
-    "title": "Cathie Wood\u2019s ARK buys another 220K Circle shares despite sell-off",
-    "url": "https://cointelegraph.com/news/cathie-woods-ark-buy-220k-circle-stock-sell-off",
-    "summary": "Cathie Wood\u2019s ARK Invest added $13.9 million worth of Circle shares on Tuesday, extending its July buying spree to 725,517 shares amid a steep stock decline.",
+    "title": "Japan passes crypto overhaul to bring digital assets under financial rules",
+    "url": "https://cointelegraph.com/news/japan-crypto-amendment-digital-assets-financial-rules",
+    "summary": "Japan\u2019s revised Financial Instruments and Exchange Act introduces crypto insider trading rules, tougher penalties and new oversight requirements for crypto businesses.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-15T09:47:07.983289+00:00"
+    "fetched_at": "2026-07-15T11:19:04.126617+00:00"
   },
   {
-    "title": "Stripe, Advent offer $53B to acquire PayPal: Report",
-    "url": "https://cointelegraph.com/news/stripe-advent-53b-acquire-paypal-report",
-    "summary": "Stripe and Advent reportedly offered to buy PayPal for $53 billion, at a 28% premium compared to the company\u2019s Tuesday closing price.",
+    "title": "South Korea to bring digital assets under new state asset management system",
+    "url": "https://cointelegraph.com/news/south-korea-digital-assets-state-asset-management",
+    "summary": "South Korea\u2019s Economy Ministry plans to include digital assets and intellectual property under the country\u2019s new state-asset management framework.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-15T09:47:07.983366+00:00"
+    "fetched_at": "2026-07-15T11:19:04.126690+00:00"
   },
   {
     "title": "China\u2019s Prosecutors Move to Treat Crypto Mixers as Evidence of Money Laundering",
@@ -24,7 +24,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-15T09:47:08.295657+00:00"
+    "fetched_at": "2026-07-15T11:19:04.729440+00:00"
   },
   {
     "title": "The Bitcoin Softfork That Tried to Police \u201cJunk Data\u201d \u2014 And Why It\u2019s Already Failing",
@@ -33,7 +33,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-15T09:47:08.295731+00:00"
+    "fetched_at": "2026-07-15T11:19:04.729521+00:00"
+  },
+  {
+    "title": "Team Behind Ethereum's Institutional Privacy Push Spins Out For-Profit Firm EthSystems",
+    "url": "https://decrypt.co/373523/team-behind-ethereums-institutional-privacy-push-spins-out-for-profit-firm-ethsystems",
+    "summary": "The startup's backers, including Bitmine and Joe Lubin, are betting institutions need a privacy layer before running money on a public chain.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-15T11:19:04.845924+00:00"
   },
   {
     "title": "US, UK Outline Recommendations to Align Stablecoin and Tokenization Rules",
@@ -42,34 +51,25 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-15T09:47:08.429094+00:00"
+    "fetched_at": "2026-07-15T11:19:04.845978+00:00"
   },
   {
-    "title": "DeepMind CEO Says AGI Will Be Bigger Than Electricity or Fire",
-    "url": "https://decrypt.co/373511/deepmind-ceo-agi-bigger-than-electricity-fire",
-    "summary": "Demis Hassabis says artificial general intelligence is only a few years away and proposes a new U.S. standards body to test frontier AI models before release.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-15T09:47:08.429151+00:00"
-  },
-  {
-    "title": "US Treasury freezes over $130 million tied to Iran-linked crypto wallets",
-    "url": "https://www.theblock.co/post/408357/us-treasury-freezes-130-million-iran-linked-wallets",
-    "summary": "Treasury Secretary Scott Bessent says OFAC sanctioned multiple Iran-linked crypto wallets, freezing over $130 million.",
+    "title": "Czech Republic moves to block Polymarket over unlicensed gambling",
+    "url": "https://www.theblock.co/post/408371/czech-republic-moves-to-block-polymarket-over-unlicensed-gambling",
+    "summary": "The Czech Republic moved to block Polymarket, joining other European jurisdictions targeting prediction markets over unlicensed gambling.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-15T09:47:08.545617+00:00"
+    "fetched_at": "2026-07-15T11:19:04.968181+00:00"
   },
   {
-    "title": "South Korea to bring crypto under new state asset management law",
-    "url": "https://www.theblock.co/post/408350/south-korea-crypto-asset-management-law",
-    "summary": "The Ministry of Finance and Economy said it will establish the 'National Asset Basic Act' to update the government's asset management system.",
+    "title": "Japan passes key bill recognizing crypto as financial product, lowering tax rate",
+    "url": "https://www.theblock.co/post/408361/japan-passes-key-bill",
+    "summary": "The amendments establish the basis for separate crypto taxation at a rate of approximately 20%, down from the current maximum 55% rate.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-15T09:47:08.545683+00:00"
+    "fetched_at": "2026-07-15T11:19:04.968242+00:00"
   },
   {
     "title": "China\u2019s economy grows at one of lowest rates in decades",
@@ -78,7 +78,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-15T09:47:09.684716+00:00"
+    "fetched_at": "2026-07-15T11:19:06.279125+00:00"
   },
   {
     "title": "The global minerals arms race",
@@ -87,24 +87,24 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-15T09:47:09.684764+00:00"
+    "fetched_at": "2026-07-15T11:19:06.279183+00:00"
   },
   {
-    "title": "Why the huge premium on SK Hynix\u2019s U.S. listing may prove short-lived.",
-    "url": "https://www.marketwatch.com/story/why-the-huge-premium-on-sk-hynixs-u-s-listing-may-prove-short-lived-582045f2?mod=mw_rss_topstories",
-    "summary": "If the Korean depository allows conversion, then the ADR premium on SK Hynix may contract.",
+    "title": "BlackRock profits jump as assets under management hit a record $15 trillion",
+    "url": "https://www.marketwatch.com/story/blackrock-profits-jump-as-assets-under-management-hit-a-record-15-trillion-8e6fd54b?mod=mw_rss_topstories",
+    "summary": "Shares in the fund manager rise as company says its will boost quarterly buybacks to $550 million",
     "source": "MarketWatch",
     "category": "Stocks",
     "tier": 9,
-    "fetched_at": "2026-07-15T09:47:09.926783+00:00"
+    "fetched_at": "2026-07-15T11:19:06.430534+00:00"
   },
   {
-    "title": "Stripe and Advent reportedly team up to bid for battered PayPal. Michael Burry says the offer isn\u2019t enough.",
-    "url": "https://www.marketwatch.com/story/a-53-billion-lifeline-stripe-and-advent-reportedly-team-up-to-bid-for-battered-paypal-3bc6fcc2?mod=mw_rss_topstories",
-    "summary": "PayPal, the struggling payments processor, rallied in premarket trade on Wednesday on a report that rival Stripe is teaming up with private-equity group Advent International on a bid.",
+    "title": "This Wall Street \u2018theme-o-meter\u2019 has a clear message: The artificial-intelligence bull market is back.",
+    "url": "https://www.marketwatch.com/story/this-wall-street-theme-o-meter-has-a-clear-message-the-artificial-intelligence-bull-market-is-back-50f18755?mod=mw_rss_topstories",
+    "summary": "UBS says its top theme right now is that leadership for artificial-intelligence stocks is returning, and earnings season may prove how investors have been too pessimistic.",
     "source": "MarketWatch",
     "category": "Stocks",
     "tier": 9,
-    "fetched_at": "2026-07-15T09:47:09.926858+00:00"
+    "fetched_at": "2026-07-15T11:19:06.430606+00:00"
   }
 ]
