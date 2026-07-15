@@ -1,21 +1,30 @@
 [
   {
-    "title": "Bitcoin hits $65.5K as more surprise US inflation data sparks three-week BTC price high",
-    "url": "https://cointelegraph.com/markets/bitcoin-hits-655k-as-more-surprise-us-inflation-data-sparks-three-week-btc-price-high",
-    "summary": "Bitcoin moved up to its highest levels since June 22 as US PPI inflation numbers provided the week\u2019s second surprise macro data drop.",
+    "title": "Aave launches V4 on Avalanche, laying groundwork for tokenized credit markets",
+    "url": "https://cointelegraph.com/news/aave-brings-v4-to-avalanche-laying-groundwork-for-tokenized-asset-lending",
+    "summary": "The deployment marks Aave V4\u2019s first expansion beyond Ethereum and introduces lending infrastructure designed to support future markets for tokenized real-world assets.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-15T15:16:01.084963+00:00"
+    "fetched_at": "2026-07-15T17:02:21.424311+00:00"
   },
   {
-    "title": "Is Robinhood Chain\u2019s success bullish or bearish for ETH the asset?",
-    "url": "https://cointelegraph.com/features/has-robinhoods-layer-2-given-eth-a-new-bull-case",
-    "summary": "Surging volumes on Robinhood Chain could be very good for Ethereum, but only if the \u201cETH is money\u201d crowd turn out to be right. ",
+    "title": "Securitize, Cantor target tokenized IPOs for public markets",
+    "url": "https://cointelegraph.com/news/securitize-cantor-target-tokenized-ipos-for-public-markets",
+    "summary": "Securitize and Cantor Fitzgerald are developing infrastructure for tokenized IPOs and secondary equity offerings within the existing US securities framework.\n",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-15T15:16:01.085021+00:00"
+    "fetched_at": "2026-07-15T17:02:21.424379+00:00"
+  },
+  {
+    "title": "Bitcoin Price Jumps Over $65,500 on Soft Inflation Data",
+    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-jumps-over-65500",
+    "summary": "Bitcoin Magazine\n\nBitcoin Price Jumps Over $65,500 on Soft Inflation Data\u00a0\nBitcoin price jumped over $65,000 per coin after US inflation data was cooler than expected. \nThis post Bitcoin Price Jumps Over $65,500 on Soft Inflation Data\u00a0 first appeared on Bitcoin Magazine and is written by Mathew Di S",
+    "source": "Bitcoin Magazine",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-15T17:02:21.687005+00:00"
   },
   {
     "title": "VerifiedX and BitGo Sign MOU to Deliver Qualified Custody for vBTC, Expanding Institutional Access to Native Bitcoin Utility, and with Immediate Support for Non-Synthetic Canonical on Base",
@@ -24,52 +33,43 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-15T15:16:01.297770+00:00"
+    "fetched_at": "2026-07-15T17:02:21.687084+00:00"
   },
   {
-    "title": "Japan\u2019s Landmark Vote Reclassifies Bitcoin And Crypto As Financial Assets",
-    "url": "https://bitcoinmagazine.com/news/japan-reclassifies-bitcoin-and-crypto",
-    "summary": "Bitcoin Magazine\n\nJapan&#8217;s Landmark Vote Reclassifies Bitcoin And Crypto As Financial Assets\nJapan's parliament approved legislation reclassifying bitcoin and other cryptocurrencies as financial assets, marking a major regulatory shift that aligns digital assets more closely with traditional fi",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-15T15:16:01.297826+00:00"
-  },
-  {
-    "title": "Morning Minute: Crypto Rips on Cool CPI",
-    "url": "https://decrypt.co/373535/morning-minute-crypto-rips-on-cool-cpi",
-    "summary": "Circle has a rough day. Pump.fun pumps on first major unlock. And Robinhood Chain sees its first big rotation.",
+    "title": "US Treasury Freezes $131 Million in Iran-Linked Crypto Wallets",
+    "url": "https://decrypt.co/373565/us-treasury-freezes-131-million-iran-crypto",
+    "summary": "OFAC sanctioned addresses tied to Iran's central bank and armed forces, with Tether locking four Tron wallets as Washington's financial campaign against Tehran accelerates.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-15T15:16:01.367458+00:00"
+    "fetched_at": "2026-07-15T17:02:21.828402+00:00"
   },
   {
-    "title": "UK Fraud Review Calls for Judge Training on Crypto Laundering, AI Scams",
-    "url": "https://decrypt.co/373528/uk-fraud-review-calls-for-judge-training-on-crypto-laundering-ai-scams",
-    "summary": "A government-backed review says magistrates and judges aren't ready for a coming surge in crypto money laundering and AI-enabled fraud cases.",
+    "title": "Bitcoin Breaks Heavy Resistance\u2014But Death Cross Looms: Analysis",
+    "url": "https://decrypt.co/373545/bitcoin-price-heavy-resistance-death-cross-looms",
+    "summary": "BTC cleared a key resistance level Tuesday, giving bulls hope. Prediction market traders aren't convinced.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-15T15:16:01.367501+00:00"
+    "fetched_at": "2026-07-15T17:02:21.828453+00:00"
   },
   {
-    "title": "Stani Kulechov on Aave V4, Avalanche, and why RWAs will hit $100 billion this year",
-    "url": "https://www.theblock.co/post/408366/stani-kulechov-on-aave-v4-avalanche-and-why-rwas-will-hit-100-billion-this-year",
-    "summary": "Aave Labs founder Stani Kulechov on V4's Avalanche debut, disrupting prime brokers, and why RWAs will double to $100 billion by December. ",
+    "title": "BlackRock outlines vision for crypto-TradFi convergence as product pipeline grows",
+    "url": "https://www.theblock.co/post/408436/blackrock-outlines-vision-crypto-tradfi-convergence-product-pipeline-grows",
+    "summary": "The firm seeks to offer tokenized long-term investments like \"Treasury funds, iShares ETFs, and even private markets.\"",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-15T15:16:01.445273+00:00"
+    "fetched_at": "2026-07-15T17:02:21.964417+00:00"
   },
   {
-    "title": "DTCC begins first tokenized stock and Treasury production trades involving JPMorgan, BlackRock and Goldman",
-    "url": "https://www.theblock.co/post/408419/dtcc-begins-first-tokenized-stock-and-treasury-production-trades-involving-jpmorgan-blackrock-and-goldman-wsj",
-    "summary": "JPMorgan will tokenize part of its Invesco QQQ Trust holdings held at DTCC, while Microsoft, Circle, and SPY shares will also be tokenized.",
+    "title": "Crypto clearinghouse Glacis Labs raises $6.8 million seed to expand ZeroDelta platform",
+    "url": "https://www.theblock.co/post/408490/crypto-clearinghouse-glacis-labs-zerodelta-funding",
+    "summary": "Glacis aims to expand ZeroDelta, its multichain clearing platform for stablecoins, into tokenized securities and foreign exchange over time.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-15T15:16:01.445405+00:00"
+    "fetched_at": "2026-07-15T17:02:21.964469+00:00"
   },
   {
     "title": "Oil traders warn market is close to running on empty as Hormuz shuts again",
@@ -78,7 +78,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-15T15:16:02.647266+00:00"
+    "fetched_at": "2026-07-15T17:02:23.259711+00:00"
   },
   {
     "title": "Trump\u2019s return to war with Iran offers no clear path to victory",
@@ -87,24 +87,24 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-15T15:16:02.647316+00:00"
+    "fetched_at": "2026-07-15T17:02:23.259769+00:00"
   },
   {
-    "title": "BlackRock has best-ever start to a year as investment flows double and profits surge",
-    "url": "https://www.marketwatch.com/story/blackrock-profits-jump-as-assets-under-management-hit-a-record-15-trillion-8e6fd54b?mod=mw_rss_topstories",
-    "summary": "Shares of BlackRock were rallying toward their best day in more than a year on Wednesday, after strong inflows into exchange-traded funds and buoyant markets helped the world\u2019s biggest asset manager beat Wall Street\u2019s earnings expectations for the latest quarter.",
+    "title": "It\u2019s a buyer\u2019s market for bonds",
+    "url": "https://www.marketwatch.com/story/its-a-buyers-market-for-bonds-aeba3adc?mod=mw_rss_topstories",
+    "summary": "Bonds are out of fashion with big investors \u2014 which makes them an interesting investment opportunity for the rest of us.",
     "source": "MarketWatch",
     "category": "Stocks",
     "tier": 9,
-    "fetched_at": "2026-07-15T15:16:02.798891+00:00"
+    "fetched_at": "2026-07-15T17:02:23.533819+00:00"
   },
   {
-    "title": "You are missing the bond deal of the decade \u2014 and it is guaranteed to beat inflation",
-    "url": "https://www.marketwatch.com/story/you-are-missing-the-bond-deal-of-the-decade-and-it-is-guaranteed-to-beat-inflation-0f1d6cf8?mod=mw_rss_topstories",
-    "summary": "TIPS are offering a rare gift \u2014 and it is time to lock in a generous payout.",
+    "title": "America\u2019s oil refiners could more than triple profits as Iran war sparks massive boom",
+    "url": "https://www.marketwatch.com/story/americas-oil-refiners-could-more-than-triple-profits-as-iran-war-sparks-massive-boom-c3ad5d33?mod=mw_rss_topstories",
+    "summary": "U.S. oil refiners are about to report a historic profit surge as the industry takes advantage of supply disruptions.",
     "source": "MarketWatch",
     "category": "Stocks",
     "tier": 9,
-    "fetched_at": "2026-07-15T15:16:02.798948+00:00"
+    "fetched_at": "2026-07-15T17:02:23.533876+00:00"
   }
 ]
