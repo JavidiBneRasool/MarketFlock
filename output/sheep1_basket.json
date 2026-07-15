@@ -1,57 +1,66 @@
 [
   {
-    "title": "Aave launches V4 on Avalanche, laying groundwork for tokenized credit markets",
-    "url": "https://cointelegraph.com/news/aave-brings-v4-to-avalanche-laying-groundwork-for-tokenized-asset-lending",
-    "summary": "The deployment marks Aave V4\u2019s first expansion beyond Ethereum and introduces lending infrastructure designed to support future markets for tokenized real-world assets.",
+    "title": "US Senator blasts AG pick for \u2018dismantling\u2019 crypto unit, Trump\u2019s CZ pardon",
+    "url": "https://cointelegraph.com/news/todd-blanche-hearing-dismantling-justice-crypto-unit-donald-trumps-pardon",
+    "summary": "President Donald Trump\u2019s pick for US Attorney General faced criticism from members of the Senate Judiciary Committee on his approach to crypto enforcement and the pardon of former Binance CEO Changpeng Zhao.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-15T17:02:21.424311+00:00"
+    "fetched_at": "2026-07-15T18:51:41.793886+00:00"
   },
   {
-    "title": "Securitize, Cantor target tokenized IPOs for public markets",
-    "url": "https://cointelegraph.com/news/securitize-cantor-target-tokenized-ipos-for-public-markets",
-    "summary": "Securitize and Cantor Fitzgerald are developing infrastructure for tokenized IPOs and secondary equity offerings within the existing US securities framework.\n",
+    "title": "Ostium pauses trading as security firms report multimillion-dollar oracle exploit",
+    "url": "https://cointelegraph.com/news/ostium-pauses-trading-as-security-firms-report-multimillion-dollar-oracle-exploit",
+    "summary": "Ostium halted trading and advised revoking contract approvals after blockchain security firms reported an apparent oracle-related exploit of its OLP liquidity vault, with estimated losses ranging from $18 million to $22 million.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-15T17:02:21.424379+00:00"
+    "fetched_at": "2026-07-15T18:51:41.793963+00:00"
   },
   {
-    "title": "Bitcoin Price Jumps Over $65,500 on Soft Inflation Data",
-    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-jumps-over-65500",
-    "summary": "Bitcoin Magazine\n\nBitcoin Price Jumps Over $65,500 on Soft Inflation Data\u00a0\nBitcoin price jumped over $65,000 per coin after US inflation data was cooler than expected. \nThis post Bitcoin Price Jumps Over $65,500 on Soft Inflation Data\u00a0 first appeared on Bitcoin Magazine and is written by Mathew Di S",
+    "title": "President Trump To Meet Senators On Clarity Act\u2019s Ethics Fight: Report",
+    "url": "https://bitcoinmagazine.com/news/president-trump-to-meet-senators",
+    "summary": "Bitcoin Magazine\n\nPresident Trump To Meet Senators On Clarity Act&#8217;s Ethics Fight: Report\nPresident Trump will meet senators as negotiations over the CLARITY Act's ethics provisions threaten the bill's chances of passing before the August recess.\nThis post President Trump To Meet Senators On Cl",
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-15T17:02:21.687005+00:00"
+    "fetched_at": "2026-07-15T18:51:42.103982+00:00"
   },
   {
-    "title": "VerifiedX and BitGo Sign MOU to Deliver Qualified Custody for vBTC, Expanding Institutional Access to Native Bitcoin Utility, and with Immediate Support for Non-Synthetic Canonical on Base",
-    "url": "https://bitcoinmagazine.com/press-releases/verifiedx-and-bitgo-sign-mou",
-    "summary": "Bitcoin Magazine\n\nVerifiedX and BitGo Sign MOU to Deliver Qualified Custody for vBTC, Expanding Institutional Access to Native Bitcoin Utility, and with Immediate Support for Non-Synthetic Canonical on Base\nVerifiedX today announced the signing of a Memorandum of Understanding (MOU) with BitGo to pr",
+    "title": "Traders Took $8.2 Million From Polymarket\u2019s Five-Minute Bitcoin Bets, Study Found",
+    "url": "https://bitcoinmagazine.com/news/traders-took-8-2-million-from-polymarkets",
+    "summary": "Bitcoin Magazine\n\nTraders Took $8.2 Million From Polymarket&#8217;s Five-Minute Bitcoin Bets, Study Found\nA new study found that Polymarket's five-minute Bitcoin contract functioned as a wealth transfer mechanism, funneling money from retail traders to a small group of manipulators while distorting ",
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-15T17:02:21.687084+00:00"
+    "fetched_at": "2026-07-15T18:51:42.104054+00:00"
   },
   {
-    "title": "US Treasury Freezes $131 Million in Iran-Linked Crypto Wallets",
-    "url": "https://decrypt.co/373565/us-treasury-freezes-131-million-iran-crypto",
-    "summary": "OFAC sanctioned addresses tied to Iran's central bank and armed forces, with Tether locking four Tron wallets as Washington's financial campaign against Tehran accelerates.",
+    "title": "BlackRock, Goldman, and JP Morgan Will Give Tokenized Stocks a Try",
+    "url": "https://decrypt.co/373571/blackrock-goldman-sachs-jp-morgan-dtcc-tokenized-stocks",
+    "summary": "The Depository Trust &#038; Clearing Corporation is working with nearly 40 financial firms in a pilot to test tokenized stocks and U.S. treasuries.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-15T17:02:21.828402+00:00"
+    "fetched_at": "2026-07-15T18:51:42.227068+00:00"
   },
   {
-    "title": "Bitcoin Breaks Heavy Resistance\u2014But Death Cross Looms: Analysis",
-    "url": "https://decrypt.co/373545/bitcoin-price-heavy-resistance-death-cross-looms",
-    "summary": "BTC cleared a key resistance level Tuesday, giving bulls hope. Prediction market traders aren't convinced.",
+    "title": "Another DeFi Exploit: Perp DEX Ostium Loses $18 Million in Oracle Attack",
+    "url": "https://decrypt.co/373566/defi-exploit-ostium-oracle-hack",
+    "summary": "Hackers manipulated Ostium's price feed by compromising an oracle signer key, allowing them to drain roughly $18 million from the Arbitrum-based perpetuals exchange.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-15T17:02:21.828453+00:00"
+    "fetched_at": "2026-07-15T18:51:42.227126+00:00"
+  },
+  {
+    "title": "Coinbase\u2019s Jesse Pollak hands Base app leadership to Cobie after admitting social bets fell short",
+    "url": "https://www.theblock.co/post/408504/coinbases-jesse-pollak-hands-base-app-leadership-cobie-social-bets-fell-short",
+    "summary": "Coinbase executive Jesse Pollak will focus on Base blockchain's infrastructure, prioritizing trading, stablecoin payments, and AI agents.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-15T18:51:42.340009+00:00"
   },
   {
     "title": "BlackRock outlines vision for crypto-TradFi convergence as product pipeline grows",
@@ -60,16 +69,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-15T17:02:21.964417+00:00"
-  },
-  {
-    "title": "Crypto clearinghouse Glacis Labs raises $6.8 million seed to expand ZeroDelta platform",
-    "url": "https://www.theblock.co/post/408490/crypto-clearinghouse-glacis-labs-zerodelta-funding",
-    "summary": "Glacis aims to expand ZeroDelta, its multichain clearing platform for stablecoins, into tokenized securities and foreign exchange over time.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-15T17:02:21.964469+00:00"
+    "fetched_at": "2026-07-15T18:51:42.340077+00:00"
   },
   {
     "title": "Oil traders warn market is close to running on empty as Hormuz shuts again",
@@ -78,7 +78,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-15T17:02:23.259711+00:00"
+    "fetched_at": "2026-07-15T18:51:44.304775+00:00"
   },
   {
     "title": "Trump\u2019s return to war with Iran offers no clear path to victory",
@@ -87,24 +87,24 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-15T17:02:23.259769+00:00"
+    "fetched_at": "2026-07-15T18:51:44.304863+00:00"
   },
   {
-    "title": "It\u2019s a buyer\u2019s market for bonds",
-    "url": "https://www.marketwatch.com/story/its-a-buyers-market-for-bonds-aeba3adc?mod=mw_rss_topstories",
-    "summary": "Bonds are out of fashion with big investors \u2014 which makes them an interesting investment opportunity for the rest of us.",
+    "title": "AI is killing the cover letter. Here\u2019s when it pays off to send one \u2014 and when to skip it.",
+    "url": "https://www.marketwatch.com/story/ai-is-killing-the-cover-letter-heres-when-it-pays-off-to-send-one-and-when-to-skip-it-e8800ef0?mod=mw_rss_topstories",
+    "summary": "\u201cFor really everyone other than AI providers, the process is broken.\u201d",
     "source": "MarketWatch",
     "category": "Stocks",
     "tier": 9,
-    "fetched_at": "2026-07-15T17:02:23.533819+00:00"
+    "fetched_at": "2026-07-15T18:51:44.565039+00:00"
   },
   {
-    "title": "America\u2019s oil refiners could more than triple profits as Iran war sparks massive boom",
-    "url": "https://www.marketwatch.com/story/americas-oil-refiners-could-more-than-triple-profits-as-iran-war-sparks-massive-boom-c3ad5d33?mod=mw_rss_topstories",
-    "summary": "U.S. oil refiners are about to report a historic profit surge as the industry takes advantage of supply disruptions.",
+    "title": "IBM employees losing $400 million on the company\u2019s stock should be a wake-up call",
+    "url": "https://www.marketwatch.com/story/ibm-workers-pay-a-400-million-price-for-investing-in-company-stock-fb02f5fa?mod=mw_rss_topstories",
+    "summary": "Don\u2019t put all your eggs in one basket",
     "source": "MarketWatch",
     "category": "Stocks",
     "tier": 9,
-    "fetched_at": "2026-07-15T17:02:23.533876+00:00"
+    "fetched_at": "2026-07-15T18:51:44.565113+00:00"
   }
 ]
