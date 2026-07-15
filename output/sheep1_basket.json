@@ -1,21 +1,21 @@
 [
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "title": "Cathie Wood\u2019s ARK buys another 220K Circle shares despite sell-off",
+    "url": "https://cointelegraph.com/news/cathie-woods-ark-buy-220k-circle-stock-sell-off",
+    "summary": "Cathie Wood\u2019s ARK Invest added $13.9 million worth of Circle shares on Tuesday, extending its July buying spree to 725,517 shares amid a steep stock decline.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-15T07:04:39.281049+00:00"
+    "fetched_at": "2026-07-15T09:47:07.983289+00:00"
   },
   {
-    "title": "Kalshi says CFTC, Michigan orders leave it in \u2018impossible position\u2019",
-    "url": "https://cointelegraph.com/news/kalshi-says-cftc-michigan-orders-leave-it-in-impossible-position",
-    "summary": "\u201cWe are disappointed by this decision and believe it is unfair to Kalshi,\u201d the company\u2019s legal counsel said on X. ",
+    "title": "Stripe, Advent offer $53B to acquire PayPal: Report",
+    "url": "https://cointelegraph.com/news/stripe-advent-53b-acquire-paypal-report",
+    "summary": "Stripe and Advent reportedly offered to buy PayPal for $53 billion, at a 28% premium compared to the company\u2019s Tuesday closing price.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-15T07:04:39.281122+00:00"
+    "fetched_at": "2026-07-15T09:47:07.983366+00:00"
   },
   {
     "title": "China\u2019s Prosecutors Move to Treat Crypto Mixers as Evidence of Money Laundering",
@@ -24,7 +24,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-15T07:04:39.491744+00:00"
+    "fetched_at": "2026-07-15T09:47:08.295657+00:00"
   },
   {
     "title": "The Bitcoin Softfork That Tried to Police \u201cJunk Data\u201d \u2014 And Why It\u2019s Already Failing",
@@ -33,7 +33,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-15T07:04:39.491819+00:00"
+    "fetched_at": "2026-07-15T09:47:08.295731+00:00"
+  },
+  {
+    "title": "US, UK Outline Recommendations to Align Stablecoin and Tokenization Rules",
+    "url": "https://decrypt.co/373520/us-uk-outline-recommendations-to-align-stablecoin-and-tokenization-rules",
+    "summary": "The joint recommendations back cross-border stablecoins and tokenized markets, setting a shared direction while avoiding binding rules.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-15T09:47:08.429094+00:00"
   },
   {
     "title": "DeepMind CEO Says AGI Will Be Bigger Than Electricity or Fire",
@@ -42,34 +51,25 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-15T07:04:39.604003+00:00"
+    "fetched_at": "2026-07-15T09:47:08.429151+00:00"
   },
   {
-    "title": "Bitcoin Ticks Up to $64K Following Largest Inflation Slowdown in Six Years",
-    "url": "https://decrypt.co/373488/bitcoin-ticks-up-to-64k-following-largest-inflation-slowdown-in-six-years",
-    "summary": "Consumer prices cooled more than expected in June, yet geopolitical tensions continue to cast a shadow over crypto prices",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-15T07:04:39.604061+00:00"
-  },
-  {
-    "title": "TeraWulf falls 7% after New York orders one-year pause on new data center permits",
-    "url": "https://www.theblock.co/post/408344/new-york-pause-new-data-center-permits-terawulf-falls",
-    "summary": "TeraWulf said that its data centers in New York remain operational and that its ongoing development plans are unaffected.",
+    "title": "US Treasury freezes over $130 million tied to Iran-linked crypto wallets",
+    "url": "https://www.theblock.co/post/408357/us-treasury-freezes-130-million-iran-linked-wallets",
+    "summary": "Treasury Secretary Scott Bessent says OFAC sanctioned multiple Iran-linked crypto wallets, freezing over $130 million.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-15T07:04:39.693854+00:00"
+    "fetched_at": "2026-07-15T09:47:08.545617+00:00"
   },
   {
-    "title": "How Asset Managers Are Investing in Crypto",
-    "url": "https://www.theblock.co/learn/408181/how-asset-managers-are-investing-in-crypto",
-    "summary": "Asset managers invest in crypto mainly through regulated products: spot ETFs, digital asset funds, tokenized funds, qualified custodians, and blockchain company equity. Most invest on behalf of clients rather than for their own accounts. Their aim is to deliver digital asset exposure inside the brok",
+    "title": "South Korea to bring crypto under new state asset management law",
+    "url": "https://www.theblock.co/post/408350/south-korea-crypto-asset-management-law",
+    "summary": "The Ministry of Finance and Economy said it will establish the 'National Asset Basic Act' to update the government's asset management system.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-15T07:04:39.693919+00:00"
+    "fetched_at": "2026-07-15T09:47:08.545683+00:00"
   },
   {
     "title": "China\u2019s economy grows at one of lowest rates in decades",
@@ -78,33 +78,33 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-15T07:04:40.768982+00:00"
+    "fetched_at": "2026-07-15T09:47:09.684716+00:00"
   },
   {
-    "title": "The race to break China\u2019s metals grip",
+    "title": "The global minerals arms race",
     "url": "https://www.ft.com/content/a5018a00-0f96-4b39-b82f-c4ccd5e929f7",
     "summary": "Beijing\u2019s export controls on rare earths and other niche metals are distorting markets and fuelling resource nationalism",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-15T07:04:40.769042+00:00"
+    "fetched_at": "2026-07-15T09:47:09.684764+00:00"
   },
   {
-    "title": "Brace for $4 gas again: How U.S.-Iran tensions are threatening to end the price break at the pump",
-    "url": "https://www.marketwatch.com/story/brace-for-4-gas-again-how-u-s-iran-tensions-are-threatening-to-end-the-price-break-at-the-pump-343a76e1?mod=mw_rss_topstories",
-    "summary": "Americans got some relief at the gas pump in recent weeks, enough to slow down inflation. That might not last long as the U.S. and Iran continue to vie for control of the Strait of Hormuz.",
+    "title": "Why the huge premium on SK Hynix\u2019s U.S. listing may prove short-lived.",
+    "url": "https://www.marketwatch.com/story/why-the-huge-premium-on-sk-hynixs-u-s-listing-may-prove-short-lived-582045f2?mod=mw_rss_topstories",
+    "summary": "If the Korean depository allows conversion, then the ADR premium on SK Hynix may contract.",
     "source": "MarketWatch",
     "category": "Stocks",
     "tier": 9,
-    "fetched_at": "2026-07-15T07:04:41.102043+00:00"
+    "fetched_at": "2026-07-15T09:47:09.926783+00:00"
   },
   {
-    "title": "This overlooked index is a better investment than the S&P 500",
-    "url": "https://www.marketwatch.com/story/this-overlooked-index-is-a-better-investment-than-the-s-p-500-74c7e698?mod=mw_rss_topstories",
-    "summary": "We did the math over a 30-year period, and it\u2019s not even close.",
+    "title": "Stripe and Advent reportedly team up to bid for battered PayPal. Michael Burry says the offer isn\u2019t enough.",
+    "url": "https://www.marketwatch.com/story/a-53-billion-lifeline-stripe-and-advent-reportedly-team-up-to-bid-for-battered-paypal-3bc6fcc2?mod=mw_rss_topstories",
+    "summary": "PayPal, the struggling payments processor, rallied in premarket trade on Wednesday on a report that rival Stripe is teaming up with private-equity group Advent International on a bid.",
     "source": "MarketWatch",
     "category": "Stocks",
     "tier": 9,
-    "fetched_at": "2026-07-15T07:04:41.102107+00:00"
+    "fetched_at": "2026-07-15T09:47:09.926858+00:00"
   }
 ]
