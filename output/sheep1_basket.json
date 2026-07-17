@@ -1,39 +1,48 @@
 [
   {
+    "title": "Bitcoin price sags under $62.5K as Iran strikes add to US stocks pressure",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-sags-under-625k-as-iran-strikes-add-to-us-stocks-pressure",
+    "summary": "Bitcoin saw a key rejection at local highs before reversing lower, moving with stocks for a second day as US-Iran war downside took its toll.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-07-17T16:06:45.796610+00:00"
+  },
+  {
     "title": "HSBC wins Bank of England approval to enter Digital Securities Sandbox",
     "url": "https://cointelegraph.com/news/hsbc-bank-of-england-approval-digital-securities-sandbox",
     "summary": "The Bank of England approved HSBC Orion to go live in its Digital Securities Sandbox, with the first Digital Gilt Instrument transaction expected in the first quarter of 2027.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-17T14:40:04.945925+00:00"
+    "fetched_at": "2026-07-17T16:06:45.796691+00:00"
   },
   {
-    "title": "SBI acquires Singaporean crypto platform Coinhako after MAS approval",
-    "url": "https://cointelegraph.com/news/sbi-receives-mas-approval-to-acquire-singaporean-coinhako",
-    "summary": "SBI Holdings received regulatory approval to acquire a majority stake in Singapore-based crypto exchange Coinhako as it expands into stablecoins, onchain finance and tokenized assets.",
-    "source": "CoinTelegraph",
+    "title": "Sweetgreen Pares 26% Drop as Parasite Tied to Taco Bell Lettuce",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-17/sweetgreen-pares-26-drop-as-parasite-tied-to-taco-bell-lettuce",
+    "summary": "Sweetgreen Inc. shares surged on Friday, halting a four-day skid, after US regulators said a parasite outbreak that\u2019s sickened thousands across several states was traced to shredded iceberg lettuce served at Taco Bell restaurants.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-07-17T16:06:46.777593+00:00"
+  },
+  {
+    "title": "Foundever Strikes Deal With Creditors to Cut Debt Load",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-17/foundever-strikes-deal-with-creditors-to-slash-debt-load",
+    "summary": "Troubled business services giant Foundever Group has reached an agreement with a group of creditors to reduce its multi-billion dollar debt load, with the company\u2019s controlling shareholder injecting fresh funds and installing new management.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-07-17T16:06:46.777652+00:00"
+  },
+  {
+    "title": "Bitcoin Mining Giant Foundry Asks Miners To Vote on BIP-110 Soft Fork",
+    "url": "https://bitcoinmagazine.com/news/foundry-asks-bitcoin-miners-vote-bip-110",
+    "summary": "Bitcoin Magazine\n\nBitcoin Mining Giant Foundry Asks Miners To Vote on BIP-110 Soft Fork\nFoundry Digital said it will allow clients who use its Bitcoin mining pool to vote on BIP-110. \nThis post Bitcoin Mining Giant Foundry Asks Miners To Vote on BIP-110 Soft Fork first appeared on Bitcoin Magazine a",
+    "source": "Bitcoin Magazine",
     "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-07-17T14:40:04.945996+00:00"
-  },
-  {
-    "title": "Chips Stocks Sink Into Bear Market as 105% AI Rally Fizzles",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-17/chips-stocks-tumble-into-bear-market-as-105-ai-rally-fizzles",
-    "summary": "A closely-watched index of semiconductor stocks is set to fall into a bear market, unwinding a chunk of the blistering memory-led rally that saw the gauge more than double in just three months.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-17T14:40:06.135861+00:00"
-  },
-  {
-    "title": "Chip Stocks Poised for Bear Market in AI Unwind: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-16/stock-market-today-dow-s-p-live-updates",
-    "summary": "A selloff in chipmakers gathered pace on Friday, driving the group that has led this year\u2019s stock rally toward a bear market on worries that the artificial-intelligence spending spree is becoming harder to justify.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-17T14:40:06.135916+00:00"
+    "tier": 9,
+    "fetched_at": "2026-07-17T16:06:46.146286+00:00"
   },
   {
     "title": "Bitcoin Price Falls Under $63,000 on U.S.-Iran Strikes and Trump\u2019s China Charge, but Onchain Data Points to Buyers",
@@ -42,16 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-17T14:40:05.204919+00:00"
-  },
-  {
-    "title": "Crypto.com Secures $400M Investment From Citadel Securities at $20B Valuation",
-    "url": "https://bitcoinmagazine.com/news/crypto-com-400m-investment-citadel",
-    "summary": "Bitcoin Magazine\n\nCrypto.com Secures $400M Investment From Citadel Securities at $20B Valuation\nCrypto.com receives $400 million investment from Citadel Securities \nThis post Crypto.com Secures $400M Investment From Citadel Securities at $20B Valuation first appeared on Bitcoin Magazine and is writt",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-17T14:40:05.204988+00:00"
+    "fetched_at": "2026-07-17T16:06:46.146369+00:00"
   },
   {
     "title": "Three Men Jailed for Posing as Police in $5.3M UK Crypto Fraud",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-17T14:40:05.308406+00:00"
+    "fetched_at": "2026-07-17T16:06:46.254763+00:00"
   },
   {
     "title": "Morning Minute: Citadel Securities Invests $400M in Crypto.com",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-17T14:40:05.308458+00:00"
+    "fetched_at": "2026-07-17T16:06:46.254820+00:00"
+  },
+  {
+    "title": "Bitcoin ETFs could mirror gold\u2019s history of \u2018spectacular gains\u2019 and \u2018painful drawdowns,\u2019 analyst says",
+    "url": "https://www.theblock.co/post/408782/bitcoin-etfs-ibit-mirror-golds-history-spectacular-gains-painful-drawdowns-analyst",
+    "summary": "Bloomberg ETF analyst Eric Balchunas compared IBIT\u2019s short time above $100 billion with GLD\u2019s precipitous rise in 2011.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-17T16:06:46.365076+00:00"
   },
   {
     "title": "Galaxy Digital puts its name on Texas Tech football stadium in 15-year partnership",
@@ -78,33 +87,24 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-17T14:40:05.449084+00:00"
+    "fetched_at": "2026-07-17T16:06:46.365151+00:00"
   },
   {
-    "title": "SBI Holdings completes majority acquisition of Singapore crypto platform Coinhako following MAS approval",
-    "url": "https://www.theblock.co/post/408761/sbi-holdings-completes-majority-acquisition-of-singapore-crypto-platform-coinhako-following-mas-approval",
-    "summary": "SBI Holdings acquired Singapore's Coinhako after MAS approval, folding the licensed exchange into its expanding digital asset network.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-17T14:40:05.449152+00:00"
-  },
-  {
-    "title": "Wall Street tech stocks tumble as AI trade goes into reverse",
-    "url": "https://www.ft.com/content/79a15abd-5892-4f1c-b038-b09a1ceecabb?syn-25a6b1a6=1",
-    "summary": "Index of US semiconductor stocks on track for worst week since last year\u2019s \u2018liberation day\u2019 rout",
+    "title": "Apple targets dozens of OpenAI employees with legal letters",
+    "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1",
+    "summary": "iPhone maker steps up aggressive tactics in trade secrets dispute with AI lab",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-17T14:40:07.109391+00:00"
+    "fetched_at": "2026-07-17T16:06:47.361852+00:00"
   },
   {
-    "title": "\u2018A casino for investors\u2019: leverage brings huge swings to world\u2019s best-performing market",
-    "url": "https://www.ft.com/content/26ef9428-9445-4b34-8bdf-51166c7d4b3b?syn-25a6b1a6=1",
-    "summary": "South Korean regulators fear single-stock leveraged ETFs are fuelling volatility",
+    "title": "AI isn\u2019t destroying entry-level jobs. It\u2019s changing them",
+    "url": "https://www.ft.com/content/6cb9570b-dccd-46f5-b42a-4d0b7b5de35a?syn-25a6b1a6=1",
+    "summary": "Here are the ways leading companies are already responding to the AI revolution in professional services",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-17T14:40:07.109462+00:00"
+    "fetched_at": "2026-07-17T16:06:47.361920+00:00"
   }
 ]
