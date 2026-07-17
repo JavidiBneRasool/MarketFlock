@@ -1,21 +1,30 @@
 [
   {
-    "title": "OKX Europe lets users convert USDT to MiCA-compliant USDC",
-    "url": "https://cointelegraph.com/news/okx-europe-lets-users-convert-usdt-to-mica-compliant-usdc",
-    "summary": "The feature offers European customers a voluntary path away from Tether\u2019s USDT as MiCA rules reshape the region\u2019s stablecoin market.",
+    "title": "Consensys unknowingly outsourced developer work to North Korean",
+    "url": "https://cointelegraph.com/news/consensys-north-korean-hacker-software-developer",
+    "summary": "Through an introduction with a \u201creputable third-party service provider,\u201c the company took on a developer who, as part of an investigation, was revealed to be tied to North Korea.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-17T18:50:10.865407+00:00"
+    "fetched_at": "2026-07-17T19:56:50.054133+00:00"
   },
   {
-    "title": "Senator Warren requests 2026 reporting for Trump\u2019s crypto earnings after $1.4B disclosure",
-    "url": "https://cointelegraph.com/news/senator-warren-2026-reporting-donald-trump-crypto-earnings",
-    "summary": "With the Senate likely voting on a crypto bill within days, Elizabeth Warren asked for information on Donald Trump\u2019s earnings between January and July ahead of a 2027 deadline.",
+    "title": "Crypto Biz: When dollars disappear, stablecoins step in",
+    "url": "https://cointelegraph.com/news/crypto-biz-when-dollars-disappear-stablecoins-step-in",
+    "summary": "Bolivia moves to recognize USDT amid a dollar shortage, while Bitcoin miners\u2019 AI ambitions face fresh investor scrutiny.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-17T18:50:10.865483+00:00"
+    "fetched_at": "2026-07-17T19:56:50.054208+00:00"
+  },
+  {
+    "title": "Chip Stocks Fall to Bear-Market Brink in AI Unwind: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-16/stock-market-today-dow-s-p-live-updates",
+    "summary": "A selloff in chipmakers gathered pace, sending the group that has led this year\u2019s stock rally to the edge of a bear market on worries that the artificial-intelligence spending spree is becoming harder to justify.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-07-17T19:56:50.838404+00:00"
   },
   {
     "title": "US Oil Rig Count Notches Longest Streak Without Drop Since 2022",
@@ -24,16 +33,16 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-17T18:50:12.213824+00:00"
+    "fetched_at": "2026-07-17T19:56:50.838460+00:00"
   },
   {
-    "title": "US Stocks Decline as Traders Fear Another \u2018DeepSeek Moment\u2019",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-17/us-stock-index-futures-slide-as-jitters-grow-on-chip-selloff",
-    "summary": "US stocks fell on Friday as semiconductor names dipped following the reveal of an artificial-intelligence model from a Chinese startup.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-17T18:50:12.213881+00:00"
+    "title": "Bitcoin Sentiment Is Turning Bullish \u2014 But It\u2019s Too Early to Celebrate: Report",
+    "url": "https://bitcoinmagazine.com/markets/bitcoin-sentiment-is-bullish-coinshares",
+    "summary": "Bitcoin Magazine\n\nBitcoin Sentiment Is Turning Bullish \u2014 But It&#8217;s Too Early to Celebrate: Report\nCoinShares has said that while investors have put money in crypto funds again, the Bitcoin price may still struggle.\nThis post Bitcoin Sentiment Is Turning Bullish \u2014 But It&#8217;s Too Early to Cel",
+    "source": "Bitcoin Magazine",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-17T19:56:50.283489+00:00"
   },
   {
     "title": "Ocean Mining VP Jason Hughes: BIP-110 on Track to Fail as Miner Signaling Stays Below 1%",
@@ -42,16 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-17T18:50:11.358482+00:00"
+    "fetched_at": "2026-07-17T19:56:50.283559+00:00"
   },
   {
-    "title": "SBI Holdings Takes Majority Stake in Singapore\u2019s Coinhako After MAS Approval",
-    "url": "https://bitcoinmagazine.com/news/sbi-holdings-takes-majority-stake-coinhako",
-    "summary": "Bitcoin Magazine\n\nSBI Holdings Takes Majority Stake in Singapore&#8217;s Coinhako After MAS Approval\nSBI Holdings has acquired a majority stake in Singapore's Coinhako after MAS approval, strengthening its push to build a cross-border digital asset network across Japan and Southeast Asia.\nThis post ",
-    "source": "Bitcoin Magazine",
+    "title": "Cardano Pumps as Network Moves to Further Decentralize Development",
+    "url": "https://decrypt.co/373749/caradno-ada-price-spikes-iohk-decentralizing-development",
+    "summary": "Input Output is handing its core infrastructure to outside teams as ADA gets a lift from an imminent protocol upgrade.",
+    "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-17T18:50:11.358545+00:00"
+    "fetched_at": "2026-07-17T19:56:50.359153+00:00"
   },
   {
     "title": "Kimi K3 Just Triggered DeepSeek Flashbacks for the Stock Market",
@@ -60,16 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-17T18:50:11.472020+00:00"
-  },
-  {
-    "title": "China\u2019s Kimi K3 Is Out\u2014And Beats Claude Fable and GPT 5.6 Sol on Key Benchmarks",
-    "url": "https://decrypt.co/373716/china-kimi-k3-largest-open-source-ai-model-ever-beats-claude-fable-gpt-5-6-sol",
-    "summary": "Moonshot AI's 2.8-trillion-parameter model tops Fable 5 on a creative writing benchmark and leads Arena AI's frontend code leaderboard\u2014at Claude Sonnet pricing.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-17T18:50:11.472079+00:00"
+    "fetched_at": "2026-07-17T19:56:50.359204+00:00"
   },
   {
     "title": "FTX to distribute roughly $900 million to creditors in fifth wave of payouts",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-17T18:50:11.582078+00:00"
+    "fetched_at": "2026-07-17T19:56:50.441259+00:00"
   },
   {
     "title": "Trezor exec pushes back on ZachXBT claim that hardware wallets are \u2018complete garbage\u2019",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-17T18:50:11.582141+00:00"
+    "fetched_at": "2026-07-17T19:56:50.441329+00:00"
   },
   {
     "title": "Trump Media pitched $100,000 monthly fee for fast feed of president\u2019s posts",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-17T18:50:12.938969+00:00"
+    "fetched_at": "2026-07-17T19:56:51.340594+00:00"
   },
   {
     "title": "AI isn\u2019t destroying entry-level jobs. It\u2019s changing them",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-17T18:50:12.939033+00:00"
+    "fetched_at": "2026-07-17T19:56:51.340661+00:00"
   }
 ]
