@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-18T18:43:04.105684+00:00",
+    "fetched_at": "2026-07-18T19:57:43.279726+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,7 +18,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-18T18:43:04.105760+00:00",
+    "fetched_at": "2026-07-18T19:57:43.279809+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,7 +30,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-18T18:43:05.198726+00:00",
+    "fetched_at": "2026-07-18T19:57:44.174231+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -42,7 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-18T18:43:05.198782+00:00",
+    "fetched_at": "2026-07-18T19:57:44.174292+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-18T18:43:04.439638+00:00",
+    "fetched_at": "2026-07-18T19:57:43.546226+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-18T18:43:04.439710+00:00",
+    "fetched_at": "2026-07-18T19:57:43.546304+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-18T18:43:04.519208+00:00",
+    "fetched_at": "2026-07-18T19:57:43.647412+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,19 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-18T18:43:04.519270+00:00",
+    "fetched_at": "2026-07-18T19:57:43.647506+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Bitcoin Japan, which holds no bitcoin, taps EVO Fund in planned $60 million raise to finally buy some",
+    "url": "https://www.theblock.co/post/408838/bitcoin-japan-which-holds-no-bitcoin-taps-evo-fund-in-planned-60-million-raise-to-finally-buy-some",
+    "summary": "A prior December raise instead funded stakes tied to SpaceX and Figure AI, which the company says are its two AI infrastructure investments to date.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-18T19:57:43.721955+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,19 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-18T18:43:04.598809+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Bank of America taps new leaders to bridge crypto, AI and traditional finance",
-    "url": "https://www.theblock.co/post/408830/bank-america-taps-new-leaders-bridge-crypto-ai-traditional-finance",
-    "summary": "Sonali Theisen was named head of BofA's global digital assets platform, while Kevin Milsom was tapped to serve as head of AI transformation",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-18T18:43:04.598875+00:00",
+    "fetched_at": "2026-07-18T19:57:43.722040+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-18T18:43:05.944594+00:00",
+    "fetched_at": "2026-07-18T19:57:45.199156+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-18T18:43:05.944663+00:00",
+    "fetched_at": "2026-07-18T19:57:45.199225+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
