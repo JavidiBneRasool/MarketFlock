@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-18T21:38:44.064671+00:00"
+    "fetched_at": "2026-07-18T22:36:16.842779+00:00"
   },
   {
     "title": "Kaspersky identifies malware framework targeting crypto investors",
@@ -15,7 +15,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-18T21:38:44.064741+00:00"
+    "fetched_at": "2026-07-18T22:36:16.842853+00:00"
   },
   {
     "title": "Vanishing CLO Profits Are Sparking Infighting: Credit Weekly",
@@ -24,7 +24,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-18T21:38:45.627647+00:00"
+    "fetched_at": "2026-07-18T22:36:17.815374+00:00"
   },
   {
     "title": "Kuwait Energy Infrastructure Hit During Intense Iran Attacks",
@@ -33,7 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-18T21:38:45.627701+00:00"
+    "fetched_at": "2026-07-18T22:36:17.815433+00:00"
   },
   {
     "title": "Bitcoin Sentiment Is Turning Bullish \u2014 But It\u2019s Too Early to Celebrate: Report",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-18T21:38:44.416701+00:00"
+    "fetched_at": "2026-07-18T22:36:17.126345+00:00"
   },
   {
     "title": "Ocean Mining VP Jason Hughes: BIP-110 on Track to Fail as Miner Signaling Stays Below 1%",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-18T21:38:44.416773+00:00"
+    "fetched_at": "2026-07-18T22:36:17.126420+00:00"
   },
   {
     "title": "GPT-5.6 vs Fable 5 Review: Which One You Pick Depends on These Factors",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-18T21:38:44.716648+00:00"
+    "fetched_at": "2026-07-18T22:36:17.232981+00:00"
   },
   {
     "title": "ECB Warns Stablecoins May Drain Bank Deposits\u2014Here's What That Means",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-18T21:38:44.716708+00:00"
+    "fetched_at": "2026-07-18T22:36:17.233043+00:00"
+  },
+  {
+    "title": "US regulators miss GENIUS Act\u2019s one-year deadline for final stablecoin rules",
+    "url": "https://www.theblock.co/post/408843/us-regulators-miss-genius-acts-one-year-deadline-for-final-stablecoin-rules",
+    "summary": "The delay does not postpone the law\u2019s Jan. 18, 2027 effective date, leaving regulators and stablecoin issuers with a compressed implementation window.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-18T22:36:17.452351+00:00"
   },
   {
     "title": "Bitcoin Japan, which holds no bitcoin, taps EVO Fund in planned $60 million raise to finally buy some",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-18T21:38:44.898700+00:00"
-  },
-  {
-    "title": "UNI burn poised to grow as Uniswap governance votes on v4 fees and Robinhood Chain expansion",
-    "url": "https://www.theblock.co/post/408836/uni-burn-poised-to-grow-as-uniswap-governance-votes-on-v4-fees-and-robinhood-chain-expansion",
-    "summary": "Both proposals route new fees into the UNI burn system created under December's \"UNIfication\" overhaul, with voting open from July 19 through July 26.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-18T21:38:44.898773+00:00"
+    "fetched_at": "2026-07-18T22:36:17.452424+00:00"
   },
   {
     "title": "Two US servicemen killed in Iranian strikes on Jordan",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-18T21:38:46.415433+00:00"
+    "fetched_at": "2026-07-18T22:36:18.485405+00:00"
   },
   {
     "title": "My journey down the rabbit hole at the Conspiracy World Cup",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-18T21:38:46.415495+00:00"
+    "fetched_at": "2026-07-18T22:36:18.485472+00:00"
   }
 ]
