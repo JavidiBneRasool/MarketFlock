@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-19T04:58:56.303532+00:00"
+    "fetched_at": "2026-07-19T07:25:29.091351+00:00"
   },
   {
     "title": "Kaspersky identifies malware framework targeting crypto investors",
@@ -15,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-19T04:58:56.303604+00:00"
+    "fetched_at": "2026-07-19T07:25:29.091420+00:00"
   },
   {
-    "title": "South Korea to Ease FX Rules for Foreigners to Trade Won Easier",
+    "title": "US, Iran Trade More Attacks After Two Troops Killed in Jordan",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-19/us-iran-trade-more-attacks-after-two-troops-killed-in-jordan",
+    "summary": "The US and Iran engaged in another wave of tit-for-tat attacks, signaling no let-up after strikes by the Islamic Republic killed two American service members in Jordan on Friday.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-07-19T07:25:30.424762+00:00"
+  },
+  {
+    "title": "South Korea Details Plan for Foreigners to Trade Won Easier",
     "url": "https://www.bloomberg.com/news/articles/2026-07-19/south-korea-to-ease-fx-rules-for-foreigners-to-trade-won-easier",
     "summary": "South Korea laid out a detailed plan to make the won freely tradable among foreigners, its boldest step yet to liberalize the forex market and bring the currency closer to full convertibility.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-19T04:58:57.158690+00:00"
-  },
-  {
-    "title": "Venezuela\u2019s Official Earthquake Death Toll Rises to 5,119",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-19/venezuela-s-official-earthquake-death-toll-rises-to-5-119",
-    "summary": "The official death toll from the twin earthquakes that struck Venezuela last month rose to 5,119, according to National Assembly head Jorge Rodr\u00edguez.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-19T04:58:57.158748+00:00"
+    "fetched_at": "2026-07-19T07:25:30.424812+00:00"
   },
   {
     "title": "Bitcoin Sentiment Is Turning Bullish \u2014 But It\u2019s Too Early to Celebrate: Report",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T04:58:56.536034+00:00"
+    "fetched_at": "2026-07-19T07:25:29.364524+00:00"
   },
   {
     "title": "Ocean Mining VP Jason Hughes: BIP-110 on Track to Fail as Miner Signaling Stays Below 1%",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T04:58:56.536106+00:00"
+    "fetched_at": "2026-07-19T07:25:29.364591+00:00"
   },
   {
     "title": "GPT-5.6 vs Fable 5 Review: Which One You Pick Depends on These Factors",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T04:58:56.630202+00:00"
+    "fetched_at": "2026-07-19T07:25:29.482658+00:00"
   },
   {
     "title": "ECB Warns Stablecoins May Drain Bank Deposits\u2014Here's What That Means",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T04:58:56.630261+00:00"
+    "fetched_at": "2026-07-19T07:25:29.482715+00:00"
   },
   {
     "title": "US regulators miss GENIUS Act\u2019s one-year deadline for final stablecoin rules",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T04:58:56.702975+00:00"
+    "fetched_at": "2026-07-19T07:25:29.620893+00:00"
   },
   {
     "title": "Bitcoin Japan, which holds no bitcoin, taps EVO Fund in planned $60 million raise to finally buy some",
@@ -87,16 +87,16 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T04:58:56.703055+00:00"
+    "fetched_at": "2026-07-19T07:25:29.620959+00:00"
   },
   {
-    "title": "US strikes Iran after two American troops are killed in Jordan",
-    "url": "https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1",
-    "summary": "Battle for control of Strait of Hormuz escalates after Tehran launches attack on Gulf states",
+    "title": "Chinese leaders zero in on need for stimulus for economy",
+    "url": "https://www.ft.com/content/9cf9b393-3ac7-4cfc-9dd1-4fc23831e6a0?syn-25a6b1a6=1",
+    "summary": "Policymakers expected to prioritise spurring high-tech rather than \u2018big bang\u2019 for consumption, analysts say",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-19T04:58:57.848398+00:00"
+    "fetched_at": "2026-07-19T07:25:31.224384+00:00"
   },
   {
     "title": "How Maga fell hard for the gender binary",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-19T04:58:57.848457+00:00"
+    "fetched_at": "2026-07-19T07:25:31.224438+00:00"
   }
 ]
