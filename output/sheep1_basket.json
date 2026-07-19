@@ -1,39 +1,39 @@
 [
   {
-    "title": "South Korean regulator begins sanctions process against Dunamu: Report",
-    "url": "https://cointelegraph.com/news/south-korean-regulator-inspection-letter-upbit-36m-hack",
-    "summary": "The proceedings come as South Korea\u2019s Virtual Asset User Protection Act lacks explicit sanctions provisions for hacking and computer system incidents, leaving the scope of penalties uncertain.",
+    "title": "Here\u2019s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-19T12:46:32.340366+00:00"
+    "fetched_at": "2026-07-19T14:18:14.185848+00:00"
   },
   {
-    "title": "Electronic Transactions Association CEO Expecting More Partnerships with Bitcoin Startups",
-    "url": "https://cointelegraph.com/news/electronic-transactions-association-ceo-expecting-more-partnerships-with-bitcoin-startups",
-    "summary": "Electronic Transactions Association (ETA) CEO, Jason Oxman, indicated that members of his organization might start recognizing Bitcoin\u2019s disruptive potential, suggesting that this might lead to more partnerships between traditional electronic payment providers and Bitcoin startups.",
+    "title": "US agencies miss GENIUS Act deadline for final stablecoin rules",
+    "url": "https://cointelegraph.com/news/federal-agencies-miss-genius-act-deadline",
+    "summary": "US regulators failed to finalize implementing regulations by the GENIUS Act\u2019s one-year deadline, issuing 10 proposed rules instead.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-19T12:46:32.340442+00:00"
+    "fetched_at": "2026-07-19T14:18:14.185923+00:00"
   },
   {
-    "title": "US, Iran Launch Fresh Strikes After Two Troops Die in Jordan",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-19/us-iran-trade-more-attacks-after-two-troops-killed-in-jordan",
-    "summary": "The US and Iran engaged in another wave of tit-for-tat attacks, signaling no let-up after strikes by the Islamic Republic killed two American service members in Jordan on Friday.",
+    "title": "Extreme Stock Swings Tempt Funds Into Reverse Dispersion Trade",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-19/extreme-stock-swings-tempt-funds-into-reverse-dispersion-trade",
+    "summary": "Betting that individual stocks will be volatile while the S&amp;P 500 stays relatively calm has been a popular and successful hedge fund strategy. But with the swings in share prices reaching extreme levels, the reverse trade is gaining traction with investors.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-19T12:46:33.238492+00:00"
+    "fetched_at": "2026-07-19T14:18:15.359136+00:00"
   },
   {
-    "title": "Caspian Pipeline Consortium Halts Loadings After Drone Strike",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-19/caspian-pipeline-consortium-halts-loadings-after-drone-strike",
-    "summary": "Oil loading at the Caspian Pipeline Consortium\u2019s terminal on Russia\u2019s Black Sea coast was halted after a drone strike.",
+    "title": "Prediction Markets Swell to 27% of Sports Bets During World Cup",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-19/prediction-markets-swell-to-27-of-sports-bets-during-world-cup",
+    "summary": "Prediction-market trading has surged during a blowout World Cup, far outpacing the growth at traditional sportsbooks and driving home the competitive threat that companies like Kalshi now pose to the sports-gambling industry.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-19T12:46:33.238551+00:00"
+    "fetched_at": "2026-07-19T14:18:15.359195+00:00"
   },
   {
     "title": "Bitcoin Sentiment Is Turning Bullish \u2014 But It\u2019s Too Early to Celebrate: Report",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T12:46:32.605565+00:00"
+    "fetched_at": "2026-07-19T14:18:14.528074+00:00"
   },
   {
     "title": "Ocean Mining VP Jason Hughes: BIP-110 on Track to Fail as Miner Signaling Stays Below 1%",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T12:46:32.605638+00:00"
+    "fetched_at": "2026-07-19T14:18:14.528146+00:00"
   },
   {
     "title": "GPT-5.6 vs Fable 5 Review: Which One You Pick Depends on These Factors",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T12:46:32.693918+00:00"
+    "fetched_at": "2026-07-19T14:18:14.650728+00:00"
   },
   {
     "title": "ECB Warns Stablecoins May Drain Bank Deposits\u2014Here's What That Means",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T12:46:32.694008+00:00"
+    "fetched_at": "2026-07-19T14:18:14.650788+00:00"
   },
   {
     "title": "US regulators miss GENIUS Act\u2019s one-year deadline for final stablecoin rules",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T12:46:32.777633+00:00"
+    "fetched_at": "2026-07-19T14:18:14.818428+00:00"
   },
   {
     "title": "Bitcoin Japan, which holds no bitcoin, taps EVO Fund in planned $60 million raise to finally buy some",
@@ -87,7 +87,16 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T12:46:32.777706+00:00"
+    "fetched_at": "2026-07-19T14:18:14.818503+00:00"
+  },
+  {
+    "title": "EU faces crumbling support for new Russia sanctions",
+    "url": "https://www.ft.com/content/eb0cd740-e45d-4dd7-ab9a-6f6643bb32ee?syn-25a6b1a6=1",
+    "summary": "National capitals refuse to support measures that could hurt major companies",
+    "source": "Financial Times",
+    "category": "Markets",
+    "tier": 9,
+    "fetched_at": "2026-07-19T14:18:16.000571+00:00"
   },
   {
     "title": "How Maga fell hard for the gender binary",
@@ -96,15 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-19T12:46:33.820134+00:00"
-  },
-  {
-    "title": "Heroes, villains and clowns: Simon Kuper\u2019s World Cup awards",
-    "url": "https://www.ft.com/content/8005bed0-afab-4240-91f8-7567212f2b91",
-    "summary": "With Fifa a bit short on credibility, the FT columnist has stepped in to create his own prizes",
-    "source": "Financial Times",
-    "category": "Markets",
-    "tier": 9,
-    "fetched_at": "2026-07-19T12:46:33.820194+00:00"
+    "fetched_at": "2026-07-19T14:18:16.000633+00:00"
   }
 ]
