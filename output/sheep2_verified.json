@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-19T14:18:14.185848+00:00",
+    "fetched_at": "2026-07-19T15:43:50.246850+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,7 +18,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-19T14:18:14.185923+00:00",
+    "fetched_at": "2026-07-19T15:43:50.246922+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,7 +30,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-19T14:18:15.359136+00:00",
+    "fetched_at": "2026-07-19T15:43:51.345463+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -42,7 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-19T14:18:15.359195+00:00",
+    "fetched_at": "2026-07-19T15:43:51.345523+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T14:18:14.528074+00:00",
+    "fetched_at": "2026-07-19T15:43:50.504814+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T14:18:14.528146+00:00",
+    "fetched_at": "2026-07-19T15:43:50.504888+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T14:18:14.650728+00:00",
+    "fetched_at": "2026-07-19T15:43:50.584627+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T14:18:14.650788+00:00",
+    "fetched_at": "2026-07-19T15:43:50.584686+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T14:18:14.818428+00:00",
+    "fetched_at": "2026-07-19T15:43:50.673022+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T14:18:14.818503+00:00",
+    "fetched_at": "2026-07-19T15:43:50.673131+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -122,11 +122,11 @@
   {
     "title": "EU faces crumbling support for new Russia sanctions",
     "url": "https://www.ft.com/content/eb0cd740-e45d-4dd7-ab9a-6f6643bb32ee?syn-25a6b1a6=1",
-    "summary": "National capitals refuse to support measures that could hurt major companies",
+    "summary": "National capitals refuse to support measures that could hurt big companies",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-19T14:18:16.000571+00:00",
+    "fetched_at": "2026-07-19T15:43:52.407098+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-19T14:18:16.000633+00:00",
+    "fetched_at": "2026-07-19T15:43:52.407160+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
