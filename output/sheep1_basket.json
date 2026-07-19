@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-19T21:39:51.403379+00:00"
+    "fetched_at": "2026-07-19T22:39:14.239616+00:00"
   },
   {
     "title": "Saylor turns up heat with \u2018110 reasons\u2019 why BIP-110 is a bad idea",
@@ -15,7 +15,16 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-19T21:39:51.403458+00:00"
+    "fetched_at": "2026-07-19T22:39:14.239695+00:00"
+  },
+  {
+    "title": "Oil Climbs as Middle East Conflict Escalates: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-19/oil-climbs-as-middle-east-conflict-escalates-markets-wrap",
+    "summary": "Oil gained in early trading after US and Iran attacks escalated over the weekend, adding further pressure on Asian markets already rattled by a slump in chip stocks.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-07-19T22:39:15.441376+00:00"
   },
   {
     "title": "Korea President\u2019s Stock Dream Bumps Into Leveraged ETF Backlash",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-19T21:39:52.562210+00:00"
-  },
-  {
-    "title": "Iran Conflict Escalates as US Announces Third Troop Death",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-19/us-iran-trade-more-attacks-after-two-troops-killed-in-jordan",
-    "summary": "The US and Iran engaged in a quickening series of tit-for-tat attacks, causing fresh chaos in the Middle East as the US military announced the death of a third US troop in the past two days.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-19T21:39:52.562272+00:00"
+    "fetched_at": "2026-07-19T22:39:15.441438+00:00"
   },
   {
     "title": "Bitcoin Sentiment Is Turning Bullish \u2014 But It\u2019s Too Early to Celebrate: Report",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T21:39:51.802760+00:00"
+    "fetched_at": "2026-07-19T22:39:14.508062+00:00"
   },
   {
     "title": "Ocean Mining VP Jason Hughes: BIP-110 on Track to Fail as Miner Signaling Stays Below 1%",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T21:39:51.802835+00:00"
+    "fetched_at": "2026-07-19T22:39:14.508135+00:00"
   },
   {
     "title": "GPT-5.6 vs Fable 5 Review: Which One You Pick Depends on These Factors",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T21:39:51.906806+00:00"
+    "fetched_at": "2026-07-19T22:39:14.627604+00:00"
   },
   {
     "title": "ECB Warns Stablecoins May Drain Bank Deposits\u2014Here's What That Means",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T21:39:51.906868+00:00"
+    "fetched_at": "2026-07-19T22:39:14.627664+00:00"
+  },
+  {
+    "title": "Saylor urges Bitcoin to reject BIP-110 in 110-point essay as soft fork\u2019s August showdown approaches",
+    "url": "https://www.theblock.co/post/408850/saylor-urges-bitcoin-to-reject-bip-110-in-110-point-essay-as-soft-forks-august-showdown-approaches",
+    "summary": "Saylor followed up Sunday with a cryptic tracker-chart post captioned \"What's next?\" ahead of Strategy's expected Monday disclosure.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-19T22:39:14.737602+00:00"
   },
   {
     "title": "Upbit parent Dunamu faces sanction process nearly eight months after $30 million hack: report",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T21:39:52.018316+00:00"
-  },
-  {
-    "title": "France orders internet providers to block Polymarket ahead of World Cup final",
-    "url": "https://www.theblock.co/post/408846/france-orders-internet-providers-to-block-polymarket-ahead-of-world-cup-final",
-    "summary": "The order cuts French users off ahead of the World Cup final, which will settle the largest event markets in the industry's history.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-19T21:39:52.018382+00:00"
+    "fetched_at": "2026-07-19T22:39:14.737672+00:00"
   },
   {
     "title": "US death toll climbs as Iran war expands",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-19T21:39:53.198898+00:00"
+    "fetched_at": "2026-07-19T22:39:16.278532+00:00"
   },
   {
     "title": "How Maga fell hard for the gender binary",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-19T21:39:53.198959+00:00"
+    "fetched_at": "2026-07-19T22:39:16.278593+00:00"
   }
 ]
