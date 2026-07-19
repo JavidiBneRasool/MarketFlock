@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-18T23:40:20.519374+00:00"
+    "fetched_at": "2026-07-19T01:22:36.488576+00:00"
   },
   {
     "title": "Kaspersky identifies malware framework targeting crypto investors",
@@ -15,7 +15,16 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-18T23:40:20.519471+00:00"
+    "fetched_at": "2026-07-19T01:22:36.488649+00:00"
+  },
+  {
+    "title": "Korea\u2019s AI-Heavy Market Now Sets the Tone for Global Stocks",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-19/korea-s-ai-heavy-market-now-sets-the-tone-for-global-stocks",
+    "summary": "For fund managers in London, New York and Tokyo, a new ritual has emerged before trading gets underway: checking South Korean stocks.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-07-19T01:22:37.601486+00:00"
   },
   {
     "title": "Vanishing CLO Profits Are Sparking Infighting: Credit Weekly",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-18T23:40:21.453815+00:00"
-  },
-  {
-    "title": "Kuwait Energy Infrastructure Hit During Intense Iran Attacks",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-18/kuwait-faces-intense-night-of-iranian-attacks-as-power-plant-hit",
-    "summary": "Kuwait suffered one of its worst nights of Iranian retaliatory attacks since the Middle East conflict began, with strikes on an oil facility and a second power plant hit in as many days.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-18T23:40:21.453874+00:00"
+    "fetched_at": "2026-07-19T01:22:37.601546+00:00"
   },
   {
     "title": "Bitcoin Sentiment Is Turning Bullish \u2014 But It\u2019s Too Early to Celebrate: Report",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-18T23:40:20.846773+00:00"
+    "fetched_at": "2026-07-19T01:22:36.760402+00:00"
   },
   {
     "title": "Ocean Mining VP Jason Hughes: BIP-110 on Track to Fail as Miner Signaling Stays Below 1%",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-18T23:40:20.846851+00:00"
+    "fetched_at": "2026-07-19T01:22:36.760475+00:00"
   },
   {
     "title": "GPT-5.6 vs Fable 5 Review: Which One You Pick Depends on These Factors",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-18T23:40:20.947994+00:00"
+    "fetched_at": "2026-07-19T01:22:36.838989+00:00"
   },
   {
     "title": "ECB Warns Stablecoins May Drain Bank Deposits\u2014Here's What That Means",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-18T23:40:20.948056+00:00"
+    "fetched_at": "2026-07-19T01:22:36.839051+00:00"
   },
   {
     "title": "US regulators miss GENIUS Act\u2019s one-year deadline for final stablecoin rules",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-18T23:40:21.043385+00:00"
+    "fetched_at": "2026-07-19T01:22:36.925859+00:00"
   },
   {
     "title": "Bitcoin Japan, which holds no bitcoin, taps EVO Fund in planned $60 million raise to finally buy some",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-18T23:40:21.043481+00:00"
+    "fetched_at": "2026-07-19T01:22:36.925940+00:00"
   },
   {
     "title": "US strikes Iran after two American troops are killed in Jordan",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-18T23:40:21.939352+00:00"
+    "fetched_at": "2026-07-19T01:22:38.083808+00:00"
   },
   {
     "title": "My journey down the rabbit hole at the Conspiracy World Cup",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-18T23:40:21.939418+00:00"
+    "fetched_at": "2026-07-19T01:22:38.083896+00:00"
   }
 ]
