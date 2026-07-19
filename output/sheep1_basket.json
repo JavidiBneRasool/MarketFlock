@@ -1,21 +1,30 @@
 [
   {
+    "title": "South Korean regulator begins sanctions process against Dunamu: Report",
+    "url": "https://cointelegraph.com/news/south-korean-regulator-inspection-letter-upbit-36m-hack",
+    "summary": "The proceedings come as South Korea\u2019s Virtual Asset User Protection Act lacks explicit sanctions provisions for hacking and computer system incidents, leaving the scope of penalties uncertain.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-07-19T11:02:25.523543+00:00"
+  },
+  {
     "title": "Electronic Transactions Association CEO Expecting More Partnerships with Bitcoin Startups",
     "url": "https://cointelegraph.com/news/electronic-transactions-association-ceo-expecting-more-partnerships-with-bitcoin-startups",
     "summary": "Electronic Transactions Association (ETA) CEO, Jason Oxman, indicated that members of his organization might start recognizing Bitcoin\u2019s disruptive potential, suggesting that this might lead to more partnerships between traditional electronic payment providers and Bitcoin startups.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-19T09:42:01.969931+00:00"
+    "fetched_at": "2026-07-19T11:02:25.523629+00:00"
   },
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
+    "title": "US, Iran Launch Fresh Strikes After Two Troops Die in Jordan",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-19/us-iran-trade-more-attacks-after-two-troops-killed-in-jordan",
+    "summary": "The US and Iran engaged in another wave of tit-for-tat attacks, signaling no let-up after strikes by the Islamic Republic killed two American service members in Jordan on Friday.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-19T09:42:01.970002+00:00"
+    "fetched_at": "2026-07-19T11:02:26.634957+00:00"
   },
   {
     "title": "Caspian Pipeline Consortium Halts Loadings After Drone Strike",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-19T09:42:02.846926+00:00"
-  },
-  {
-    "title": "US, Iran Trade More Attacks After Two Troops Killed in Jordan",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-19/us-iran-trade-more-attacks-after-two-troops-killed-in-jordan",
-    "summary": "The US and Iran engaged in another wave of tit-for-tat attacks, signaling no let-up after strikes by the Islamic Republic killed two American service members in Jordan on Friday.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-19T09:42:02.846989+00:00"
+    "fetched_at": "2026-07-19T11:02:26.635015+00:00"
   },
   {
     "title": "Bitcoin Sentiment Is Turning Bullish \u2014 But It\u2019s Too Early to Celebrate: Report",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T09:42:02.215987+00:00"
+    "fetched_at": "2026-07-19T11:02:25.850176+00:00"
   },
   {
     "title": "Ocean Mining VP Jason Hughes: BIP-110 on Track to Fail as Miner Signaling Stays Below 1%",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T09:42:02.216060+00:00"
+    "fetched_at": "2026-07-19T11:02:25.850255+00:00"
   },
   {
     "title": "GPT-5.6 vs Fable 5 Review: Which One You Pick Depends on These Factors",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T09:42:02.289081+00:00"
+    "fetched_at": "2026-07-19T11:02:25.964401+00:00"
   },
   {
     "title": "ECB Warns Stablecoins May Drain Bank Deposits\u2014Here's What That Means",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T09:42:02.289168+00:00"
+    "fetched_at": "2026-07-19T11:02:25.964474+00:00"
   },
   {
     "title": "US regulators miss GENIUS Act\u2019s one-year deadline for final stablecoin rules",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T09:42:02.366202+00:00"
+    "fetched_at": "2026-07-19T11:02:26.083775+00:00"
   },
   {
     "title": "Bitcoin Japan, which holds no bitcoin, taps EVO Fund in planned $60 million raise to finally buy some",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T09:42:02.366281+00:00"
+    "fetched_at": "2026-07-19T11:02:26.083850+00:00"
   },
   {
     "title": "US strikes Iran after two American troops killed in Jordan",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-19T09:42:03.850912+00:00"
+    "fetched_at": "2026-07-19T11:02:27.695518+00:00"
   },
   {
     "title": "How Maga fell hard for the gender binary",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-19T09:42:03.850974+00:00"
+    "fetched_at": "2026-07-19T11:02:27.695585+00:00"
   }
 ]
