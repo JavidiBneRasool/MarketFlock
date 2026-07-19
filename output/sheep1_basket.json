@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-19T20:00:43.987666+00:00"
+    "fetched_at": "2026-07-19T21:39:51.403379+00:00"
   },
   {
     "title": "Saylor turns up heat with \u2018110 reasons\u2019 why BIP-110 is a bad idea",
@@ -15,7 +15,16 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-19T20:00:43.987739+00:00"
+    "fetched_at": "2026-07-19T21:39:51.403458+00:00"
+  },
+  {
+    "title": "Korea President\u2019s Stock Dream Bumps Into Leveraged ETF Backlash",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-19/korea-president-s-stock-dream-bumps-into-leveraged-etf-backlash",
+    "summary": "South Korea\u2019s most closely watched stock-market innovation is morphing into a headache for President Lee Jae Myung.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-07-19T21:39:52.562210+00:00"
   },
   {
     "title": "Iran Conflict Escalates as US Announces Third Troop Death",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-19T20:00:45.056131+00:00"
-  },
-  {
-    "title": "Aussie\u2019s Slide Versus Kiwi to Slow on Rate Gap, Strategists Say",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-19/aussie-s-slide-versus-kiwi-to-slow-on-rate-gap-strategists-say",
-    "summary": "The Australian dollar\u2019s steep selloff against its New Zealand counterpart is set to slow, with analysts saying Australia\u2019s higher interest rates and a key technical support will cushion the currency.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-19T20:00:45.056191+00:00"
+    "fetched_at": "2026-07-19T21:39:52.562272+00:00"
   },
   {
     "title": "Bitcoin Sentiment Is Turning Bullish \u2014 But It\u2019s Too Early to Celebrate: Report",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T20:00:44.208381+00:00"
+    "fetched_at": "2026-07-19T21:39:51.802760+00:00"
   },
   {
     "title": "Ocean Mining VP Jason Hughes: BIP-110 on Track to Fail as Miner Signaling Stays Below 1%",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T20:00:44.208451+00:00"
+    "fetched_at": "2026-07-19T21:39:51.802835+00:00"
   },
   {
     "title": "GPT-5.6 vs Fable 5 Review: Which One You Pick Depends on These Factors",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T20:00:44.319792+00:00"
+    "fetched_at": "2026-07-19T21:39:51.906806+00:00"
   },
   {
     "title": "ECB Warns Stablecoins May Drain Bank Deposits\u2014Here's What That Means",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T20:00:44.319848+00:00"
+    "fetched_at": "2026-07-19T21:39:51.906868+00:00"
+  },
+  {
+    "title": "Upbit parent Dunamu faces sanction process nearly eight months after $30 million hack: report",
+    "url": "https://www.theblock.co/post/408848/upbit-parent-dunamu-faces-sanction-process-nearly-eight-months-after-30-million-hack-report",
+    "summary": "The severity of any sanctions remains unclear because South Korea's current crypto law contains no direct sanction provisions for hacking or IT failures.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-19T21:39:52.018316+00:00"
   },
   {
     "title": "France orders internet providers to block Polymarket ahead of World Cup final",
@@ -78,25 +87,16 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-19T20:00:44.440079+00:00"
+    "fetched_at": "2026-07-19T21:39:52.018382+00:00"
   },
   {
-    "title": "US regulators miss GENIUS Act\u2019s one-year deadline for final stablecoin rules",
-    "url": "https://www.theblock.co/post/408843/us-regulators-miss-genius-acts-one-year-deadline-for-final-stablecoin-rules",
-    "summary": "The delay does not postpone the law\u2019s Jan. 18, 2027 effective date, leaving regulators and stablecoin issuers with a compressed implementation window.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-19T20:00:44.440143+00:00"
-  },
-  {
-    "title": "EU faces crumbling support for new Russia sanctions",
-    "url": "https://www.ft.com/content/eb0cd740-e45d-4dd7-ab9a-6f6643bb32ee?syn-25a6b1a6=1",
-    "summary": "National capitals refuse to support measures that could hurt big companies",
+    "title": "US death toll climbs as Iran war expands",
+    "url": "https://www.ft.com/content/7aa5493a-a2ba-4824-b3d0-03b9309ae3ea?syn-25a6b1a6=1",
+    "summary": "A service member died in a \u2018controlled detonation\u2019 of a drone after two troops were killed in Jordan with another missing",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-19T20:00:45.909283+00:00"
+    "fetched_at": "2026-07-19T21:39:53.198898+00:00"
   },
   {
     "title": "How Maga fell hard for the gender binary",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-19T20:00:45.909355+00:00"
+    "fetched_at": "2026-07-19T21:39:53.198959+00:00"
   }
 ]
