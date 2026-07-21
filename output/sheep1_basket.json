@@ -1,39 +1,39 @@
 [
   {
-    "title": "Patrick Witt defers military training as CLARITY heads to Senate",
-    "url": "https://cointelegraph.com/news/patrick-witt-defers-military-training-as-clarity-heads-to-senate",
-    "summary": "The decision keeps the administration\u2019s chief crypto policy negotiator in place during what could be a decisive few weeks for the CLARITY Act. ",
+    "title": "Grayscale files S-1 for first US Worldcoin ETF",
+    "url": "https://cointelegraph.com/news/grayscale-files-s-1-for-worldcoin-etf",
+    "summary": "The filing expands Grayscale\u2019s growing lineup of crypto-related exchange-traded products outside of Bitcoin and Ether.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-21T01:22:19.549454+00:00"
+    "fetched_at": "2026-07-21T04:56:10.029718+00:00"
   },
   {
-    "title": "Democrats added certain consumer protection rules to CLARITY: Coinbase exec",
-    "url": "https://cointelegraph.com/news/democrats-consumer-protections-clarity-act-ethics-debate",
-    "summary": "Coinbase vice chair Ryan VanGrack said that Democratic lawmakers had added provisions on customer protection to a digital asset market structure bill under consideration in the US Senate.",
+    "title": "Celsius co-founders Leon, Goldstein to pay FTC over $6M",
+    "url": "https://cointelegraph.com/news/celsius-co-founders-leon-goldstein-to-pay-ftc-over-6m",
+    "summary": "The settlements add to former Celsius CEO Alex Mashinsky\u2019s $10 million FTC settlement in April.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-21T01:22:19.549531+00:00"
+    "fetched_at": "2026-07-21T04:56:10.029788+00:00"
   },
   {
-    "title": "Korean Stock Traders Slash Margin Loans to Lowest Since April",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-21/korean-stock-traders-unwind-leveraged-bets-to-lowest-since-april",
-    "summary": "South Korean investors slashed their leveraged stock positions to the lowest level in three months, as memory-chip losses halted the market\u2019s rally.",
+    "title": "SBI Funds Rises 8.5% in Debut After $1 Billion India IPO",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-21/sbi-funds-poised-for-strong-india-debut-after-1-billion-ipo",
+    "summary": "SBI Funds Management Ltd. shares rose 8.5% in their Mumbai debut Tuesday after investors piled into the company\u2019s $1 billion initial public offering, making it one of India\u2019s most heavily subscribed billion-dollar share sales.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-21T01:22:20.657842+00:00"
+    "fetched_at": "2026-07-21T04:56:10.937633+00:00"
   },
   {
-    "title": "Asian Stocks Recover as Chips Rebound, Oil Dips: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-20/stock-market-today-dow-s-p-live-updates",
-    "summary": "Asian equities advanced after three days of losses as a selloff in chip stocks eased ahead of megacap tech earnings this week.",
+    "title": "Latest Oil Market News and Analysis for July 21",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-20/latest-oil-market-news-and-analysis-for-july-20",
+    "summary": "Brent oil slipped after surging almost 6% over the previous two sessions, as traders weighed continued hostilities between the US and Iran against efforts to broker a new ceasefire.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-21T01:22:20.657906+00:00"
+    "fetched_at": "2026-07-21T04:56:10.937687+00:00"
   },
   {
     "title": "Bitcoin Miner Hut 8 Shares Jump on $9.8 Billion AI Data Center Deal",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-21T01:22:19.852364+00:00"
+    "fetched_at": "2026-07-21T04:56:10.304379+00:00"
   },
   {
     "title": "Metaplanet\u2019s Bitcoin Japan Announces Plan to Scoop Up Coins Despite Market Downturn",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-21T01:22:19.852439+00:00"
+    "fetched_at": "2026-07-21T04:56:10.304454+00:00"
   },
   {
     "title": "Bank of Korea Scales Up CBDC Pilot With Half a Million Users",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-21T01:22:19.940642+00:00"
+    "fetched_at": "2026-07-21T04:56:10.376510+00:00"
   },
   {
     "title": "Russia's First Comprehensive Crypto Law Is Two Votes Away From Passing",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-21T01:22:19.940699+00:00"
+    "fetched_at": "2026-07-21T04:56:10.376564+00:00"
+  },
+  {
+    "title": "SEC charges Florida man and company in alleged $22 million crypto mining fraud scheme",
+    "url": "https://www.theblock.co/post/409007/sec-charges-florida-man-mining-scheme",
+    "summary": "The defendants allegedly raised $22 million from more than 380 investors through a fraudulent crypto asset mining scheme.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-21T04:56:10.452411+00:00"
   },
   {
     "title": "Trump agrees to ethics provision as crypto bill inches closer to Senate vote",
@@ -78,33 +87,24 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-21T01:22:20.014003+00:00"
+    "fetched_at": "2026-07-21T04:56:10.452475+00:00"
   },
   {
-    "title": "Grayscale could take Worldcoin to Wall Street after ETF filing with the SEC",
-    "url": "https://www.theblock.co/post/408995/grayscale-worldcoin-etf-filing-sec",
-    "summary": "The first exchange-traded fund tied to Worldcoin could soon be headed to U.S. markets, as Grayscale files for a Worldcoin ETF.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-21T01:22:20.014072+00:00"
-  },
-  {
-    "title": "US to hit Canada with 50% tariffs on wide range of goods",
-    "url": "https://www.ft.com/content/0b507e93-877f-4cf7-904b-639eb390c4bf?syn-25a6b1a6=1",
-    "summary": "Washington accuses neighbour of engaging in unfair practices in move that could reignite trade war",
+    "title": "China weighs tighter export controls on AI models and chips",
+    "url": "https://www.ft.com/content/6049a031-9e9b-464c-97bb-414da04d5a6a?syn-25a6b1a6=1",
+    "summary": "Beijing consults companies on ways to stop west acquiring its advanced technologies and star start-ups",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-21T01:22:21.369694+00:00"
+    "fetched_at": "2026-07-21T04:56:11.460862+00:00"
   },
   {
-    "title": "Warsh\u2019s quiet revolution at the Fed",
-    "url": "https://www.ft.com/content/a02aa9b1-85e0-4db7-afad-7da4b99b7a31?syn-25a6b1a6=1",
-    "summary": "The new US central bank chief is reluctant to signal future interest rate moves \u2014 how will hedge funds react?",
+    "title": "AI is becoming a geopolitical weapon, warns EU digital chief",
+    "url": "https://www.ft.com/content/ccaf6c42-f94b-4afc-a063-7243b4fb78ed?syn-25a6b1a6=1",
+    "summary": "Europe needs to avoid relying on an unpredictable Washington for strategic capabilities, says Henna Virkkunen",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-21T01:22:21.369757+00:00"
+    "fetched_at": "2026-07-21T04:56:11.460922+00:00"
   }
 ]
