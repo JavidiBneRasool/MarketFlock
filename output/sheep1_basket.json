@@ -1,39 +1,48 @@
 [
   {
-    "title": "Crypto market breakout could accelerate as AI trade cools, analyst says",
-    "url": "https://cointelegraph.com/news/crypto-market-breakout-ai-trade-cools-analyst-says",
-    "summary": "Bitcoin topped $67,000 while crypto stocks rallied on optimism over US crypto legislation and signs investors may be rotating out of AI trades.",
+    "title": "Pakistan steps up crypto enforcement with dedicated federal unit",
+    "url": "https://cointelegraph.com/news/pakistan-crypto-enforcement-dedicated-unit-crimes",
+    "summary": "A senior official with Pakistan\u2019s Federal Investigation Agency reportedly recommended other agencies establish similar units to address crypto-related crime.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-21T18:07:03.205073+00:00"
+    "fetched_at": "2026-07-21T20:11:35.091813+00:00"
   },
   {
-    "title": "White House agrees to ethics provisions in market structure bill",
-    "url": "https://cointelegraph.com/news/white-house-ethics-provisions-crypto-market-structure-bill",
-    "summary": "The price of Bitcoin moved above $66,000 to reach a seven-week high on Tuesday as reports circulated of a deal with the White House to address ethics in the CLARITY Act.",
+    "title": "Pavel Durov says Telegram to roll out native Gram crypto wallet",
+    "url": "https://cointelegraph.com/news/telegram-launch-native-self-custody-gram-wallet-for-over-1-billion-users-durov",
+    "summary": "Telegram founder Pavel Durov said the messaging platform will roll out a native non-custodial Gram wallet this summer, bringing self-custody crypto transactions to its more than 1 billion users.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-21T18:07:03.205142+00:00"
-  },
-  {
-    "title": "BlackRock vs BlackRock: Aston Martin Debt Revamp Risks In-House Clash",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-21/blackrock-vs-blackrock-aston-martin-debt-revamp-risks-in-house-clash",
-    "summary": "A potential debt revamp at Aston Martin Lagonda Global Holdings Plc is setting the stage for an unusual battle between different divisions of asset management giant BlackRock Inc.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-21T18:07:04.395584+00:00"
+    "fetched_at": "2026-07-21T20:11:35.091886+00:00"
   },
   {
     "title": "Stocks Climb as Rebound in Chipmakers Gathers Pace: Markets Wrap",
     "url": "https://www.bloomberg.com/news/articles/2026-07-20/stock-market-today-dow-s-p-live-updates",
-    "summary": "Wall Street staged a comeback as dip buyers emerged, lifting stocks amid rally in chipmakers on bets the artificial-intelligence trade that\u2019s powered the bull market has more room to run.",
+    "summary": "Wall Street staged a comeback as dip buyers emerged, lifting stocks amid a rally in chipmakers on bets the artificial-intelligence trade that\u2019s powered the bull market has more room to run.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-21T18:07:04.395640+00:00"
+    "fetched_at": "2026-07-21T20:11:36.148633+00:00"
+  },
+  {
+    "title": "US Yields Hit Two-Month High as Oil Sparks Inflation Risk",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-21/treasury-yields-hit-two-month-high-as-oil-sparks-inflation-risk",
+    "summary": "US Treasuries fell, pushing 10- and 30-year yields to the highest in about two months, as a surge in oil prices stoked concern that inflationary pressures will prompt the Federal Reserve to raise interest rates.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-07-21T20:11:36.148691+00:00"
+  },
+  {
+    "title": "White House Presses Senate Democrats To Accept Trump Ethics Deal On Clarity Act",
+    "url": "https://bitcoinmagazine.com/news/white-house-presses-senate-democrats",
+    "summary": "Bitcoin Magazine\n\nWhite House Presses Senate Democrats To Accept Trump Ethics Deal On Clarity Act\nWhite House officials are urging Senate Democrats to accept President Trump's ethics deal on the Clarity Act, with negotiations entering the final stretch before Congress' August recess.\nThis post White",
+    "source": "Bitcoin Magazine",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-21T20:11:35.374400+00:00"
   },
   {
     "title": "Hyperscale Data Buys More Bitcoin, Bridging Holdings to Over $72 million",
@@ -42,69 +51,60 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-21T18:07:03.470232+00:00"
+    "fetched_at": "2026-07-21T20:11:35.374465+00:00"
   },
   {
-    "title": "U.S. Senator: Clarity Act is \u2018Almost There,\u2019 Treasury Secretary Puts It at the \u20181-Yard Line\u2019",
-    "url": "https://bitcoinmagazine.com/news/u-s-senator-clarity-act-is-almost-there",
-    "summary": "Bitcoin Magazine\n\nU.S. Senator: Clarity Act is &#8216;Almost There,\u2019 Treasury Secretary Puts It at the &#8216;1-Yard Line&#8217;\nSenate negotiators say the Clarity Act is \"almost there\" as Treasury Secretary Scott Bessent calls it the \"1-yard line,\" with lawmakers racing to pass the crypto market-st",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-21T18:07:03.470305+00:00"
-  },
-  {
-    "title": "Google Is Building an AI Chip Just for Gemini\u2014And Investors Already Moved On It",
-    "url": "https://decrypt.co/373967/google-ai-chip-gemini-frozenv2",
-    "summary": "Codenamed Frozen v2, Google's new server chip would bake part of Gemini's architecture directly into hardware for a projected 6\u201310x efficiency gain.",
+    "title": "Google Ships New Gemini Flash Models, But Pro Is Still Missing",
+    "url": "https://decrypt.co/373975/google-new-gemini-flash-models-pro-still-missing",
+    "summary": "As Gemini 3.5 Pro stalls in testing limbo, Google ships 3.6 Flash, 3.5 Flash-Lite, and a restricted cybersecurity model\u2014and quietly teases Gemini 4.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-21T18:07:03.605069+00:00"
+    "fetched_at": "2026-07-21T20:11:35.476345+00:00"
   },
   {
-    "title": "XRP Breaks Out on Clarity Act Hopes. The Charts Are Still Cautious",
-    "url": "https://decrypt.co/373951/xrp-price-clarity-act-hopes-charts-cautious",
-    "summary": "The Ripple-linked token just had its best day in weeks, as Washington may finally be delivering what the XRP Army has been waiting for.",
+    "title": "Augustus Raises $180 Million to Build a Stablecoin-Ready 'Global Dollar Bank'",
+    "url": "https://decrypt.co/373996/augustus-raises-180-million-stablecoin-global-dollar-bank",
+    "summary": "The Tiger Global-led round values the startup at $1 billion as it wires stablecoin rails directly into a federally chartered bank, aiming to modernize the correspondent-banking plumbing behind cross-border payments.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-21T18:07:03.605126+00:00"
+    "fetched_at": "2026-07-21T20:11:35.476403+00:00"
   },
   {
-    "title": "Solana, Hyperliquid ETFs dominate altcoin fund flows despite flying under the radar",
-    "url": "https://www.theblock.co/post/408963/solana-hyperliquid-etfs-dominate-altcoin-fund-flows-despite-flying-under-the-radar",
-    "summary": "Solana ETFs boast an impressive $904 million AUM, while the Hyperliquid funds have $350 million in net inflows.",
+    "title": "Satsuma shareholders approve bitcoin treasury liquidation and London delisting",
+    "url": "https://www.theblock.co/post/409155/satsuma-shareholders-approve-bitcoin-treasury-liquidation-london-delisting",
+    "summary": "The vote comes less than a year after UK-based Satsuma Technology raised $218 million to pursue its bitcoin strategy.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-21T18:07:03.724512+00:00"
+    "fetched_at": "2026-07-21T20:11:35.587288+00:00"
   },
   {
-    "title": "Russia passes landmark crypto bill allowing regulated retail trading",
-    "url": "https://www.theblock.co/post/409121/russia-passes-landmark-crypto-bill-allowing-regulated-retail-trading",
-    "summary": "Non-qualified Russian crypto investors face a 300,000-ruble annual purchase limit after Russia's State Duma passed a landmark crypto bill.",
+    "title": "Congress weighs its role as fight over sports betting prediction market oversight forges on",
+    "url": "https://www.theblock.co/post/409152/congress-weighs-its-role-as-fight-over-sports-betting-prediction-market-oversight-forges-on",
+    "summary": "As state and federal regulators continue to clash over who should oversee sports-related prediction markets, lawmakers consider stepping in.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-21T18:07:03.724568+00:00"
+    "fetched_at": "2026-07-21T20:11:35.587391+00:00"
   },
   {
-    "title": "Trump vows to attack Iranian nuclear facility as Middle East war escalates",
-    "url": "https://www.ft.com/content/90facd68-4df7-40c2-9383-e989a02fbe51?syn-25a6b1a6=1",
-    "summary": "Goldman Sachs warns oil could jump to $120 per barrel if Strait of Hormuz remains \u2018disrupted\u2019",
+    "title": "Zelenskyy replaces top Ukraine general in biggest military shake-up since 2024",
+    "url": "https://www.ft.com/content/500286b4-335b-43a7-bff5-30336d852e96?syn-25a6b1a6=1",
+    "summary": "President chooses 43-year-old Mykhailo Drapatyi to replace Oleksandr Syrsky in generational shift in Kyiv\u2019s military leadership",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-21T18:07:05.318671+00:00"
+    "fetched_at": "2026-07-21T20:11:37.236340+00:00"
   },
   {
-    "title": "Saudi tankers reverse course after Houthi threats",
-    "url": "https://www.ft.com/content/6e28eae4-cd7b-48e8-ae5e-d555de88f428",
-    "summary": "At least four vessels make U-turns after warnings from Yemeni rebels, as fresh threat emerges to Red Sea shipping",
+    "title": "The Gulf nation that became Iran\u2019s softest target",
+    "url": "https://www.ft.com/content/341d3e1b-f619-486d-9fd3-79d1906d9283?syn-25a6b1a6=1",
+    "summary": "Kuwait, still scarred by the 1990 Iraqi invasion, has been repeatedly attacked by Tehran and its allies",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-21T18:07:05.318729+00:00"
+    "fetched_at": "2026-07-21T20:11:37.236405+00:00"
   }
 ]
