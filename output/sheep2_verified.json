@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-21T22:42:59.170508+00:00",
+    "fetched_at": "2026-07-21T23:45:32.809186+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,7 +18,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-21T22:42:59.170567+00:00",
+    "fetched_at": "2026-07-21T23:45:32.809265+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -26,23 +26,23 @@
   {
     "title": "Yen Slides Past 163 Mark to Fresh Four-Decade Low Against Dollar",
     "url": "https://www.bloomberg.com/news/articles/2026-07-21/yen-slides-past-163-mark-to-fresh-four-decade-low-against-dollar",
-    "summary": "The yen weakened past 163 per dollar for the first time since 1986, raising the risk of intervention by authorities to prop up the currency.",
+    "summary": "The yen slid past 163 per dollar for the first time since 1986, extending its decline and increasingly testing Japanese authorities\u2019 resolve to intervene.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-21T22:43:00.269617+00:00",
+    "fetched_at": "2026-07-21T23:45:39.125676+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "KKR Commercial Real Estate Lender Studies Potential Sale, Merger",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-21/kkr-commercial-real-estate-lender-studies-potential-sale-merger",
-    "summary": "A commercial real estate lender managed by KKR &amp; Co. said it\u2019s considering strategic alternatives that could include a merger or sale of the money-losing company.",
+    "title": "Gold Holds Gain as Traders Weigh Impact of Oil Risks on Rates",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-21/gold-holds-gain-as-traders-weigh-impact-of-oil-risks-on-rates",
+    "summary": "Gold held a gain as traders monitored threats to energy supply routes that risk stoking inflation and putting pressure on the Federal Reserve to hike interest rates.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-21T22:43:00.269663+00:00",
+    "fetched_at": "2026-07-21T23:45:39.125735+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-21T22:42:59.428705+00:00",
+    "fetched_at": "2026-07-21T23:45:33.062505+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-21T22:42:59.428757+00:00",
+    "fetched_at": "2026-07-21T23:45:33.062573+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-21T22:42:59.542763+00:00",
+    "fetched_at": "2026-07-21T23:45:33.209049+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-21T22:42:59.542822+00:00",
+    "fetched_at": "2026-07-21T23:45:33.209111+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-21T22:42:59.677121+00:00",
+    "fetched_at": "2026-07-21T23:45:33.327600+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-21T22:42:59.677174+00:00",
+    "fetched_at": "2026-07-21T23:45:33.327671+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-21T22:43:01.088497+00:00",
+    "fetched_at": "2026-07-21T23:45:39.967440+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-21T22:43:01.088548+00:00",
+    "fetched_at": "2026-07-21T23:45:39.967505+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
