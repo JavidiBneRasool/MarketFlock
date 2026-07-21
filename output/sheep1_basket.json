@@ -1,39 +1,39 @@
 [
   {
-    "title": "Base\u2019s 1:1-backed tokenized equities launch \u2018imminent,\u2019 Pollak says",
-    "url": "https://cointelegraph.com/news/bases-tokenized-equities-imminent-pollak",
-    "summary": "The Coinbase-backed Ethereum layer-2 is preparing to expand its financial offerings as it pivots away from its earlier social-first strategy.",
+    "title": "UK parliamentary group probes banking barriers for crypto firms",
+    "url": "https://cointelegraph.com/news/uk-inquiry-banking-barriers-crypto-firms",
+    "summary": "A UK parliamentary group launched an inquiry into banking restrictions on crypto firms and consumers, including their impact on investment and competition.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-21T07:27:22.582062+00:00"
+    "fetched_at": "2026-07-21T10:12:26.764634+00:00"
   },
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "title": "Bitcoin ETFs post 5-day inflow streak, longest since May",
+    "url": "https://cointelegraph.com/news/bitcoin-etfs-five-day-inflow-streak-btc-65k",
+    "summary": "US spot Bitcoin ETFs recorded $227 million in inflows as BTC climbed above $65,000, extending their longest winning streak since early May.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-21T07:27:22.582130+00:00"
-  },
-  {
-    "title": "Another Ship Hit in Hormuz as Houthis Add to Regional Risks",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-21/another-tanker-hit-in-hormuz-as-houthis-add-to-regional-risks",
-    "summary": "Another tanker was attacked in the Strait of Hormuz as renewed hostilities empty the waterway, while a threat by Houthi rebels to blockade Saudi Arabia in the Red Sea heightened regional maritime risks.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-21T07:27:23.579085+00:00"
+    "fetched_at": "2026-07-21T10:12:26.764704+00:00"
   },
   {
     "title": "London Stock Exchange to Introduce Nonstop Trading Next Year",
     "url": "https://www.bloomberg.com/news/articles/2026-07-21/london-stock-exchange-to-introduce-nonstop-trading-next-year",
-    "summary": "The London Stock Exchange will open a new venue outside of its regular market hours in a move to offer \u201cnear-continuous trading\u201d in the working week.",
+    "summary": "The London Stock Exchange will open a new venue outside of its regular market hours, a move to offer \u201cnear-continuous trading\u201d and better compete with the 24/7 trading offered by alternative platforms.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-21T07:27:23.579143+00:00"
+    "fetched_at": "2026-07-21T10:12:27.925120+00:00"
+  },
+  {
+    "title": "Stocks Rise as Rebound in Chipmakers Gathers Pace: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-20/stock-market-today-dow-s-p-live-updates",
+    "summary": "A rebound in chipmakers gathered pace on Tuesday, driving stock markets higher in an otherwise quiet session that saw modest moves in Treasury yields, oil and currencies.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-07-21T10:12:27.925172+00:00"
   },
   {
     "title": "Bitcoin Miner Hut 8 Shares Jump on $9.8 Billion AI Data Center Deal",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-21T07:27:22.938590+00:00"
+    "fetched_at": "2026-07-21T10:12:27.050000+00:00"
   },
   {
     "title": "Metaplanet\u2019s Bitcoin Japan Announces Plan to Scoop Up Coins Despite Market Downturn",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-21T07:27:22.938666+00:00"
+    "fetched_at": "2026-07-21T10:12:27.050070+00:00"
+  },
+  {
+    "title": "UK Lawmakers Launch Inquiry Into Crypto Banking Access",
+    "url": "https://decrypt.co/373910/uk-lawmakers-launch-inquiry-into-crypto-banking-access",
+    "summary": "A cross-party group is examining why UK banks block accounts and payments for crypto firms\u2014and whether it's holding the sector back.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-21T10:12:27.180476+00:00"
   },
   {
     "title": "Bank of Korea Scales Up CBDC Pilot With Half a Million Users",
@@ -60,34 +69,25 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-21T07:27:23.029687+00:00"
+    "fetched_at": "2026-07-21T10:12:27.180525+00:00"
   },
   {
-    "title": "Russia's First Comprehensive Crypto Law Is Two Votes Away From Passing",
-    "url": "https://decrypt.co/373880/russia-first-comprehensive-crypto-law",
-    "summary": "The bill licenses exchanges, caps retail investors at about $3,800 a year, and creates a legal pathway for Russian companies to pay foreign partners in crypto\u2014bypassing Western sanctions.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-21T07:27:23.029744+00:00"
-  },
-  {
-    "title": "UK parliamentary group launches probe into crypto sector\u2019s banking challenges",
-    "url": "https://www.theblock.co/post/409016/uk-probe-crypto-sector-banking-challenges",
-    "summary": "This comes weeks after the publication of the UK\u2019s new crypto regulatory framework, set to take effect in October 2027.",
+    "title": "CoinShares launches UCITS platform targeting Europe\u2019s institutional investors",
+    "url": "https://www.theblock.co/post/409029/coinshares-launches-europe-ucits-platform",
+    "summary": "CoinShares is expanding into Europe's $30 trillion UCITS ecosystem with the launch of a new platform and a Bitcoin Mining ETF.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-21T07:27:23.129058+00:00"
+    "fetched_at": "2026-07-21T10:12:27.300398+00:00"
   },
   {
-    "title": "Washington judge blocks Kalshi\u2019s sports prediction markets over state gambling laws",
-    "url": "https://www.theblock.co/post/409011/washington-kalshi-preliminary-injunction",
-    "summary": "A Washington state court granted the state's motion for a preliminary injunction, saying Kalshi operates illegal gambling activities.",
+    "title": "London Stock Exchange plans overnight venue to extend trading hours: FT",
+    "url": "https://www.theblock.co/post/409021/london-stock-exchange-plans-extended-trading-hours",
+    "summary": "London Stock Exchange plans an overnight venue as traditional exchanges extend trading hours amid competition from 24/7 crypto platforms.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-21T07:27:23.129125+00:00"
+    "fetched_at": "2026-07-21T10:12:27.300458+00:00"
   },
   {
     "title": "China weighs tighter export controls on AI models and chips",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-21T07:27:24.135355+00:00"
+    "fetched_at": "2026-07-21T10:12:28.779785+00:00"
   },
   {
     "title": "AI is becoming a geopolitical weapon, warns EU digital chief",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-21T07:27:24.135420+00:00"
+    "fetched_at": "2026-07-21T10:12:28.779843+00:00"
   }
 ]
