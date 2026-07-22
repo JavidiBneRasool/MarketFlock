@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-22T22:51:17.345276+00:00"
+    "fetched_at": "2026-07-22T23:52:37.569258+00:00"
   },
   {
     "title": "Crypto PAC pours $1M into Michigan Democratic primary race",
@@ -15,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-22T22:51:17.345350+00:00"
+    "fetched_at": "2026-07-22T23:52:37.569332+00:00"
+  },
+  {
+    "title": "Gold Holds Gain as Dip-Buying Counters Inflation Fears From War",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-22/gold-holds-gain-as-dip-buying-counters-inflation-fears-from-war",
+    "summary": "Gold held gains on dip-buying even as hostilities in the Middle East pushed oil prices to multiweek highs, rekindling concerns that US inflationary pressure could prompt the Federal Reserve to raise interest rates.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-07-22T23:52:38.721551+00:00"
   },
   {
     "title": "Latest Oil Market News and Analysis for July 23",
     "url": "https://www.bloomberg.com/news/articles/2026-07-22/latest-oil-market-news-and-analysis-for-july-23",
-    "summary": "Oil surged after Iran-backed Houthi militants said they targeted two Saudi Arabian tankers in the Red Sea, escalating the Middle East conflict and threatening deeper supply disruptions.",
+    "summary": "Oil surged after Iran-backed Houthi militants said they attacked two Saudi Arabian tankers in the Red Sea, escalating the Middle East conflict and threatening deeper supply disruptions.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-22T22:51:18.539888+00:00"
-  },
-  {
-    "title": "US Stock Futures Slip on Alphabet, Oil Advances: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-22/stock-market-today-dow-s-p-live-updates",
-    "summary": "US equity-index futures declined in early Thursday trading as investors weighed earnings from AI heavyweights for evidence that surging capital spending is translating into growth. Oil extended its rally.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-22T22:51:18.539944+00:00"
+    "fetched_at": "2026-07-22T23:52:38.721604+00:00"
   },
   {
     "title": "Nasdaq-listed Zhibao Technology to Take 3,500 Bitcoin in Proposed PIPE Financing",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-22T22:51:17.658903+00:00"
+    "fetched_at": "2026-07-22T23:52:37.905311+00:00"
   },
   {
     "title": "Crypto\u2019s US Workforce Is Tiny, But Industry Punches Above Its Weight: Report",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-22T22:51:17.658971+00:00"
+    "fetched_at": "2026-07-22T23:52:37.905381+00:00"
   },
   {
     "title": "Coinbase Wants to Be Canada's One-Stop Shop for Stocks, Crypto and Prediction Markets",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-22T22:51:17.775260+00:00"
+    "fetched_at": "2026-07-22T23:52:38.000706+00:00"
   },
   {
     "title": "Kraken Parent Company Makes Moves to Offer xStocks From Global Markets",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-22T22:51:17.775317+00:00"
+    "fetched_at": "2026-07-22T23:52:38.000762+00:00"
   },
   {
     "title": "Bipartisan support \u2018critical\u2019 as Democrats push back on GOP crypto bill on ethics grounds",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-22T22:51:17.889014+00:00"
+    "fetched_at": "2026-07-22T23:52:38.098879+00:00"
   },
   {
     "title": "Clarity Act\u2019s impact on Circle could be negative over the long term, Mizuho says",
@@ -87,16 +87,16 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-22T22:51:17.889083+00:00"
+    "fetched_at": "2026-07-22T23:52:38.098948+00:00"
   },
   {
-    "title": "Google reports $6bn cash burn last quarter as it raises AI spending again",
+    "title": "Google burns through $6bn in cash as AI spending climbs again",
     "url": "https://www.ft.com/content/b02f972c-c764-4006-9377-42563d9d5530?syn-25a6b1a6=1",
-    "summary": "Search giant says it will commit up to $205bn on AI investments in 2026",
+    "summary": "Search giant says it will commit up to $205bn to AI investments in 2026",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-22T22:51:19.333242+00:00"
+    "fetched_at": "2026-07-22T23:52:39.294144+00:00"
   },
   {
     "title": "Tesla profits plunge as discounts on EV models weigh on results",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-22T22:51:19.333308+00:00"
+    "fetched_at": "2026-07-22T23:52:39.294206+00:00"
   }
 ]
