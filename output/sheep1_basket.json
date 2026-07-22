@@ -1,39 +1,39 @@
 [
   {
-    "title": "Balaji\u2019s Network School turns to Kazakhstan amid Malaysia setback",
-    "url": "https://cointelegraph.com/news/balajis-network-school-turns-to-kazakhstan-amid-malaysia-setback",
-    "summary": "The agreement gives Balaji Srinivasan\u2019s tech community a potential new base as Malaysian authorities clamp down on the Network School over alleged licensing breaches.",
+    "title": "Balance Coin crashes 99% after reported $915K exploit",
+    "url": "https://cointelegraph.com/news/algorithmic-stablecoin-balance-coin-plummets-99-after-exploit",
+    "summary": "The attack allowed the exploiter to liquidate multiple Bitcoin-backed vaults before swapping the assets for profit.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-22T01:21:03.974658+00:00"
+    "fetched_at": "2026-07-22T04:55:47.245976+00:00"
   },
   {
-    "title": "CLARITY Act could help CFTC deal with prediction markets: Lawyer",
-    "url": "https://cointelegraph.com/news/clarity-act-cftc-prediction-markets-resources",
-    "summary": "According to one lawyer testifying before a House subcommittee hearing, the CLARITY Act could grant the CFTC the authority it needs to address the \u201cexplosive growth of prediction markets.\u201d",
+    "title": "OpenAI says AI models escaped containment to hack Hugging Face",
+    "url": "https://cointelegraph.com/news/openai-models-hacked-hugging-face-to-cheat-on-a-test",
+    "summary": "OpenAI called it an \u201cunprecedented cyber incident\u201d after its AI models broke out of their sandbox to hack an AI startup during a security evaluation.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-22T01:21:03.974735+00:00"
+    "fetched_at": "2026-07-22T04:55:47.246052+00:00"
   },
   {
-    "title": "Latest Oil Market News and Analysis for July 22",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-21/latest-oil-market-news-and-analysis-for-july-22",
-    "summary": "Oil extended gains after President Donald Trump played down the prospect of near-term talks with Iran while threatening broader strikes, as risks to global supply spread beyond the Middle East to the Black Sea.",
+    "title": "Japan 40-Year Bond Sale Sees Strongest Demand Since March 2025",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-22/japan-40-year-bond-sale-sees-strongest-demand-since-march-2025",
+    "summary": "Japan\u2019s 40-year government bond auction drew its strongest demand since March 2025 as investors were attracted to higher yields.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-22T01:21:05.178201+00:00"
+    "fetched_at": "2026-07-22T04:55:48.464107+00:00"
   },
   {
-    "title": "Subprime Auto Dealer Goes From Covid-Era Star to Near Demise",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-21/subprime-auto-dealer-goes-from-covid-era-rockstar-to-near-demise",
-    "summary": "America\u2019s Car-Mart Inc. thrived during a \u201990s slump, the 2008 financial crisis and the upheaval of Covid-19 by doing one thing well: selling and financing older, high-mileage used cars for cash-strapped, deeply-subprime buyers.",
+    "title": "Stocks Advance as Chip Rally Builds, Brent Climbs: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-21/stock-market-today-dow-s-p-live-updates",
+    "summary": "Chip stocks extended a global rally as investors renewed bets that the artificial intelligence trade has further room to run. Oil climbed on pessimism over US-Iran peace talks.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-22T01:21:05.178257+00:00"
+    "fetched_at": "2026-07-22T04:55:48.464160+00:00"
   },
   {
     "title": "Bitcoin is NOT Changed by Proof Of Node",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-22T01:21:04.225194+00:00"
+    "fetched_at": "2026-07-22T04:55:47.537947+00:00"
   },
   {
     "title": "Bitcoin Maxi Jack Dorsey Unveils New Open Source Group Chat App",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-22T01:21:04.225256+00:00"
+    "fetched_at": "2026-07-22T04:55:47.538004+00:00"
   },
   {
     "title": "DAT Went Wrong: Satsuma to Unwind Bitcoin Treasury, Sell Off $43 Million in BTC",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-22T01:21:04.306516+00:00"
+    "fetched_at": "2026-07-22T04:55:47.674476+00:00"
   },
   {
     "title": "OpenAI Models Escaped Locked Test Environment, Hacked Hugging Face to Cheat on Benchmark",
@@ -69,42 +69,42 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-22T01:21:04.306574+00:00"
+    "fetched_at": "2026-07-22T04:55:47.674529+00:00"
   },
   {
-    "title": "Trump-backed crypto ethics rule puts DOJ in charge of enforcement, prohibits federal officials from issuing cryptocurrencies: sources",
-    "url": "https://www.theblock.co/post/409173/trump-backed-crypto-ethics-rule-doj-enforcement-prohibits-federal-officials-issuing-cryptocurrencies",
-    "summary": "Newly approved ethics language signed by President Donald Trump would prohibit federal officials from issuing cryptocurrencies.",
+    "title": "HTX keeps rotating wallets to evade UK sanctions screening: TRM Labs",
+    "url": "https://www.theblock.co/post/409187/htx-rotates-wallets-uk-sanctions-screening",
+    "summary": "UK authorities sanctioned the crypto exchange in May for its alleged role in facilitating Russian sanctions evasion.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-22T01:21:04.380272+00:00"
+    "fetched_at": "2026-07-22T04:55:47.820146+00:00"
   },
   {
-    "title": "The Digital Chamber sues Illinois over incoming crypto transaction tax",
-    "url": "https://www.theblock.co/post/409160/the-digital-chamber-sues-illinois-over-incoming-crypto-transaction-tax",
-    "summary": "The Digital Chamber is taking Illinois to court over its decision to pass a law imposing a 0.2% tax on digital asset transactions.",
+    "title": "Pakistan launches crypto investigation unit to crack down on digital asset crimes: report",
+    "url": "https://www.theblock.co/post/409180/pakistan-crypto-investigation-unit",
+    "summary": "FIA's Muhammad Athar Waheed suggested that other major agencies form dedicated teams to tackle digital asset crimes.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-22T01:21:04.380337+00:00"
+    "fetched_at": "2026-07-22T04:55:47.820207+00:00"
   },
   {
-    "title": "Zelenskyy replaces top Ukraine general after mass protests",
-    "url": "https://www.ft.com/content/500286b4-335b-43a7-bff5-30336d852e96?syn-25a6b1a6=1",
-    "summary": "President chooses 43-year-old Mykhailo Drapatyi to replace Oleksandr Syrsky in generational shift in Kyiv\u2019s military leadership",
+    "title": "The US has collected about $13bn of Venezuela\u2019s oil money. Where is it?",
+    "url": "https://www.ft.com/content/0e562e03-106e-4729-83d7-675c27eb8c4d?syn-25a6b1a6=1",
+    "summary": "Washington has given diverging accounts of where the earthquake-shattered country\u2019s funds are going",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-22T01:21:05.765867+00:00"
+    "fetched_at": "2026-07-22T04:55:49.327968+00:00"
   },
   {
-    "title": "The Gulf nation that became Iran\u2019s softest target",
-    "url": "https://www.ft.com/content/341d3e1b-f619-486d-9fd3-79d1906d9283?syn-25a6b1a6=1",
-    "summary": "Kuwait, still scarred by the 1990 Iraqi invasion, has been repeatedly attacked by Tehran and its allies",
+    "title": "The UK\u2019s biggest university is a private company",
+    "url": "https://www.ft.com/content/6c54f212-7491-4d41-ae57-bd67b4ea0f43?syn-25a6b1a6=1",
+    "summary": "Supporters say franchised providers widen access to further education, but others doubt the real value of their \u2018no frills\u2019 courses",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-22T01:21:05.765929+00:00"
+    "fetched_at": "2026-07-22T04:55:49.328027+00:00"
   }
 ]
