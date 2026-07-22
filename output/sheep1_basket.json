@@ -1,39 +1,39 @@
 [
   {
+    "title": "Here\u2019s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-07-22T07:28:54.234238+00:00"
+  },
+  {
     "title": "Balance Coin crashes 99% after reported $915K exploit",
     "url": "https://cointelegraph.com/news/algorithmic-stablecoin-balance-coin-plummets-99-after-exploit",
     "summary": "The attack allowed the exploiter to liquidate multiple Bitcoin-backed vaults before swapping the assets for profit.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-22T04:55:47.245976+00:00"
+    "fetched_at": "2026-07-22T07:28:54.234321+00:00"
   },
   {
-    "title": "OpenAI says AI models escaped containment to hack Hugging Face",
-    "url": "https://cointelegraph.com/news/openai-models-hacked-hugging-face-to-cheat-on-a-test",
-    "summary": "OpenAI called it an \u201cunprecedented cyber incident\u201d after its AI models broke out of their sandbox to hack an AI startup during a security evaluation.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-07-22T04:55:47.246052+00:00"
-  },
-  {
-    "title": "Japan 40-Year Bond Sale Sees Strongest Demand Since March 2025",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-22/japan-40-year-bond-sale-sees-strongest-demand-since-march-2025",
-    "summary": "Japan\u2019s 40-year government bond auction drew its strongest demand since March 2025 as investors were attracted to higher yields.",
+    "title": "JPY/USD: Why Is Japan Yen So Weak? Can Government Intervention Help Currency?",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-22/jpy-usd-why-is-japan-yen-so-weak-can-government-intervention-help-currency",
+    "summary": "The yen\u2019s weakness has become a growing issue for Japan\u2019s policymakers, given its role in driving up import prices and household living costs.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-22T04:55:48.464107+00:00"
+    "fetched_at": "2026-07-22T07:28:55.076957+00:00"
   },
   {
-    "title": "Stocks Advance as Chip Rally Builds, Brent Climbs: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-21/stock-market-today-dow-s-p-live-updates",
-    "summary": "Chip stocks extended a global rally as investors renewed bets that the artificial intelligence trade has further room to run. Oil climbed on pessimism over US-Iran peace talks.",
+    "title": "Key Oil Chokepoints in Mideast Face Disruption as Threats Mount",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-22/key-oil-chokepoints-in-mideast-face-disruption-as-threats-mount",
+    "summary": "Shipping disruptions in key Middle East chokepoints intensified as the US-Iran war grinds on, with vessels in the Red Sea making unusual maneuvers, while visible traffic through the Strait of Hormuz sank.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-22T04:55:48.464160+00:00"
+    "fetched_at": "2026-07-22T07:28:55.077018+00:00"
   },
   {
     "title": "Bitcoin is NOT Changed by Proof Of Node",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-22T04:55:47.537947+00:00"
+    "fetched_at": "2026-07-22T07:28:54.498174+00:00"
   },
   {
     "title": "Bitcoin Maxi Jack Dorsey Unveils New Open Source Group Chat App",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-22T04:55:47.538004+00:00"
+    "fetched_at": "2026-07-22T07:28:54.498241+00:00"
   },
   {
     "title": "DAT Went Wrong: Satsuma to Unwind Bitcoin Treasury, Sell Off $43 Million in BTC",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-22T04:55:47.674476+00:00"
+    "fetched_at": "2026-07-22T07:28:54.609392+00:00"
   },
   {
     "title": "OpenAI Models Escaped Locked Test Environment, Hacked Hugging Face to Cheat on Benchmark",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-22T04:55:47.674529+00:00"
+    "fetched_at": "2026-07-22T07:28:54.609454+00:00"
   },
   {
     "title": "HTX keeps rotating wallets to evade UK sanctions screening: TRM Labs",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-22T04:55:47.820146+00:00"
+    "fetched_at": "2026-07-22T07:28:54.703457+00:00"
   },
   {
     "title": "Pakistan launches crypto investigation unit to crack down on digital asset crimes: report",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-22T04:55:47.820207+00:00"
+    "fetched_at": "2026-07-22T07:28:54.703524+00:00"
   },
   {
     "title": "The US has collected about $13bn of Venezuela\u2019s oil money. Where is it?",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-22T04:55:49.327968+00:00"
+    "fetched_at": "2026-07-22T07:28:55.568599+00:00"
   },
   {
     "title": "The UK\u2019s biggest university is a private company",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-22T04:55:49.328027+00:00"
+    "fetched_at": "2026-07-22T07:28:55.568666+00:00"
   }
 ]
