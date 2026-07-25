@@ -1,21 +1,21 @@
 [
   {
+    "title": "Robinhood in talks with Crypto.com over prediction markets: WSJ",
+    "url": "https://cointelegraph.com/news/robinhood-cryptocom-prediction-markets",
+    "summary": "While prediction market companies in the US continue to face legal battles between state and federal authorities, Robinhood is reportedly considering expanding its services.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-07-25T21:42:06.214459+00:00"
+  },
+  {
     "title": "Bitcoin advocacy group to join US State Department\u2019s \u2018digital freedom\u2019 program",
     "url": "https://cointelegraph.com/news/bitcoin-policy-institute-state-department-program",
     "summary": "The Bitcoin Policy Institute and three partner organizations will be able to send employees to work alongside State Department officials to address issues including digital freedom.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-25T20:03:50.239964+00:00"
-  },
-  {
-    "title": "Wise to resubmit US charter application under GENIUS Act",
-    "url": "https://cointelegraph.com/news/wise-resubmit-occ-charter-application-genius-stablecoins",
-    "summary": "The OCC denied the UK company\u2019s application this week citing AML/CFT risks, despite approving similar charters for digital asset companies in the last year.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-07-25T20:03:50.240037+00:00"
+    "fetched_at": "2026-07-25T21:42:06.214557+00:00"
   },
   {
     "title": "Over 250,000 People Flee Wildfires Ravaging France and Spain",
@@ -24,7 +24,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-25T20:03:52.088446+00:00"
+    "fetched_at": "2026-07-25T21:42:07.380202+00:00"
   },
   {
     "title": "The \u2018Trump Trade\u2019 Is Turning Into a Loser in the Stock Market",
@@ -33,7 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-25T20:03:52.088504+00:00"
+    "fetched_at": "2026-07-25T21:42:07.380263+00:00"
   },
   {
     "title": "Morgan Stanley Bitcoin ETF Nearly Notches $400M in Assets",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-25T20:03:50.898762+00:00"
+    "fetched_at": "2026-07-25T21:42:06.546499+00:00"
   },
   {
     "title": "$7 Trillion Investment Giant Fidelity Backs New Crypto Clarity Act",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-25T20:03:50.898823+00:00"
+    "fetched_at": "2026-07-25T21:42:06.546565+00:00"
   },
   {
     "title": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-25T20:03:51.038507+00:00"
+    "fetched_at": "2026-07-25T21:42:06.644682+00:00"
   },
   {
     "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-25T20:03:51.038561+00:00"
+    "fetched_at": "2026-07-25T21:42:06.644739+00:00"
+  },
+  {
+    "title": "EU adds HTX to Russia sanctions list, barring transactions starting Aug. 23",
+    "url": "https://www.theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23",
+    "summary": "Other crypto platforms listed alongside HTX include EXMO, Rapira, BitPapa, Aifory Pro, WhiteBird, NoOnecrypto and Exnode.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-25T21:42:06.746166+00:00"
   },
   {
     "title": "Robinhood in talks to add Crypto.com prediction markets as Kalshi rivalry grows: WSJ",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-25T20:03:51.179871+00:00"
-  },
-  {
-    "title": "Bitcoin ETF weekly trading volume falls to lowest since October 2024 as ether funds lead inflows again",
-    "url": "https://www.theblock.co/post/409660/bitcoin-etf-weekly-trading-volume-falls-to-lowest-since-october-2024-as-ether-funds-lead-inflows-again",
-    "summary": "Ether funds have drawn nearly as much capital as bitcoin ETFs over the past three weeks despite holding about one-eighth as much in net assets.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-25T20:03:51.179937+00:00"
+    "fetched_at": "2026-07-25T21:42:06.746233+00:00"
   },
   {
     "title": "Investors increase bets on Federal Reserve rate rise after oil price surge",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-25T20:03:53.003964+00:00"
+    "fetched_at": "2026-07-25T21:42:07.926871+00:00"
   },
   {
     "title": "Why this philosopher turned down Anthropic",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-25T20:03:53.004017+00:00"
+    "fetched_at": "2026-07-25T21:42:07.926924+00:00"
   }
 ]
