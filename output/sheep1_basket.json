@@ -1,12 +1,12 @@
 [
   {
-    "title": "Wise expected to resubmit US charter application under GENIUS",
+    "title": "Wise to resubmit US charter application under GENIUS Act",
     "url": "https://cointelegraph.com/news/wise-resubmit-occ-charter-application-genius-stablecoins",
     "summary": "The OCC denied the UK company\u2019s application this week citing AML/CFT risks, despite approving similar charters for digital asset companies in the last year.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-25T16:42:36.774919+00:00"
+    "fetched_at": "2026-07-25T17:47:14.442806+00:00"
   },
   {
     "title": "North Korea arrests bank hacking ring tied to crypto laundering: Report",
@@ -15,7 +15,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-25T16:42:36.775020+00:00"
+    "fetched_at": "2026-07-25T17:47:14.442877+00:00"
   },
   {
     "title": "Over 250,000 People Flee Wildfires Ravaging France and Spain",
@@ -24,7 +24,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-25T16:42:37.930823+00:00"
+    "fetched_at": "2026-07-25T17:47:15.362312+00:00"
   },
   {
     "title": "The \u2018Trump Trade\u2019 Is Turning Into a Loser in the Stock Market",
@@ -33,7 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-25T16:42:37.930886+00:00"
+    "fetched_at": "2026-07-25T17:47:15.362371+00:00"
   },
   {
     "title": "Morgan Stanley Bitcoin ETF Nearly Notches $400M in Assets",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-25T16:42:37.094791+00:00"
+    "fetched_at": "2026-07-25T17:47:14.678685+00:00"
   },
   {
     "title": "$7 Trillion Investment Giant Fidelity Backs New Crypto Clarity Act",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-25T16:42:37.094888+00:00"
+    "fetched_at": "2026-07-25T17:47:14.678749+00:00"
   },
   {
     "title": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-25T16:42:37.183252+00:00"
+    "fetched_at": "2026-07-25T17:47:14.751480+00:00"
   },
   {
     "title": "Stocks Just Topped Crypto on Hyperliquid. ARK Says That Changes Everything",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-25T16:42:37.183308+00:00"
+    "fetched_at": "2026-07-25T17:47:14.751535+00:00"
+  },
+  {
+    "title": "Robinhood in talks to add Crypto.com prediction markets as Kalshi rivalry grows: WSJ",
+    "url": "https://www.theblock.co/post/409665/robinhood-in-talks-to-add-crypto-com-prediction-markets-as-kalshi-rivalry-grows-wsj",
+    "summary": "A deal would let Robinhood customers trade yes-or-no contracts offered through Crypto.com\u2019s derivatives business, though no deal has yet been reached.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-25T17:47:14.831331+00:00"
   },
   {
     "title": "Bitcoin ETF weekly trading volume falls to lowest since October 2024 as ether funds lead inflows again",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-25T16:42:37.266737+00:00"
-  },
-  {
-    "title": "Bitcoin Policy Institute, Palantir and Anduril join US State Department\u2019s Freedom Tech Excellence Program",
-    "url": "https://www.theblock.co/post/409652/bitcoin-policy-institute-palantir-anduril-us-state-departments-freedom-tech-excellence-program",
-    "summary": "The Bitcoin Policy Institute, Palantir and Anduril are partners in the U.S. State Department's Freedom Tech Excellence Program.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-25T16:42:37.266857+00:00"
+    "fetched_at": "2026-07-25T17:47:14.831399+00:00"
   },
   {
     "title": "Investors increase bets on Federal Reserve rate rise after oil price surge",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-25T16:42:38.511741+00:00"
+    "fetched_at": "2026-07-25T17:47:16.088421+00:00"
   },
   {
     "title": "Why this philosopher turned down Anthropic",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-25T16:42:38.511818+00:00"
+    "fetched_at": "2026-07-25T17:47:16.088512+00:00"
   }
 ]
