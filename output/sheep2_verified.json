@@ -1,24 +1,36 @@
 [
   {
+    "title": "Wise expected to resubmit US charter application under GENIUS",
+    "url": "https://cointelegraph.com/news/wise-resubmit-occ-charter-application-genius-stablecoins",
+    "summary": "The OCC denied the UK company\u2019s application this week citing AML/CFT risks, despite approving similar charters for digital asset companies in the last year.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-07-25T16:42:36.774919+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "North Korea arrests bank hacking ring tied to crypto laundering: Report",
     "url": "https://cointelegraph.com/news/north-korea-bank-hacking-ring-crypto-laundering-report",
     "summary": "Daily NK reported that North Korea arrested former state cyber operators accused of hacking two state banks and laundering funds through crypto.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-25T15:54:29.753176+00:00",
+    "fetched_at": "2026-07-25T16:42:36.775020+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
+    "title": "Over 250,000 People Flee Wildfires Ravaging France and Spain",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-25/bordeaux-suburbs-at-risk-as-200-000-flee-fires-in-france-spain",
+    "summary": "More than 250,000 people fled towns and villages in Spain and France as uncontrolled wildfires moved ever closer to Madrid and Bordeaux, metropolitan areas that are home to more than 8 million people combined.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-25T15:54:29.753245+00:00",
+    "fetched_at": "2026-07-25T16:42:37.930823+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,19 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-25T15:54:31.139073+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Over 250,000 People Flee Wildfires Ravaging France and Spain",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-25/bordeaux-suburbs-at-risk-as-200-000-flee-fires-in-france-spain",
-    "summary": "More than 250,000 people fled towns and villages in Spain and France into the weekend as uncontrolled wildfires moved ever closer to Madrid and Bordeaux, metropolitan areas that are home to more than 8 million people combined.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-25T15:54:31.139130+00:00",
+    "fetched_at": "2026-07-25T16:42:37.930886+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-25T15:54:30.230352+00:00",
+    "fetched_at": "2026-07-25T16:42:37.094791+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-25T15:54:30.230409+00:00",
+    "fetched_at": "2026-07-25T16:42:37.094888+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-25T15:54:30.399667+00:00",
+    "fetched_at": "2026-07-25T16:42:37.183252+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-25T15:54:30.399722+00:00",
+    "fetched_at": "2026-07-25T16:42:37.183308+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-25T15:54:30.531425+00:00",
+    "fetched_at": "2026-07-25T16:42:37.266737+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-25T15:54:30.531498+00:00",
+    "fetched_at": "2026-07-25T16:42:37.266857+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-25T15:54:31.860930+00:00",
+    "fetched_at": "2026-07-25T16:42:38.511741+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-25T15:54:31.860978+00:00",
+    "fetched_at": "2026-07-25T16:42:38.511818+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
