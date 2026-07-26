@@ -1,21 +1,21 @@
 [
   {
+    "title": "Here\u2019s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-07-26T21:46:25.809806+00:00"
+  },
+  {
     "title": "CFTC issues second warning to prediction markets on cookie-cutter self-certifications",
     "url": "https://cointelegraph.com/news/cftc-issues-second-warning-to-prediction-markets-on-cookie-cutter-self-certifications",
     "summary": "For the second time this year, the regulator told prediction markets to stop issuing overly broad, template-style certifications of events contracts.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-26T20:02:32.211437+00:00"
-  },
-  {
-    "title": "Russia\u2019s Sberbank to launch crypto trading infrastructure this year",
-    "url": "https://cointelegraph.com/news/russias-sberbank-to-launch-crypto-trading-infrastructure-this-year",
-    "summary": "Russia\u2019s biggest bank plans to create cryptocurrency trading infrastructure by Dec. 1 as the country is set to establish rules for market participants while allowing crypto assets to be used in foreign trade operations.\n",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-07-26T20:02:32.211514+00:00"
+    "fetched_at": "2026-07-26T21:46:25.809870+00:00"
   },
   {
     "title": "Bond Traders on Edge as Risks of Fed Rate Hike This Week Mount",
@@ -24,7 +24,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-26T20:02:33.194209+00:00"
+    "fetched_at": "2026-07-26T21:46:27.168594+00:00"
   },
   {
     "title": "Traders Are Getting a New Tool to Wager on the Biggest US Stocks",
@@ -33,7 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-26T20:02:33.194268+00:00"
+    "fetched_at": "2026-07-26T21:46:27.168641+00:00"
   },
   {
     "title": "Morgan Stanley Bitcoin ETF Nearly Notches $400M in Assets",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-26T20:02:32.471979+00:00"
+    "fetched_at": "2026-07-26T21:46:26.200182+00:00"
   },
   {
     "title": "$7 Trillion Investment Giant Fidelity Backs New Crypto Clarity Act",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-26T20:02:32.472043+00:00"
+    "fetched_at": "2026-07-26T21:46:26.200234+00:00"
   },
   {
     "title": "Mira Murati\u2019s Inkling AI Model Review: Best Open-Source Model in the West",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-26T20:02:32.578448+00:00"
+    "fetched_at": "2026-07-26T21:46:26.329115+00:00"
   },
   {
     "title": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-26T20:02:32.578505+00:00"
+    "fetched_at": "2026-07-26T21:46:26.329161+00:00"
+  },
+  {
+    "title": "Michael Saylor teases \u2018another color\u2019 after four straight weeks without a Strategy bitcoin buy",
+    "url": "https://www.theblock.co/post/409675/michael-saylor-teases-another-color-after-four-straight-weeks-without-a-strategy-bitcoin-buy",
+    "summary": "Strategy holds 843,775 BTC at an average cost of $75,476, leaving the position roughly $9.3 billion underwater with bitcoin near $64,600.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-26T21:46:26.461589+00:00"
   },
   {
     "title": "BitMart to wind down trading platform as global CEO says he was not consulted",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-26T20:02:32.651059+00:00"
-  },
-  {
-    "title": "EU adds HTX to Russia sanctions list, barring transactions starting Aug. 23",
-    "url": "https://www.theblock.co/post/409668/eu-adds-htx-to-russia-sanctions-list-barring-transactions-starting-aug-23",
-    "summary": "Other crypto platforms listed alongside HTX include EXMO, Rapira, BitPapa, Aifory Pro, WhiteBird, NoOnecrypto and Exnode.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-26T20:02:32.651121+00:00"
+    "fetched_at": "2026-07-26T21:46:26.461642+00:00"
   },
   {
     "title": "US pauses Iran strikes as Oman pursues Hormuz transit deal",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-26T20:02:33.721337+00:00"
+    "fetched_at": "2026-07-26T21:46:28.145922+00:00"
   },
   {
     "title": "Iran says Ukrainian attack on vessel in Caspian Sea killed sailor",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-26T20:02:33.721403+00:00"
+    "fetched_at": "2026-07-26T21:46:28.145974+00:00"
   }
 ]
