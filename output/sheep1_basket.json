@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-26T14:22:14.277729+00:00"
+    "fetched_at": "2026-07-26T15:53:08.171894+00:00"
   },
   {
     "title": "Here\u2019s what happened in crypto today",
@@ -15,7 +15,16 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-26T14:22:14.277803+00:00"
+    "fetched_at": "2026-07-26T15:53:08.171965+00:00"
+  },
+  {
+    "title": "Traders Are Getting a New Tool to Wager on the Biggest US Stocks",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-26/traders-are-getting-a-new-tool-to-wager-on-the-biggest-us-stocks",
+    "summary": "Investors will soon have another way to bet on the hottest stocks from Nvidia Corp. to SpaceX, without trading a single share.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-07-26T15:53:09.454471+00:00"
   },
   {
     "title": "Modi Punctured as Awakened India Students Force Retreat",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-26T14:22:15.389739+00:00"
-  },
-  {
-    "title": "Big Tech Earnings Slam Into a Market in Revolt Over AI Spending",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-26/big-tech-earnings-slam-into-a-market-in-revolt-over-ai-spending",
-    "summary": "For years, US technology giants had a tacit agreement with investors: The companies could spend lavishly on artificial intelligence, and the stock market would reward them long as their revenues were rising. That deal is suddenly breaking down.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-26T14:22:15.389817+00:00"
+    "fetched_at": "2026-07-26T15:53:09.454525+00:00"
   },
   {
     "title": "Morgan Stanley Bitcoin ETF Nearly Notches $400M in Assets",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-26T14:22:14.550348+00:00"
+    "fetched_at": "2026-07-26T15:53:08.503538+00:00"
   },
   {
     "title": "$7 Trillion Investment Giant Fidelity Backs New Crypto Clarity Act",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-26T14:22:14.550413+00:00"
+    "fetched_at": "2026-07-26T15:53:08.503601+00:00"
   },
   {
     "title": "Mira Murati\u2019s Inkling AI Model Review: Best Open-Source Model in the West",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-26T14:22:14.671182+00:00"
+    "fetched_at": "2026-07-26T15:53:08.626181+00:00"
   },
   {
     "title": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-26T14:22:14.671243+00:00"
+    "fetched_at": "2026-07-26T15:53:08.626240+00:00"
+  },
+  {
+    "title": "BitMart to wind down trading platform as global CEO says he was not consulted",
+    "url": "https://www.theblock.co/post/409670/bitmart-to-wind-down-trading-platform-as-global-ceo-says-he-was-not-consulted",
+    "summary": "BitMart's global CEO said the firm told him on July 24 that his employment was ending and that he learned of the closure when it went public.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-26T15:53:08.755337+00:00"
   },
   {
     "title": "EU adds HTX to Russia sanctions list, barring transactions starting Aug. 23",
@@ -78,33 +87,24 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-26T14:22:14.785286+00:00"
+    "fetched_at": "2026-07-26T15:53:08.755401+00:00"
   },
   {
-    "title": "Robinhood in talks to add Crypto.com prediction markets as Kalshi rivalry grows: WSJ",
-    "url": "https://www.theblock.co/post/409665/robinhood-in-talks-to-add-crypto-com-prediction-markets-as-kalshi-rivalry-grows-wsj",
-    "summary": "A deal would let Robinhood customers trade yes-or-no contracts offered through Crypto.com\u2019s derivatives business, though no deal has yet been reached.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-26T14:22:14.785394+00:00"
-  },
-  {
-    "title": "China pours funding into green energy deals as Iran war hits oil demand",
-    "url": "https://www.ft.com/content/221aac60-807e-4bdd-b76d-dd451255e685?syn-25a6b1a6=1",
-    "summary": "Beijing\u2019s Belt and Road Initiative takes advantage of rise in appetite for renewables as Middle East conflict drags on",
+    "title": "US pauses Iran strikes as Oman pursues Hormuz transit deal",
+    "url": "https://www.ft.com/content/ffdeacf0-91b8-48fd-9ff8-d8d134ef5f11?syn-25a6b1a6=1",
+    "summary": "Neither side launches attacks for second consecutive night as mediators seek to avert return to full-blown war",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-26T14:22:16.163847+00:00"
+    "fetched_at": "2026-07-26T15:53:10.256766+00:00"
   },
   {
-    "title": "How China exploits EU divisions over trade",
-    "url": "https://www.ft.com/content/ccf8b73f-c798-46d8-a00b-47df2a6c6859?syn-25a6b1a6=1",
-    "summary": "Individual member states and companies vulnerable to coercion from Beijing, say analysts",
+    "title": "Iran says Ukrainian attack on vessel in Caspian Sea killed sailor",
+    "url": "https://www.ft.com/content/a352cb9c-8b29-4d3c-b672-1b6c65fd4a1d?syn-25a6b1a6=1",
+    "summary": "Foreign ministry urges EU to intervene to prevent Middle East conflict spreading beyond the region",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-26T14:22:16.163917+00:00"
+    "fetched_at": "2026-07-26T15:53:10.256831+00:00"
   }
 ]
