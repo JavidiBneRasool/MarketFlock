@@ -1,24 +1,24 @@
 [
   {
+    "title": "South Korea\u2019s largest bank to launch payment service on JPMorgan\u2019s Kinexys",
+    "url": "https://cointelegraph.com/news/south-korea-bank-payment-jpmorgans-kinexys",
+    "summary": "South Korea\u2019s largest lender will use JPMorgan\u2019s blockchain platform to support US dollar cross-border payments for import and export businesses across 10 countries.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-07-26T10:26:42.646042+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "BitMart to wind down exchange, end trading by Aug. 26",
     "url": "https://cointelegraph.com/news/bitmart-wind-down-exchange-end-trading",
     "summary": "Crypto exchange BitMart said it will wind down operations after its BMX token plunged and users reported withdrawal delays, with platform operations set to end in January.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-26T08:03:36.706974+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Binance \u2018red teams\u2019 its own staff every month to keep hackers out",
-    "url": "https://cointelegraph.com/news/binance-red-teams-own-staff-every-month-to-keep-hackers-out",
-    "summary": "Binance regularly tests its employees for security hygiene, with social engineering becoming a major source of industry breaches. ",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-07-26T08:03:36.707043+00:00",
+    "fetched_at": "2026-07-26T10:26:42.646118+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,7 +30,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-26T08:03:38.337890+00:00",
+    "fetched_at": "2026-07-26T10:26:44.075202+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -42,7 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-26T08:03:38.337938+00:00",
+    "fetched_at": "2026-07-26T10:26:44.075258+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-26T08:03:37.070590+00:00",
+    "fetched_at": "2026-07-26T10:26:42.934118+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-26T08:03:37.070645+00:00",
+    "fetched_at": "2026-07-26T10:26:42.934182+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-26T08:03:37.215554+00:00",
+    "fetched_at": "2026-07-26T10:26:43.057155+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-26T08:03:37.215602+00:00",
+    "fetched_at": "2026-07-26T10:26:43.057213+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-26T08:03:37.338624+00:00",
+    "fetched_at": "2026-07-26T10:26:43.186321+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-26T08:03:37.338682+00:00",
+    "fetched_at": "2026-07-26T10:26:43.186388+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-26T08:03:39.122327+00:00",
+    "fetched_at": "2026-07-26T10:26:44.910267+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-26T08:03:39.122384+00:00",
+    "fetched_at": "2026-07-26T10:26:44.910335+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
