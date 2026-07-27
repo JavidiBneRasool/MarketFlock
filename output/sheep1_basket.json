@@ -1,39 +1,39 @@
 [
   {
-    "title": "Tether\u2019s XAUt gold token receives Shariah certification to expand Islamic finance access",
-    "url": "https://cointelegraph.com/news/tether-xaut-gold-token-receives-shariah-certification-islamic-finance-access",
-    "summary": "The certification could expand access to Tether\u2019s gold-backed token among Islamic financial institutions and investors seeking Shariah-compliant exposure to physical gold.",
+    "title": "Here\u2019s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-27T17:27:22.525954+00:00"
+    "fetched_at": "2026-07-27T19:08:07.100346+00:00"
   },
   {
-    "title": "Kraken parent Payward acquires Magic Labs\u2019 wallet business",
-    "url": "https://cointelegraph.com/news/kraken-parent-payward-acquires-magic-labs-wallet-business",
-    "summary": "The deal brings wallet technology to Payward\u2019s enterprise platform, potentially reducing the number of infrastructure providers businesses need to integrate with.\n",
+    "title": "Securitize Capital becomes SEC-registered investment adviser",
+    "url": "https://cointelegraph.com/news/securitize-becomes-sec-registered-investment-adviser-through-capital-unit",
+    "summary": "The registration expands Securitize\u2019s regulated platform for tokenized assets, adding investment advisory services to its institutional offering.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-27T17:27:22.526033+00:00"
+    "fetched_at": "2026-07-27T19:08:07.100421+00:00"
   },
   {
-    "title": "Crisis-Level Swings Become New Normal in 2026 Stock Market",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-27/crisis-level-swings-become-new-normal-in-2026-stock-market",
-    "summary": "Forget the VIX at 19. The stock market is swinging around in ways that are beyond what\u2019s seen as normal in bull markets.",
+    "title": "Macquarie Sees Oil Glut Risk on US-Iran Deal Before Midterms",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-27/macquarie-sees-oil-surplus-risk-on-us-iran-deal-before-midterms",
+    "summary": "Oil markets could tilt back into oversupply before the end of the year as Washington faces mounting pressure to end the Iran conflict with fewer than 100 days until the midterm elections, analysts from Macquarie Ltd said.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-27T17:27:23.285230+00:00"
+    "fetched_at": "2026-07-27T19:08:08.265266+00:00"
   },
   {
-    "title": "Treasuries Rise as Recent Yield Surge Attracts Buyers Before Fed",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-27/treasury-yields-follow-oil-lower-with-fed-and-supply-in-focus",
-    "summary": "US Treasuries rose as the US paused strikes on Iran and oil prices fell, with an auction of the shortest-dated notes attracting buyers ahead of this week\u2019s Federal Reserve meeting.",
+    "title": "Stocks Waver as Chipmaker Rout Offsets Oil Decline: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-26/oil-tumbles-as-us-and-iran-pause-military-strikes-markets-wrap",
+    "summary": "A selloff in chipmakers sent stocks wavering, offsetting a decline in oil prices, as pressure keeps building for the biggest spenders on artificial intelligence to justify their investments.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-27T17:27:23.285286+00:00"
+    "fetched_at": "2026-07-27T19:08:08.265325+00:00"
   },
   {
     "title": "Bitcoin ETFs Bled Nearly Half a Billion Dollars End of Last Week, Reversing Sentiment",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-27T17:27:22.792515+00:00"
+    "fetched_at": "2026-07-27T19:08:07.351083+00:00"
   },
   {
     "title": "Russia\u2019s Sberbank Sets December Deadline for Crypto Buildout: Report",
@@ -51,60 +51,60 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-27T17:27:22.792583+00:00"
+    "fetched_at": "2026-07-27T19:08:07.351153+00:00"
   },
   {
-    "title": "Bitmine Nears Goal of Controlling 5% of Ethereum Supply With $11.8 Billion Treasury",
-    "url": "https://decrypt.co/374389/bitmine-nears-5-percent-ethereum-supply-with-11-8-billion-treasury",
-    "summary": "The company says it now holds 5.79 million ETH, equal to 4.8% of the cryptocurrency's circulating supply, while expanding its staking operations and share buyback program.",
+    "title": "Microsoft Says MDASH Beats Claude Mythos and GPT-5.6 Sol in Cybersecurity Test",
+    "url": "https://decrypt.co/374441/microsoft-mdash-beats-claude-mythos-gpt-5-6-sol-cybersecurity",
+    "summary": "Microsoft says its new cyber model lets more than 100 AI agents find software flaws at half the cost of its current best MDASH configuration.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-27T17:27:22.881938+00:00"
+    "fetched_at": "2026-07-27T19:08:07.609179+00:00"
   },
   {
-    "title": "Circle Buys IBM Blockchain Patent Estate\u2014And Becomes America's Biggest Holder",
-    "url": "https://decrypt.co/374388/circle-ibm-blockchain-patent-estate",
-    "summary": "The USDC issuer acquired nearly 1,000 patents from IBM in a single deal, but IBM is still backing USDC's most dangerous rival.",
+    "title": "Your Shared Claude Chats Were Being Quietly Published on Google",
+    "url": "https://decrypt.co/374412/anthropic-share-button-quietly-publishing-claude-chats-google",
+    "summary": "A missing line of code meant \"share with a link\" and \"searchable by anyone\" were the same thing\u2014and someone already saved 11,241 of those messages to GitHub.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-27T17:27:22.881999+00:00"
+    "fetched_at": "2026-07-27T19:08:07.609235+00:00"
   },
   {
-    "title": "TD Cowen cuts David Bailey\u2019s Nakamoto target 58% after bitcoin outlook reset",
-    "url": "https://www.theblock.co/post/409797/td-cowen-cuts-david-bailey-nakamoto-target-58-bitcoin-outlook-reset",
-    "summary": "The firm updated its valuation for David Bailey-led Nakamoto, citing pressure from BTC's decline on the company's capital structure.",
+    "title": "Ethereum, Solana and Avalanche get busier and cheaper even as token prices fall: Bitwise",
+    "url": "https://www.theblock.co/post/409799/ethereum-solana-avalanche-get-busier-cheaper-even-as-token-prices-fall-bitwise",
+    "summary": "Although activity rose, revenues declined and ETH, SOL and AVAX are all down over 50% when compared to a year ago.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-27T17:27:22.959581+00:00"
+    "fetched_at": "2026-07-27T19:08:07.701927+00:00"
   },
   {
-    "title": "Ondo launches new execution network, calling it \u2018evolution\u2019 of Ondo Chain",
-    "url": "https://www.theblock.co/post/409792/ondo-launches-new-execution-network-calling-it-evolution-of-ondo-chain",
-    "summary": "CEO Ian De Bode said the Ondo Network is the \"evolution\" of the company's earlier Ondo Chain initiative and now underpins Ondo Perps.",
+    "title": "Securitize expands regulated platform with SEC adviser license",
+    "url": "https://www.theblock.co/post/409821/securitize-expands-regulated-platform-with-sec-adviser-license",
+    "summary": "This will enable Securitize to work more closely with asset managers and institutional investors on tokenized investment strategies.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-27T17:27:22.959647+00:00"
+    "fetched_at": "2026-07-27T19:08:07.701997+00:00"
+  },
+  {
+    "title": "Nvidia bets $5bn on Ilya Sutskever\u2019s AI breakthrough",
+    "url": "https://www.ft.com/content/5c78dec1-b6d6-415e-9456-f1ab5eed6146?syn-25a6b1a6=1",
+    "summary": "Safe Superintelligence will use Vera Rubin chips to rapidly expand computing capacity for its secretive research",
+    "source": "Financial Times",
+    "category": "Markets",
+    "tier": 9,
+    "fetched_at": "2026-07-27T19:08:09.082309+00:00"
   },
   {
     "title": "France and Spain brace for more extreme heat as wildfires rage",
     "url": "https://www.ft.com/content/45867580-65a2-4a7d-ba4c-8143e86f4e36?syn-25a6b1a6=1",
-    "summary": "Blazes \u2018far from being under control\u2019 as another heatwave approaches, says France\u2019s civil security agency",
+    "summary": "French President Emmanuel Macron warns \u2018weeks ahead will be hard\u2019 on visit to firefighting centre in the Gironde region",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-27T17:27:23.753799+00:00"
-  },
-  {
-    "title": "The new premium product: books written by people",
-    "url": "https://www.ft.com/content/6b52ecb8-f7dd-45f0-8beb-d60c15bc5ebf?syn-25a6b1a6=1",
-    "summary": "Some publishers think AI could not only help authors but replace them",
-    "source": "Financial Times",
-    "category": "Markets",
-    "tier": 9,
-    "fetched_at": "2026-07-27T17:27:23.753862+00:00"
+    "fetched_at": "2026-07-27T19:08:09.082378+00:00"
   }
 ]
