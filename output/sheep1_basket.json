@@ -1,39 +1,39 @@
 [
   {
-    "title": "Storj files for bankruptcy, explores equity path for tokenholders",
-    "url": "https://cointelegraph.com/news/storj-chapter-11-bankruptcy-tokenholder-equity",
-    "summary": "The decentralized storage provider says its network will continue operating during Chapter 11 as it explores a court-approved ownership mechanism for STORJ holders.",
+    "title": "Triple-A confirms treasury-wallet breach after losses reach $11.8M",
+    "url": "https://cointelegraph.com/news/triple-a-treasury-wallet-breach-11-8-million-loss",
+    "summary": "The stablecoin payments company said client funds were unaffected and that the financial impact would be absorbed through its treasury reserves.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-27T01:46:05.582870+00:00"
+    "fetched_at": "2026-07-27T05:36:57.556157+00:00"
   },
   {
-    "title": "CLARITY hopes fade, BitMEX shuts as lawsuit looms: Hodler\u2019s Digest, July 26",
-    "url": "https://cointelegraph.com/magazine/clarity-hopes-fade-bitmex-shuts-as-lawsuit-looms-hodlers-digest-july-27",
-    "summary": "Despite support from Goldman Sachs, Fidelity and law enforcement bodies, the Clarity Act\u2019s chances dim. BitMEX to close as crypto consolidates into five big players. ",
+    "title": "BitMart withdrawals appear to slow following wind-down announcement",
+    "url": "https://cointelegraph.com/news/bitmart-withdrawals-slow-exchange-wind-down",
+    "summary": "Users reported withdrawal delays and freeze notices as wallets attributed to BitMart fell to about $69 million and its BMX token extended an 81.5% weekly decline.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-27T01:46:05.582953+00:00"
+    "fetched_at": "2026-07-27T05:36:57.556231+00:00"
   },
   {
-    "title": "Oil Declines, Bonds Rally as US-Iran Tensions Ease: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-26/oil-tumbles-as-us-and-iran-pause-military-strikes-markets-wrap",
-    "summary": "Oil dropped and bonds climbed as the US and Iran refrained from retaliatory strikes, easing concerns over potential disruptions to Middle East energy supplies after a recent escalation in the conflict.",
+    "title": "Marcos Needs State of the Nation to Revive Philippine Economy, Presidency",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-26/marcos-needs-state-of-the-nation-to-revive-philippine-economy-presidency",
+    "summary": "A year ago, Philippines President Ferdinand Marcos Jr.\u2019s annual address to Congress shocked the nation with revelations of billions of dollars of graft involving flood-control schemes. The disclosure triggered an economic slump as projects slowed and consumers and businesses cut spending.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-27T01:46:06.732217+00:00"
+    "fetched_at": "2026-07-27T05:36:58.223906+00:00"
   },
   {
-    "title": "Major Brands Sell China Tomatoes as Aussie-Grown, ABC Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-27/major-brands-sell-china-tomatoes-as-australian-grown-abc-says",
-    "summary": "Several major food brands in Australia are selling tomato products grown in China as domestically produced, with forensic testing showing some are sourced from the Xinjiang region, according to an investigation by the Australian Broadcasting Corp.",
+    "title": "Trip.com Fined in China Antitrust Case as Price Wars Continue",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-27/trip-com-shares-jump-in-hong-kong-as-regulatory-overhang-clears",
+    "summary": "China\u2019s months-long antitrust probe into Trip.com Group Ltd. ended with a multi-billion-yuan penalty on the nation\u2019s largest online travel agency, but the action does little to ease the fierce price wars gripping the domestic hotel sector.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-27T01:46:06.732278+00:00"
+    "fetched_at": "2026-07-27T05:36:58.223966+00:00"
   },
   {
     "title": "Morgan Stanley Bitcoin ETF Nearly Notches $400M in Assets",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-27T01:46:05.813968+00:00"
+    "fetched_at": "2026-07-27T05:36:57.692413+00:00"
   },
   {
     "title": "$7 Trillion Investment Giant Fidelity Backs New Crypto Clarity Act",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-27T01:46:05.814035+00:00"
+    "fetched_at": "2026-07-27T05:36:57.692487+00:00"
   },
   {
     "title": "Mira Murati\u2019s Inkling AI Model Review: Best Open-Source Model in the West",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-27T01:46:05.911705+00:00"
+    "fetched_at": "2026-07-27T05:36:57.774239+00:00"
   },
   {
     "title": "What Is an AI Kill Switch and Why Do US Lawmakers Want One?",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-27T01:46:05.911768+00:00"
+    "fetched_at": "2026-07-27T05:36:57.774303+00:00"
+  },
+  {
+    "title": "The Funding: Are crypto vaults funds and curators fund managers?",
+    "url": "https://www.theblock.co/post/409690/are-crypto-vaults-funds-curators-fund-managers",
+    "summary": "The SEC's Hester Peirce says some of them may be \u2014 which could mean registration. Here's what that means, and what comes next.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-27T05:36:57.855971+00:00"
   },
   {
     "title": "Triple-A hot wallet losses climb to $11.8 million as new deposits keep being swept: report",
@@ -78,33 +87,24 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-27T01:46:05.997335+00:00"
+    "fetched_at": "2026-07-27T05:36:57.856046+00:00"
   },
   {
-    "title": "Michael Saylor teases \u2018another color\u2019 after four straight weeks without a Strategy bitcoin buy",
-    "url": "https://www.theblock.co/post/409675/michael-saylor-teases-another-color-after-four-straight-weeks-without-a-strategy-bitcoin-buy",
-    "summary": "Strategy holds 843,775 BTC at an average cost of $75,476, leaving the position roughly $9.3 billion underwater with bitcoin near $64,600.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-27T01:46:05.997435+00:00"
-  },
-  {
-    "title": "US pauses Iran strikes as Oman pursues Hormuz transit deal",
-    "url": "https://www.ft.com/content/ffdeacf0-91b8-48fd-9ff8-d8d134ef5f11?syn-25a6b1a6=1",
-    "summary": "Neither side launches attacks for second consecutive night as mediators seek to avert return to full-blown war",
+    "title": "Chinese chip champion CXMT soars more than 500% in market debut",
+    "url": "https://www.ft.com/content/8e82e939-908b-42bf-a314-0bb02a3f1b07?syn-25a6b1a6=1",
+    "summary": "Tech group becomes China\u2019s most valuable listed company in mainland\u2019s biggest IPO since 2010",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-27T01:46:07.385961+00:00"
+    "fetched_at": "2026-07-27T05:36:58.952743+00:00"
   },
   {
-    "title": "Oil prices fall as Iran and US pause strikes over Strait of Hormuz tensions",
-    "url": "https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e?syn-25a6b1a6=1",
-    "summary": "Brent opens lower after two weeks of escalating violence pushed crude to more than $100 a barrel",
+    "title": "The new premium product: books written by people",
+    "url": "https://www.ft.com/content/6b52ecb8-f7dd-45f0-8beb-d60c15bc5ebf?syn-25a6b1a6=1",
+    "summary": "Some publishers think AI could not only help authors but replace them",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-27T01:46:07.386030+00:00"
+    "fetched_at": "2026-07-27T05:36:58.952807+00:00"
   }
 ]
