@@ -1,39 +1,48 @@
 [
   {
+    "title": "US prosecutors propose changes to CLARITY as voting window narrows: Report",
+    "url": "https://cointelegraph.com/news/clarity-act-changes-law-enforcement-voting-narrows",
+    "summary": "A White House crypto adviser said that the proposed changes to the CLARITY Act were \u201cnot even close\u201d to the administration\u2019s position, signaling another fight over the bill.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-07-29T20:06:18.301675+00:00"
+  },
+  {
     "title": "Binance launches regulated gold, silver options through ADGM exchange",
     "url": "https://cointelegraph.com/news/binance-launches-regulated-gold-silver-options-through-adgm-exchange",
     "summary": "New commodity options let traders gain exposure to gold and silver prices through Binance\u2019s Abu Dhabi-regulated exchange.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-29T18:51:30.372076+00:00"
+    "fetched_at": "2026-07-29T20:06:18.301776+00:00"
   },
   {
-    "title": "Bitcoin price wedged into \u2018most divided\u2019 FOMC as Iran war spikes oil prices 8%",
-    "url": "https://cointelegraph.com/markets/bitcoin-price-wedged-into-most-divided-fomc-as-iran-war-spikes-oil-prices",
-    "summary": "Bitcoin traders weathered an oil-price surge and ongoing Asia chip-stock sell-off into the Federal Reserve interest-rate decision.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-07-29T18:51:30.372161+00:00"
-  },
-  {
-    "title": "S&P 500 Bounces as Fed Holds Off on Rate Increase: Markets Wrap",
+    "title": "Stocks Fall as 30-Year Bond Yields Surge After Fed: Markets Wrap",
     "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
-    "summary": "Wall Street traders paced a rebound in stocks as the Federal Reserve held off on raising interest rates as it assesses the impacts of the Iran war on inflation. Oil climbed.",
+    "summary": "Stocks ended sharply lower as concerns about inflation drove longer-dated bond yields to an almost two-decade high after the Federal Reserve left rates steady despite a resurgence in oil prices.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-29T18:51:31.217278+00:00"
+    "fetched_at": "2026-07-29T20:06:19.649525+00:00"
   },
   {
-    "title": "Fed Should've Raised Rates Amid 'Hot' Inflation, Economist Swonk Says",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-29/fed-should-ve-raised-rates-amid-hot-inflation-economist-swonk-says",
-    "summary": "KPMG Chief Economist Diane Swonk says she expects a rate hike in September after the decision by the Federal Reserve's policy-setting Federal Open Market Committee to leave rates unchanged. She speaks on Bloomberg Television's \"The Fed Decides.\" (Source: Bloomberg)",
+    "title": "Nasdaq 100 Enters Correction, S&P 500 Falls After Fed Decision",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-29/us-futures-tick-higher-as-semiconductor-stocks-climb-fed-looms",
+    "summary": "The Nasdaq 100 Index closed in correction territory, pushing the broader stock market lower as the Federal Reserve refrained from raising interest rates but a trio of dissents signaled support for tighter monetary policy.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-29T18:51:31.217342+00:00"
+    "fetched_at": "2026-07-29T20:06:19.649585+00:00"
+  },
+  {
+    "title": "Bitcoin Barely Budges as Fed Keeps Interest Rates Unchanged",
+    "url": "https://bitcoinmagazine.com/markets/bitcoin-stays-still-on-fed-decision",
+    "summary": "Bitcoin Magazine\n\nBitcoin Barely Budges as Fed Keeps Interest Rates Unchanged\nThe leading cryptocurrency didn't move much \u2014 and it wasn't clear what the Fed will do next. \nThis post Bitcoin Barely Budges as Fed Keeps Interest Rates Unchanged first appeared on Bitcoin Magazine and is written by Mathe",
+    "source": "Bitcoin Magazine",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-29T20:06:18.664996+00:00"
   },
   {
     "title": "Democratic Senator Backs Clarity Act \u2014 With Proposed Law Enforcement Changes Included: Report",
@@ -42,34 +51,34 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-29T18:51:30.574310+00:00"
+    "fetched_at": "2026-07-29T20:06:18.665064+00:00"
   },
   {
-    "title": "Banking Lobby CEO Talks Crypto Clarity Act as Senators Race To Pass Bill",
-    "url": "https://bitcoinmagazine.com/news/banking-lobby-ceo-talks-crypto-clarity-act",
-    "summary": "Bitcoin Magazine\n\nBanking Lobby CEO Talks Crypto Clarity Act as Senators Race To Pass Bill\nThe Clarity Act has stalled so far this year partly because of the banking lobby. \nThis post Banking Lobby CEO Talks Crypto Clarity Act as Senators Race To Pass Bill first appeared on Bitcoin Magazine and is w",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-29T18:51:30.574380+00:00"
-  },
-  {
-    "title": "Bitcoin, Ethereum Wobble as Fed Holds Rates Steady",
-    "url": "https://decrypt.co/374672/bitcoin-ethereum-price-fed-holds-rates-steady",
-    "summary": "Chair Kevin Warsh kept the federal funds rate at 3.5%\u20133.75% and offered no new signals on when cuts\u2014or hikes\u2014might come.",
+    "title": "There's a New Way to Protect Bitcoin From Future Quantum Attacks, Researchers Say",
+    "url": "https://decrypt.co/374651/new-research-bitcoin-wallet-quantum-attacks-safe",
+    "summary": "New research outlines a cryptographic approach that could allow Bitcoin and other blockchain wallets to remain compatible with existing addresses in a post-quantum future.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-29T18:51:30.653644+00:00"
+    "fetched_at": "2026-07-29T20:06:18.810238+00:00"
   },
   {
-    "title": "Ethereum Price Stalls as Fed Rate Decision Looms",
-    "url": "https://decrypt.co/374653/ethereum-price-stalls-fed-rate-decision",
-    "summary": "Despite being down today, ETH has clawed back from the worst levels of the year. Now it's waiting on the Fed.",
+    "title": "MoonPay's PayBox Puts a Crypto Wallet Inside Claude and ChatGPT\u2014And Lets It Pay for Things",
+    "url": "https://decrypt.co/374687/moonpays-paybox-crypto-wallet-claude-chatgpt",
+    "summary": "The company wants your AI to move money autonomously while you stay in control. Here's how it actually works.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-29T18:51:30.653696+00:00"
+    "fetched_at": "2026-07-29T20:06:18.810302+00:00"
+  },
+  {
+    "title": "Fed holds rates steady as 3 officials push for hike while crypto market stays flat",
+    "url": "https://www.theblock.co/post/410092/fed-holds-rates-steady-three-officials-push-hike-crypto-market-stays-flat",
+    "summary": "The Fed said Middle East-driven energy shocks are keeping inflation above its 2% target, as it keeps it rate range steady.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-29T20:06:18.937592+00:00"
   },
   {
     "title": "Pump.fun token graduation rate jumps after BOOST changes launch incentives",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-29T18:51:30.743542+00:00"
-  },
-  {
-    "title": "\u2018Ethereum Cypherpunk Manifesto\u2019 author joins Ethereum Foundation as fourth board member",
-    "url": "https://www.theblock.co/post/410083/ethereum-cypherpunk-manifesto-author-ethereum-foundation-fourth-board-member",
-    "summary": "The SEAL 911 security firm co-founder, pcaversaccio, is known for his privacy advocacy and cypherpunk cultural commentary.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-29T18:51:30.743616+00:00"
+    "fetched_at": "2026-07-29T20:06:18.937658+00:00"
   },
   {
     "title": "Fed holds rates steady even as Iran war threatens fresh jolt of inflation",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-29T18:51:31.714653+00:00"
+    "fetched_at": "2026-07-29T20:06:20.511237+00:00"
   },
   {
     "title": "Fed\u2019s favourite inflation gauge to be lowered by stats agency change",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-29T18:51:31.714732+00:00"
+    "fetched_at": "2026-07-29T20:06:20.511311+00:00"
   }
 ]
