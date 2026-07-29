@@ -1,39 +1,39 @@
 [
   {
-    "title": "Bitcoin ETFs extend outflow streak as BTC fails to hold $65K",
-    "url": "https://cointelegraph.com/markets/bitcoin-etf-extend-outflow-streak-btc-slips-below-65k",
-    "summary": "US spot Bitcoin ETFs recorded four straight sessions of outflows totaling $526 million as Bitcoin faced renewed selling pressure after failing to hold $65,000.",
+    "title": "Crypto TradFi grows fivefold to $6.6B as exchanges expand into stocks, commodities: Report",
+    "url": "https://cointelegraph.com/news/crypto-exchanges-tokenized-assets-market-6-6-billion",
+    "summary": "A CoinGecko study points to rising demand for tokenized equities and commodities on centralized exchanges, with perpetual futures driving most of the market\u2019s trading activity.\n",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-29T07:37:45.141987+00:00"
+    "fetched_at": "2026-07-29T10:26:17.163994+00:00"
   },
   {
-    "title": "UK policy sprint finds cross-border payments are stablecoins\u2019 top use case",
-    "url": "https://cointelegraph.com/news/uk-policy-cross-border-payments-stablecoins-use-case",
-    "summary": "Industry participants said stablecoins offer the biggest near-term benefits for cross-border payments, while domestic UK retail adoption is likely to remain limited.",
+    "title": "Hungary repeals crypto checks as first MiCA license is granted",
+    "url": "https://cointelegraph.com/news/hungary-repeals-crypto-checks-first-mica-license-granted",
+    "summary": "Hungary removed mandatory third-party checks for crypto conversions as CoinCash received authorization to provide digital asset services under MiCA.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-29T07:37:45.142064+00:00"
+    "fetched_at": "2026-07-29T10:26:17.164074+00:00"
+  },
+  {
+    "title": "Markets Brace for One of the Most Uncertain Fed Days in Years",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-07-29/markets-brace-for-one-of-the-most-uncertain-fed-days-in-years",
+    "summary": "A chorus of investors say a rate hike is in the cards.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-07-29T10:26:18.311677+00:00"
   },
   {
     "title": "US Stocks Rise as Fed Call and AI Earnings Loom: Markets Wrap",
     "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
-    "summary": "US stocks edged higher as traders held off on major bets ahead of a US interest-rate decision where markets see room for a hike and earnings from two of the world\u2019s biggest spenders on artificial intelligence.",
+    "summary": "US stocks rose as a selloff in chipmakers abated ahead of earnings from two of the world\u2019s biggest spenders on artificial intelligence. Bonds fell before a US interest-rate decision where traders see room for a hike.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-29T07:37:45.950623+00:00"
-  },
-  {
-    "title": "Multiple Dead After 7.1-Magnitude Quake Hits Japan",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-29/multiple-dead-after-7-1-magnitude-quake-hits-japan-video",
-    "summary": "Rescuers continued the hunt for survivors in the ruins of a shopping mall on the southwestern island of Kyushu on Wednesday, after a major earthquake in which multiple people have been confirmed dead.\n\nThe quake hit a region that is a hub for Japan's semiconductor industry, housing names like TSMC a",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-29T07:37:45.950680+00:00"
+    "fetched_at": "2026-07-29T10:26:18.311738+00:00"
   },
   {
     "title": "SEC Chairman Says He\u2019s \u2018Committed\u2019 to Helping Advance Crypto Clarity Act",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-29T07:37:45.404482+00:00"
+    "fetched_at": "2026-07-29T10:26:17.561461+00:00"
   },
   {
     "title": "Dubai-Based Emirates Airline Adds Bitcoin and Crypto Payments",
@@ -51,43 +51,43 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-29T07:37:45.404543+00:00"
+    "fetched_at": "2026-07-29T10:26:17.561527+00:00"
   },
   {
-    "title": "Markets Don\u2019t Buy the US Ceasefire Against Iran Will Last",
-    "url": "https://decrypt.co/374611/us-iran-ceasefire-prediction-market-odds",
-    "summary": "The odds that a ceasefire lasts at least 14 consecutive days dropped by 10% today on Polymarket, and traders on Myriad believe peace talks won't happen until next month.",
+    "title": "Apple Sued After Fake iPhone Wallet App Drained $1.8M in Bitcoin",
+    "url": "https://decrypt.co/374628/apple-sued-after-fake-iphone-wallet-app-drained-1-8m-in-bitcoin",
+    "summary": "The suit claims Apple ranked a fake Sparrow Wallet app and put it in curated crypto collections alongside legitimate ones.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-29T07:37:45.507317+00:00"
+    "fetched_at": "2026-07-29T10:26:17.660757+00:00"
   },
   {
-    "title": "Apple Overtakes Nvidia\u2014Which Will Be Bigger by End of July?",
-    "url": "https://decrypt.co/374604/apple-overtakes-nvidia-which-bigger-july",
-    "summary": "Apple\u2019s supposedly inadequate AI spending suddenly looks less like falling behind and more like avoiding a very expensive bill.",
+    "title": "Russia Charges Telegram's Pavel Durov With Aiding Terrorism",
+    "url": "https://decrypt.co/374625/russia-charges-telegrams-pavel-durov-with-aiding-terrorism",
+    "summary": "Durov has previously called Russia\u2019s criminal case against him \"a sad spectacle of a state afraid of its own people.\"",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-29T07:37:45.507370+00:00"
+    "fetched_at": "2026-07-29T10:26:17.660813+00:00"
   },
   {
-    "title": "Ark Invest buys $12 million in SpaceX as it trims Block, Bullish and Robinhood holdings",
-    "url": "https://www.theblock.co/post/410002/ark-invest-buys-spacex-trims-block-bullish-robinhood",
-    "summary": "The firm sold $2.3 million worth of Block Inc. shares, $1.6 million worth of Bullish, and $4 million worth of Robinhood.",
+    "title": "Coalition of 44 state attorneys general says CFTC lacks authority over sports prediction markets",
+    "url": "https://www.theblock.co/post/410013/state-attorneys-general-cftc-letter-prediction-markets",
+    "summary": "The group of AGs sent a letter to the CFTC, urging the agency to draft new rules consistent with the Commodity Exchange Act.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-29T07:37:45.602953+00:00"
+    "fetched_at": "2026-07-29T10:26:17.764445+00:00"
   },
   {
-    "title": "Ionic Digital jumps 25% in Nasdaq debut after expanding Celsius bitcoin mining assets into AI infrastructure",
-    "url": "https://www.theblock.co/post/409945/ionic-digital-jumps-22-nasdaq-debut-celsius-bitcoin-mining-assets-ai-infrastructure",
-    "summary": "Ionic Digital was formed from Celsius Mining\u2019s assets and later took direct control of its sites from Hut 8.",
+    "title": "Russia charges Telegram founder Pavel Durov with aiding terrorism, issues arrest warrant: report",
+    "url": "https://www.theblock.co/post/410005/russia-charges-telegram-founder-pavel-durov",
+    "summary": "Russian security forces charged Telegram founder Pavel Durov with aiding terrorism, issuing an international warrant for his arrest.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-29T07:37:45.603023+00:00"
+    "fetched_at": "2026-07-29T10:26:17.764513+00:00"
   },
   {
     "title": "Ukraine adapts strikes on Russian energy industry to hit critical components",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-29T07:37:46.458151+00:00"
+    "fetched_at": "2026-07-29T10:26:18.892917+00:00"
   },
   {
     "title": "US poised to impose new Russia sanctions package",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-29T07:37:46.458211+00:00"
+    "fetched_at": "2026-07-29T10:26:18.892983+00:00"
   }
 ]
