@@ -1,39 +1,39 @@
 [
   {
-    "title": "South Korea plans stablecoin rules as opposition pushes crypto tax repeal",
-    "url": "https://cointelegraph.com/news/south-korea-consolidated-crypto-law-tax-repeal",
-    "summary": "The FSC reportedly plans a government-backed digital asset bill covering stablecoins and exchanges, while opposition lawmakers seek to scrap a 22% crypto tax due in 2027.",
+    "title": "Bitcoin ETFs extend outflow streak as BTC fails to hold $65K",
+    "url": "https://cointelegraph.com/markets/bitcoin-etf-extend-outflow-streak-btc-slips-below-65k",
+    "summary": "US spot Bitcoin ETFs recorded four straight sessions of outflows totaling $526 million as Bitcoin faced renewed selling pressure after failing to hold $65,000.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-29T04:56:45.819057+00:00"
+    "fetched_at": "2026-07-29T07:37:45.141987+00:00"
   },
   {
-    "title": "Celsius-linked Bitcoin miner Ionic Digital gains 26% in Nasdaq debut",
-    "url": "https://cointelegraph.com/markets/celsius-bitcoin-miner-ionic-digital-nasdaq-debut",
-    "summary": "The Bitcoin miner and AI infrastructure company closed at $62.90, giving it a market capitalization of about $2.8 billion after its direct listing.",
+    "title": "UK policy sprint finds cross-border payments are stablecoins\u2019 top use case",
+    "url": "https://cointelegraph.com/news/uk-policy-cross-border-payments-stablecoins-use-case",
+    "summary": "Industry participants said stablecoins offer the biggest near-term benefits for cross-border payments, while domestic UK retail adoption is likely to remain limited.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-29T04:56:45.819131+00:00"
+    "fetched_at": "2026-07-29T07:37:45.142064+00:00"
   },
   {
-    "title": "Latest Oil Market News and Analysis for July 29",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-28/latest-oil-market-news-and-analysis-for-july-29",
-    "summary": "Oil surged as a fresh round of fighting erupted across the Middle East, threatening further disruptions to energy flows and severely undermining diplomatic efforts to end the months-old conflict.",
+    "title": "US Stocks Rise as Fed Call and AI Earnings Loom: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-28/stock-market-today-dow-s-p-live-updates",
+    "summary": "US stocks edged higher as traders held off on major bets ahead of a US interest-rate decision where markets see room for a hike and earnings from two of the world\u2019s biggest spenders on artificial intelligence.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-29T04:56:46.594137+00:00"
+    "fetched_at": "2026-07-29T07:37:45.950623+00:00"
   },
   {
-    "title": "Korean Stocks See \u2018Irrational Selling\u2019 as Slide Extends to 13%",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-29/korean-stocks-tumble-a-second-day-as-sk-hynix-results-disappoint",
-    "summary": "South Korean stocks slumped as retail investors rushed to cut positions, with SK Hynix Inc.\u2019s disappointing earnings worsening the already\u2011jittery sentiment around artificial intelligence.",
+    "title": "Multiple Dead After 7.1-Magnitude Quake Hits Japan",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-29/multiple-dead-after-7-1-magnitude-quake-hits-japan-video",
+    "summary": "Rescuers continued the hunt for survivors in the ruins of a shopping mall on the southwestern island of Kyushu on Wednesday, after a major earthquake in which multiple people have been confirmed dead.\n\nThe quake hit a region that is a hub for Japan's semiconductor industry, housing names like TSMC a",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-29T04:56:46.594200+00:00"
+    "fetched_at": "2026-07-29T07:37:45.950680+00:00"
   },
   {
     "title": "SEC Chairman Says He\u2019s \u2018Committed\u2019 to Helping Advance Crypto Clarity Act",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-29T04:56:45.972139+00:00"
+    "fetched_at": "2026-07-29T07:37:45.404482+00:00"
   },
   {
     "title": "Dubai-Based Emirates Airline Adds Bitcoin and Crypto Payments",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-29T04:56:45.972204+00:00"
+    "fetched_at": "2026-07-29T07:37:45.404543+00:00"
   },
   {
     "title": "Markets Don\u2019t Buy the US Ceasefire Against Iran Will Last",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-29T04:56:46.067493+00:00"
+    "fetched_at": "2026-07-29T07:37:45.507317+00:00"
   },
   {
     "title": "Apple Overtakes Nvidia\u2014Which Will Be Bigger by End of July?",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-29T04:56:46.067552+00:00"
+    "fetched_at": "2026-07-29T07:37:45.507370+00:00"
+  },
+  {
+    "title": "Ark Invest buys $12 million in SpaceX as it trims Block, Bullish and Robinhood holdings",
+    "url": "https://www.theblock.co/post/410002/ark-invest-buys-spacex-trims-block-bullish-robinhood",
+    "summary": "The firm sold $2.3 million worth of Block Inc. shares, $1.6 million worth of Bullish, and $4 million worth of Robinhood.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-29T07:37:45.602953+00:00"
   },
   {
     "title": "Ionic Digital jumps 25% in Nasdaq debut after expanding Celsius bitcoin mining assets into AI infrastructure",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-29T04:56:46.161637+00:00"
-  },
-  {
-    "title": "Crypto hacks hit record high in H1 2026 as losses top $1 billion, Blockaid says",
-    "url": "https://www.theblock.co/post/409944/crypto-hacks-hit-record-high-in-h1-2026-as-losses-top-1-billion-blockaid-says",
-    "summary": "Ethereum and Solana projects lost the most during the first half of 2026, at $332 million and $326 million, respectively.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-29T04:56:46.161706+00:00"
+    "fetched_at": "2026-07-29T07:37:45.603023+00:00"
   },
   {
     "title": "Ukraine adapts strikes on Russian energy industry to hit critical components",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-29T04:56:47.061377+00:00"
+    "fetched_at": "2026-07-29T07:37:46.458151+00:00"
   },
   {
     "title": "US poised to impose new Russia sanctions package",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-29T04:56:47.061446+00:00"
+    "fetched_at": "2026-07-29T07:37:46.458211+00:00"
   }
 ]
