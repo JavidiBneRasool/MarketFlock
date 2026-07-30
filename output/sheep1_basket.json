@@ -1,39 +1,48 @@
 [
   {
-    "title": "Aviva Investors launches tokenized fund after Central Bank of Ireland approval",
-    "url": "https://cointelegraph.com/news/aviva-investors-tokenized-fund-central-bank-ireland-xrp-ledger",
-    "summary": "The new XRPL-based share class gives eligible investors blockchain-based access to a regulated US dollar liquidity fund while keeping traditional custody arrangements.\n",
+    "title": "Telegram\u2019s Pavel Durov responds to Russia\u2019s terrorism designation",
+    "url": "https://cointelegraph.com/news/pavel-durov-responds-russia-terrorism-designation-cites-mass-surveillance-censorship",
+    "summary": "The Telegram founder said Russia designated him a terrorist after he refused government demands for mass surveillance and censorship on the messaging platform.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-30T18:07:57.926662+00:00"
+    "fetched_at": "2026-07-30T20:10:14.957243+00:00"
   },
   {
-    "title": "Canadian crypto ownership increases to 25%: Ontario survey",
-    "url": "https://cointelegraph.com/news/canadians-ownership-crypto-osc-survey",
-    "summary": "A survey of more than 2,000 Canadians in late 2025 and early 2026 showed an increasing awareness of risk around the crypto industry and higher ownership of assets.",
+    "title": "Senator Schumer proposes agency to address corruption, including Trump\u2019s crypto ventures",
+    "url": "https://cointelegraph.com/news/senate-government-agency-donald-trump-cryptocurrency-ventures",
+    "summary": "The proposed legislation referenced Donald Trump\u2019s disclosure of billions of dollars in crypto earnings in 2025, as well as his family\u2019s business ties to foreign governments.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-30T18:07:57.926745+00:00"
+    "fetched_at": "2026-07-30T20:10:14.957327+00:00"
   },
   {
-    "title": "Nasdaq 100 Gains 3% in AI Trade Revival After Rout: Markets Wrap",
+    "title": "Womenswear Firm Reformation Closes Flat After $210.9 Million IPO",
+    "url": "https://www.bloomberg.com/news/articles/2026-07-30/womenswear-firm-reformation-opens-flat-after-210-9-million-ipo",
+    "summary": "Reformation Inc., a sustainable womenswear brand backed by private equity firm Permira, closed barely changed in its trading debut Thursday, after the company raised $210.9 million in a listing that priced at the bottom of its marketed range.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-07-30T20:10:15.979776+00:00"
+  },
+  {
+    "title": "Chip Stocks Post Biggest Advance Since April 2025: Markets Wrap",
     "url": "https://www.bloomberg.com/news/articles/2026-07-29/stock-market-today-dow-s-p-live-updates",
     "summary": "A rebound in giant chipmakers lifted stocks as dip buyers emerged on speculation that the artificial-intelligence trade that has powered the bull market has more room to run.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-07-30T18:07:58.789793+00:00"
+    "fetched_at": "2026-07-30T20:10:15.979835+00:00"
   },
   {
-    "title": "Mortgage Rates In US Rise to 6.66%, Highest Level In A Year",
-    "url": "https://www.bloomberg.com/news/videos/2026-07-30/mortgage-rates-in-us-rises-highest-level-in-a-year-video",
-    "summary": "Bloomberg's Michael McKee joins Scarlet Fu on \"Bloomberg Real Yield\" to discuss the Fed decision, the surge in long-end US Treasury yields and its effect on rates for consumers.  US mortgage rates rose to a 12-month high due to climbing yields. (Source: Bloomberg)",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-30T18:07:58.789852+00:00"
+    "title": "Legendary Investor Ray Dalio Still Holds Bitcoin \u2014 But Only 1% of His Portfolio",
+    "url": "https://bitcoinmagazine.com/news/ray-dalio-prefers-gold-over-bitcoin",
+    "summary": "Bitcoin Magazine\n\nLegendary Investor Ray Dalio Still Holds Bitcoin \u2014 But Only 1% of His Portfolio\u00a0\nRay Dalio still prefers the precious metal over \"digital gold.\"\nThis post Legendary Investor Ray Dalio Still Holds Bitcoin \u2014 But Only 1% of His Portfolio\u00a0 first appeared on Bitcoin Magazine and is writ",
+    "source": "Bitcoin Magazine",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-07-30T20:10:15.368009+00:00"
   },
   {
     "title": "Treasury Secretary Scott Bessent Urges Lawmakers to Vote on Clarity Act, Quotes Satoshi Nakamoto",
@@ -42,52 +51,43 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-30T18:07:58.250934+00:00"
+    "fetched_at": "2026-07-30T20:10:15.368078+00:00"
   },
   {
-    "title": "Professional Law Enforcement Group Backs Crypto\u2019s CLARITY Act, Adding Pressure Before August Recess",
-    "url": "https://bitcoinmagazine.com/news/law-enforcement-group-backs-clarity-act",
-    "summary": "Bitcoin Magazine\n\nProfessional Law Enforcement Group Backs Crypto&#8217;s CLARITY Act, Adding Pressure Before August Recess\nThe Major Cities Chiefs Association is the latest to throw their support behind the crypto bill. \nThis post Professional Law Enforcement Group Backs Crypto&#8217;s CLARITY Act,",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-30T18:07:58.251020+00:00"
-  },
-  {
-    "title": "Bitcoin Quantum Threat Inches Closer as IBM Claims 'Trusted Quantum Advantage'",
-    "url": "https://decrypt.co/374753/bitcoin-quantum-threat-ibm-claims-trusted-quantum-advantage",
-    "summary": "The advance reflects IBM\u2019s continued progress toward machines powerful enough to challenge today's cryptography.",
+    "title": "Treasury Secretary Invokes Bitcoin Creator Satoshi Nakamoto in Plea for Clarity Act",
+    "url": "https://decrypt.co/374758/treasury-secretary-bitcoin-satoshi-nakamoto-clarity-act",
+    "summary": "Scott Bessent urged the Senate to immediately vote on the crypto market structure bill, accusing Democrats of delaying the legislation for political reasons.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-30T18:07:58.332972+00:00"
+    "fetched_at": "2026-07-30T20:10:15.449989+00:00"
   },
   {
-    "title": "Your 'Sexual Wellness' Pills Order Info From Hims Got Shared With Meta, Says FTC",
-    "url": "https://decrypt.co/374736/ftc-sues-hims-hers-sexual-wellness-health-data-sharing-meta",
-    "summary": "Regulators accuse the telehealth company of sharing sensitive health information with advertising platforms including Meta and Snap despite promising users privacy.",
+    "title": "Researchers Tried Letting AI Do Science. It Failed",
+    "url": "https://decrypt.co/374755/researchers-tried-letting-ai-do-science-it-failed",
+    "summary": "A multi-institution study found that today's frontier AI agents could handle the mechanics of research but failed to produce original work worthy of acceptance at a top AI conference.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-30T18:07:58.333029+00:00"
+    "fetched_at": "2026-07-30T20:10:15.450041+00:00"
   },
   {
-    "title": "JPMorgan says crypto bill\u2019s fading odds hurt outlook, warns parts could discourage institutional adoption",
-    "url": "https://www.theblock.co/post/410185/jpmorgan-crypto-bill-clarity-act-market-outlook",
-    "summary": "The falling odds of the Clarity Act passing the Senate before year-end are a setback for crypto markets, JPMorgan analysts said.",
+    "title": "IRS warns crypto holders fraudster sending fake letters in attempt to steal digital assets or data: Bloomberg",
+    "url": "https://www.theblock.co/post/410204/irs-crypto-holders-fraudster-sending-fake-letters-steal-digital-assets-data-bloomberg",
+    "summary": "IRS correspondence regarding crypto has become more familiar than in years past as the agency requires taxpayers to disclose activity.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-30T18:07:58.406354+00:00"
+    "fetched_at": "2026-07-30T20:10:15.562291+00:00"
   },
   {
-    "title": "IREN, Core Scientific and more surge as Aschenbrenner fund reportedly liquidates $1 billion AI infrastructure portfolio",
-    "url": "https://www.theblock.co/post/410173/iren-core-scientific-bitcoin-mining-stocks-surge-aschenbrenner-funds-portfolio-liquidation",
-    "summary": "Owning shares in these companies fit into Aschenbrenner\u2019s belief power and data-center capacity will be critical to scaling AI.",
+    "title": "Bipartisan Sens. Tillis and Gallego send new ethics compromise to White House in Clarity Act push",
+    "url": "https://www.theblock.co/post/410193/bipartisan-sens-tillis-gallego-new-ethics-compromise-white-house-clarity-act-push",
+    "summary": "Senators are trying again to see if they can get President Donald Trump to sign off on revised ethics language. ",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-30T18:07:58.406431+00:00"
+    "fetched_at": "2026-07-30T20:10:15.562363+00:00"
   },
   {
     "title": "Citadel buys Situational Awareness equity holdings after steep AI losses",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-30T18:07:59.354987+00:00"
+    "fetched_at": "2026-07-30T20:10:16.594558+00:00"
   },
   {
     "title": "Are investors really getting cold feet about the AI boom?",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-30T18:07:59.355049+00:00"
+    "fetched_at": "2026-07-30T20:10:16.594622+00:00"
   }
 ]
