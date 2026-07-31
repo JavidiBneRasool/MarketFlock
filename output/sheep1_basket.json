@@ -1,39 +1,48 @@
 [
   {
+    "title": "Here\u2019s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-07-31T19:04:07.217105+00:00"
+  },
+  {
     "title": "Ex-FTX users report funds being released in $900M distribution round",
     "url": "https://cointelegraph.com/news/ftx-users-funds-released-fifth-distribution-round",
     "summary": "Several users of the long-defunct crypto exchange reported that distribution agents had begun releasing funds to reimburse creditors for some of their 2022 losses.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-07-31T17:15:54.886484+00:00"
+    "fetched_at": "2026-07-31T19:04:07.217181+00:00"
   },
   {
-    "title": "Tether earns $1.5B in Q2 as US Treasury holdings fuel profits",
-    "url": "https://cointelegraph.com/news/tether-q2-profit-us-treasury-holdings-usdt-supply",
-    "summary": "Tether\u2019s reserve surplus grew to $4.11 billion in the second quarter as USDT supply rose despite a weaker stablecoin market and continued pressure across the crypto sector.",
-    "source": "CoinTelegraph",
+    "title": "The Future of the Democratic Party Runs Through Michigan",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-31/the-future-of-the-democratic-party-runs-through-michigan",
+    "summary": "On today\u2019s Big Take podcast, host David Gura sits down with senior political correspondent Nancy Cook and Bloomberg Opinions\u2019 Ronald Brownstein to unpack the stakes of the Michigan Democratic primary, where a centrist candidate is facing off against a Democratic-Socialist-backed progressive \u2014 and wh",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-07-31T19:04:08.332556+00:00"
+  },
+  {
+    "title": "Very Positive on European Stocks: UBS\u2019s Panseri",
+    "url": "https://www.bloomberg.com/news/videos/2026-07-31/very-positive-on-european-stocks-ubs-s-panseri-video",
+    "summary": "UBS Wealth Management France CIO Claudio Panseri discusses European earnings, how Europe works with AI stocks, and gives her outlook on bond yields. She speaks with Anna Edwards and Guy Johnson on \u2018Opening Trade.\u2019 (Source: Bloomberg)",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-07-31T19:04:08.332612+00:00"
+  },
+  {
+    "title": "Coinkite Releases Fixed Firmware After Coldcard Bug; AI Likely Involved In The Breach",
+    "url": "https://bitcoinmagazine.com/business/coinkite-releases-fixed-firmware-after-coldcard-bug-ai-likely-involved-in-the-hack",
+    "summary": "Bitcoin Magazine\n\nCoinkite Releases Fixed Firmware After Coldcard Bug; AI Likely Involved In The Breach\nNVK stated that AI-assisted code review can now find latent bugs at a speed outpacing even the industry\u2019s most seasoned experts, calling it a sober reality of the new AI paradigm.\nThis post Coinki",
+    "source": "Bitcoin Magazine",
     "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-07-31T17:15:54.886556+00:00"
-  },
-  {
-    "title": "More on the Fed\u2019s New Game of Monetary Policy Football",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-07-31/more-on-the-fed-s-new-game-of-monetary-policy-football",
-    "summary": "Revisiting the Maradona theory of interest rates.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-31T17:15:55.827248+00:00"
-  },
-  {
-    "title": "Stocks Get Tech Lift in Final Stretch of Wild July: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-07-30/stock-market-today-dow-s-p-live-updates",
-    "summary": "A rally in the world\u2019s largest tech companies lifted stocks in the final stretch of a dizzying July as strong earnings overshadowed inflation worries that have rattled the bond market.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-07-31T17:15:55.827306+00:00"
+    "tier": 9,
+    "fetched_at": "2026-07-31T19:04:07.495688+00:00"
   },
   {
     "title": "US Closes in on Iran\u2019s Strait of Hormuz Bitcoin Insurance Policy, Sanctions Companies",
@@ -42,16 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-31T17:15:55.211151+00:00"
-  },
-  {
-    "title": "COLDCARD SECURITY RISK: IMMEDIATE ACTION REQUIRED",
-    "url": "https://bitcoinmagazine.com/news/coldcard-security-risk-immediate-action-required",
-    "summary": "Bitcoin Magazine\n\nCOLDCARD SECURITY RISK: IMMEDIATE ACTION REQUIRED\nIMPORTANT: Major security vulnerability discovered in Coldcard hardware wallets. For your own safety read disclosures and take necessary actions immediately. \nThis post COLDCARD SECURITY RISK: IMMEDIATE ACTION REQUIRED first appeare",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-07-31T17:15:55.211218+00:00"
+    "fetched_at": "2026-07-31T19:04:07.495758+00:00"
   },
   {
     "title": "Tether Reports $1.5B Q2 Profit as USDT Supply Grows, Gold Holdings Rise",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-31T17:15:55.281356+00:00"
+    "fetched_at": "2026-07-31T19:04:07.599833+00:00"
   },
   {
     "title": "Circle Lands New York Trust Charter as Stablecoin Issuer Expands Regulatory Footprint",
@@ -69,25 +69,25 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-31T17:15:55.281413+00:00"
+    "fetched_at": "2026-07-31T19:04:07.599889+00:00"
   },
   {
-    "title": "World Cup 2026 prediction markets topped $20 billion, with Ronaldo tears among the biggest wagers",
-    "url": "https://www.theblock.co/post/410295/world-cup-2026-prediction-markets-topped-20-billion-ronaldo-tears-biggest-wagers",
-    "summary": "World Cup betting activity peaked around major knockout matches, with markets ranging from match outcomes to player-specific outcomes.",
+    "title": "Tether\u2019s excess reserves fall by more than $4 billion amid weaker Q2 financial results",
+    "url": "https://www.theblock.co/post/410305/tethers-excess-reserves-fall-by-more-than-4-billion-amid-weaker-q2-financial-results",
+    "summary": "Tether swung from $4.9 billion in net profit for Q2 2025 to $1.5 in net operating profit during the second quarter of this year.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-31T17:15:55.357313+00:00"
+    "fetched_at": "2026-07-31T19:04:07.714401+00:00"
   },
   {
-    "title": "Uniswap launches \u2018Earn\u2019 with Morpho to let users earn yield on idle crypto assets",
-    "url": "https://www.theblock.co/post/410286/uniswap-morpho-earn-yield-gauntlet-vaults",
-    "summary": "Uniswap has teamed up with Morpho to launch Earn, a new lending product that lets users earn yield via Gauntlet-curated vaults.",
+    "title": "Analysts back Strategy\u2019s cash buildup as Saylor shifts from \u2018100% bitcoin\u2019 approach",
+    "url": "https://www.theblock.co/post/410297/strategy-cash-buildup-saylor-shifts-from-100-bitcoin-approach",
+    "summary": "TD Cowen and Benchmark reiterated buy on Strategy after an $8.2 billion Q2 loss and a corporate STRC-to-par push.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-07-31T17:15:55.357381+00:00"
+    "fetched_at": "2026-07-31T19:04:07.714469+00:00"
   },
   {
     "title": "Spain\u2019s prime minister condemns influx of 60,000 migrants",
@@ -96,15 +96,15 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-31T17:15:56.331751+00:00"
+    "fetched_at": "2026-07-31T19:04:08.842456+00:00"
   },
   {
-    "title": "How Leopold Aschenbrenner, the \u2018golden child\u2019 of the AI trade, was laid low",
-    "url": "https://www.ft.com/content/620bd668-d112-412d-aa52-22489b128d55?syn-25a6b1a6=1",
-    "summary": "The $20bn hedge fund manager\u2019s wild ride ended with a call to Ken Griffin",
+    "title": "The return of Boeing",
+    "url": "https://www.ft.com/content/229f215f-9be0-4afe-a4d7-378aadbf87c5?syn-25a6b1a6=1",
+    "summary": "The US aviation giant is winning back trust after a near-decade strewn with disasters. Now it needs to make money again",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-07-31T17:15:56.331821+00:00"
+    "fetched_at": "2026-07-31T19:04:08.842514+00:00"
   }
 ]
