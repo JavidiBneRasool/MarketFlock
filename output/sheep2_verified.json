@@ -1,24 +1,24 @@
 [
   {
+    "title": "Onchain, in court: What happened in crypto legal news this week",
+    "url": "https://cointelegraph.com/news/on-chain-in-court-crypto-legal-news4",
+    "summary": "A case tied to defunct crypto exchange FTX moves forward, a soldier seeks to dismiss over a Polymarket bet and a former congressman was ordered to pay $35,000 for manipulative trading.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-01T21:42:20.353776+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
     "url": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams",
     "summary": "State officials reported that Minnesota residents, and largely senior citizens, had lost about $1 million from scams tied to crypto kiosks from 2023 to 2025.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-01T20:03:20.030611+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Crypto PAC pours another $1M into Michigan House race",
-    "url": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney",
-    "summary": "Michigan incumbent Shri Thanedar\u2019s re-election bid against other Democratic candidates is getting more about crypto with an infusion of ads funded by an industry-aligned PAC.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-01T20:03:20.030687+00:00",
+    "fetched_at": "2026-08-01T21:42:20.353837+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,7 +30,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-01T20:03:21.395134+00:00",
+    "fetched_at": "2026-08-01T21:42:21.515081+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -42,7 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-01T20:03:21.395189+00:00",
+    "fetched_at": "2026-08-01T21:42:21.515129+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-01T20:03:20.419609+00:00",
+    "fetched_at": "2026-08-01T21:42:20.766318+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-01T20:03:20.419731+00:00",
+    "fetched_at": "2026-08-01T21:42:20.766378+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-01T20:03:20.539732+00:00",
+    "fetched_at": "2026-08-01T21:42:20.897198+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,19 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-01T20:03:20.539793+00:00",
+    "fetched_at": "2026-08-01T21:42:20.897248+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Iran-linked exchange sent $676 million to Binance in alleged sanctions-evasion operation: Reuters",
+    "url": "https://www.theblock.co/post/410355/iran-linked-exchange-sent-676-million-to-binance-in-alleged-sanctions-evasion-operation-reuters",
+    "summary": "Dubai-based Shelbit processed over $4 billion since May 2024 through a network tied to Iranian gambling sites, the central bank, and the IRGC, per Reuters.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-01T21:42:21.032892+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,19 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-01T20:03:20.665149+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Russian decree bans crypto mining across Moscow region through 2032",
-    "url": "https://www.theblock.co/post/410345/russian-decree-bans-crypto-mining-across-moscow-region-through-2032",
-    "summary": "Regional energy officials had estimated that mining consumes 1 GW of power and could contribute to future electricity shortages.\u00a0",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-01T20:03:20.665222+00:00",
+    "fetched_at": "2026-08-01T21:42:21.032956+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-01T20:03:22.233931+00:00",
+    "fetched_at": "2026-08-01T21:42:22.254029+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-01T20:03:22.234024+00:00",
+    "fetched_at": "2026-08-01T21:42:22.254102+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
