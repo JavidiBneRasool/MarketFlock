@@ -1,21 +1,21 @@
 [
   {
+    "title": "Minnesota crypto ATM ban goes into effect after reported $1M losses",
+    "url": "https://cointelegraph.com/news/minnesota-crypto-atm-ban-losses-scams",
+    "summary": "State officials reported that Minnesota residents, and largely senior citizens, had lost about $1 million from scams tied to crypto kiosks from 2023 to 2025.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-01T18:49:48.794991+00:00"
+  },
+  {
     "title": "Crypto PAC pours another $1M into Michigan House race",
     "url": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney",
     "summary": "Michigan incumbent Shri Thanedar\u2019s re-election bid against other Democratic candidates is getting more about crypto with an infusion of ads funded by an industry-aligned PAC.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-01T17:49:38.553710+00:00"
-  },
-  {
-    "title": "Russia expands crypto mining ban to Moscow through 2032",
-    "url": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032",
-    "summary": "Russia has added Moscow, the Moscow Region and parts of Kursk Region to its cryptocurrency mining ban list, citing power supply concerns behind the restrictions.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-01T17:49:38.553781+00:00"
+    "fetched_at": "2026-08-01T18:49:48.795066+00:00"
   },
   {
     "title": "Bloomberg This Weekend 08/01/2026",
@@ -24,7 +24,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-01T17:49:39.606692+00:00"
+    "fetched_at": "2026-08-01T18:49:49.718141+00:00"
   },
   {
     "title": "Bipartisan Governors Launch Task Force to Tackle Immigration Reform",
@@ -33,7 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-01T17:49:39.606747+00:00"
+    "fetched_at": "2026-08-01T18:49:49.718201+00:00"
   },
   {
     "title": "Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-01T17:49:38.865336+00:00"
+    "fetched_at": "2026-08-01T18:49:49.143224+00:00"
   },
   {
     "title": "Younger Democrats Understand Clarity Act And Bill Should Pass, Says Coinbase\u2019s Chief Policy Officer",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-01T17:49:38.865410+00:00"
+    "fetched_at": "2026-08-01T18:49:49.143362+00:00"
   },
   {
     "title": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: 'Nothing Is 100%'",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-01T17:49:38.951324+00:00"
+    "fetched_at": "2026-08-01T18:49:49.242587+00:00"
   },
   {
     "title": "The More Americans Know About AI, the Less They Like It: Gallup",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-01T17:49:38.951382+00:00"
+    "fetched_at": "2026-08-01T18:49:49.242648+00:00"
   },
   {
     "title": "Russian decree bans crypto mining across Moscow region through 2032",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-01T17:49:39.024845+00:00"
+    "fetched_at": "2026-08-01T18:49:49.369962+00:00"
   },
   {
     "title": "Former Rep. George Santos agrees to pay $35,000 in CFTC settlement over Kalshi SOTU bet",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-01T17:49:39.024915+00:00"
+    "fetched_at": "2026-08-01T18:49:49.370030+00:00"
   },
   {
     "title": "EU ministers to discuss Spain\u2019s migrant crisis after S\u00e1nchez hits out over criticism",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-01T17:49:40.649191+00:00"
+    "fetched_at": "2026-08-01T18:49:50.258825+00:00"
   },
   {
     "title": "How 60,000 people swam to Spanish territory",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-01T17:49:40.649258+00:00"
+    "fetched_at": "2026-08-01T18:49:50.258932+00:00"
   }
 ]
