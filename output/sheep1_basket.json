@@ -1,21 +1,30 @@
 [
   {
+    "title": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis",
+    "url": "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis",
+    "summary": "Galaxy Research identified 1,196 addresses that lost 1,082.65 Bitcoin in a 41-minute window, expanding the estimated scope of the Coldcard wallet incident.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-01T09:56:15.411935+00:00"
+  },
+  {
     "title": "Bitcoin ETFs end July in the green despite late-month selling",
     "url": "https://cointelegraph.com/markets/bitcoin-etfs-july-green-despite-late-month-selling",
     "summary": "Spot Bitcoin ETFs attracted $172.4 million in July inflows but remained $5.3 billion negative year to date after heavy withdrawals in May and June.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-01T07:58:57.397935+00:00"
+    "fetched_at": "2026-08-01T09:56:15.412010+00:00"
   },
   {
-    "title": "Bank of Italy finds no consistent cost advantage for stablecoin remittances",
-    "url": "https://cointelegraph.com/news/bank-of-italy-study-no-stablecoin-remittance-cost-advantages",
-    "summary": "Researchers found that fiat conversion costs and payment infrastructure, rather than blockchain fees, accounted for most of the differences in stablecoin remittance costs and settlement times.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
+    "title": "Europe\u2019s Endless Heat Waves Imperil Once Reliable Power Sources",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-01/europe-s-endless-heat-waves-imperil-once-reliable-power-sources",
+    "summary": "A series of blistering heat waves has weakened some of Europe\u2019s most historically reliable sources of electricity, forcing the continent to lean more heavily on imported fossil fuels and variable renewable energy.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-01T07:58:57.398012+00:00"
+    "fetched_at": "2026-08-01T09:56:16.217639+00:00"
   },
   {
     "title": "How an Iron Ore Empire \u2018Built on Trust\u2019 Began to Sow Doubts",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-01T07:58:58.588698+00:00"
-  },
-  {
-    "title": "Bessent and the Fed Help Japan Reverse Months of Yen Losses",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-01/bessent-and-the-fed-help-japan-reverse-months-of-yen-losses",
-    "summary": "The US joined Japan in engineering one of the most notable rebounds in the yen since the currency began its years-long slide, a decline that\u2019s stoked inflation in the Asian nation and rippled through global markets.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-01T07:58:58.588754+00:00"
+    "fetched_at": "2026-08-01T09:56:16.217701+00:00"
   },
   {
     "title": "Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-01T07:58:57.749983+00:00"
+    "fetched_at": "2026-08-01T09:56:15.581902+00:00"
   },
   {
     "title": "Younger Democrats Understand Clarity Act And Bill Should Pass, Says Coinbase\u2019s Chief Policy Officer",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-01T07:58:57.750056+00:00"
+    "fetched_at": "2026-08-01T09:56:15.581977+00:00"
   },
   {
     "title": "Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-01T07:58:57.871331+00:00"
+    "fetched_at": "2026-08-01T09:56:15.660472+00:00"
   },
   {
     "title": "AI Music Company Suno Loses Copyright Case in Germany",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-01T07:58:57.871384+00:00"
+    "fetched_at": "2026-08-01T09:56:15.660526+00:00"
   },
   {
     "title": "Former Rep. George Santos agrees to pay $35,000 in CFTC settlement over Kalshi SOTU bet",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-01T07:58:57.989516+00:00"
+    "fetched_at": "2026-08-01T09:56:15.737047+00:00"
   },
   {
     "title": "Bitcoin losses linked to Coldcard vulnerability grow to $70 million, Galaxy Research says",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-01T07:58:57.989582+00:00"
+    "fetched_at": "2026-08-01T09:56:15.737117+00:00"
   },
   {
     "title": "Fifa abandons $20bn investment plan after global backlash",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-01T07:58:59.352578+00:00"
+    "fetched_at": "2026-08-01T09:56:16.981899+00:00"
   },
   {
     "title": "The week that shook football",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-01T07:58:59.352639+00:00"
+    "fetched_at": "2026-08-01T09:56:16.981961+00:00"
   }
 ]
