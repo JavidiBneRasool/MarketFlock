@@ -1,24 +1,24 @@
 [
   {
+    "title": "Crypto PAC pours another $1M into Michigan House race",
+    "url": "https://cointelegraph.com/news/crypto-pac-michigan-thanedar-mckinney",
+    "summary": "Michigan incumbent Shri Thanedar\u2019s re-election bid against other Democratic candidates is getting more about crypto with an infusion of ads funded by an industry-aligned PAC.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-01T16:44:46.783178+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "Russia expands crypto mining ban to Moscow through 2032",
     "url": "https://cointelegraph.com/news/russia-expands-crypto-mining-ban-moscow-2032",
     "summary": "Russia has added Moscow, the Moscow Region and parts of Kursk Region to its cryptocurrency mining ban list, citing power supply concerns behind the restrictions.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-01T15:50:20.466629+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Coldcard Bitcoin loss estimate rises to $70M after Galaxy analysis",
-    "url": "https://cointelegraph.com/news/coldcard-bitcoin-loss-estimate-70-million-galaxy-analysis",
-    "summary": "Galaxy Research identified 1,196 addresses that lost 1,082.65 Bitcoin in a 41-minute window, expanding the estimated scope of the Coldcard wallet incident.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-01T15:50:20.466713+00:00",
+    "fetched_at": "2026-08-01T16:44:46.783250+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,7 +30,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-01T15:50:21.543361+00:00",
+    "fetched_at": "2026-08-01T16:44:47.797467+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -42,7 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-01T15:50:21.543419+00:00",
+    "fetched_at": "2026-08-01T16:44:47.797521+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-01T15:50:20.775132+00:00",
+    "fetched_at": "2026-08-01T16:44:47.075204+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,19 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-01T15:50:20.775203+00:00",
+    "fetched_at": "2026-08-01T16:44:47.075277+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "CZ Warns Bitcoin Holders After $70 Million Wallet Exploit: 'Nothing Is 100%'",
+    "url": "https://decrypt.co/374810/cz-warns-bitcoin-holders-70-million-coldcard-wallet-exploit",
+    "summary": "The Binance founder urged holders to spread funds across multiple wallets as Galaxy Research put the toll from the Coldcard exploit at roughly $70 million\u2014nearly double the initial estimate.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-01T16:44:47.156396+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,19 +90,19 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-01T15:50:20.848392+00:00",
+    "fetched_at": "2026-08-01T16:44:47.156453+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Google Yanks Google Earth AI Image Tool a Day After Launch Over Deepfake Fears",
-    "url": "https://decrypt.co/374805/google-yanks-google-earth-ai-image-tool-deepfake-fears",
-    "summary": "The Nano Banana tool let users generate fake satellite scenes from a text prompt, alarming investigators who rely on Google Earth to verify breaking news and atrocities.",
-    "source": "Decrypt",
+    "title": "Russian decree bans crypto mining across Moscow region through 2032",
+    "url": "https://www.theblock.co/post/410345/russian-decree-bans-crypto-mining-across-moscow-region-through-2032",
+    "summary": "Regional energy officials had estimated that mining consumes 1 GW of power and could contribute to future electricity shortages.\u00a0",
+    "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-01T15:50:20.848449+00:00",
+    "fetched_at": "2026-08-01T16:44:47.226628+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,19 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-01T15:50:20.920895+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Bitcoin losses linked to Coldcard vulnerability grow to $70 million, Galaxy Research says",
-    "url": "https://www.theblock.co/post/410332/bitcoin-losses-linked-coldcard-vulnerability-70-million-galaxy-research",
-    "summary": "Galaxy said nearly 1,200 addresses were drained of more than 1,000 BTC worth roughly $70 million tied to a Coldcard vulnerability.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-01T15:50:20.921017+00:00",
+    "fetched_at": "2026-08-01T16:44:47.226691+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-01T15:50:22.210768+00:00",
+    "fetched_at": "2026-08-01T16:44:48.720176+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-01T15:50:22.210833+00:00",
+    "fetched_at": "2026-08-01T16:44:48.720246+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
