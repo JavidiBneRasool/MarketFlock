@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-02T20:03:46.996912+00:00"
+    "fetched_at": "2026-08-02T21:42:28.176796+00:00"
   },
   {
     "title": "Strategy leaves preferred STRC dividend at 12% as price still below par",
@@ -15,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-02T20:03:46.996987+00:00"
+    "fetched_at": "2026-08-02T21:42:28.176881+00:00"
   },
   {
-    "title": "Prysmian Is Said Near Takeover of US Electrical Maker Atkore",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-02/prysmian-is-said-near-takeover-of-us-electrical-maker-atkore",
-    "summary": "Italy\u2019s Prysmian is in advanced talks to acquire electrical manufacturing company Atkore Inc., people familiar with the matter said.",
+    "title": "AstraZeneca Said to Have Explored Bristol Myers Merger",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-02/astrazeneca-is-said-to-have-explored-bristol-myers-mega-merger",
+    "summary": "AstraZeneca Plc has explored an acquisition of Bristol Myers Squibb Co., in a megadeal that would create one of the world\u2019s largest drugmakers, according to people familiar with the matter.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-02T20:03:48.140115+00:00"
+    "fetched_at": "2026-08-02T21:42:29.187152+00:00"
   },
   {
-    "title": "Governors Push State Solutions on Costs",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-02/governors-push-state-solutions-on-costs",
-    "summary": "Governors from Oklahoma, Maryland and Delaware say states remain the nation's laboratories of democracy, sharing policy ideas on housing, education, child care and energy while arguing that affordability is the top concern for voters across party lines. They say states cannot control inflation or gl",
+    "title": "Yen Traders Brace for More Intervention With US at Japan\u2019s Side",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-02/yen-traders-brace-for-more-intervention-with-us-at-japan-s-side",
+    "summary": "The yen edged higher in thin trading with markets on high alert for more joint intervention by Japan and the US on Monday after coordinated operations in Tokyo and New York last week triggered a dramatic rebound in the currency.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-02T20:03:48.140169+00:00"
+    "fetched_at": "2026-08-02T21:42:29.187214+00:00"
   },
   {
     "title": "Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-02T20:03:47.263859+00:00"
+    "fetched_at": "2026-08-02T21:42:28.465646+00:00"
   },
   {
     "title": "Younger Democrats Understand Clarity Act And Bill Should Pass, Says Coinbase\u2019s Chief Policy Officer",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-02T20:03:47.263928+00:00"
+    "fetched_at": "2026-08-02T21:42:28.465731+00:00"
   },
   {
     "title": "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-02T20:03:47.403110+00:00"
+    "fetched_at": "2026-08-02T21:42:28.604562+00:00"
   },
   {
     "title": "What\u2019s the Deal With Meta\u2019s \u2018Pervert Glasses\u2019?",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-02T20:03:47.403165+00:00"
+    "fetched_at": "2026-08-02T21:42:28.604646+00:00"
+  },
+  {
+    "title": "SEC keeps Nasdaq bitcoin options on hold after granting CME review",
+    "url": "https://www.theblock.co/post/410373/sec-keeps-nasdaq-bitcoin-options-on-hold-after-granting-cme-review",
+    "summary": "CME is arguing that the contracts are commodity option swaps subject exclusively to the CFTC's oversight rather than the SEC's.\u00a0",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-02T21:42:28.696745+00:00"
   },
   {
     "title": "Saylor hints at Strategy bitcoin buy after five-week pause as STRC rate stays at 12%: \u2018Bitcoin Drive engaged\u2019",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-02T20:03:47.511302+00:00"
-  },
-  {
-    "title": "Trump Media says $165 million bitcoin transfer to Crypto.com wasn\u2019t a sale",
-    "url": "https://www.theblock.co/post/410360/trump-media-linked-wallets-move-165-million-in-bitcoin-to-crypto-com-leaving-4261-btc-in-tracked-wallets",
-    "summary": "The company said a similar transfer to Crypto.com in May was part of a broader trading strategy and did not represent a sale.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-02T20:03:47.511369+00:00"
+    "fetched_at": "2026-08-02T21:42:28.696822+00:00"
   },
   {
     "title": "AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-02T20:03:48.941164+00:00"
+    "fetched_at": "2026-08-02T21:42:30.068584+00:00"
   },
   {
     "title": "Morocco counts its dead and missing after mass swim to Ceuta",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-02T20:03:48.941228+00:00"
+    "fetched_at": "2026-08-02T21:42:30.068682+00:00"
   }
 ]
