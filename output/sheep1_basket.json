@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-02T17:51:01.603648+00:00"
+    "fetched_at": "2026-08-02T18:50:54.657099+00:00"
   },
   {
     "title": "Here\u2019s what happened in crypto today",
@@ -15,7 +15,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-02T17:51:01.603763+00:00"
+    "fetched_at": "2026-08-02T18:50:54.657219+00:00"
   },
   {
     "title": "Governors Push State Solutions on Costs",
@@ -24,7 +24,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-02T17:51:02.732727+00:00"
+    "fetched_at": "2026-08-02T18:50:55.853433+00:00"
   },
   {
     "title": "Office Dress Codes Face Shorts Debate",
@@ -33,7 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-02T17:51:02.732780+00:00"
+    "fetched_at": "2026-08-02T18:50:55.853471+00:00"
   },
   {
     "title": "Coldcard Bitcoin Thief Likely Used Top Blockchain Services Provider: Report",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-02T17:51:01.917587+00:00"
+    "fetched_at": "2026-08-02T18:50:54.975503+00:00"
   },
   {
     "title": "Younger Democrats Understand Clarity Act And Bill Should Pass, Says Coinbase\u2019s Chief Policy Officer",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-02T17:51:01.917657+00:00"
+    "fetched_at": "2026-08-02T18:50:54.975572+00:00"
   },
   {
     "title": "Coldcard Bitcoin Exploit Balloons to $88 Million as Attackers Keep Draining Wallets",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-02T17:51:02.048713+00:00"
+    "fetched_at": "2026-08-02T18:50:55.107549+00:00"
   },
   {
     "title": "What\u2019s the Deal With Meta\u2019s \u2018Pervert Glasses\u2019?",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-02T17:51:02.048773+00:00"
+    "fetched_at": "2026-08-02T18:50:55.107601+00:00"
+  },
+  {
+    "title": "Saylor hints at Strategy bitcoin buy after five-week pause as STRC rate stays at 12%: \u2018Bitcoin Drive engaged\u2019",
+    "url": "https://www.theblock.co/post/410370/saylor-hints-at-strategy-bitcoin-buy-after-five-week-pause-as-strc-rate-stays-at-12-bitcoin-drive-engaged",
+    "summary": "Strategy has gone five consecutive weeks without a disclosed bitcoin purchase; the firm last reported holding 843,775 BTC acquired for $63.69 billion.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-02T18:50:55.206791+00:00"
   },
   {
     "title": "Trump Media says $165 million bitcoin transfer to Crypto.com wasn\u2019t a sale",
@@ -78,16 +87,16 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-02T17:51:02.165375+00:00"
+    "fetched_at": "2026-08-02T18:50:55.206845+00:00"
   },
   {
-    "title": "Iran-linked exchange sent $676 million to Binance wallets in alleged sanctions-evasion operation: Reuters",
-    "url": "https://www.theblock.co/post/410355/iran-linked-exchange-sent-676-million-to-binance-in-alleged-sanctions-evasion-operation-reuters",
-    "summary": "Dubai-based Shelbit processed over $4 billion since May 2024 through a network tied to Iranian gambling sites, the central bank, and the IRGC, per Reuters.",
-    "source": "The Block",
-    "category": "Crypto",
+    "title": "AstraZeneca holds talks with Bristol Myers Squibb on $400bn megadeal",
+    "url": "https://www.ft.com/content/e9027253-e13c-460a-a4b1-f9047e5a6ca7?syn-25a6b1a6=1",
+    "summary": "Tie-up would create one of the world\u2019s biggest drugmakers",
+    "source": "Financial Times",
+    "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-02T17:51:02.165449+00:00"
+    "fetched_at": "2026-08-02T18:50:56.658618+00:00"
   },
   {
     "title": "Morocco counts its dead and missing after mass swim to Ceuta",
@@ -96,15 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-02T17:51:03.480740+00:00"
-  },
-  {
-    "title": "Europe\u2019s weak reaction to Spain\u2019s migrant crisis",
-    "url": "https://www.ft.com/content/8faf28df-bb76-49e6-a916-55faa8a5d4a8?syn-25a6b1a6=1",
-    "summary": "Pedro S\u00e1nchez is being unfairly singled out for a liberal immigration policy",
-    "source": "Financial Times",
-    "category": "Markets",
-    "tier": 9,
-    "fetched_at": "2026-08-02T17:51:03.480806+00:00"
+    "fetched_at": "2026-08-02T18:50:56.658677+00:00"
   }
 ]
