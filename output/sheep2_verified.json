@@ -1,48 +1,48 @@
 [
   {
+    "title": "Here\u2019s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-02T12:52:50.898766+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "BNB Chain pursues legal action after ex-employee\u2019s memecoin launch",
     "url": "https://cointelegraph.com/news/bnb-chain-legal-action-ex-employee-memecoin",
     "summary": "BNB Chain said a former employee allegedly used a company tutorial wallet to create a memecoin that the company says it did not authorize or endorse.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-02T11:51:57.029907+00:00",
+    "fetched_at": "2026-08-02T12:52:50.898825+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Trump Media sells another 2,628 BTC, holdings fall to 4,261 BTC",
-    "url": "https://cointelegraph.com/news/trump-media-2628-btc-crypto-com-4261-btc-holdings",
-    "summary": "Trump Media transferred another 2,628 Bitcoin to Crypto.com, bringing its reported sales over seven months to 7,281 BTC and leaving the company with 4,261 BTC in holdings.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-02T11:51:57.029981+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Bomb Kills Three, Injures 21 at Restaurant on Moscow\u2019s Kudrinskaya Square",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-02/bomb-kills-three-injures-21-at-restaurant-on-moscow-s-kudrinskaya-square",
-    "summary": "Three people were killed and 21 injured after a bomb was detonated in an upscale restaurant in central Moscow on Saturday night, according to Russia\u2019s National Anti-Terrorism Committee.",
+    "title": "Ugly Month in Emerging Markets May Be a Taste of What\u2019s Ahead",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-02/ugly-month-in-emerging-markets-may-be-a-taste-of-what-s-ahead",
+    "summary": "Investors\u2019 hopes of a stellar year in emerging markets are being tested by a bruising July that may offer a taste of the headwinds ahead.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-02T11:51:57.844244+00:00",
+    "fetched_at": "2026-08-02T12:52:51.962885+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Trump Says US to Hold Off Iran Attack If Deal Agreed",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-02/trump-says-us-to-cancel-iran-attack-subject-to-a-rapid-deal",
-    "summary": "President Donald Trump said the US will hold off new strikes against Iran after the Islamic Republic and other Middle Eastern nations told him they\u2019re working toward a deal.",
+    "title": "Trump Pauses Iran Strikes as Talks Resume",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-02/trump-pauses-iran-strikes-as-talks-resume-video",
+    "summary": "Bloomberg's Jeff Mason and Dan Williams say President Donald Trump is pausing planned military action against Iran to allow negotiations over the Strait of Hormuz and Iran's nuclear program to continue, while warning the pause depends on reaching a deal quickly. They say Israel remains cautious, Gul",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-02T11:51:57.844301+00:00",
+    "fetched_at": "2026-08-02T12:52:51.962927+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-02T11:51:57.180461+00:00",
+    "fetched_at": "2026-08-02T12:52:51.179486+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-02T11:51:57.180533+00:00",
+    "fetched_at": "2026-08-02T12:52:51.179570+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-02T11:51:57.284403+00:00",
+    "fetched_at": "2026-08-02T12:52:51.278345+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-02T11:51:57.284461+00:00",
+    "fetched_at": "2026-08-02T12:52:51.278389+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-02T11:51:57.366911+00:00",
+    "fetched_at": "2026-08-02T12:52:51.379244+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-02T11:51:57.366982+00:00",
+    "fetched_at": "2026-08-02T12:52:51.379301+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-02T11:51:58.425998+00:00",
+    "fetched_at": "2026-08-02T12:52:52.934027+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-02T11:51:58.426073+00:00",
+    "fetched_at": "2026-08-02T12:52:52.934075+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
