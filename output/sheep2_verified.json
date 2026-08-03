@@ -1,48 +1,48 @@
 [
   {
-    "title": "Coldcard\u2019s 5-year flaw reveals hardware wallet testing gap: Kraken\u2019s security chief",
-    "url": "https://cointelegraph.com/news/coldcards-5-year-flaw-reveals-hardware-wallet-testing-gap-krakens-security-chief",
-    "summary": "The five-year bug escaped detection because auditors verified that the intended random number generator existed, but not that it was being called. ",
+    "title": "Bitget to exit Japan, close remaining positions after Dec. 31",
+    "url": "https://cointelegraph.com/news/bitget-exit-japan-account-restrictions",
+    "summary": "The crypto exchange stopped accepting new registrations from Japan residents and will begin progressively restricting existing accounts on Nov. 1.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-03T05:27:57.714356+00:00",
+    "fetched_at": "2026-08-03T08:56:53.891502+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "South Korean stablecoin outflows top $367M in June: Report",
-    "url": "https://cointelegraph.com/news/south-korea-stablecoin-outflows-overseas-exchanges",
-    "summary": "Stablecoins have been flowing out of South Korean exchanges for 18 consecutive months as regulators weigh tighter oversight of cross-border crypto activity. ",
+    "title": "Crypto treasury firm ZeroStack warns of survival risk amid $82.5M loss",
+    "url": "https://cointelegraph.com/news/zerostack-survival-risk-82m-crypto-loss",
+    "summary": "The Nasdaq-listed company relies largely on staking rewards to fund operations, while its 0G holdings were valued 91% below their recorded costs. ",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-03T05:27:57.714408+00:00",
+    "fetched_at": "2026-08-03T08:56:53.891582+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Latest Oil Market News and Analysis for Aug. 3",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-02/latest-oil-market-news-and-analysis-for-aug-3",
-    "summary": "Oil fell after US President Donald Trump said new talks with Iran would begin on Monday after he called off a planned attack on the Islamic Republic.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-03T05:27:58.748931+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Oil Falls on Iran Deal Optimism, Yen Strengthens: Markets Wrap",
+    "title": "Stocks Rise as Oil Plunge Eases Pressure on Yields: Markets Wrap",
     "url": "https://www.bloomberg.com/news/articles/2026-08-02/oil-slumps-us-futures-rise-on-iran-talks-optimism-markets-wrap",
-    "summary": "Oil fell and Treasuries rose after President Donald Trump said fresh US-Iran talks would begin Monday, boosting optimism the two sides will reach a deal to reopen the Strait of Hormuz.",
+    "summary": "Stocks and bonds rose as the latest sign of easing tensions between the US and Iran pushed oil prices lower, allaying concerns about faster inflation.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-03T05:27:58.748972+00:00",
+    "fetched_at": "2026-08-03T08:56:54.639545+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Korean Stocks Drop as Chipmakers Reverse Friday\u2019s Record Gains",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-03/korean-stocks-drop-as-chipmakers-reverse-friday-s-record-gains",
+    "summary": "South Korean stocks slipped, as heavyweight chipmakers faced selloffs after Friday\u2019s record gains while investors unwound leverage-backed trades.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-08-03T08:56:54.639609+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-03T05:27:57.966066+00:00",
+    "fetched_at": "2026-08-03T08:56:54.173480+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-03T05:27:57.966113+00:00",
+    "fetched_at": "2026-08-03T08:56:54.173554+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-03T05:27:58.100846+00:00",
+    "fetched_at": "2026-08-03T08:56:54.268843+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-03T05:27:58.100882+00:00",
+    "fetched_at": "2026-08-03T08:56:54.268908+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-03T05:27:58.216870+00:00",
+    "fetched_at": "2026-08-03T08:56:54.344775+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-03T05:27:58.216912+00:00",
+    "fetched_at": "2026-08-03T08:56:54.344843+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-03T05:27:59.346864+00:00",
+    "fetched_at": "2026-08-03T08:56:55.137944+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-03T05:27:59.346905+00:00",
+    "fetched_at": "2026-08-03T08:56:55.138006+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
