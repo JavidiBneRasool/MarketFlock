@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-03T17:39:19.003710+00:00"
+    "fetched_at": "2026-08-03T19:15:22.460365+00:00"
   },
   {
     "title": "BlackRock launches tokenized money market funds for stablecoin reserves",
@@ -15,25 +15,34 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-03T17:39:19.003780+00:00"
+    "fetched_at": "2026-08-03T19:15:22.460437+00:00"
   },
   {
-    "title": "Citadel Securities\u2019 Shah Says Markets Questioning Warsh\u2019s Plans",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-03/citadel-securities-shah-says-markets-questioning-warsh-s-plans",
-    "summary": "Federal Reserve Chairman Kevin Warsh is creating fresh uncertainty for investors by pledging to rein in inflation without explaining how he intends to do so, according to Citadel Securities.",
+    "title": "Oil Slips as Trump Says Iran, US in Talks Over Hormuz Reopening",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-03/oil-slips-as-trump-holds-off-iran-attack-says-talks-to-resume-msdeau9b",
+    "summary": "Oil fell after both the US and Iran signaled that discussions to restore shipping through the Strait of Hormuz are ongoing, raising hopes for a pickup in supply from the Middle East.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-03T17:39:20.326130+00:00"
+    "fetched_at": "2026-08-03T19:15:27.488826+00:00"
   },
   {
-    "title": "Stocks, Bonds Rise as US-Iran Hopes Spur Oil Drop: Markets Wrap",
+    "title": "S&P 500 Hovers Near Record High on US-Iran Hopes: Markets Wrap",
     "url": "https://www.bloomberg.com/news/articles/2026-08-02/oil-slumps-us-futures-rise-on-iran-talks-optimism-markets-wrap",
     "summary": "Stocks joined bonds higher as cooling tensions in the Middle East spurred a drop in oil prices, allaying worries about inflation.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-03T17:39:20.326188+00:00"
+    "fetched_at": "2026-08-03T19:15:27.488890+00:00"
+  },
+  {
+    "title": "American Bitcoin Reports Quarterly Loss But Boosts Bitcoin Stash",
+    "url": "https://bitcoinmagazine.com/news/american-bitcoin-reports-loss-boosts-stash",
+    "summary": "Bitcoin Magazine\n\nAmerican Bitcoin Reports Quarterly Loss But Boosts Bitcoin Stash\u00a0\nThe publicly traded Bitcoin miner's stock is up after it revealed it had bought more coins. \nThis post American Bitcoin Reports Quarterly Loss But Boosts Bitcoin Stash\u00a0 first appeared on Bitcoin Magazine and is writt",
+    "source": "Bitcoin Magazine",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-03T19:15:22.727905+00:00"
   },
   {
     "title": "Crypto Clarity Act Risks More Delay As Recess Looms",
@@ -42,16 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-03T17:39:19.197051+00:00"
+    "fetched_at": "2026-08-03T19:15:22.727966+00:00"
   },
   {
-    "title": "Strategy Sells Bitcoin After Five Weeks Without Buying",
-    "url": "https://bitcoinmagazine.com/news/strategy-sells-bitcoin-after-buying-pause",
-    "summary": "Bitcoin Magazine\n\nStrategy Sells Bitcoin After Five Weeks Without Buying\nThe company had held off buying Bitcoin before the sale, instead focusing on strengthening its cash balance. \nThis post Strategy Sells Bitcoin After Five Weeks Without Buying first appeared on Bitcoin Magazine and is written by",
-    "source": "Bitcoin Magazine",
+    "title": "XRP Holders Can Now Borrow Ripple's RLUSD on Ethereum Without Selling Their Crypto",
+    "url": "https://decrypt.co/374862/xrp-holders-borrow-ripple-rlusd-ethereum-without-selling",
+    "summary": "Flare's FXRP has been approved as collateral in a $280 million RLUSD lending vault, allowing XRP holders to tap Ethereum's lending markets.",
+    "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-03T17:39:19.197105+00:00"
+    "fetched_at": "2026-08-03T19:15:22.820969+00:00"
   },
   {
     "title": "Crypto Privacy Tools Serve \u2018Essential Protective Functions\u2019: Report by ChangeNOW, CoinRabbit",
@@ -60,34 +69,25 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-03T17:39:19.365496+00:00"
+    "fetched_at": "2026-08-03T19:15:22.821041+00:00"
   },
   {
-    "title": "Solo Bitcoin Miner Hits Jackpot, Scoring $200K BTC Reward",
-    "url": "https://decrypt.co/374859/solo-bitcoin-miner-hits-jackpot-scoring-200k-btc-reward",
-    "summary": "CKPool's developer put the winner's hashrate at a \u201cwildly variable\u201d peak of 100 PH, noting that it was probably rented.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-03T17:39:19.365550+00:00"
-  },
-  {
-    "title": "Jameson Lopp says Coldcard exploit exposes limits of Bitcoin\u2019s \u2018don\u2019t trust, verify\u2019 mantra",
-    "url": "https://www.theblock.co/post/410446/jameson-lopp-coldcard-exploit-exposes-limits-bitcoins-dont-trust-verify-mantra",
-    "summary": "Lopp said AI is reshaping wallet security by helping attackers uncover bugs and developers audit code faster.",
+    "title": "FBI agent accused of stealing $1 million in crypto, allegedly turned to ChatGPT for vacation plans",
+    "url": "https://www.theblock.co/post/410491/fbi-agent-stealing-1-million-crypto-turned-to-chatgpt-vacation-plans",
+    "summary": "An FBI agent was arrested after allegedly stealing about $1 million in cryptocurrency from \"adversarial cryptocurrency accounts.\"",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-03T17:39:19.523746+00:00"
+    "fetched_at": "2026-08-03T19:15:22.933852+00:00"
   },
   {
-    "title": "Michael Saylor says he\u2019s never sold his personal bitcoin after Strategy dumps more BTC",
-    "url": "https://www.theblock.co/post/410451/michael-saylor-says-never-sold-his-personal-bitcoin-strategy-dumps-more-btc",
-    "summary": "Strategy Inc disclosed that it sold 1,638 bitcoin last week for $104.7 million, reducing its total holdings to 842,138 BTC.",
+    "title": "Kalshi CEO invokes Nasdaq, Uber and Airbnb in defense against New York lawsuit",
+    "url": "https://www.theblock.co/post/410481/kalshi-ceo-invokes-nasdaq-uber-airbnb-defense-new-york-lawsuit",
+    "summary": "\"You could copy and paste that lawsuit and file it against Nasdaq,\u201d Kalshi CEO Tarek Mansour said during an interview with CNBC.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-03T17:39:19.523825+00:00"
+    "fetched_at": "2026-08-03T19:15:22.933946+00:00"
   },
   {
     "title": "Japan vows further yen intervention with US if needed",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-03T17:39:21.158035+00:00"
+    "fetched_at": "2026-08-03T19:15:28.415735+00:00"
   },
   {
     "title": "Team America: Yen police",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-03T17:39:21.158088+00:00"
+    "fetched_at": "2026-08-03T19:15:28.415793+00:00"
   }
 ]
