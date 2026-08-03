@@ -1,39 +1,48 @@
 [
   {
-    "title": "Hashdex to shut smallest Bitcoin ETF after more than two years",
-    "url": "https://cointelegraph.com/news/hashdex-to-shut-smallest-bitcoin-etf-after-more-than-two-years",
-    "summary": "The spot price Bitcoin exchange-traded fund, which was never able to attract more than $18 million in net assets, will pay out investors and sell its 225 BTC in the coming weeks.",
+    "title": "Kenya moves 30 million academic credentials onto Avalanche blockchain",
+    "url": "https://cointelegraph.com/news/kenya-avalanche-blockchain-academic-credentials-verification",
+    "summary": "A new digital verification platform aims to reduce forged certificates by allowing employers and universities to authenticate academic records onchain.\n",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-03T15:35:26.624399+00:00"
+    "fetched_at": "2026-08-03T17:39:19.003710+00:00"
   },
   {
-    "title": "US hints at more yen intervention: Five things to know in Bitcoin this week",
-    "url": "https://cointelegraph.com/markets/us-hints-at-more-yen-intervention-five-things-to-know-in-bitcoin-this-week",
-    "summary": "The US and Japan coordinate on the yen for the first time since 2011 as Bitcoin traders brace for a historically rough August.",
+    "title": "BlackRock launches tokenized money market funds for stablecoin reserves",
+    "url": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-funds-stablecoin-reserves",
+    "summary": "The asset manager introduced two blockchain-based money market funds designed to qualify as stablecoin reserve assets under the US GENIUS Act.\n",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-03T15:35:26.624478+00:00"
+    "fetched_at": "2026-08-03T17:39:19.003780+00:00"
   },
   {
-    "title": "Blanche Strikes Deal With GOP Senators to Advance Nomination",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-03/blanche-strikes-deal-with-senators-to-advance-nomination-video",
-    "summary": "Two Republican senators are backing a deal with acting Attorney General Todd Blanche to formally rescind an order creating an \u201canti-weaponization fund,\u201d likely paving the way for Blanche\u2019s confirmation as the nation\u2019s top law enforcement officer. Jeff Mason reports on Bloomberg Television. (Source: ",
+    "title": "Citadel Securities\u2019 Shah Says Markets Questioning Warsh\u2019s Plans",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-03/citadel-securities-shah-says-markets-questioning-warsh-s-plans",
+    "summary": "Federal Reserve Chairman Kevin Warsh is creating fresh uncertainty for investors by pledging to rein in inflation without explaining how he intends to do so, according to Citadel Securities.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-03T15:35:27.924743+00:00"
+    "fetched_at": "2026-08-03T17:39:20.326130+00:00"
   },
   {
     "title": "Stocks, Bonds Rise as US-Iran Hopes Spur Oil Drop: Markets Wrap",
     "url": "https://www.bloomberg.com/news/articles/2026-08-02/oil-slumps-us-futures-rise-on-iran-talks-optimism-markets-wrap",
-    "summary": "Wall Street traders lifted stocks and bonds as the latest sign of easing Middle East tensions sank oil prices, allaying worries about inflation.",
+    "summary": "Stocks joined bonds higher as cooling tensions in the Middle East spurred a drop in oil prices, allaying worries about inflation.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-03T15:35:27.924803+00:00"
+    "fetched_at": "2026-08-03T17:39:20.326188+00:00"
+  },
+  {
+    "title": "Crypto Clarity Act Risks More Delay As Recess Looms",
+    "url": "https://bitcoinmagazine.com/news/crypto-clarity-act-risks-more-delay",
+    "summary": "Bitcoin Magazine\n\nCrypto Clarity Act Risks More Delay As Recess Looms\nLamakers will break for over one month this week \u2014 the Clarity Act may not get a vote before then.  \nThis post Crypto Clarity Act Risks More Delay As Recess Looms first appeared on Bitcoin Magazine and is written by Mathew Di Salv",
+    "source": "Bitcoin Magazine",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-03T17:39:19.197051+00:00"
   },
   {
     "title": "Strategy Sells Bitcoin After Five Weeks Without Buying",
@@ -42,69 +51,60 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-03T15:35:27.239740+00:00"
+    "fetched_at": "2026-08-03T17:39:19.197105+00:00"
   },
   {
-    "title": "Coldcard Bitcoin Theft Continues, Now Estimated Over $114 Million In Total Stolen",
-    "url": "https://bitcoinmagazine.com/news/coldcard-bitcoin-theft-continues",
-    "summary": "Bitcoin Magazine\n\nColdcard Bitcoin Theft Continues, Now Estimated Over $114 Million In Total Stolen\nBitcoin wallets continue to be drained in the ongoing hack. \nThis post Coldcard Bitcoin Theft Continues, Now Estimated Over $114 Million In Total Stolen first appeared on Bitcoin Magazine and is writt",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-03T15:35:27.239808+00:00"
-  },
-  {
-    "title": "Tom Lee\u2019s Bitmine Buys More Ethereum, Adds to Stock Buyback",
-    "url": "https://decrypt.co/374836/tom-lee-bitmine-buys-more-ethereum-adds-stock-buyback",
-    "summary": "The crypto treasury company says it added another 10,399 ETH last week, bringing its holdings to nearly 5.8 million ETH as it pushes toward its goal of owning 5% of Ethereum's circulating supply.",
+    "title": "Crypto Privacy Tools Serve \u2018Essential Protective Functions\u2019: Report by ChangeNOW, CoinRabbit",
+    "url": "https://decrypt.co/374838/crypto-privacy-tools-serve-essential-protective-functions-report-by-changenow-coinrabbit",
+    "summary": "Authoritarian oppression, corporate treasuries and \u201cwrench attacks\u201d make up the privacy case in a new report from ChangeNOW and CoinRabbit.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-03T15:35:27.318275+00:00"
+    "fetched_at": "2026-08-03T17:39:19.365496+00:00"
   },
   {
-    "title": "Morning Minute: The Coldcard Bitcoin Hack Nears $114 Million in Potential Losses",
-    "url": "https://decrypt.co/374830/morning-minute-the-coldcard-bitcoin-hack-nears-114-million-in-potential-losses",
-    "summary": "Self-custody is under attack, and it's becoming increasingly clear that AI is one of crypto's leading threats.",
+    "title": "Solo Bitcoin Miner Hits Jackpot, Scoring $200K BTC Reward",
+    "url": "https://decrypt.co/374859/solo-bitcoin-miner-hits-jackpot-scoring-200k-btc-reward",
+    "summary": "CKPool's developer put the winner's hashrate at a \u201cwildly variable\u201d peak of 100 PH, noting that it was probably rented.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-03T15:35:27.318339+00:00"
+    "fetched_at": "2026-08-03T17:39:19.365550+00:00"
   },
   {
-    "title": "Tom Lee says ether outperformed Nasdaq 100 in July as Bitmine adds 10,399 ETH",
-    "url": "https://www.theblock.co/post/410441/tom-lee-says-ether-outperformed-nasdaq-100-july-bitmine-adds-10399-eth",
-    "summary": "Bitmine expanded its ether treasury to 5.8 million ETH tokens as Tom Lee highlighted July's outperformance against the Nasdaq 100.",
+    "title": "Jameson Lopp says Coldcard exploit exposes limits of Bitcoin\u2019s \u2018don\u2019t trust, verify\u2019 mantra",
+    "url": "https://www.theblock.co/post/410446/jameson-lopp-coldcard-exploit-exposes-limits-bitcoins-dont-trust-verify-mantra",
+    "summary": "Lopp said AI is reshaping wallet security by helping attackers uncover bugs and developers audit code faster.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-03T15:35:27.408789+00:00"
+    "fetched_at": "2026-08-03T17:39:19.523746+00:00"
   },
   {
-    "title": "Eric Trump\u2019s American Bitcoin treasury tops 8,000 BTC as Q2 mining production hits record",
-    "url": "https://www.theblock.co/post/410426/eric-trumps-american-bitcoin-treasury-tops-8000-btc-as-q2-mining-production-hits-record",
-    "summary": "American Bitcoin expanded its reserve to 8,002 BTC after a record 932 BTC mined in Q2, with revenue rising 8% to $67 million.",
+    "title": "Michael Saylor says he\u2019s never sold his personal bitcoin after Strategy dumps more BTC",
+    "url": "https://www.theblock.co/post/410451/michael-saylor-says-never-sold-his-personal-bitcoin-strategy-dumps-more-btc",
+    "summary": "Strategy Inc disclosed that it sold 1,638 bitcoin last week for $104.7 million, reducing its total holdings to 842,138 BTC.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-03T15:35:27.408910+00:00"
+    "fetched_at": "2026-08-03T17:39:19.523825+00:00"
   },
   {
-    "title": "AstraZeneca holds talks with Bristol Myers Squibb over $400bn tie-up",
-    "url": "https://www.ft.com/content/e9027253-e13c-460a-a4b1-f9047e5a6ca7?syn-25a6b1a6=1",
-    "summary": "Deal would create world\u2019s fourth-largest drugmaker by market value",
+    "title": "Japan vows further yen intervention with US if needed",
+    "url": "https://www.ft.com/content/5de204a4-4db6-458c-aa9a-324e6bd5e766?syn-25a6b1a6=1",
+    "summary": "Finance minister Satsuki Katayama confirms joint action with Washington to counter \u2018disorderly movements\u2019",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-03T15:35:29.134395+00:00"
+    "fetched_at": "2026-08-03T17:39:21.158035+00:00"
   },
   {
-    "title": "Struggling to make sense of AstraZeneca-BMS",
-    "url": "https://www.ft.com/content/eddbdc29-5206-4c79-9ea7-f1a06ff040f1",
-    "summary": "All about oncology? A cardio workout? Patent-cliff avoidance? American dreaming?",
+    "title": "Team America: Yen police",
+    "url": "https://www.ft.com/content/f6d563ee-9238-4f82-a848-79f2478326bd?syn-25a6b1a6=1",
+    "summary": "A puzzling intervention",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-03T15:35:29.134450+00:00"
+    "fetched_at": "2026-08-03T17:39:21.158088+00:00"
   }
 ]
