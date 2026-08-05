@@ -1,39 +1,48 @@
 [
   {
-    "title": "Crypto whales accumulate as bear market nears late stage: CryptoQuant",
-    "url": "https://cointelegraph.com/markets/crypto-whales-buy-bear-market-late-stage-cryptoquant",
-    "summary": "Bitcoin, Ethereum and XRP whales increased balances during market weakness, as CryptoQuant said large holders are absorbing supply ahead of a possible bottom.",
+    "title": "Crypto-backed Michigan House incumbent loses primary despite $2M PAC support",
+    "url": "https://cointelegraph.com/news/michigan-house-rep-loses-primary-support-crypto-pac",
+    "summary": "A Midwest Democratic primary that raised accusations of payback from the cryptocurrency industry ended with the unseating of two-term incumbent Shri Thanedar.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-05T15:05:51.706369+00:00"
+    "fetched_at": "2026-08-05T17:16:21.243855+00:00"
   },
   {
-    "title": "Do the Coldcard attacks mean all hardware wallets are now insecure?",
-    "url": "https://cointelegraph.com/magazine/does-the-coldcard-attack-mean-all-hardware-wallets-are-now-insecure",
-    "summary": "The Coldcard entropy flaw caused a crisis of confidence in hardware wallets. Here\u2019s the details you need to know before you entrust Ledger, Trezor or Foundation with your Bitcoin.",
+    "title": "Western Union brings stablecoin remittances to Visa network with Stablecard",
+    "url": "https://cointelegraph.com/news/western-union-stablecard-stablecoin-remittances-visa",
+    "summary": "The remittance giant is rolling out Stablecard across 37 markets, targeting cross-border payments and consumers seeking US dollar-denominated savings in volatile economies.\n",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-05T15:05:51.706447+00:00"
+    "fetched_at": "2026-08-05T17:16:21.243933+00:00"
   },
   {
-    "title": "GLP-1 muda g\u00f4ndolas nos mercados e p\u00e3o de queijo perde espa\u00e7o",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-05/glp-1-muda-gondolas-nos-mercados-na-era-do-ozempic-video",
-    "summary": "Nos supermercados brasileiros, o p\u00e3o de queijo perde espa\u00e7o para o iogurte. As redes varejistas est\u00e3o reorganizando corredores e g\u00f4ndolas para a era do Ozempic. Saiba mais com Rachel Gamarski. Edi\u00e7\u00e3o de Patricia Xavier e produ\u00e7\u00e3o de Barbara Nascimento e Catarina Bacci. (Source: Bloomberg)",
+    "title": "S&P 500 Churns After $3.7 Trillion Rally to Record: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-04/stock-market-today-dow-s-p-live-updates",
+    "summary": "Wall Street\u2019s blistering run wavered as traders digested recent gains amid a slew of corporate earnings and hopes for a reopening of the Strait of Hormuz.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-05T15:05:52.658938+00:00"
+    "fetched_at": "2026-08-05T17:16:22.222962+00:00"
   },
   {
-    "title": "Africa\u2019s Highest Yielder Tops Debt Returns as Investors Turn Bullish",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-05/africa-s-highest-yielder-tops-debt-returns-as-investors-turn-bullish",
-    "summary": "Gabon has become a top performer in emerging sovereign bond markets, buoyed by expectations that an International Monetary Fund program will help it avert a debt restructuring.",
+    "title": "Carlyle Says PE Exit Market Open for Sellers of \u2018Good Companies\u2019",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-05/carlyle-says-pe-exit-market-open-for-sellers-of-good-companies",
+    "summary": "Carlyle Group Inc. is seeing a thaw in capital markets that is quickening the tempo of exits from investments across multiple industries, Chief Financial Officer Justin Plouffe said.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-05T15:05:52.659001+00:00"
+    "fetched_at": "2026-08-05T17:16:22.223028+00:00"
+  },
+  {
+    "title": "\u2018If Clarity Dies, Democrats Killed It\u2019: Lummis Urges Senate to Act on Crypto Bill Before Recess",
+    "url": "https://bitcoinmagazine.com/news/cynthia-lummis-urges-clarity-act-speed",
+    "summary": "Bitcoin Magazine\n\n&#8216;If Clarity Dies, Democrats Killed It&#8217;: Lummis Urges Senate to Act on Crypto Bill Before Recess\nTime is running out for the Clarity Act. Senator Lummis warns that some lawmakers still want to delay the bill. \nThis post &#8216;If Clarity Dies, Democrats Killed It&#8217;:",
+    "source": "Bitcoin Magazine",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-05T17:16:21.495390+00:00"
   },
   {
     "title": "Bitcoin Treasury Firm Strategy Pledges $250 a Year to Employee Trump Accounts",
@@ -42,52 +51,52 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-05T15:05:51.933957+00:00"
+    "fetched_at": "2026-08-05T17:16:21.495463+00:00"
   },
   {
-    "title": "Self Custody Is Dead. Long Live Self Custody",
-    "url": "https://bitcoinmagazine.com/culture/self-custody-is-dead-long-live-self-custody",
-    "summary": "Bitcoin Magazine\n\nSelf Custody Is Dead. Long Live Self Custody\nThe Coldcard security failure has shaken Bitcoin's confidence in hardware wallets\u2014but abandoning self-custody would mean abandoning the very reason Bitcoin exists. History suggests the lesson isn't to trust custodians again, but to build",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-05T15:05:51.934020+00:00"
-  },
-  {
-    "title": "Anthropic's Claude Mythos 5 'Targeted Real People' in UK Cyber Tests: AISI",
-    "url": "https://decrypt.co/374948/anthropics-claude-mythos-5-targeted-real-people-in-uk-cyber-tests-aisi",
-    "summary": "Anthropic's LLM and OpenAI's GPT-5.6 Sol took \"unsanctioned action\" on the live internet, the UK's AI Security Institute said.",
+    "title": "Circle Taps Visa, Mastercard and BlackRock as Validators for September Arc Launch",
+    "url": "https://decrypt.co/374961/circle-taps-visa-mastercard-and-blackrock-as-validators-for-september-arc-launch",
+    "summary": "Circle's USDC distribution deal with Coinbase has been renewed on existing terms, and Arc's testnet has processed half a billion transactions.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-05T15:05:52.038261+00:00"
+    "fetched_at": "2026-08-05T17:16:21.592995+00:00"
   },
   {
-    "title": "Morning Minute: Jim Cramer Sells His Bitcoin Over Quantum Fears",
-    "url": "https://decrypt.co/374947/morning-minute-jim-cramer-sells-his-bitcoin-over-quantum-fears",
-    "summary": "The last time he sold was in December 2022 with Bitcoin at $16,800. Will Jim's sales mark the bottom again?",
+    "title": "Eliza Founder Declares AI Token 'Dead,' Shuts Down Foundation After Lawsuit Settlement",
+    "url": "https://decrypt.co/374958/eliza-ai-token-dead-shuts-down-foundation-lawsuit",
+    "summary": "Shaw Walters says Eliza's token is no more after a class-action settlement drained the project's remaining funds.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-05T15:05:52.038320+00:00"
+    "fetched_at": "2026-08-05T17:16:21.593059+00:00"
   },
   {
-    "title": "Galaxy shares sink 12% after Q2 loss as AI data center business begins generating revenue",
-    "url": "https://www.theblock.co/post/410851/galaxy-shares-sink-11-after-85-million-q2-loss-despite-ai-data-center-gains",
-    "summary": "Galaxy's Helios Phase I campus is expected to generate roughly $80 million in quarterly leasing revenue beginning in Q3.",
+    "title": "TeraWulf\u2019s HPC leasing revenue jumps 52%, widening lead over bitcoin mining",
+    "url": "https://www.theblock.co/post/410888/terawulf-hpc-leasing-revenue-jumps-52-widening-lead-over-bitcoin-mining",
+    "summary": "HPC leasing accounted for roughly 71% of TeraWulf's $44.8 million in Q2 revenue, up from 62% in the prior quarter.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-05T15:05:52.120477+00:00"
+    "fetched_at": "2026-08-05T17:16:21.668906+00:00"
   },
   {
-    "title": "Saylor\u2019s Strategy joins Coinbase, Morgan Stanley and more in pledging contributions to Trump Accounts",
-    "url": "https://www.theblock.co/post/410849/saylors-strategy-joins-morgan-stanley-goldman-sachs-contributions-trump-accounts",
-    "summary": "Trump Accounts will invest in mutual funds or ETFs that track the S&amp;P 500 or another index of mainly U.S. equities.",
+    "title": "NFT founder accused of using millions from investor funds to finance DJ hobby, gambling",
+    "url": "https://www.theblock.co/post/410890/nft-founder-accused-using-millions-investor-funds-finance-dj-hobby-gambling",
+    "summary": "An NFT founder is facing fraud charges after prosecutors alleged he stole millions of dollars from investors to bankroll his lifestyle.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-05T15:05:52.120554+00:00"
+    "fetched_at": "2026-08-05T17:16:21.668973+00:00"
+  },
+  {
+    "title": "Google DeepMind CEO Demis Hassabis steps down to become chair",
+    "url": "https://www.ft.com/content/61d41764-f2f7-4906-a112-ff3073972c51?syn-25a6b1a6=1",
+    "summary": "Chief scientist Jeff Dean leaves the group to found his own start-up",
+    "source": "Financial Times",
+    "category": "Markets",
+    "tier": 9,
+    "fetched_at": "2026-08-05T17:16:22.928521+00:00"
   },
   {
     "title": "Progressive Democrat wins in Michigan in rebuke to party establishment",
@@ -96,15 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-05T15:05:53.334775+00:00"
-  },
-  {
-    "title": "Trump trapped between escalation and an Iran deal on Tehran\u2019s terms",
-    "url": "https://www.ft.com/content/87b039cf-7eb0-4cf6-b536-0c2929424dc5?syn-25a6b1a6=1",
-    "summary": "US president faces few good options to exit a war he once said would end swiftly with the Islamic republic\u2019s surrender",
-    "source": "Financial Times",
-    "category": "Markets",
-    "tier": 9,
-    "fetched_at": "2026-08-05T15:05:53.334846+00:00"
+    "fetched_at": "2026-08-05T17:16:22.928630+00:00"
   }
 ]
