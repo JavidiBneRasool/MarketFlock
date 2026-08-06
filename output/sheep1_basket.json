@@ -1,39 +1,39 @@
 [
   {
-    "title": "Bitcoin ETFs pull in $244M, 3-day inflow streak tops $626M",
-    "url": "https://cointelegraph.com/markets/bitcoin-etf-244-million-three-day-inflow-streak-626-million",
-    "summary": "US-listed Bitcoin ETFs attracted $244.4 million on Wednesday, marking three consecutive inflow days for a combined $626 million.",
+    "title": "Russian president signs crypto law, core rules take effect in 2026",
+    "url": "https://cointelegraph.com/news/putin-signs-crypto-law-core-rules-take-effect-2026",
+    "summary": "Russian President Vladimir Putin signed a crypto law establishing market rules for exchanges, custodians and investors, with core provisions taking effect in September 2026.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-06T07:30:37.803194+00:00"
+    "fetched_at": "2026-08-06T10:23:47.718297+00:00"
   },
   {
-    "title": "EU watchdogs warn of impersonation scams amid MiCA licensing shakeout",
-    "url": "https://cointelegraph.com/news/eu-watchdogs-mica-crypto-impersonation-scams",
-    "summary": "Criminals are reportedly using fake websites and falsified documents to target customers searching for licensed crypto providers.",
+    "title": "RWAs buck DeFi slowdown as tokenized assets gain traction: CoinShares",
+    "url": "https://cointelegraph.com/news/rwa-buck-defi-slowdown-tokenization-coinshares",
+    "summary": "Tokenized real-world assets moved beyond issuance as RWA deposits more than tripled to $7.4 billion, while lending and trading activity expanded despite a broader industry slowdown.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-06T07:30:37.803271+00:00"
+    "fetched_at": "2026-08-06T10:23:47.718378+00:00"
   },
   {
-    "title": "Latest Oil Market News and Analysis for Aug. 6",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-05/latest-oil-market-news-and-analysis-for-aug-6",
-    "summary": "Oil switched between modest gains and losses after Iran said it reached an agreement with Oman on a proposed shipping route through the Strait of Hormuz, leaving traders to assess the prospects for eased energy flows.",
+    "title": "Bonds, Dollar Weighed Down by Washington Policy Decisions",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-08-06/bonds-dollar-weighed-down-by-washington-policy-decisions",
+    "summary": "Investors ponder whether the \u2018Sell America\u2019 trade is back.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-06T07:30:38.896423+00:00"
+    "fetched_at": "2026-08-06T10:23:48.571245+00:00"
   },
   {
-    "title": "It Makes Sense for Gold to Trade Higher: 3-Minutes MLIV",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-06/it-makes-sense-for-gold-to-trade-higher-3-minutes-mliv-video",
-    "summary": "Anna Edwards, Lizzy Burden and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\"  (Source: Bloomberg)",
+    "title": "Stocks Waver as Traders Await Iran Deal, Jobs Data: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-05/stock-market-today-dow-s-p-live-updates",
+    "summary": "Stocks struggled for direction amid weakness in the technology sector, with investors awaiting developments in US-Iran talks and looking ahead to Friday\u2019s key US jobs report.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-06T07:30:38.896481+00:00"
+    "fetched_at": "2026-08-06T10:23:48.571304+00:00"
   },
   {
     "title": "White House Now Reviewing Crypto Clarity Act Ethics Text Ahead of August Deadline: Report",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-06T07:30:38.073937+00:00"
+    "fetched_at": "2026-08-06T10:23:47.965413+00:00"
   },
   {
     "title": "Bitcoin Red Team Finds 85 Critical Flaws Across 390 Open Source Repos After Coldcard Exploit",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-06T07:30:38.074062+00:00"
+    "fetched_at": "2026-08-06T10:23:47.965499+00:00"
+  },
+  {
+    "title": "Bitcoin AI Security Audit Files 4,962 Findings Across 390 Projects",
+    "url": "https://decrypt.co/375029/bitcoin-ai-security-audit-files-4962-findings-across-390-projects",
+    "summary": "A volunteer group is pointing AI agents at Bitcoin project codebases and says 720 of the issues it has filed are high severity or critical.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-06T10:23:48.076348+00:00"
   },
   {
     "title": "Meta Debuts AI Coding Agent Muse: Here\u2019s How It Compares to Claude Code and Codex",
@@ -60,34 +69,25 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-06T07:30:38.184788+00:00"
+    "fetched_at": "2026-08-06T10:23:48.076417+00:00"
   },
   {
-    "title": "Cloudflare OS: Here\u2019s What\u2019s Inside the Open-Source AI Agent Platform",
-    "url": "https://decrypt.co/374997/cloudflare-os-inside-open-source-ai-agent-platform",
-    "summary": "The release targets developers building autonomous apps and workflows on Cloudflare's edge\u2014a clear bet on agent infrastructure.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-06T07:30:38.184849+00:00"
-  },
-  {
-    "title": "Japanese stablecoin firm JPYC raises $38 million in extended Series B",
-    "url": "https://www.theblock.co/post/410959/jpyc-stablecoin-raises-38-million",
-    "summary": "The firm said Wednesday that the proceeds will be used to expand its financial and Web3 ecosystem and accelerate adoption of JPYC.",
+    "title": "EU watchdogs warn scammers are posing as crypto firms and regulators after MiCA deadline: FT",
+    "url": "https://www.theblock.co/post/410966/eu-watchdogs-warn-crypto-scams-mica",
+    "summary": "Crypto firms failing to secure MiCA authorization by July 1 must wind down or restrict services to EU clients.\u00a0",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-06T07:30:38.306211+00:00"
+    "fetched_at": "2026-08-06T10:23:48.162605+00:00"
   },
   {
-    "title": "Cathie Wood\u2019s Ark Invest scoops up $17 million in Circle, $20 million in SpaceX shares following Q2 results",
-    "url": "https://www.theblock.co/post/410948/cathie-wood-ark-invest-circle-spacex-q2",
-    "summary": "SpaceX plunged as investors grew concerned about the firm's $18.4 billion in capital expenditure during Q2, despite revenue growth.",
+    "title": "Coinbase launches 24/5 US stock trading for UK users, advancing \u2018Everything Exchange\u2019 strategy",
+    "url": "https://www.theblock.co/post/410870/coinbase-launches-24-5-us-stock-trading-uk-users-advancing-everything-exchange-strategy",
+    "summary": "Coinbase UK CEO Keith Grose said the launch is part of the exchange's broader push to bridge traditional and onchain finance.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-06T07:30:38.306380+00:00"
+    "fetched_at": "2026-08-06T10:23:48.162685+00:00"
   },
   {
     "title": "Biggest US law firms explore selling stakes to private equity",
@@ -96,15 +96,15 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-06T07:30:39.414695+00:00"
+    "fetched_at": "2026-08-06T10:23:49.139579+00:00"
   },
   {
-    "title": "Inside Intel: how America\u2019s chip champion came back from the brink",
+    "title": "The deal that saved Intel",
     "url": "https://www.ft.com/content/77ece212-2768-4abe-9af1-b40a0db27c8f?syn-25a6b1a6=1",
     "summary": "The group\u2019s shares have quadrupled, but it has yet to prove itself a serious manufacturing competitor to Taiwan\u2019s TSMC",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-06T07:30:39.414763+00:00"
+    "fetched_at": "2026-08-06T10:23:49.139637+00:00"
   }
 ]
