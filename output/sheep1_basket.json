@@ -1,39 +1,39 @@
 [
   {
-    "title": "Russian president signs crypto law, core rules take effect in 2026",
-    "url": "https://cointelegraph.com/news/putin-signs-crypto-law-core-rules-take-effect-2026",
-    "summary": "Russian President Vladimir Putin signed a crypto law establishing market rules for exchanges, custodians and investors, with core provisions taking effect in September 2026.",
+    "title": "Zeus Wallet taken offline after cyberattack, says no customer funds at risk",
+    "url": "https://cointelegraph.com/news/zeus-offline-cyberattack-says-no-funds-at-risk",
+    "summary": "The self-custodial Bitcoin Lightning Network wallet disabled infrastructure after an incident and founder Evan Kaloudis said no customer funds were lost and no Lightning vulnerability was found.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-06T10:23:47.718297+00:00"
+    "fetched_at": "2026-08-06T12:48:39.951160+00:00"
   },
   {
-    "title": "RWAs buck DeFi slowdown as tokenized assets gain traction: CoinShares",
-    "url": "https://cointelegraph.com/news/rwa-buck-defi-slowdown-tokenization-coinshares",
-    "summary": "Tokenized real-world assets moved beyond issuance as RWA deposits more than tripled to $7.4 billion, while lending and trading activity expanded despite a broader industry slowdown.",
+    "title": "Crypto wrench attacks steal more than $30M so far in 2026: Chainalysis",
+    "url": "https://cointelegraph.com/news/crypto-wrench-attacks-steal-30-million-2026",
+    "summary": "While only 12 of 46 documented attempts resulted in payment, data leaks and attacks on relatives are widening the physical risks facing crypto holders.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-06T10:23:47.718378+00:00"
+    "fetched_at": "2026-08-06T12:48:39.951236+00:00"
   },
   {
-    "title": "Bonds, Dollar Weighed Down by Washington Policy Decisions",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-08-06/bonds-dollar-weighed-down-by-washington-policy-decisions",
-    "summary": "Investors ponder whether the \u2018Sell America\u2019 trade is back.",
+    "title": "Alphabet Is Seeking Up to $25 Billion From Latest Bond Sale",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-06/alphabet-returns-to-bond-market-amid-ai-spending-worries",
+    "summary": "Alphabet Inc. is looking to raise as much as $25 billion from its latest US investment-grade bond offering, a deal that will test investor appetite for AI-related debt following a July selloff.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-06T10:23:48.571245+00:00"
+    "fetched_at": "2026-08-06T12:48:40.868331+00:00"
   },
   {
-    "title": "Stocks Waver as Traders Await Iran Deal, Jobs Data: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-05/stock-market-today-dow-s-p-live-updates",
-    "summary": "Stocks struggled for direction amid weakness in the technology sector, with investors awaiting developments in US-Iran talks and looking ahead to Friday\u2019s key US jobs report.",
+    "title": "Celsius Shares Slump as Namesake Brand Sales Tumble",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-06/celsius-shares-slump-as-namesake-brand-sales-tumble",
+    "summary": "Celsius Holdings Inc. shares tumbled after the energy drink maker\u2019s second-quarter revenue missed expectations as competition hurt sales of its namesake brand.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-06T10:23:48.571304+00:00"
+    "fetched_at": "2026-08-06T12:48:40.868387+00:00"
   },
   {
     "title": "White House Now Reviewing Crypto Clarity Act Ethics Text Ahead of August Deadline: Report",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-06T10:23:47.965413+00:00"
+    "fetched_at": "2026-08-06T12:48:40.294680+00:00"
   },
   {
     "title": "Bitcoin Red Team Finds 85 Critical Flaws Across 390 Open Source Repos After Coldcard Exploit",
@@ -51,43 +51,43 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-06T10:23:47.965499+00:00"
+    "fetched_at": "2026-08-06T12:48:40.294750+00:00"
   },
   {
-    "title": "Bitcoin AI Security Audit Files 4,962 Findings Across 390 Projects",
-    "url": "https://decrypt.co/375029/bitcoin-ai-security-audit-files-4962-findings-across-390-projects",
-    "summary": "A volunteer group is pointing AI agents at Bitcoin project codebases and says 720 of the issues it has filed are high severity or critical.",
+    "title": "Scammers Pose as EU Regulators to Prey on MiCA Deadline Fallout",
+    "url": "https://decrypt.co/375034/scammers-pose-as-eu-regulators-to-prey-on-mica-deadline-fallout",
+    "summary": "France's watchdog says fraudsters are impersonating its own staff to talk stranded customers into moving assets to fake websites.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-06T10:23:48.076348+00:00"
+    "fetched_at": "2026-08-06T12:48:40.410994+00:00"
   },
   {
-    "title": "Meta Debuts AI Coding Agent Muse: Here\u2019s How It Compares to Claude Code and Codex",
-    "url": "https://decrypt.co/375001/muse-code-meta-ai-coding-agent-claude-codex",
-    "summary": "Meta's new agent runs in your terminal, coordinates subagents, and survives crashes\u2014but on the benchmarks that matter, it lags behind.",
+    "title": "Morning Minute: Uniswap Enters the Launchpad Wars on Robinhood Chain",
+    "url": "https://decrypt.co/375031/morning-minute-uniswap-enters-the-launchpad-wars-on-robinhood-chain",
+    "summary": "It looks like Uniswap is playing to win with their zero-fee model, and the early data shows them already taking the top spot.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-06T10:23:48.076417+00:00"
+    "fetched_at": "2026-08-06T12:48:40.411049+00:00"
   },
   {
-    "title": "EU watchdogs warn scammers are posing as crypto firms and regulators after MiCA deadline: FT",
-    "url": "https://www.theblock.co/post/410966/eu-watchdogs-warn-crypto-scams-mica",
-    "summary": "Crypto firms failing to secure MiCA authorization by July 1 must wind down or restrict services to EU clients.\u00a0",
+    "title": "Bernstein says Circle\u2019s Q2 counters bearish concerns over competition, reserve income",
+    "url": "https://www.theblock.co/post/410979/bernstein-says-circles-q2-counters-bearish-concerns-over-competition-reserve-income",
+    "summary": "Bernstein said Circle's partnerships, regulatory approvals, and Arc launch provide additional revenue streams not reflected in estimates.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-06T10:23:48.162605+00:00"
+    "fetched_at": "2026-08-06T12:48:40.501041+00:00"
   },
   {
-    "title": "Coinbase launches 24/5 US stock trading for UK users, advancing \u2018Everything Exchange\u2019 strategy",
-    "url": "https://www.theblock.co/post/410870/coinbase-launches-24-5-us-stock-trading-uk-users-advancing-everything-exchange-strategy",
-    "summary": "Coinbase UK CEO Keith Grose said the launch is part of the exchange's broader push to bridge traditional and onchain finance.",
+    "title": "More than $30 million stolen in violent crypto attacks in 2026 as France emerges as \u2018wrench attack\u2019 hotspot: Chainalysis",
+    "url": "https://www.theblock.co/post/410984/more-than-30-million-stolen-in-violent-crypto-attacks-in-2026-as-france-emerges-as-wrench-attack-hotspot-chainalysis",
+    "summary": "Chainalysis says more than $30M was stolen in violent crypto attacks in 2026 through mid-year, with France the top hotspot.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-06T10:23:48.162685+00:00"
+    "fetched_at": "2026-08-06T12:48:40.501121+00:00"
   },
   {
     "title": "Biggest US law firms explore selling stakes to private equity",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-06T10:23:49.139579+00:00"
+    "fetched_at": "2026-08-06T12:48:41.406324+00:00"
   },
   {
     "title": "The deal that saved Intel",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-06T10:23:49.139637+00:00"
+    "fetched_at": "2026-08-06T12:48:41.406380+00:00"
   }
 ]
