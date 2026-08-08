@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-07T23:22:33.412239+00:00",
+    "fetched_at": "2026-08-08T00:42:44.420058+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,7 +18,19 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-07T23:22:33.412319+00:00",
+    "fetched_at": "2026-08-08T00:42:44.420134+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "US Partly Resumes Operations in Mexico\u2019s Avocado State Michoacan",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-08/us-partly-resumes-operations-in-mexico-s-avocado-state-michoacan",
+    "summary": "The US will partially resume operations in Mexico\u2019s top avocado-producing state, days after security concerns prompted a halt that disrupted inspections for exports.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-08-08T00:42:45.558803+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,19 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-07T23:22:34.344754+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "CFTC Warns Prediction Markets on American-Style Casino Odds",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-07/cftc-warns-prediction-markets-against-american-style-casino-odds",
-    "summary": "The Commodity Futures Trading Commission told prediction markets to avoid using American-style gambling odds as the US regulator fends off legal challenges alleging the platforms are illicit sports betting operations.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-07T23:22:34.344820+00:00",
+    "fetched_at": "2026-08-08T00:42:45.558867+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-07T23:22:33.660949+00:00",
+    "fetched_at": "2026-08-08T00:42:44.679078+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-07T23:22:33.661019+00:00",
+    "fetched_at": "2026-08-08T00:42:44.679165+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-07T23:22:33.760080+00:00",
+    "fetched_at": "2026-08-08T00:42:44.762146+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,19 +90,19 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-07T23:22:33.760147+00:00",
+    "fetched_at": "2026-08-08T00:42:44.762224+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Trump Media and Crypto.com end partnerships as companies shifts priorities",
+    "title": "Trump Media and Crypto.com end partnerships as companies shift priorities",
     "url": "https://www.theblock.co/news/deals/2026-08-07-trump-media-crypto-com-end-partnerships-as-companies-shifts-priorities-411198",
     "summary": "This ends plans Trump Media, Crypto.com and Yorkville Acquisition Corp. had to turn Yorkville into a CRO treasury company.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-07T23:22:33.856059+00:00",
+    "fetched_at": "2026-08-08T00:42:44.845367+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-07T23:22:33.856128+00:00",
+    "fetched_at": "2026-08-08T00:42:44.845433+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-07T23:22:35.062560+00:00",
+    "fetched_at": "2026-08-08T00:42:46.221730+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-07T23:22:35.062629+00:00",
+    "fetched_at": "2026-08-08T00:42:46.221797+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
