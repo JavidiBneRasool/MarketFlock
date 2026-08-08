@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-08T06:30:49.898067+00:00",
+    "fetched_at": "2026-08-08T07:39:07.301306+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,7 +18,19 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-08T06:30:49.898171+00:00",
+    "fetched_at": "2026-08-08T07:39:07.301356+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Kyiv Struck as Ukraine Targets Russian Refineries, Shadow Fleet",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-08/ukraine-drone-strike-sparks-fire-at-russia-s-ilsky-refinery",
+    "summary": "A fire was sparked at Russia\u2019s Ilsky oil refinery in the southern Krasnodar region by Ukrainian drone debris, injuring five people, the regional task force said on Saturday, as Russia and Ukraine exchanged overnight attacks including a large-scale missile barrage on Kyiv.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-08-08T07:39:08.434549+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,19 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-08T06:30:51.041609+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Ukraine Drone Strike Sparks Fire at Russia\u2019s Ilsky Refinery",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-08/ukraine-drone-strike-sparks-fire-at-russia-s-ilsky-refinery",
-    "summary": "A fire broke out at Russia\u2019s Ilsky Oil Refinery in the southern Krasnodar region after falling Ukrainian drone debris, injuring five people, the regional task force said Saturday, as Russia and Ukraine exchanged large-scale overnight attacks.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-08T06:30:51.041669+00:00",
+    "fetched_at": "2026-08-08T07:39:08.434590+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-08T06:30:50.216837+00:00",
+    "fetched_at": "2026-08-08T07:39:07.587123+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-08T06:30:50.216905+00:00",
+    "fetched_at": "2026-08-08T07:39:07.587167+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-08T06:30:50.355458+00:00",
+    "fetched_at": "2026-08-08T07:39:07.692523+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-08T06:30:50.355514+00:00",
+    "fetched_at": "2026-08-08T07:39:07.692562+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-08T06:30:50.497386+00:00",
+    "fetched_at": "2026-08-08T07:39:07.799164+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-08T06:30:50.497454+00:00",
+    "fetched_at": "2026-08-08T07:39:07.799206+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-08T06:30:51.827666+00:00",
+    "fetched_at": "2026-08-08T07:39:09.243982+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-08T06:30:51.827723+00:00",
+    "fetched_at": "2026-08-08T07:39:09.244020+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
