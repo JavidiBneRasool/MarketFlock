@@ -1,24 +1,36 @@
 [
   {
+    "title": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
+    "url": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture",
+    "summary": "The procedural move puts crypto market structure legislation back on track as lawmakers continue negotiations over ethics and stablecoin provisions.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-08T16:17:59.575681+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "Bitcoin will never fall below $60K again: Nansen founder",
     "url": "https://cointelegraph.com/magazine/bitcoin-will-never-fall-below-60k-again-nansen-founder",
     "summary": "Crypto is growing up thanks to trading in real world assets, and Bitcoin will never dip below $60K again, says Nansen founder founder Alex Svanevik.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-08T15:17:37.532124+00:00",
+    "fetched_at": "2026-08-08T16:17:59.575754+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Domestic stablecoins could boost demand for dollar-backed tokens: IMF",
-    "url": "https://cointelegraph.com/news/imf-domestic-stablecoins-dollar-token-demand",
-    "summary": "IMF first deputy managing director Dan Katz says users may favor digital dollars for their liquidity, network effects and cross-border acceptance.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
+    "title": "Zelenskyy Wins Serbian Pledges as Russian Influence Wanes",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-08/zelenskyy-makes-debut-trip-to-serbia-as-russian-influence-wanes",
+    "summary": "Ukrainian President Volodymyr Zelenskyy made a landmark first visit on Saturday to Serbia to expand cooperation with the Balkan country whose leader has been scaling back once-close ties with Russia.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-08T15:17:37.532234+00:00",
+    "fetched_at": "2026-08-08T16:18:00.489422+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,19 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-08T15:17:38.211645+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-08/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-    "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players\u2019 knowledge of the news but also their confidence in their answers. Join Bloomberg's David Gura, Christina Ruffini and Lisa Mateo as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-08T15:17:38.211705+00:00",
+    "fetched_at": "2026-08-08T16:18:00.489497+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-08T15:17:37.761900+00:00",
+    "fetched_at": "2026-08-08T16:17:59.913147+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-08T15:17:37.761968+00:00",
+    "fetched_at": "2026-08-08T16:17:59.913213+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-08T15:17:37.839189+00:00",
+    "fetched_at": "2026-08-08T16:18:00.013697+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-08T15:17:37.839251+00:00",
+    "fetched_at": "2026-08-08T16:18:00.013756+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-08T15:17:37.920332+00:00",
+    "fetched_at": "2026-08-08T16:18:00.109697+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-08T15:17:37.920405+00:00",
+    "fetched_at": "2026-08-08T16:18:00.109761+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-08T15:17:38.903429+00:00",
+    "fetched_at": "2026-08-08T16:18:01.143304+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-08T15:17:38.903483+00:00",
+    "fetched_at": "2026-08-08T16:18:01.143362+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
