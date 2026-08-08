@@ -1,21 +1,30 @@
 [
   {
+    "title": "Here\u2019s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-08T18:19:25.740613+00:00"
+  },
+  {
     "title": "US spot Bitcoin ETFs post best week since April with $1B inflows",
     "url": "https://cointelegraph.com/news/us-bitcoin-etfs-best-weekly-inflows-april-coldcard-hack",
     "summary": "The spot Bitcoin exchange-traded funds registered their third-strongest showing since October as institutional demand showed signs of renewed momentum.\n",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-08T17:19:17.067274+00:00"
+    "fetched_at": "2026-08-08T18:19:25.740711+00:00"
   },
   {
-    "title": "US Senate to vote on advancing CLARITY Act in September after Thune files cloture",
-    "url": "https://cointelegraph.com/news/us-senate-clarity-act-september-vote-thune-cloture",
-    "summary": "The procedural move puts crypto market structure legislation back on track as lawmakers continue negotiations over ethics and stablecoin provisions.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
+    "title": "Bloomberg This Weekend 8/08/2026",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-08/bloomberg-this-weekend-8-08-2026-video",
+    "summary": "The news doesn\u2019t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend\u2019s biggest headlines, LIVE from New York. Joined by Oxford Centre on Migration, Policy & Society Senior Researcher Myriam Cherti, Merrill & Bank of Ame",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-08T17:19:17.067335+00:00"
+    "fetched_at": "2026-08-08T18:19:26.662537+00:00"
   },
   {
     "title": "Zelenskyy Wins Serbian Pledges as Russian Influence Wanes",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-08T17:19:18.416375+00:00"
-  },
-  {
-    "title": "Private Credit Squeezed By Bank Refinancings: Credit Weekly",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-08/private-credit-squeezed-by-bank-refinancings-credit-weekly",
-    "summary": "Highly-indebted companies are increasingly ditching private credit loans for cheaper capital in the bank loan market, a shift underscoring the stark realities of higher-for-longer interest rates.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-08T17:19:18.416435+00:00"
+    "fetched_at": "2026-08-08T18:19:26.662596+00:00"
   },
   {
     "title": "Trump Media Pulls Back From Crypto Deals: Report",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-08T17:19:17.474153+00:00"
+    "fetched_at": "2026-08-08T18:19:25.985249+00:00"
   },
   {
     "title": "Senators Cynthia Lummis and Angela Alsobrooks Say Bipartisan Work on Clarity Act Continues Despite Delays",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-08T17:19:17.474204+00:00"
+    "fetched_at": "2026-08-08T18:19:25.985318+00:00"
+  },
+  {
+    "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
+    "url": "https://decrypt.co/375169/bitcoin-red-team-ai-finding-critical-vulnerabilities",
+    "summary": "A volunteer security effort says it has scanned 150 Bitcoin repositories, disclosed more than a dozen vulnerabilities, and is building an open-source AI platform to automate software security reviews.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-08T18:19:26.070174+00:00"
   },
   {
     "title": "Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September",
@@ -60,16 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-08T17:19:17.629123+00:00"
+    "fetched_at": "2026-08-08T18:19:26.070236+00:00"
   },
   {
-    "title": "Robinhood Crypto Chief Explains Why There Are 'Two Wolves' Inside Robinhood Chain",
-    "url": "https://decrypt.co/375158/robinhood-crypto-two-wolves-robinhood-chain-rwa-meme-coins",
-    "summary": "\u201cWe want to show customers that we care about what they care about,\" Robinhood head of crypto Johann Kerbrat told Decrypt.",
-    "source": "Decrypt",
+    "title": "Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote",
+    "url": "https://www.theblock.co/news/regulation/2026-08-08-majority-leader-thune-files-cloture-on-clarity-act-setting-up-sept-15-senate-vote-411211",
+    "summary": "The Senate is set to vote on the motion on Tuesday, Sept. 15, the day after the body returns, though at least seven non-Republicans will need to support it. ",
+    "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-08T17:19:17.629173+00:00"
+    "fetched_at": "2026-08-08T18:19:26.153098+00:00"
   },
   {
     "title": "Bitcoin, ether ETFs draw $1.1 billion in best inflow week since April, despite low volume",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-08T17:19:17.796874+00:00"
-  },
-  {
-    "title": "Trump Media and Crypto.com end partnerships as companies shift priorities",
-    "url": "https://www.theblock.co/news/deals/2026-08-07-trump-media-crypto-com-end-partnerships-as-companies-shifts-priorities-411198",
-    "summary": "This ends plans Trump Media, Crypto.com and Yorkville Acquisition Corp. had to turn Yorkville into a CRO treasury company.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-08T17:19:17.796926+00:00"
+    "fetched_at": "2026-08-08T18:19:26.153167+00:00"
   },
   {
     "title": "Greg Abel finally puts Buffett\u2019s cash pile to work",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-08T17:19:19.533941+00:00"
+    "fetched_at": "2026-08-08T18:19:27.361710+00:00"
   },
   {
     "title": "Forget Asimov. Philip K Dick saw the future",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-08T17:19:19.533987+00:00"
+    "fetched_at": "2026-08-08T18:19:27.361767+00:00"
   }
 ]
