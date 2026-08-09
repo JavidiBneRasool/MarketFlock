@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-09T20:17:47.114365+00:00"
+    "fetched_at": "2026-08-09T21:19:53.768349+00:00"
   },
   {
     "title": "Brazil targets crypto fraud with up to 24-hour transfer hold",
@@ -15,7 +15,16 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-09T20:17:47.114430+00:00"
+    "fetched_at": "2026-08-09T21:19:53.768421+00:00"
+  },
+  {
+    "title": "China Bets on AI Stocks as It Races Against US for Chip, Tech Dominance",
+    "url": "https://www.bloomberg.com/news/features/2026-08-09/china-bets-on-ai-stocks-as-it-races-against-us-for-chip-tech-dominance",
+    "summary": "The strategy marks a break from Beijing\u2019s reliance on subsidies and state funding.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-08-09T21:19:55.267932+00:00"
   },
   {
     "title": "Hungarian Central Banker Touts Benefits of Joining Euro Area",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-09T20:17:48.762987+00:00"
-  },
-  {
-    "title": "Bloomberg This Weekend 08/09/2026",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-09/bloomberg-this-weekend-08-09-2026-video",
-    "summary": "The news doesn\u2019t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend\u2019s biggest headlines, LIVE from New York. Joined by Puerto Rico Resident Commissioner Rep. Pablo Jos\u00e9 Hern\u00e1ndez Rivera, Royal Observatory Greenwich Pla",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-09T20:17:48.763033+00:00"
+    "fetched_at": "2026-08-09T21:19:55.267995+00:00"
   },
   {
     "title": "Trump Media Pulls Back From Crypto Deals: Report",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T20:17:47.476437+00:00"
+    "fetched_at": "2026-08-09T21:19:54.066093+00:00"
   },
   {
     "title": "Senators Cynthia Lummis and Angela Alsobrooks Say Bipartisan Work on Clarity Act Continues Despite Delays",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T20:17:47.476497+00:00"
+    "fetched_at": "2026-08-09T21:19:54.066160+00:00"
   },
   {
     "title": "Bitcoin 'Anti-Spam' Fork Sputters to a Halt After Mining Just Two Blocks",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T20:17:47.642571+00:00"
+    "fetched_at": "2026-08-09T21:19:54.234458+00:00"
   },
   {
     "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T20:17:47.642619+00:00"
+    "fetched_at": "2026-08-09T21:19:54.234533+00:00"
   },
   {
     "title": "World Liberty received $100 million from businessman investigated for money laundering: NYT",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T20:17:47.793994+00:00"
+    "fetched_at": "2026-08-09T21:19:54.375311+00:00"
   },
   {
     "title": "Brazil to tighten crypto fraud controls with new 24-hour wait on transfers to self-custody wallets",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T20:17:47.794066+00:00"
+    "fetched_at": "2026-08-09T21:19:54.375382+00:00"
   },
   {
     "title": "Trump is dismantling US guardrails, warn former security officials",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-09T20:17:49.599689+00:00"
+    "fetched_at": "2026-08-09T21:19:56.167976+00:00"
   },
   {
     "title": "America\u2019s hidden M&A boom",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-09T20:17:49.599740+00:00"
+    "fetched_at": "2026-08-09T21:19:56.168037+00:00"
   }
 ]
