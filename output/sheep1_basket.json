@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-09T16:19:31.140633+00:00"
+    "fetched_at": "2026-08-09T17:20:25.908002+00:00"
   },
   {
     "title": "Brazil targets crypto fraud with up to 24-hour transfer hold",
@@ -15,7 +15,16 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-09T16:19:31.140705+00:00"
+    "fetched_at": "2026-08-09T17:20:25.908074+00:00"
+  },
+  {
+    "title": "Bloomberg This Weekend 08/09/2026",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-09/bloomberg-this-weekend-08-09-2026-video",
+    "summary": "The news doesn\u2019t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend\u2019s biggest headlines, LIVE from New York. Joined by Puerto Rico Resident Commissioner Rep. Pablo Jos\u00e9 Hern\u00e1ndez Rivera, Royal Observatory Greenwich Pla",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-08-09T17:20:27.015293+00:00"
   },
   {
     "title": "By The Way: Headline You May Have Missed",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-09T16:19:32.179981+00:00"
-  },
-  {
-    "title": "DC Crime Crackdown Tests Federal Prosecutors",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-09/dc-crime-crackdown-tests-federal-prosecutors-video",
-    "summary": "A Bloomberg Law investigation finds federal prosecutors dismissed or downgraded many felony assault cases brought during President Donald Trump\u2019s crime crackdown in Washington DC, with only a handful resulting in convictions. Bloomberg Law Editor-at-Large Keith Alexander says on Bloomberg This Weeke",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-09T16:19:32.180034+00:00"
+    "fetched_at": "2026-08-09T17:20:27.015346+00:00"
   },
   {
     "title": "Trump Media Pulls Back From Crypto Deals: Report",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T16:19:31.374604+00:00"
+    "fetched_at": "2026-08-09T17:20:26.239520+00:00"
   },
   {
     "title": "Senators Cynthia Lummis and Angela Alsobrooks Say Bipartisan Work on Clarity Act Continues Despite Delays",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T16:19:31.374671+00:00"
+    "fetched_at": "2026-08-09T17:20:26.239587+00:00"
   },
   {
     "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T16:19:31.468199+00:00"
+    "fetched_at": "2026-08-09T17:20:26.362976+00:00"
   },
   {
     "title": "Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T16:19:31.468260+00:00"
+    "fetched_at": "2026-08-09T17:20:26.363036+00:00"
+  },
+  {
+    "title": "Brazil to tighten crypto fraud controls with new 24-hour wait on transfers to self-custody wallets",
+    "url": "https://www.theblock.co/news/regulation/2026-08-09-brazil-to-tighten-crypto-fraud-controls-with-new-24-hour-wait-on-transfers-to-self-custody-wallets-411219",
+    "summary": "The new rule will take effect on Jan. 1, 2027, and will cover cryptocurrencies including fiat-backed stablecoins.\u00a0\u00a0",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-09T17:20:26.494342+00:00"
   },
   {
     "title": "Bitcoin\u2019s BIP-110 supporters split onto minority chain as main network pulls ahead",
@@ -78,25 +87,16 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T16:19:31.567572+00:00"
+    "fetched_at": "2026-08-09T17:20:26.494415+00:00"
   },
   {
-    "title": "Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote",
-    "url": "https://www.theblock.co/news/regulation/2026-08-08-majority-leader-thune-files-cloture-on-clarity-act-setting-up-sept-15-senate-vote-411211",
-    "summary": "The Senate is set to vote on the motion on Tuesday, Sept. 15, the day after the body returns, though at least seven non-Republicans will need to support it. ",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-09T16:19:31.567640+00:00"
-  },
-  {
-    "title": "Investors return to European stocks as strong earnings lift Iran war gloom",
-    "url": "https://www.ft.com/content/297a8bf7-ce8b-44fe-bc51-3e2ec2e47699?syn-25a6b1a6=1",
-    "summary": "Companies in the Stoxx Europe 600 are on track to deliver a 22% increase in profits in the second quarter",
+    "title": "Trump is dismantling US guardrails, warn former security officials",
+    "url": "https://www.ft.com/content/4fc0fdda-0919-4584-9bdd-855e2aaa5c09?syn-25a6b1a6=1",
+    "summary": "Ex-CIA staffers step up efforts to publicise their deepening alarm about the state of American democracy",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-09T16:19:32.954586+00:00"
+    "fetched_at": "2026-08-09T17:20:27.715166+00:00"
   },
   {
     "title": "America\u2019s hidden M&A boom",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-09T16:19:32.954648+00:00"
+    "fetched_at": "2026-08-09T17:20:27.715228+00:00"
   }
 ]
