@@ -1,39 +1,39 @@
 [
   {
+    "title": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
+    "url": "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support",
+    "summary": "The enforcing fork remains stuck at Bitcoin\u2019s full mining difficulty as mandatory signaling proceeds with little hashpower support.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-09T11:18:21.371195+00:00"
+  },
+  {
     "title": "Brazil targets crypto fraud with up to 24-hour transfer hold",
     "url": "https://cointelegraph.com/news/brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold",
     "summary": "The rules, effective Jan. 1, 2027, cover transactions above $10,000 sent to overseas providers or self-custody wallets, along with other transfers flagged for review.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-09T10:20:54.828641+00:00"
+    "fetched_at": "2026-08-09T11:18:21.371269+00:00"
   },
   {
-    "title": "BTCPay restricts remote Lightning access after attackers steal funds",
-    "url": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds",
-    "summary": "Foundation and Citadel21 reported drained Lightning nodes, but the total amount stolen and number of affected operators remain unknown.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-09T10:20:54.828719+00:00"
-  },
-  {
-    "title": "Romania Extends Reactor Output by Nine Days After Danube Blasts",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-09/romania-extends-reactor-output-by-nine-days-after-danube-blasts",
-    "summary": "Romania can keep the second nuclear reactor at its Cernavoda plant in operation for at least nine more days after explosive works on the Danube led to an increase in the flow of the river by 4cm (1.6 inches).",
+    "title": "Currency Defense Gets Makeover as Emerging Asia Guards Reserves",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-09/currency-defense-gets-makeover-as-emerging-asia-guards-reserves",
+    "summary": "Central banks in emerging Asia are increasingly finding ways to support their currencies without dipping into foreign-exchange reserves, as recurring Middle East tensions and the prospect of higher-for-longer US interest rates keep policymakers on edge.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-09T10:20:55.909341+00:00"
+    "fetched_at": "2026-08-09T11:18:22.490867+00:00"
   },
   {
-    "title": "Europe\u2019s Hot Stock Markets Are Creating a Buzz Among Investors",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-09/europe-s-hot-stock-markets-are-creating-a-buzz-among-investors",
-    "summary": "Europe\u2019s stock market is firing on all cylinders and drawing money managers who say this rally will be more durable than just another short-term trade.",
+    "title": "Typhoon Dolphin Makes Landfall in Eastern China After Red Alert",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-09/china-issues-red-alert-airports-cancel-flights-as-typhoon-nears",
+    "summary": "Typhoon Dolphin made landfall in eastern China on Sunday evening after Beijing issued its highest storm alert, with more than 1,000 flights canceled and some rail services suspended as well.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-09T10:20:55.909402+00:00"
+    "fetched_at": "2026-08-09T11:18:22.490930+00:00"
   },
   {
     "title": "Trump Media Pulls Back From Crypto Deals: Report",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T10:20:55.098403+00:00"
+    "fetched_at": "2026-08-09T11:18:21.651184+00:00"
   },
   {
     "title": "Senators Cynthia Lummis and Angela Alsobrooks Say Bipartisan Work on Clarity Act Continues Despite Delays",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T10:20:55.098497+00:00"
+    "fetched_at": "2026-08-09T11:18:21.651252+00:00"
   },
   {
     "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T10:20:55.245800+00:00"
+    "fetched_at": "2026-08-09T11:18:21.766911+00:00"
   },
   {
     "title": "Senate Keeps Clarity Act Alive With Crypto Bill Vote Set for September",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T10:20:55.245858+00:00"
+    "fetched_at": "2026-08-09T11:18:21.766977+00:00"
   },
   {
     "title": "Bitcoin\u2019s BIP-110 supporters split onto minority chain as main network pulls ahead",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T10:20:55.364835+00:00"
+    "fetched_at": "2026-08-09T11:18:21.885652+00:00"
   },
   {
     "title": "Majority Leader Thune files cloture on Clarity Act, setting up Sept. 15 Senate vote",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T10:20:55.364908+00:00"
+    "fetched_at": "2026-08-09T11:18:21.885722+00:00"
   },
   {
     "title": "Investors return to European stocks as strong earnings lift Iran war gloom",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-09T10:20:56.648777+00:00"
+    "fetched_at": "2026-08-09T11:18:23.521603+00:00"
   },
   {
     "title": "How a made-up agency found its way into Nigeria\u2019s budget",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-09T10:20:56.648846+00:00"
+    "fetched_at": "2026-08-09T11:18:23.521672+00:00"
   }
 ]
