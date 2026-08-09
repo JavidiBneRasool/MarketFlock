@@ -1,24 +1,36 @@
 [
   {
+    "title": "BTCPay restricts remote Lightning access after attackers steal funds",
+    "url": "https://cointelegraph.com/news/btcpay-restricts-remote-lightning-access-after-attackers-steal-funds",
+    "summary": "Foundation and Citadel21 reported drained Lightning nodes, but the total amount stolen and number of affected operators remain unknown.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-09T06:34:53.174079+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "Bitcoin\u2019s BIP-110 enters mandatory signaling with miner support below 3%",
     "url": "https://cointelegraph.com/news/bitcoin-bip-110-mandatory-signaling",
     "summary": "The deployment milestone tests whether enforcing nodes can sustain the change amid limited miner signaling and discussion of a hard-fork fallback.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-09T05:39:05.080773+00:00",
+    "fetched_at": "2026-08-09T06:34:53.174159+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
+    "title": "China Issues Red Alert, Airports Cancel Flights as Typhoon Nears",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-09/china-issues-red-alert-airports-cancel-flights-as-typhoon-nears",
+    "summary": "China issued its highest storm alert in preparation for approaching Typhoon Dolphin as more than 1,000 flights were canceled and some rail services were suspended.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-09T05:39:05.080845+00:00",
+    "fetched_at": "2026-08-09T06:34:54.431902+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,19 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-09T05:39:06.118582+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Korea Volatility Spike Ebbs as Leveraged Trades Are Flushed Out",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-09/korea-volatility-spike-ebbs-as-leveraged-trades-are-flushed-out",
-    "summary": "The most extreme phase of South Korea\u2019s stock-market turmoil may be over after a historic selloff flushed out leveraged positions and regulatory curbs sent trading in some of the riskiest products plunging.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-09T05:39:06.118644+00:00",
+    "fetched_at": "2026-08-09T06:34:54.431964+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T05:39:05.443953+00:00",
+    "fetched_at": "2026-08-09T06:34:53.526332+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T05:39:05.444022+00:00",
+    "fetched_at": "2026-08-09T06:34:53.526399+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T05:39:05.561391+00:00",
+    "fetched_at": "2026-08-09T06:34:53.790655+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T05:39:05.561445+00:00",
+    "fetched_at": "2026-08-09T06:34:53.790716+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T05:39:05.662559+00:00",
+    "fetched_at": "2026-08-09T06:34:53.894812+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T05:39:05.662631+00:00",
+    "fetched_at": "2026-08-09T06:34:53.894882+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-09T05:39:06.682891+00:00",
+    "fetched_at": "2026-08-09T06:34:54.967720+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-09T05:39:06.682961+00:00",
+    "fetched_at": "2026-08-09T06:34:54.967791+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
