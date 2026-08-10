@@ -1,39 +1,39 @@
 [
   {
-    "title": "BIP-110 Bitcoin branch stalls after two blocks as gap widens",
-    "url": "https://cointelegraph.com/news/bitcoin-bip-110-branch-stalls-miner-support",
-    "summary": "The enforcing fork remains stuck at Bitcoin\u2019s full mining difficulty as mandatory signaling proceeds with little hashpower support.",
+    "title": "BIP-110 dies with a whimper, CLARITY vote punted: Hodler\u2019s Digest, Aug. 9",
+    "url": "https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9",
+    "summary": "BIP-110 forks itself into oblivion with a \u201c2-block chain\u201d and CLARITY will finally get a Senate vote in September. The odds say that vote will be a No.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-09T23:18:51.203743+00:00"
+    "fetched_at": "2026-08-10T00:48:22.413052+00:00"
   },
   {
-    "title": "Brazil targets crypto fraud with up to 24-hour transfer hold",
-    "url": "https://cointelegraph.com/news/brazil-targets-crypto-fraud-with-up-to-24-hour-transfer-hold",
-    "summary": "The rules, effective Jan. 1, 2027, cover transactions above $10,000 sent to overseas providers or self-custody wallets, along with other transfers flagged for review.",
+    "title": "Ex-US defense secretary calls CLARITY Act a \u2018national security bill\u2019",
+    "url": "https://cointelegraph.com/news/ex-us-defense-secretary-calls-clarity-act-a-national-security-bill",
+    "summary": "Former US Defense Secretary Mark Esper says the CLARITY Act is not merely a financial services bill, its a national security one. ",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-09T23:18:51.203821+00:00"
+    "fetched_at": "2026-08-10T00:48:22.413128+00:00"
   },
   {
-    "title": "Latest Oil Market News and Analysis for Aug. 10",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-09/latest-oil-market-news-and-analysis-for-aug-10",
-    "summary": "Oil extended gains as Iran and Oman remained short of a deal to reopen the Strait of Hormuz, while Houthi militants claimed an attack on a Saudi refinery near the Red Sea.",
+    "title": "Treasury Wine Shares Soar After Moves to Tackle Excess US Supply",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-09/treasury-wine-flags-395m-writedown-to-tackle-excess-us-supply",
+    "summary": "Australian vintner Treasury Wine Estates Ltd. saw its shares jump to an eight-month high after announcing a A$558.4 million ($395 million) post-tax writedown to tackle supply chain problems in its US market.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-09T23:18:52.536887+00:00"
+    "fetched_at": "2026-08-10T00:48:23.817899+00:00"
   },
   {
-    "title": "Westpac CEO Flags Moderating Housing Market, Profit Edges Up",
+    "title": "Westpac Shares Drop on Signs of Australia Housing Slowdown",
     "url": "https://www.bloomberg.com/news/articles/2026-08-09/westpac-profit-edges-up-as-ceo-flags-moderating-housing-market",
-    "summary": "Westpac Banking Corp.\u2019s profit expanded slightly as deposit and loan growth offset caution on the housing market from the lender\u2019s chief executive.",
+    "summary": "Westpac Banking Corp.\u2019s shares declined as the Australian lender reported a drop in mortgage loan applications, a sign that the housing slump is worsening.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-09T23:18:52.536945+00:00"
+    "fetched_at": "2026-08-10T00:48:23.817946+00:00"
   },
   {
     "title": "Trump Media Pulls Back From Crypto Deals: Report",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T23:18:51.601833+00:00"
+    "fetched_at": "2026-08-10T00:48:22.757373+00:00"
   },
   {
     "title": "Senators Cynthia Lummis and Angela Alsobrooks Say Bipartisan Work on Clarity Act Continues Despite Delays",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T23:18:51.601897+00:00"
+    "fetched_at": "2026-08-10T00:48:22.757424+00:00"
   },
   {
     "title": "Bitcoin 'Anti-Spam' Fork Sputters to a Halt After Mining Just Two Blocks",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T23:18:51.767033+00:00"
+    "fetched_at": "2026-08-10T00:48:22.872522+00:00"
   },
   {
     "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T23:18:51.767088+00:00"
+    "fetched_at": "2026-08-10T00:48:22.872568+00:00"
   },
   {
     "title": "World Liberty received $100 million from businessman investigated for money laundering: NYT",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T23:18:51.879161+00:00"
+    "fetched_at": "2026-08-10T00:48:22.981377+00:00"
   },
   {
     "title": "Brazil to tighten crypto fraud controls with new 24-hour wait on transfers to self-custody wallets",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-09T23:18:51.879230+00:00"
+    "fetched_at": "2026-08-10T00:48:22.981431+00:00"
   },
   {
     "title": "Trump is dismantling US guardrails, warn former security officials",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-09T23:18:53.167639+00:00"
+    "fetched_at": "2026-08-10T00:48:24.624658+00:00"
   },
   {
     "title": "America\u2019s hidden M&A boom",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-09T23:18:53.167695+00:00"
+    "fetched_at": "2026-08-10T00:48:24.624708+00:00"
   }
 ]
