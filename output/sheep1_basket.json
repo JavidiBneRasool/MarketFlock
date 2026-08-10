@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-10T22:24:23.199842+00:00"
+    "fetched_at": "2026-08-10T23:23:39.024090+00:00"
   },
   {
     "title": "TRON USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari",
@@ -15,16 +15,16 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-10T22:24:23.199922+00:00"
+    "fetched_at": "2026-08-10T23:23:39.024167+00:00"
   },
   {
-    "title": "ETFs Look Safer After Bitcoin Hack, Small Caps | ETF IQ 8/10/2026",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-10/etf-iq-8-10-2026-video",
-    "summary": "\"Bloomberg ETF IQ\" focuses on the opportunities, risks and current trends tied to the trillions of dollars in the global exchange traded funds industry. Today's guests: JPMorgan Investment Management Chief ETF Strategist Jon Maier, BlackRock Head of Digital Assets Robert Mitchnick, Avantis Investors",
+    "title": "Traders Are Piling Into Taiwan Dollar Options to Bet on Rebound",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-10/traders-are-piling-into-taiwan-dollar-options-to-bet-on-rebound",
+    "summary": "Currency traders are stepping up bullish options bets on the Taiwan dollar, signaling a shift in sentiment after the currency suffered its worst July since 2015.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-10T22:24:24.559989+00:00"
+    "fetched_at": "2026-08-10T23:23:40.050450+00:00"
   },
   {
     "title": "Latest Oil Market News and Analysis for Aug. 11",
@@ -33,7 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-10T22:24:24.560046+00:00"
+    "fetched_at": "2026-08-10T23:23:40.050554+00:00"
   },
   {
     "title": "Blockstream Debuts Swaps, Allowing Bitcoiners to Move Between Lightning and Main Network With Ease",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-10T22:24:23.484246+00:00"
+    "fetched_at": "2026-08-10T23:23:39.269901+00:00"
   },
   {
     "title": "BTCPay Server Offers a 3 Bitcoin Bounty for Recovery of Stolen Funds After Wallet Exploit",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-10T22:24:23.484315+00:00"
+    "fetched_at": "2026-08-10T23:23:39.269969+00:00"
   },
   {
     "title": "Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-10T22:24:23.659917+00:00"
+    "fetched_at": "2026-08-10T23:23:39.344726+00:00"
   },
   {
     "title": "Bitcoin ATMs Pulled in Australia as Regulators Signal Wider Crackdown",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-10T22:24:23.659971+00:00"
+    "fetched_at": "2026-08-10T23:23:39.344780+00:00"
   },
   {
     "title": "BTCPay Server supporters offer up to 3 BTC for recovery bounty after critical exploit",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-10T22:24:23.842961+00:00"
+    "fetched_at": "2026-08-10T23:23:39.470891+00:00"
   },
   {
     "title": "BlackRock says bitcoin sentiment is turning as decoupling from stocks takes hold",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-10T22:24:23.843025+00:00"
+    "fetched_at": "2026-08-10T23:23:39.470957+00:00"
   },
   {
     "title": "Wall Street giants partner with Nvidia on $500bn AI financing deal",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-10T22:24:25.440017+00:00"
+    "fetched_at": "2026-08-10T23:23:41.084225+00:00"
   },
   {
     "title": "Just how big is the hidden leverage of AI hyperscalers?",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-10T22:24:25.440073+00:00"
+    "fetched_at": "2026-08-10T23:23:41.084284+00:00"
   }
 ]
