@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-10T21:30:02.765423+00:00"
+    "fetched_at": "2026-08-10T22:24:23.199842+00:00"
   },
   {
     "title": "TRON USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari",
@@ -15,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-10T21:30:02.765502+00:00"
+    "fetched_at": "2026-08-10T22:24:23.199922+00:00"
   },
   {
-    "title": "Hims\u00a0& Hers Lowers Profit Forecast, Shares Drop",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-10/hims-hers-lowers-profit-forecast-shares-drop-video",
-    "summary": "Hims\u00a0& Hers Health\u00a0shares are down after the telehealth firm reduced the top end of its adjusted Ebitda forecast for the full year. Madison Muller reports on \"Bloomberg The Close.\" (Source: Bloomberg)",
+    "title": "ETFs Look Safer After Bitcoin Hack, Small Caps | ETF IQ 8/10/2026",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-10/etf-iq-8-10-2026-video",
+    "summary": "\"Bloomberg ETF IQ\" focuses on the opportunities, risks and current trends tied to the trillions of dollars in the global exchange traded funds industry. Today's guests: JPMorgan Investment Management Chief ETF Strategist Jon Maier, BlackRock Head of Digital Assets Robert Mitchnick, Avantis Investors",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-10T21:30:04.820996+00:00"
+    "fetched_at": "2026-08-10T22:24:24.559989+00:00"
   },
   {
-    "title": "Yen Weakens as Intervention Efforts Proving to Be Short-Lived",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-10/yen-underperforms-g-10-peers-as-intervention-boost-fades",
-    "summary": "The yen swung to a loss, sapping momentum from efforts by the US and Japan authorities to boost the currency.",
+    "title": "Latest Oil Market News and Analysis for Aug. 11",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-10/latest-oil-market-news-and-analysis-for-aug-11",
+    "summary": "Oil held a three-day gain after President Donald Trump made sweeping new demands on Iran, clouding the outlook for a deal to reopen the crucial Strait of Hormuz.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-10T21:30:04.821054+00:00"
+    "fetched_at": "2026-08-10T22:24:24.560046+00:00"
   },
   {
     "title": "Blockstream Debuts Swaps, Allowing Bitcoiners to Move Between Lightning and Main Network With Ease",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-10T21:30:03.424932+00:00"
+    "fetched_at": "2026-08-10T22:24:23.484246+00:00"
   },
   {
     "title": "BTCPay Server Offers a 3 Bitcoin Bounty for Recovery of Stolen Funds After Wallet Exploit",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-10T21:30:03.424998+00:00"
+    "fetched_at": "2026-08-10T22:24:23.484315+00:00"
+  },
+  {
+    "title": "Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI",
+    "url": "https://decrypt.co/375285/vitalik-buterin-ethereum-betting-future-quantum-ai",
+    "summary": "Ethereum\u2019s updated roadmap puts quantum resistance, privacy and AI-assisted formal verification at the center of the network\u2019s technical ambitions.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-10T22:24:23.659917+00:00"
   },
   {
     "title": "Bitcoin ATMs Pulled in Australia as Regulators Signal Wider Crackdown",
@@ -60,16 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-10T21:30:03.567013+00:00"
-  },
-  {
-    "title": "Hidden Text in PDFs Is Hijacking This AI Assistant",
-    "url": "https://decrypt.co/375269/hidden-text-pdfs-hijacking-ai-assistant-prompt-injection",
-    "summary": "A security firm says Atlassian's AI assistant will quietly ship your Jira tickets and Confluence docs to an attacker, using instructions buried in a file you'd swear was empty.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-10T21:30:03.567064+00:00"
+    "fetched_at": "2026-08-10T22:24:23.659971+00:00"
   },
   {
     "title": "BTCPay Server supporters offer up to 3 BTC for recovery bounty after critical exploit",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-10T21:30:03.726210+00:00"
+    "fetched_at": "2026-08-10T22:24:23.842961+00:00"
   },
   {
     "title": "BlackRock says bitcoin sentiment is turning as decoupling from stocks takes hold",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-10T21:30:03.726275+00:00"
+    "fetched_at": "2026-08-10T22:24:23.843025+00:00"
   },
   {
     "title": "Wall Street giants partner with Nvidia on $500bn AI financing deal",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-10T21:30:05.718309+00:00"
+    "fetched_at": "2026-08-10T22:24:25.440017+00:00"
   },
   {
     "title": "Just how big is the hidden leverage of AI hyperscalers?",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-10T21:30:05.718367+00:00"
+    "fetched_at": "2026-08-10T22:24:25.440073+00:00"
   }
 ]
