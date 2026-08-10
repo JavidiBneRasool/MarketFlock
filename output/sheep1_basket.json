@@ -1,39 +1,39 @@
 [
   {
-    "title": "BIP-110 dies with a whimper, CLARITY vote punted: Hodler\u2019s Digest, Aug. 9",
-    "url": "https://cointelegraph.com/magazine/bip-110-dies-with-a-whimper-clarity-vote-punted-hodlers-digest-aug-9",
-    "summary": "BIP-110 forks itself into oblivion with a \u201c2-block chain\u201d and CLARITY will finally get a Senate vote in September. The odds say that vote will be a No.",
+    "title": "Australia orders Cryptolink Bitcoin ATMs offline over \u2018basic reporting\u2019 failures",
+    "url": "https://cointelegraph.com/news/australia-orders-cryptolink-bitcoin-atms-offline-over-basic-reporting-failures",
+    "summary": "Australia\u2019s financial watchdog has suspended Cryptolink\u2019s registration for three months, adding to a crackdown that previously saw the Bitcoin ATM operator fined $56,340.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-10T03:04:35.270341+00:00"
+    "fetched_at": "2026-08-10T05:14:18.331566+00:00"
   },
   {
-    "title": "Ex-US defense secretary calls CLARITY Act a \u2018national security bill\u2019",
-    "url": "https://cointelegraph.com/news/ex-us-defense-secretary-calls-clarity-act-a-national-security-bill",
-    "summary": "Former US Defense Secretary Mark Esper says the CLARITY Act is not merely a financial services bill, its a national security one. ",
+    "title": "Crypto\u2019s first quantum attack will look like unexplained breach: Quantus founder",
+    "url": "https://cointelegraph.com/news/cryptos-first-quantum-attack-look-like-ordinary-key-theft-quantus-founder",
+    "summary": "Bad actors with access to a cryptography-breaking quantum computer probably won\u2019t try to announce it to the world by hacking Satoshi Nakamoto\u2019s high-profile Bitcoin wallets, crypto executives say.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-10T03:04:35.270415+00:00"
-  },
-  {
-    "title": "Gold Holds Above $4,300 as Soft Jobs Data Trims Rate-Hike Bets",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-09/gold-holds-gain-after-soft-us-jobs-data-eases-rate-hike-concerns",
-    "summary": "Gold steadied above $4,300 an ounce, with investors assessing a surprise contraction in the US jobs market that allayed concerns around an interest-rate hike.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-10T03:04:36.730732+00:00"
+    "fetched_at": "2026-08-10T05:14:18.331643+00:00"
   },
   {
     "title": "Global Stock Rally Extends, Oil Advances on Iran: Markets Wrap",
     "url": "https://www.bloomberg.com/news/articles/2026-08-09/stock-market-today-dow-s-p-live-updates",
-    "summary": "Global stocks traded near a record high as Asian investors renewed bets on artificial intelligence stocks after a month of volatility. Oil extended gains as Iran rejected talks with the US and a deal to reopen the Strait of Hormuz remained elusive.",
+    "summary": "Global stocks traded near a record high as Asian shares tracked Wall Street higher after soft US jobs data eased expectations for a Federal Reserve interest-rate hike. Oil extended gains as Iran rejected talks with the US and a deal to reopen the Strait of Hormuz remained elusive.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-10T03:04:36.730787+00:00"
+    "fetched_at": "2026-08-10T05:14:19.589515+00:00"
+  },
+  {
+    "title": "Iran Shakes Up Security Team Claiming Oman Deal \u2018Close\u2019",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-10/iran-shakes-up-security-team-claiming-oman-deal-close-video",
+    "summary": "Iran\u00a0promoted\u00a0a hard-line ex-commander as its top security official, shaking up its highest decision-making body on national defense after saying it was \u201cvery close\u201d to a deal with Oman over shipping through the Strait of Hormuz. Bloomberg's Stuart Livingstone-Wallace shares what we know about the s",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-08-10T05:14:19.589584+00:00"
   },
   {
     "title": "Trump Media Pulls Back From Crypto Deals: Report",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-10T03:04:35.553172+00:00"
+    "fetched_at": "2026-08-10T05:14:18.617120+00:00"
   },
   {
     "title": "Senators Cynthia Lummis and Angela Alsobrooks Say Bipartisan Work on Clarity Act Continues Despite Delays",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-10T03:04:35.553258+00:00"
+    "fetched_at": "2026-08-10T05:14:18.617184+00:00"
   },
   {
     "title": "Bitcoin 'Anti-Spam' Fork Sputters to a Halt After Mining Just Two Blocks",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-10T03:04:35.727335+00:00"
+    "fetched_at": "2026-08-10T05:14:18.719579+00:00"
   },
   {
     "title": "Bitcoin Red Team Says AI Is Finding Critical Exploits Across Core Projects",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-10T03:04:35.727390+00:00"
+    "fetched_at": "2026-08-10T05:14:18.719638+00:00"
   },
   {
     "title": "World Liberty received $100 million from businessman investigated for money laundering: NYT",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-10T03:04:35.893341+00:00"
+    "fetched_at": "2026-08-10T05:14:18.815253+00:00"
   },
   {
     "title": "Brazil to tighten crypto fraud controls with new 24-hour wait on transfers to self-custody wallets",
@@ -87,24 +87,24 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-10T03:04:35.893405+00:00"
+    "fetched_at": "2026-08-10T05:14:18.815321+00:00"
   },
   {
-    "title": "Trump is dismantling US guardrails, warn former security officials",
-    "url": "https://www.ft.com/content/4fc0fdda-0919-4584-9bdd-855e2aaa5c09?syn-25a6b1a6=1",
-    "summary": "Ex-CIA staffers step up efforts to publicise their deepening alarm about the state of American democracy",
+    "title": "China bypasses shipping chokepoints with \u2018Ice Silk Road\u2019 through Arctic",
+    "url": "https://www.ft.com/content/4456f475-f2c8-4cb7-8312-0c47c5f781b8?syn-25a6b1a6=1",
+    "summary": "First regular container service between Europe and Far East halves voyage times to about 20 days",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-10T03:04:37.511629+00:00"
+    "fetched_at": "2026-08-10T05:14:20.123683+00:00"
   },
   {
-    "title": "America\u2019s hidden M&A boom",
-    "url": "https://www.ft.com/content/3dd0cbcb-26e0-4eef-af1f-b16812cae6ac?syn-25a6b1a6=1",
-    "summary": "It\u2019s lurking in one of the US\u2019s top exports: higher education",
+    "title": "How the UAE won over Washington",
+    "url": "https://www.ft.com/content/ec5f7351-7aec-4fe1-80dc-b02c62045109?syn-25a6b1a6=1",
+    "summary": "The Gulf state has deployed a mixture of cash and charm to become one of America\u2019s most important Middle East allies",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-10T03:04:37.511685+00:00"
+    "fetched_at": "2026-08-10T05:14:20.123742+00:00"
   }
 ]
