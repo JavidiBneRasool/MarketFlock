@@ -1,39 +1,39 @@
 [
   {
+    "title": "Thailand\u2019s 0% crypto tax. Bitcoin Red Team forced to use Chinese AI: Asia Express",
+    "url": "https://cointelegraph.com/magazine/thailands-0-crypto-tax-bitcoin-red-team-forced-to-use-chinese-ai-asia-express",
+    "summary": "The Bitcoin Red Team has been forced to rely on open source Chinese AI, after OpenAI restricts access. Thailand sets crypto tax to 0% in bid to become crypto hub. \n",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-11T02:57:45.295959+00:00"
+  },
+  {
     "title": "Judge stays CFTC\u2019s case against US soldier over prediction market bets",
     "url": "https://cointelegraph.com/news/cftc-us-solider-insider-trading-polymarket-nicolas-maduro",
     "summary": "A New York judge granted a motion filed by US prosecutors in July to stay the CFTC\u2019s civil case against Gannon Ken Van Dyke over making more than $400,000 on prediction markets.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-11T00:47:13.682210+00:00"
+    "fetched_at": "2026-08-11T02:57:45.296062+00:00"
   },
   {
-    "title": "TRON USDT supply hits $87.9B as transfers reach $2.1T in Q2: Messari",
-    "url": "https://cointelegraph.com/news/tron-usdt-supply-hits-879b-as-transfers-reach-21t-in-q2-messari",
-    "summary": "Messari reported that TRON recorded all-time highs in stablecoin supply and network activity during the second quarter, while DeFi and decentralized exchange activity declined.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-11T00:47:13.682290+00:00"
-  },
-  {
-    "title": "Gold Climbs Above $4,400 as Traders Turn Focus to US Inflation",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-10/gold-touches-4-400-as-traders-turn-focus-to-us-inflation-data",
-    "summary": "Gold advanced to a two-month high above $4,400 an ounce ahead of a key US inflation report that could provide fresh clues to the Federal Reserve\u2019s appetite for an interest-rate hike.",
+    "title": "Nifty 50 Inclusion Could Boost BSE as NSE Gears Up For Listing",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-08-11/nifty-50-inclusion-could-boost-bse-as-nse-gears-up-for-listing",
+    "summary": "The inclusion could lead to passive flows of about $741 million into BSE.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-11T00:47:14.480095+00:00"
+    "fetched_at": "2026-08-11T02:57:45.908905+00:00"
   },
   {
-    "title": "Latest Oil Market News and Analysis for Aug. 11",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-10/latest-oil-market-news-and-analysis-for-aug-11",
-    "summary": "Oil held a four-day gain after US President Donald Trump made sweeping new demands on Iran, clouding the outlook for a deal to reopen the crucial Strait of Hormuz.",
+    "title": "Bonds Fall on Inflation Concern, Oil Holds Advance: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-10/stock-market-today-dow-s-p-live-updates",
+    "summary": "Government bonds in Asia Pacific followed Treasuries lower as oil\u2019s four-day rally revived inflation concerns before key US consumer price data later this week.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-11T00:47:14.480152+00:00"
+    "fetched_at": "2026-08-11T02:57:45.908965+00:00"
   },
   {
     "title": "Blockstream Debuts Swaps, Allowing Bitcoiners to Move Between Lightning and Main Network With Ease",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-11T00:47:13.976858+00:00"
+    "fetched_at": "2026-08-11T02:57:45.446102+00:00"
   },
   {
     "title": "BTCPay Server Offers a 3 Bitcoin Bounty for Recovery of Stolen Funds After Wallet Exploit",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-11T00:47:13.976945+00:00"
+    "fetched_at": "2026-08-11T02:57:45.446210+00:00"
   },
   {
     "title": "Vitalik Buterin Says Ethereum Is Betting Its Future on Quantum Security and AI",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-11T00:47:14.079232+00:00"
+    "fetched_at": "2026-08-11T02:57:45.537220+00:00"
   },
   {
     "title": "Bitcoin ATMs Pulled in Australia as Regulators Signal Wider Crackdown",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-11T00:47:14.079289+00:00"
+    "fetched_at": "2026-08-11T02:57:45.537279+00:00"
+  },
+  {
+    "title": "Riot Platforms stock jumps 25% after-hours on $9.1 billion AI deal reportedly with Anthropic",
+    "url": "https://www.theblock.co/news/business/2026-08-10-riot-platforms-ai-deal-anthropic-411358",
+    "summary": "The deal includes two five-year extension options that could raise the potential contract value to $16.1 billion.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-11T02:57:45.610882+00:00"
   },
   {
     "title": "BTCPay Server supporters offer up to 3 BTC for recovery bounty after critical exploit",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-11T00:47:14.158159+00:00"
-  },
-  {
-    "title": "BlackRock says bitcoin sentiment is turning as decoupling from stocks takes hold",
-    "url": "https://www.theblock.co/news/markets/2026-08-10-blackrock-says-bitcoin-sentiment-turning-decoupling-stocks-takes-hold-411333",
-    "summary": "\"That decoupling is healthy because it\u2019s part of the thesis for a lot of people around bitcoin as a diversifier,\" says BlackRock.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-11T00:47:14.158224+00:00"
+    "fetched_at": "2026-08-11T02:57:45.610945+00:00"
   },
   {
     "title": "Wall Street giants partner with Nvidia on $500bn AI financing deal",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-11T00:47:15.053400+00:00"
+    "fetched_at": "2026-08-11T02:57:46.367182+00:00"
   },
   {
     "title": "Just how big is the hidden leverage of AI hyperscalers?",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-11T00:47:15.053456+00:00"
+    "fetched_at": "2026-08-11T02:57:46.367248+00:00"
   }
 ]
