@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-12T11:39:42.064101+00:00"
+    "fetched_at": "2026-08-12T12:39:28.946441+00:00"
   },
   {
     "title": "Bitcoin miners earn under 0.7% of revenue from fees in new 10-year low",
@@ -15,25 +15,34 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-12T11:39:42.064181+00:00"
+    "fetched_at": "2026-08-12T12:39:28.946563+00:00"
   },
   {
-    "title": "Tata Sons Chairman Unexpectedly Steps Down",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-12/tata-sons-chairman-unexpectedly-steps-down-video",
-    "summary": "Uncertainty is mounting at Tata Sons as Chairman Natarajan Chandrasekaran prepares to step down after a boardroom deadlock. The leadership shake-up comes as India's $180 billion conglomerate faces mounting financial and regulatory pressures. (Source: Bloomberg)",
+    "title": "Stocks, Bonds Rise as Tame CPI Curbs Fed-Hike Bets: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-11/stock-market-today-dow-s-p-live-updates",
+    "summary": "An in-line inflation reading spurred gains in both stocks and bonds, easing concern about imminent Federal Reserve interest-rate hikes despite elevated oil prices.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-12T11:39:42.890321+00:00"
+    "fetched_at": "2026-08-12T12:39:30.104284+00:00"
   },
   {
-    "title": "Lloyds Metals Can Ready Restart of Giant PNG Copper Mine",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-12/lloyds-metals-allowed-to-ready-restart-of-giant-png-copper-mine",
-    "summary": "An Indian iron ore producer was authorized to work toward restarting a giant Papua New Guinea copper mine that\u2019s been closed for almost 40 years and was once a flash point in a brutal civil war.",
+    "title": "Vestas CEO Says EU Prevents Mergers Needed to Compete Globally",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-12/vestas-ceo-says-eu-prevents-mergers-needed-to-compete-globally",
+    "summary": "Europe\u2019s wind turbine makers would be better able to compete globally if regulators in Brussels allowed more consolidation, according to the chief executive officer of Vestas Wind Systems A/S.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-12T11:39:42.890376+00:00"
+    "fetched_at": "2026-08-12T12:39:30.104346+00:00"
+  },
+  {
+    "title": "AI Hyperscalers Are Pricing Bitcoin Miners Off the Grid\u2014 Here\u2019s Why Its a Massive Win-Win",
+    "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/ai-hyperscalers-are-pricing-bitcoin-miners-off-the-grid-heres-why-its-a-massive-win-win",
+    "summary": "Bitcoin Magazine\n\nAI Hyperscalers Are Pricing Bitcoin Miners Off the Grid\u2014 Here&#8217;s Why Its a Massive Win-Win\nAI is pricing Bitcoin miners off the main power grid. Headlines call it a surrender, but a massive infrastructure win is hiding inside the eviction.\nThis post AI Hyperscalers Are Pricing",
+    "source": "Bitcoin Magazine",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-12T12:39:29.232076+00:00"
   },
   {
     "title": "Regulators To Push Pro-Crypto Initiatives Following Clarity Act Delay",
@@ -42,34 +51,34 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-12T11:39:42.285436+00:00"
+    "fetched_at": "2026-08-12T12:39:29.232145+00:00"
   },
   {
-    "title": "Should Bitcoin Companies Build USD Reserves? Understanding The Truth",
-    "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/bitcoin-companies-usd",
-    "summary": "Bitcoin Magazine\n\nShould Bitcoin Companies Build USD Reserves? Understanding The Truth\nStrategy is acquiring more cash than bitcoin these days. This is what's really going on and whether other Bitcoin companies should follow suit. \nThis post Should Bitcoin Companies Build USD Reserves? Understanding",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-12T11:39:42.285502+00:00"
-  },
-  {
-    "title": "Harmony's ONE Sinks 37% After Attacker Mints 4 Billion Tokens",
-    "url": "https://decrypt.co/375390/harmonys-one-sinks-37-after-attacker-mints-4-billion-tokens",
-    "summary": "The team is weighing a rollback, which would undo the attack along with every legitimate transaction made since.",
+    "title": "Morning Minute: The CFTC Bails Out Kalshi in NY",
+    "url": "https://decrypt.co/375393/morning-minute-the-cftc-bails-out-kalshi-in-ny",
+    "summary": "The CFTC keeps going to bat for Kalshi while the ultimate prediction market court battle looms, with the fate of the sector in the balance.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-12T11:39:42.366489+00:00"
+    "fetched_at": "2026-08-12T12:39:29.368592+00:00"
   },
   {
-    "title": "CFTC Invokes Emergency Powers to Keep Kalshi Trading Despite New York Suit",
-    "url": "https://decrypt.co/375387/cftc-invokes-emergency-powers-to-keep-kalshi-trading-despite-new-york-suit",
-    "summary": "Kalshi triggered the order, notifying the agency of a market emergency after New York moved to bar its contracts nationwide.",
+    "title": "Bitwise Cuts 14% of Staff as Crypto Slump Reaches ETF Issuers",
+    "url": "https://decrypt.co/375394/bitwise-cuts-14-of-staff-as-crypto-slump-reaches-etf-issuers",
+    "summary": "The reduction matches the percentage shed by Coinbase in May, and follows shutdowns at BitMEX and BitMart.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-12T11:39:42.366548+00:00"
+    "fetched_at": "2026-08-12T12:39:29.368650+00:00"
+  },
+  {
+    "title": "Standard Chartered-backed Anchorpoint begins HKDAP stablecoin rollout",
+    "url": "https://www.theblock.co/news/business/2026-08-12-standard-chartered-anchorpoint-hkdap-stablecoin-rollout-411575",
+    "summary": "Standard Chartered-backed Anchorpoint began an institutional rollout of its Hong Kong dollar stablecoin, HKDAP, following licensing approval.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-12T12:39:29.488277+00:00"
   },
   {
     "title": "Bitcoin market in \u2018hibernation\u2019 as perp trading activity sinks to three-year low ahead of US CPI release: K33",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-12T11:39:42.434364+00:00"
-  },
-  {
-    "title": "Australian regulator takes down Yepbit websites as investors report blocked withdrawals",
-    "url": "https://www.theblock.co/news/regulation/2026-08-12-australian-regulator-takes-down-yepbit-websites-411538",
-    "summary": "Australia's ASIC took down Yepbit websites and denied the platform's false claims that the regulator had frozen investor funds.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-12T11:39:42.434453+00:00"
+    "fetched_at": "2026-08-12T12:39:29.488354+00:00"
   },
   {
     "title": "JD Vance asked Ukraine to halt strikes on tankers using Russian port",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-12T11:39:43.565669+00:00"
+    "fetched_at": "2026-08-12T12:39:30.879944+00:00"
   },
   {
     "title": "China\u2019s great jobs squeeze",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-12T11:39:43.565733+00:00"
+    "fetched_at": "2026-08-12T12:39:30.880008+00:00"
   }
 ]
