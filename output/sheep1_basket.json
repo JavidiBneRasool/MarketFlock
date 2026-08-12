@@ -1,57 +1,66 @@
 [
   {
-    "title": "NYC council announces probe into \u2018predatory marketing practices\u2019 on prediction markets",
-    "url": "https://cointelegraph.com/news/new-york-council-probe-marketing-practices-prediction-markets",
-    "summary": "Council Speaker Julie Menin sent letters to four companies offering prediction market services to New Yorkers as part of an investigation into their marketing practices.",
+    "title": "Hawaii crypto ATM ban to take effect on Oct. 1",
+    "url": "https://cointelegraph.com/news/hawaii-crypto-atm-ban-october-enforcement",
+    "summary": "Hawaii will join Minnesota, Tennessee and Indiana in becoming the fourth US state to completely ban the use of cryptocurrency ATMs and kiosks in response to scams.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-12T20:30:06.735951+00:00"
+    "fetched_at": "2026-08-12T21:32:50.135189+00:00"
   },
   {
-    "title": "Kraken adds S&P 500 to funded trading program, commodities to follow",
-    "url": "https://cointelegraph.com/news/kraken-prop-sp500-perpetual-commodities-next",
-    "summary": "Kraken\u2019s funded trading program adds round-the-clock exposure to the US equity benchmark as it builds out its multi-asset offering.",
+    "title": "Goldman Sachs to acquire ETF manager NEOS in $2.25B deal",
+    "url": "https://cointelegraph.com/news/goldman-sachs-to-acquire-etf-manager-neos-225b-deal",
+    "summary": "The deal would add NEOS\u2019 $30 billion ETF business, including Bitcoin- and Ether-linked income funds, to Goldman Sachs Asset Management.\n",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-12T20:30:06.736034+00:00"
+    "fetched_at": "2026-08-12T21:32:50.135266+00:00"
   },
   {
-    "title": "S&P 500 Rises to Brink of Record on Tame Inflation: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-11/stock-market-today-dow-s-p-live-updates",
-    "summary": "Stocks rose to a striking distance of a record after the latest inflation report matched expectations, easing concerns about imminent Federal Reserve rate increases.",
+    "title": "US Regulator Denies Egan-Jones Bid to Expand Ratings Business",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-12/us-regulator-denies-egan-jones-bid-to-expand-ratings-business",
+    "summary": "The Securities and Exchange Commission rejected credit rating firm Egan-Jones Ratings Co.\u2019s application to re-enter the market for grading government debt and asset-backed securities, the latest sign of regulatory pushback against the small but prolific agency.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-12T20:30:08.017683+00:00"
+    "fetched_at": "2026-08-12T21:32:51.395831+00:00"
   },
   {
-    "title": "Record Lakers Deal, Bezos Eyes Liverpool: Business of Sports",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-12/lakers-deal-bezos-eyes-liverpool-business-of-sports-video",
-    "summary": "The world of sports has become a multi-trillion dollar industry and teams continue to change hands at huge valuations. They discuss the sale of the Los Angeles Lakers and the Seattle Seahawks. Bloomberg's Michelle Davis reports on \"Bloomberg Deals.\" (Source: Bloomberg)",
+    "title": "Gold Rallies as Tame US Inflation Report Calms Rate Hike Fears",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-11/gold-steadies-as-traders-watch-us-inflation-for-rate-hike-clues",
+    "summary": "Gold extended gains as US inflation data that was in-line with expecations eased concerns about Federal Reserve interest-rate hikes.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-12T20:30:08.017743+00:00"
+    "fetched_at": "2026-08-12T21:32:51.395887+00:00"
   },
   {
-    "title": "Bitcoin Flashes Bottom Signals as \u201cDigital Gold\u201d Narrative Returns",
-    "url": "https://bitcoinmagazine.com/news/bitcoin-flashes-bottom-signal-digital-gold",
-    "summary": "Bitcoin Magazine\n\nBitcoin Flashes Bottom Signals as &#8220;Digital Gold&#8221; Narrative Returns\nHas Bitcoin bottomed out? Data shows it might have. \nThis post Bitcoin Flashes Bottom Signals as &#8220;Digital Gold&#8221; Narrative Returns first appeared on Bitcoin Magazine and is written by Mathew D",
+    "title": "Bitcoin Price May Be Battered, but Structural Adoption Story Still Intact: Grayscale",
+    "url": "https://bitcoinmagazine.com/news/bitcoin-price-down-but-adoption-to-grow",
+    "summary": "Bitcoin Magazine\n\nBitcoin Price May Be Battered, but Structural Adoption Story Still Intact: Grayscale\nGrayscale has said there are three reasons Bitcoin adoption is set to continue growing \u2014 regardless of price. \nThis post Bitcoin Price May Be Battered, but Structural Adoption Story Still Intact: G",
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-12T20:30:07.151649+00:00"
+    "fetched_at": "2026-08-12T21:32:50.482840+00:00"
   },
   {
-    "title": "OCC Says It\u2019s \u2018Open for Business\u2019 as Crypto Firms Line Up for Bank Charters",
-    "url": "https://bitcoinmagazine.com/news/occ-ready-to-approve-banking-charters",
-    "summary": "Bitcoin Magazine\n\nOCC Says It&#8217;s &#8216;Open for Business&#8217; as Crypto Firms Line Up for Bank Charters\nTop crypto companies have received conditional approval from the U.S. federal banking regulator.\nThis post OCC Says It&#8217;s &#8216;Open for Business&#8217; as Crypto Firms Line Up for B",
+    "title": "Goldman Sachs to Acquire NEOS Investments in $2.25B Deal, Adding Bitcoin Income ETFs to Lineup",
+    "url": "https://bitcoinmagazine.com/news/goldman-sachs-to-acquire-neos-investments",
+    "summary": "Bitcoin Magazine\n\nGoldman Sachs to Acquire NEOS Investments in $2.25B Deal, Adding Bitcoin Income ETFs to Lineup\nThe deal gives the bank a ready-made foothold in Bitcoin-income ETFs space. \nThis post Goldman Sachs to Acquire NEOS Investments in $2.25B Deal, Adding Bitcoin Income ETFs to Lineup first",
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-12T20:30:07.151722+00:00"
+    "fetched_at": "2026-08-12T21:32:50.482910+00:00"
+  },
+  {
+    "title": "'Inner Thoughts' of Every Major AI Model Exposed in Massive Exploit",
+    "url": "https://decrypt.co/375501/inner-thoughts-every-major-ai-model-exposed-exploit",
+    "summary": "Researchers found every major AI provider encrypts reasoning tokens with a single global key\u2014and exploited it to decode 315,320 hidden thinking blocks from public logs, recovering passwords and live API keys along the way.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-12T21:32:50.642116+00:00"
   },
   {
     "title": "China\u2019s DeepSeek Upgrades V4 Pro: Claude Fable Is Only 5% Better at 4,500% the Price",
@@ -60,34 +69,25 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-12T20:30:07.298079+00:00"
+    "fetched_at": "2026-08-12T21:32:50.642180+00:00"
   },
   {
-    "title": "SpaceXAI Wants Grok Bot to Do Your Job\u2014But It Needs Access to Your Accounts",
-    "url": "https://decrypt.co/375490/spacexai-grok-bot-do-job-needs-access-accounts",
-    "summary": "The AI agent can navigate workplace software and coordinate with other bots, raising questions about security and control.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-12T20:30:07.298143+00:00"
-  },
-  {
-    "title": "Ethereum staking climbs to 34% as proposal targets validator rewards and ETH treasury firm yields",
-    "url": "https://www.theblock.co/news/ecosystems/2026-08-12-ethereum-staking-climbs-34-proposal-targets-validator-rewards-eth-treasury-firm-yields-411312",
-    "summary": "Researchers recently filed EIP-8361, a \"tapered issuance burn\" that destroys a growing share of validator rewards as the staking ratio rises.",
+    "title": "Hyperliquid treasury Hyperion triples quarterly profits as HYPE holdings rise in value",
+    "url": "https://www.theblock.co/news/markets/2026-08-12-hyperliquid-treasury-hyperion-triples-quarterly-profits-as-hype-holdings-rise-in-value-411652",
+    "summary": "The company's HYPE holdings increased to $133 million during the second quarter, up from $71 million at the end of Q1.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-12T20:30:07.452008+00:00"
+    "fetched_at": "2026-08-12T21:32:50.792392+00:00"
   },
   {
-    "title": "Trump sued over Truth Social\u2019s early-access feed as firm explores licensing data to prediction markets",
-    "url": "https://www.theblock.co/news/business/2026-08-12-trump-sued-truth-social-early-access-feed-firm-explores-licensing-data-prediction-markets-411628",
-    "summary": "A new lawsuit alleges Trump\u2019s paid Truth Social feed unconstitutionally restricts access to official posts.",
+    "title": "SEC clears Franklin Templeton funds to use onchain BENJI system for cash management",
+    "url": "https://www.theblock.co/news/defi/2026-08-12-sec-clears-franklin-templeton-funds-use-onchain-benji-system-cash-management-411654",
+    "summary": "Franklin Templeton received a no-action letter from the SEC enabling its traditional registered funds to invest in its BENJI/FOBXX fund.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-12T20:30:07.452079+00:00"
+    "fetched_at": "2026-08-12T21:32:50.792450+00:00"
   },
   {
     "title": "Karoline Leavitt to step down as White House press secretary",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-12T20:30:08.786063+00:00"
+    "fetched_at": "2026-08-12T21:32:52.078474+00:00"
   },
   {
     "title": "How a bad trade pushed a US mortgage giant into a $2bn lifeline",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-12T20:30:08.786133+00:00"
+    "fetched_at": "2026-08-12T21:32:52.078562+00:00"
   }
 ]
