@@ -1,39 +1,48 @@
 [
   {
+    "title": "Bitcoin eyes $63K as US CPI relief sends September Fed rate pause odds to 60%",
+    "url": "https://cointelegraph.com/markets/bitcoin-eyes-63k-as-us-cpi-relief-sends-september-fed-rate-pause-odds-to-60",
+    "summary": "Bitcoin price action did not reflect relief in US CPI inflation numbers matching expectations amid a warning over $63,000 failing as support.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-12T15:47:45.694964+00:00"
+  },
+  {
     "title": "Kalshi launches sports and crypto perps data feed on DoubleZero",
     "url": "https://cointelegraph.com/news/kalshi-launches-sports-crypto-data-feed-doublezero",
     "summary": "Kalshi launched access to its sports and crypto perpetual data feed through DoubleZero\u2019s dedicated fiber network to bolster institutional data access.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-12T14:11:32.710675+00:00"
+    "fetched_at": "2026-08-12T15:47:45.695038+00:00"
   },
   {
-    "title": "Slovenia joins EU\u2019s MiCA stablecoin register with first issuer",
-    "url": "https://cointelegraph.com/news/slovenia-eu-mica-stablecoin-register-dinaro",
-    "summary": "Slovenia entered the EU\u2019s MiCA stablecoin register through electronic money institution Dinaro, as the update also added two new CASPs.",
-    "source": "CoinTelegraph",
+    "title": "Lightbridge CEO\u00a0 Says Nuclear Fuel Is Accelerating",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-12/lightbridge-ceo-says-nuclear-fuel-is-accelerating-video",
+    "summary": "Lightbridge CEO Seth Grae says the company\u2019s advanced nuclear fuel is progressing faster than expected as testing continues at Idaho National Laboratory. He joins Bloomberg Open Interest to explain why early results look promising, how the fuel could boost output from existing reactors, and why surg",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-08-12T15:47:46.589187+00:00"
+  },
+  {
+    "title": "Firefly CEO Says Launch Demand Is Surging",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-12/firefly-ceo-says-launch-demand-is-surging-video",
+    "summary": "Firefly Aerospace CEO Jason Kim says launch capacity is tighter than ever as commercial and government demand accelerates. He joins Bloomberg Open Interest to break down the expanded Lockheed Martin partnership, Firefly\u2019s growing lunar and Golden Dome businesses, and how the company is ramping Alpha",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-08-12T15:47:46.589239+00:00"
+  },
+  {
+    "title": "Bitcoin Yawns As Fed\u2019s Favorite Inflation Gauge Eases",
+    "url": "https://bitcoinmagazine.com/news/bitcoin-yawns-as-us-inflation-eases",
+    "summary": "Bitcoin Magazine\n\nBitcoin Yawns As Fed&#8217;s Favorite Inflation Gauge Eases\u00a0\nBitcoin's price was largely flat on news that US inflation was subdued in July.\nThis post Bitcoin Yawns As Fed&#8217;s Favorite Inflation Gauge Eases\u00a0 first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
+    "source": "Bitcoin Magazine",
     "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-12T14:11:32.710740+00:00"
-  },
-  {
-    "title": "Jane Street Prices $14.6 Billion Debt Deal With 8% 10-Year Yield",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-12/jane-street-repaying-5-5-billion-loan-in-overhaul-of-debt-load",
-    "summary": "Jane Street has issued $14.6 billion of bonds, part of a broader overhaul of its debt load that will also allow it to fund technology infrastructure and expand its trading strategies.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-12T14:11:38.068446+00:00"
-  },
-  {
-    "title": "Bond Traders Keep Wagers on a September Fed Hike After Tame CPI",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-12/bond-traders-keep-cointoss-wager-on-september-fed-hike-post-cpi",
-    "summary": "Traders held on to bets that Federal Reserve officials could raise interest rates at their next meeting in September, pricing in a roughly 40% chance of a move after a tame reading of US inflation.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-12T14:11:38.068494+00:00"
+    "tier": 9,
+    "fetched_at": "2026-08-12T15:47:45.959118+00:00"
   },
   {
     "title": "AI Hyperscalers Are Pricing Bitcoin Miners Off the Grid\u2014 Here\u2019s Why Its a Massive Win-Win",
@@ -42,52 +51,43 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-12T14:11:33.013649+00:00"
+    "fetched_at": "2026-08-12T15:47:45.959188+00:00"
   },
   {
-    "title": "Regulators To Push Pro-Crypto Initiatives Following Clarity Act Delay",
-    "url": "https://bitcoinmagazine.com/news/regulators-push-pro-crypto-clarity-act",
-    "summary": "Bitcoin Magazine\n\nRegulators To Push Pro-Crypto Initiatives Following Clarity Act Delay\u00a0\nA vote on the Clarity Act last week stalled. Still, pro-crypto regulators have now said they aim to unveil plans to help the digital asset space. \nThis post Regulators To Push Pro-Crypto Initiatives Following Cl",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-12T14:11:33.013702+00:00"
-  },
-  {
-    "title": "Kalshi Adds Real-Time Market Data Feed Through DoubleZero",
-    "url": "https://decrypt.co/375384/kalshi-real-time-market-data-feed-doublezero",
-    "summary": "The service gives trading firms access to Kalshi\u2019s sports and crypto order books over DoubleZero\u2019s fiber network.",
+    "title": "Why Bitcoin Barely Moved Even as US Inflation Cools to 3.4%",
+    "url": "https://decrypt.co/375411/why-bitcoin-barely-moved-us-cpi-inflation-cools",
+    "summary": "The tamest U.S. inflation print in months left crypto markets flat, with Bitcoin shrugging off the data hit. Here's why.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-12T14:11:33.162432+00:00"
+    "fetched_at": "2026-08-12T15:47:46.068182+00:00"
   },
   {
-    "title": "Morning Minute: The CFTC Bails Out Kalshi in NY",
-    "url": "https://decrypt.co/375393/morning-minute-the-cftc-bails-out-kalshi-in-ny",
-    "summary": "The CFTC keeps going to bat for Kalshi while the ultimate prediction market court battle looms, with the fate of the sector in the balance.",
+    "title": "A Routing Bug Took Solana 86% of the Way to Losing Finality",
+    "url": "https://decrypt.co/375404/a-routing-bug-took-solana-86-of-the-way-to-losing-finality",
+    "summary": "A malformed default route at a single hosting provider took almost 29% of staked SOL offline, against a 33% threshold.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-12T14:11:33.162471+00:00"
+    "fetched_at": "2026-08-12T15:47:46.068238+00:00"
   },
   {
-    "title": "Kalshi first prediction market to stream full order books via DoubleZero",
-    "url": "https://www.theblock.co/news/markets/2026-08-12-kalshi-first-prediction-market-to-stream-full-order-books-via-doublezero-411589",
-    "summary": "The move gives institutional traders direct access to Level 1 and Level 2 data without having to reconstruct the book from APIs.",
+    "title": "Attackers keep hitting the wrong house in rural France after crypto millionaire moved: report",
+    "url": "https://www.theblock.co/news/regulation/2026-08-12-attackers-keep-hitting-wrong-house-rural-france-after-crypto-millionaire-moved-report-411605",
+    "summary": "A French couple in the Somme who bought a former crypto millionaires\u2019 house have been targeted in three separate home invasions.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-12T14:11:33.319993+00:00"
+    "fetched_at": "2026-08-12T15:47:46.162795+00:00"
   },
   {
-    "title": "Standard Chartered-backed Anchorpoint begins HKDAP stablecoin rollout",
-    "url": "https://www.theblock.co/news/business/2026-08-12-standard-chartered-anchorpoint-hkdap-stablecoin-rollout-411575",
-    "summary": "Standard Chartered-backed Anchorpoint began an institutional rollout of its Hong Kong dollar stablecoin, HKDAP, following licensing approval.",
+    "title": "New York City Council opens probe into prediction market platforms",
+    "url": "https://www.theblock.co/news/regulation/2026-08-12-new-york-city-council-opens-probe-into-prediction-market-platforms-411604",
+    "summary": "The NYC Council has opened a probe into prediction market platforms over alleged\u00a0\"false, deceptive, or abusive marketing tactics.\"",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-12T14:11:33.320035+00:00"
+    "fetched_at": "2026-08-12T15:47:46.162852+00:00"
   },
   {
     "title": "US inflation falls to 3.4% in July",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-12T14:11:38.829378+00:00"
+    "fetched_at": "2026-08-12T15:47:47.161178+00:00"
   },
   {
     "title": "Poorer Americans are struggling to make \u2018ends meet\u2019, top Fed official says",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-12T14:11:38.829434+00:00"
+    "fetched_at": "2026-08-12T15:47:47.161246+00:00"
   }
 ]
