@@ -1,39 +1,39 @@
 [
   {
-    "title": "Crypto companies urge AI firms to give Bitcoin developers early access",
-    "url": "https://cointelegraph.com/news/crypto-companies-ai-firms-bitcoin-developers-access",
-    "summary": "The Bitcoin Policy Institute and other industry participants urged AI companies to offer early access to their frontier models to aid Bitcoin and open-source developers in their cybersecurity efforts.",
+    "title": "Binance, RedotPay clash over fate of Singapore lawsuit",
+    "url": "https://cointelegraph.com/news/binance-redotpay-clash-singapore-lawsuit",
+    "summary": "Amid a $473 million legal dispute, RedotPay says it expects Binance to end its Singapore case, while Binance says its claims remain active.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-12T09:57:56.190247+00:00"
+    "fetched_at": "2026-08-12T10:56:39.067225+00:00"
   },
   {
-    "title": "Inside the fake crypto startup that fooled North Korean IT workers",
-    "url": "https://cointelegraph.com/magazine/fake-crypto-startup-fooled-north-korean-it-workers",
-    "summary": "Suspected North Koreans IT workers joined a fake crypto startup \u2014 without realizing their every move was being tracked to extract valuable intel.",
+    "title": "Bitcoin miners earn under 0.7% of revenue from fees in new 10-year low",
+    "url": "https://cointelegraph.com/markets/bitcoin-miners-earn-under-07-of-revenue-from-fees-in-new-10-year-low",
+    "summary": "Bitcoin miners showed a \u201cconcerning\u201d trend of pivoting to AI amid a profit squeeze as transaction-fee income barely bounced from 10-year lows of 0.52% of revenue.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-12T09:57:56.190327+00:00"
+    "fetched_at": "2026-08-12T10:56:39.067304+00:00"
   },
   {
-    "title": "Gold Advances as Traders Watch US Inflation for Rate-Hike Clues",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-11/gold-steadies-as-traders-watch-us-inflation-for-rate-hike-clues",
-    "summary": "Gold advanced, as traders weighed prospects for a deal to reopen the Strait of Hormuz while awaiting US inflation data for clues on the Federal Reserve\u2019s interest-rate path.",
+    "title": "India Inflation Stays Within Target Band, Supporting RBI Pause",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-12/india-inflation-stays-within-target-band-supporting-rbi-pause",
+    "summary": "India\u2019s inflation was broadly steady in July, holding within the Reserve Bank\u2019s 2%-6% target range and cementing expectations policymakers will keep interest rates unchanged for some time.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-12T09:57:57.105513+00:00"
+    "fetched_at": "2026-08-12T10:56:39.907564+00:00"
   },
   {
-    "title": "Tata Sons Chairman N Chandrasekaran Resigns Ahead of AGM Next Week",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-12/tata-sons-chair-chandra-steps-down-leaving-group-leaderless",
-    "summary": "Natarajan Chandrasekaran will step down as chairman of Tata Sons Pvt. when his term ends in February 2027, deepening a leadership crisis at the Indian conglomerate at a time when it\u2019s spearheading the country\u2019s push into high-tech sectors.",
+    "title": "Latest Oil Market News and Analysis for Aug. 12",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-11/latest-oil-market-news-and-analysis-for-aug-12",
+    "summary": "Oil wavered as traders continued to weigh the prospect for a deal to restore energy flows through the Strait of Hormuz.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-12T09:57:57.105573+00:00"
+    "fetched_at": "2026-08-12T10:56:39.907618+00:00"
   },
   {
     "title": "Regulators To Push Pro-Crypto Initiatives Following Clarity Act Delay",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-12T09:57:56.437104+00:00"
+    "fetched_at": "2026-08-12T10:56:39.403250+00:00"
   },
   {
     "title": "Should Bitcoin Companies Build USD Reserves? Understanding The Truth",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-12T09:57:56.437170+00:00"
+    "fetched_at": "2026-08-12T10:56:39.403312+00:00"
+  },
+  {
+    "title": "Harmony's ONE Sinks 37% After Attacker Mints 4 Billion Tokens",
+    "url": "https://decrypt.co/375390/harmonys-one-sinks-37-after-attacker-mints-4-billion-tokens",
+    "summary": "The team is weighing a rollback, which would undo the attack along with every legitimate transaction made since.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-12T10:56:39.505809+00:00"
   },
   {
     "title": "CFTC Invokes Emergency Powers to Keep Kalshi Trading Despite New York Suit",
@@ -60,16 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-12T09:57:56.516551+00:00"
+    "fetched_at": "2026-08-12T10:56:39.505862+00:00"
   },
   {
-    "title": "Another OpenAI Exec Quits in Leadership Shake-Up as AI Giant Eyes IPO",
-    "url": "https://decrypt.co/375381/openai-exec-brad-lightcap-quits-leadership-shake-up-ipo",
-    "summary": "The former operating chief is starting a new venture following several departures across the ChatGPT developer\u2019s leadership and safety teams.",
-    "source": "Decrypt",
+    "title": "Bitcoin market in \u2018hibernation\u2019 as perp trading activity sinks to three-year low ahead of US CPI release: K33",
+    "url": "https://www.theblock.co/news/markets/2026-08-12-bitcoin-perp-trading-activity-three-year-low-us-cpi-k33-411545",
+    "summary": "Elevated open interest leaves the market exposed to sharper liquidation-driven moves, K33 said, as traders await Wednesday's U.S. CPI report.",
+    "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-12T09:57:56.516612+00:00"
+    "fetched_at": "2026-08-12T10:56:39.604430+00:00"
   },
   {
     "title": "Australian regulator takes down Yepbit websites as investors report blocked withdrawals",
@@ -78,25 +87,16 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-12T09:57:56.633650+00:00"
-  },
-  {
-    "title": "FlightAware drops lawsuit against Kalshi one day after filing",
-    "url": "https://www.theblock.co/news/business/2026-08-12-flightaware-drops-kalshi-lawsuit-411534",
-    "summary": "The flight tracker previously claimed that Kalshi improperly used its data and trademark to run prediction markets on flight cancellations.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-12T09:57:56.633708+00:00"
+    "fetched_at": "2026-08-12T10:56:39.604491+00:00"
   },
   {
     "title": "JD Vance asked Ukraine to halt strikes on tankers using Russian port",
     "url": "https://www.ft.com/content/725b4d15-bd8d-4083-a04e-db016338af2e?syn-25a6b1a6=1",
-    "summary": "Washington alarmed by Kyiv\u2019s campaign on vessels collecting Kazakh oil from Novorossiysk",
+    "summary": "Washington alarmed by Kyiv\u2019s drone attacks on vessels collecting Kazakh oil from Novorossiysk",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-12T09:57:57.804740+00:00"
+    "fetched_at": "2026-08-12T10:56:40.431955+00:00"
   },
   {
     "title": "China\u2019s great jobs squeeze",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-12T09:57:57.804804+00:00"
+    "fetched_at": "2026-08-12T10:56:40.432195+00:00"
   }
 ]
