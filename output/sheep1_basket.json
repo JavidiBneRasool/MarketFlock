@@ -1,39 +1,48 @@
 [
   {
+    "title": "Kraken adds S&P 500 to funded trading program, commodities to follow",
+    "url": "https://cointelegraph.com/news/kraken-prop-sp500-perpetual-commodities-next",
+    "summary": "Kraken\u2019s funded trading program adds round-the-clock exposure to the US equity benchmark as it builds out its multi-asset offering.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-12T19:54:24.608485+00:00"
+  },
+  {
     "title": "Bitwise cuts 14% of staff while still expecting growth",
     "url": "https://cointelegraph.com/news/bitwise-staff-cuts-market-downturn-growth",
     "summary": "Crypto companies from including Coinbase, BitGo, Robinhood, Polygon and Pump.fun have announced workforce reductions this year, citing a variety of reasons, including shifting to AI and market forces.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-12T18:44:11.006062+00:00"
+    "fetched_at": "2026-08-12T19:54:24.608555+00:00"
   },
   {
-    "title": "FlightAware drops Kalshi lawsuit one day after filing",
-    "url": "https://cointelegraph.com/news/flightaware-drops-kalshi-lawsuit-one-day-after-filing",
-    "summary": "Following the initial lawsuit, at least one of Kalshi\u2019s event contracts was changed to list \u201cPrimary Source Agency\u201d as the entity behind verifying flight cancellation data.",
-    "source": "CoinTelegraph",
+    "title": "US Sells 10-Year Debt at Highest Yields Since Financial Crisis",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-12/bond-traders-keep-cointoss-wager-on-september-fed-hike-post-cpi",
+    "summary": "A $42 billion auction of 10-year US Treasuries resulted in the highest yield for the benchmark securities since 2007, luring decent appetite from investors who\u2019ve been demanding more compensation to finance the US government.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-08-12T19:54:25.530838+00:00"
+  },
+  {
+    "title": "Latest Oil Market News and Analysis for Aug. 12",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-11/latest-oil-market-news-and-analysis-for-aug-12",
+    "summary": "Oil swung between gains and losses as traders parsed a barrage of data from leading energy forecasters amid little sign of a breakthrough between Iran and the US over the Strait of Hormuz.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-08-12T19:54:25.530891+00:00"
+  },
+  {
+    "title": "Bitcoin Flashes Bottom Signals as \u201cDigital Gold\u201d Narrative Returns",
+    "url": "https://bitcoinmagazine.com/news/bitcoin-flashes-bottom-signal-digital-gold",
+    "summary": "Bitcoin Magazine\n\nBitcoin Flashes Bottom Signals as &#8220;Digital Gold&#8221; Narrative Returns\nHas Bitcoin bottomed out? Data shows it might have. \nThis post Bitcoin Flashes Bottom Signals as &#8220;Digital Gold&#8221; Narrative Returns first appeared on Bitcoin Magazine and is written by Mathew D",
+    "source": "Bitcoin Magazine",
     "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-12T18:44:11.006132+00:00"
-  },
-  {
-    "title": "US Stocks Climb Near Record as Earnings Revive Faith in AI Trade",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-12/us-stock-futures-rise-as-tech-rally-resumes-before-key-cpi-data",
-    "summary": "US stocks advanced toward all-time highs, led by the technology sector, after a subdued inflation reading helped ease interest-rate hike concerns.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-12T18:44:11.960428+00:00"
-  },
-  {
-    "title": "Hong, Crowley 'Two Sides of the Same Coin' Says Republican Rep. Steil",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-12/hong-crowley-two-sides-of-the-same-coin-says-steil-video",
-    "summary": "Wisconsin Representative Bryan Steil said that moderate David Crowley and democratic socialist Francesca Hong are 'two sides of the same coin' after Crowley pulled off an upset in the Democratic primary to face Republican Tom Tiffany in the fall. \nSteil said that he expects the race to be close and ",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-12T18:44:11.960494+00:00"
+    "tier": 9,
+    "fetched_at": "2026-08-12T19:54:24.781762+00:00"
   },
   {
     "title": "OCC Says It\u2019s \u2018Open for Business\u2019 as Crypto Firms Line Up for Bank Charters",
@@ -42,34 +51,34 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-12T18:44:11.332938+00:00"
+    "fetched_at": "2026-08-12T19:54:24.781829+00:00"
   },
   {
-    "title": "Bitcoin Yawns As Fed\u2019s Favorite Inflation Gauge Eases",
-    "url": "https://bitcoinmagazine.com/news/bitcoin-yawns-as-us-inflation-eases",
-    "summary": "Bitcoin Magazine\n\nBitcoin Yawns As Fed&#8217;s Favorite Inflation Gauge Eases\u00a0\nBitcoin's price was largely flat on news that US inflation was subdued in July.\nThis post Bitcoin Yawns As Fed&#8217;s Favorite Inflation Gauge Eases\u00a0 first appeared on Bitcoin Magazine and is written by Mathew Di Salvo.",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-12T18:44:11.333004+00:00"
-  },
-  {
-    "title": "After Coldcard Was Hacked, $15 Billion in Bitcoin Moved to Safety",
-    "url": "https://decrypt.co/375450/coldcard-hack-15-billion-bitcoin-moved-safety",
-    "summary": "Casa CEO Nick Neuman says the mass Bitcoin migration after the $130M Coldcard exploit proves distributed self-custody is Bitcoin's immune system\u2014not its vulnerability.",
+    "title": "SpaceXAI Wants Grok Bot to Do Your Job\u2014But It Needs Access to Your Accounts",
+    "url": "https://decrypt.co/375490/spacexai-grok-bot-do-job-needs-access-accounts",
+    "summary": "The AI agent can navigate workplace software and coordinate with other bots, raising questions about security and control.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-12T18:44:11.419134+00:00"
+    "fetched_at": "2026-08-12T19:54:24.902017+00:00"
   },
   {
-    "title": "Zoomsday: AI Used to Build Critical Zoom Exploit in One Day",
-    "url": "https://decrypt.co/375458/zoomsday-ai-zoom-exploit-one-day",
-    "summary": "The flaws could let someone in a meeting take control of another participant\u2019s device without the victim clicking anything.",
+    "title": "Goldman Sachs' $2.25B NEOS Deal Hands It Ready-Made Bitcoin Income ETF Business",
+    "url": "https://decrypt.co/375491/goldman-sachs-neos-deal-ready-made-bitcoin-income-etf",
+    "summary": "The cash-and-equity deal for the options-income specialist folds in NEOS's roughly $1 billion Bitcoin covered-call fund, giving Goldman instant scale in a crypto ETF niche it had only just entered on paper.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-12T18:44:11.419195+00:00"
+    "fetched_at": "2026-08-12T19:54:24.902076+00:00"
+  },
+  {
+    "title": "Ethereum staking climbs to 34% as proposal targets validator rewards and ETH treasury firm yields",
+    "url": "https://www.theblock.co/news/ecosystems/2026-08-12-ethereum-staking-climbs-34-proposal-targets-validator-rewards-eth-treasury-firm-yields-411312",
+    "summary": "Researchers recently filed EIP-8361, a \"tapered issuance burn\" that destroys a growing share of validator rewards as the staking ratio rises.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-12T19:54:25.005294+00:00"
   },
   {
     "title": "Trump sued over Truth Social\u2019s early-access feed as firm explores licensing data to prediction markets",
@@ -78,33 +87,24 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-12T18:44:11.499823+00:00"
+    "fetched_at": "2026-08-12T19:54:25.005362+00:00"
   },
   {
-    "title": "Polymarket taps ex-Uber and Bird exec Travis VanderZanden to boost growth",
-    "url": "https://www.theblock.co/news/business/2026-08-12-polymarket-taps-ex-uber-and-bird-exec-travis-vanderzanden-to-boost-growth-411631",
-    "summary": "Polymarket has hired the Bird, Uber and Lyft blitzscaling veteran Travis VanderZanden as chief growth officer.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-12T18:44:11.499886+00:00"
-  },
-  {
-    "title": "Bob Iger and Josh Kushner in $12.5bn deal for Lakers basketball franchise",
-    "url": "https://www.ft.com/content/22534413-a23e-4ecb-b68f-c9f1105c8953?syn-25a6b1a6=1",
-    "summary": "Guggenheim\u2019s Mark Walter sells team after just a year of ownership amid US inquiry into insurance empire",
+    "title": "Karoline Leavitt to step down as White House press secretary",
+    "url": "https://www.ft.com/content/3da49f90-75a1-4a01-bc6e-0716d57c1ddc?syn-25a6b1a6=1",
+    "summary": "Donald Trump says chief spokesperson will leave job at the end of the month",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-12T18:44:12.489299+00:00"
+    "fetched_at": "2026-08-12T19:54:26.177970+00:00"
   },
   {
-    "title": "Mark Walter\u2019s insurers rush to unwind affiliated investments",
-    "url": "https://www.ft.com/content/ab5f7160-68f5-4396-a5a2-f97f770e8634?syn-25a6b1a6=1",
-    "summary": "TWG Global is seeking to refinance loans, restructure firms and bring in outside investors as prosecutors scrutinise books",
+    "title": "How a bad trade pushed a US mortgage giant into a $2bn lifeline",
+    "url": "https://www.ft.com/content/20f44f32-6566-4373-b6d8-9551be58d762?syn-25a6b1a6=1",
+    "summary": "Billionaire finance executive and Phoenix Suns owner Mat Ishbia forged a last-minute deal with Oaktree",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-12T18:44:12.489437+00:00"
+    "fetched_at": "2026-08-12T19:54:26.178032+00:00"
   }
 ]
