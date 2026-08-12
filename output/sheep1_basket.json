@@ -1,39 +1,39 @@
 [
   {
+    "title": "SEC, CFTC sue Goliath Ventures over $400M crypto Ponzi scheme",
+    "url": "https://cointelegraph.com/news/sec-cftc-sue-goliath-ventures-400m-crypto-ponzi",
+    "summary": "Regulators allege Goliath promised crypto liquidity-pool returns but instead paid earlier investors and funded its founder\u2019s luxury spending.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-12T00:54:37.484973+00:00"
+  },
+  {
     "title": "SEC to address crypto regulations in absence of CLARITY passage",
     "url": "https://cointelegraph.com/news/sec-crypto-regulations-absence-clarity-act",
     "summary": "The US securities regulator scheduled a meeting this week with the potential to step up on digital asset policies without congressional action.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-11T23:27:44.167984+00:00"
+    "fetched_at": "2026-08-12T00:54:37.485032+00:00"
   },
   {
-    "title": "Ita\u00fa joins Brazil tokenization pilot with OpenAssets",
-    "url": "https://cointelegraph.com/news/ita-joins-brazil-tokenization-pilot-with-openassets-brief",
-    "summary": "The bank will test tokenized fixed-income securities and investment funds as part of an ANBIMA-led industry pilot.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-11T23:27:44.168071+00:00"
-  },
-  {
-    "title": "China's Real Estate Market Races to Defuse a $148 Billion Time Bomb",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-11/china-s-real-estate-market-races-to-defuse-a-148-billion-time-bomb",
-    "summary": "Officials are trying to fix a problem that has hung over the sector for years.",
+    "title": "Oil Gains Ahead of US CPI, Asian Tech Stocks Rise: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-11/stock-market-today-dow-s-p-live-updates",
+    "summary": "Crude oil climbed as traders remained wary about the prospects for a Middle East deal, tempering the mood in the run-up to crucial US inflation data. Technology shares powered gains in Asian equities.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-11T23:27:45.322546+00:00"
+    "fetched_at": "2026-08-12T00:54:38.418889+00:00"
   },
   {
-    "title": "Global Investors Favor Taiwan Over Korea Stocks After AI Selloff",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-11/global-investors-favor-taiwan-over-korea-stocks-after-ai-selloff",
-    "summary": "Taiwanese stocks are gaining favor over South Korea\u2019s on steadier earnings prospects, as the two AI-bellwether markets look to recover from July\u2019s rout.",
+    "title": "Rakuten Shares Fall Most in Six Months After Earnings Disappoint",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-12/rakuten-shares-fall-most-in-six-months-after-earnings-disappoint",
+    "summary": "Rakuten Group Inc. shares sank the most in six months after the Japanese online shopping mall operator\u2019s quarterly operating profit missed analyst estimates.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-11T23:27:45.322592+00:00"
+    "fetched_at": "2026-08-12T00:54:38.418936+00:00"
   },
   {
     "title": "Regulators To Push Pro-Crypto Initiatives Following Clarity Act Delay",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-11T23:27:44.463311+00:00"
+    "fetched_at": "2026-08-12T00:54:37.717521+00:00"
   },
   {
     "title": "Should Bitcoin Companies Build USD Reserves? Understanding The Truth",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-11T23:27:44.463360+00:00"
+    "fetched_at": "2026-08-12T00:54:37.717576+00:00"
   },
   {
     "title": "Another OpenAI Exec Quits in Leadership Shake-Up as AI Giant Eyes IPO",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-11T23:27:44.572174+00:00"
+    "fetched_at": "2026-08-12T00:54:37.788171+00:00"
   },
   {
     "title": "BTCPay Backers Offer Bitcoin Bounty After Wallet Exploit",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-11T23:27:44.572215+00:00"
+    "fetched_at": "2026-08-12T00:54:37.788214+00:00"
   },
   {
     "title": "Robinhood Chain hits 11.6 million daily transactions as USDe fuels TVL growth",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-11T23:27:44.688130+00:00"
+    "fetched_at": "2026-08-12T00:54:37.858358+00:00"
   },
   {
     "title": "CFTC flexes emergency authority to keep Kalshi operating amid New York lawsuit",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-11T23:27:44.688175+00:00"
+    "fetched_at": "2026-08-12T00:54:37.858420+00:00"
   },
   {
     "title": "Panama Canal fees hit record high as El Ni\u00f1o and Iran war choke shipping",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-11T23:27:46.251652+00:00"
+    "fetched_at": "2026-08-12T00:54:39.142287+00:00"
   },
   {
     "title": "How investors killed AstraZeneca\u2019s $400bn megadeal",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-11T23:27:46.251705+00:00"
+    "fetched_at": "2026-08-12T00:54:39.142342+00:00"
   }
 ]
