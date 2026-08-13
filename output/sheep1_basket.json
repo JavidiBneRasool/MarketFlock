@@ -1,39 +1,39 @@
 [
   {
+    "title": "Here\u2019s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-13T07:07:35.721072+00:00"
+  },
+  {
     "title": "Crypto valuations could double as protocols link revenue to tokens: Bitwise CIO",
     "url": "https://cointelegraph.com/news/crypto-valuations-protocol-revenue-token-buybacks",
-    "summary": "Bitwise\u2019s Matt Hougan expects revenue-capture mechanisms to spread across DeFi applications and layer-1 networks over the next 12 to 24 months. ",
+    "summary": "Bitwise\u2019s Matt Hougan said he expects revenue-capture mechanisms to spread across DeFi applications and layer-1 networks over the next 12 to 24 months. ",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-13T05:25:58.917979+00:00"
+    "fetched_at": "2026-08-13T07:07:35.721152+00:00"
   },
   {
-    "title": "Metaplanet CEO shuts down Bitcoin sale speculation after $322M transfer",
-    "url": "https://cointelegraph.com/news/gerovich-shuts-down-bitcoin-sale-metaplanets-transfer",
-    "summary": "Metaplanet CEO Simon Gerovich said no Bitcoin was sold after the company moved 5,014 BTC between custodial addresses for about $8 in fees.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-13T05:25:58.918064+00:00"
-  },
-  {
-    "title": "Stocks and Bonds Rise as Fed Rate-Hike Bets Ease: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-12/stock-market-today-dow-s-p-live-updates",
-    "summary": "Global stocks climbed toward a record and bonds extended gains as a subdued US inflation report eased concerns about an imminent interest-rate hike by the Federal Reserve. Brent snapped a six-day rally.",
+    "title": "Adyen Boosts Sales Outlook After Talon.One, Orb Acquisitions",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-13/adyen-boosts-revenue-outlook-as-clients-process-more-payments",
+    "summary": "Adyen NV raised its net revenue growth outlook for the year after its first-ever acquisitions and on the back of growing demand for the Dutch payments firm\u2019s services from both new and existing clients.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-13T05:25:59.826857+00:00"
+    "fetched_at": "2026-08-13T07:07:36.676864+00:00"
   },
   {
-    "title": "Korea Steps Up Home Supply Push as President Faces Headwind",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-13/korea-steps-up-home-supply-push-as-president-faces-discontent",
-    "summary": "South Korea raised its cap on household debt growth and pledged more homes in the Greater Seoul area, intensifying efforts to contain a relentless housing rally that\u2019s becoming a political liability for President Lee Jae Myung.",
+    "title": "Korean Stocks Rise 22% in 10 Days as Chip Rally Regains Steam",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-13/korean-stocks-rise-22-in-ten-days-as-chip-rally-regains-steam",
+    "summary": "A revival in the global AI trade pushed South Korean stocks into a technical bull market, marking a dramatic turnaround from last month\u2019s historic rout.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-13T05:25:59.826915+00:00"
+    "fetched_at": "2026-08-13T07:07:36.676925+00:00"
   },
   {
     "title": "Bitcoin Price May Be Battered, but Structural Adoption Story Still Intact: Grayscale",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-13T05:25:59.143069+00:00"
+    "fetched_at": "2026-08-13T07:07:36.000477+00:00"
   },
   {
     "title": "Goldman Sachs to Acquire NEOS Investments in $2.25B Deal, Adding Bitcoin Income ETFs to Lineup",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-13T05:25:59.143139+00:00"
+    "fetched_at": "2026-08-13T07:07:36.000552+00:00"
   },
   {
     "title": "The AI-Generated Pattern Hides You From Surveillance Cameras\u2014Including Flock",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-13T05:25:59.227702+00:00"
+    "fetched_at": "2026-08-13T07:07:36.098305+00:00"
   },
   {
     "title": "'Inner Thoughts' of Every Major AI Model Exposed in Massive Exploit",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-13T05:25:59.227758+00:00"
+    "fetched_at": "2026-08-13T07:07:36.098410+00:00"
+  },
+  {
+    "title": "Blockchain Association backs Custodia\u2019s Supreme Court bid over Fed master account access",
+    "url": "https://www.theblock.co/news/regulation/2026-08-13-blockchain-association-backs-custodia-petition-411672",
+    "summary": "The industry group said the case is about ensuring 'lawful digital asset businesses can compete on equal footing.'",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-13T07:07:36.183738+00:00"
   },
   {
     "title": "BitGo sees revenue jump 80% to $4.3 billion in Q2 but posts net loss",
@@ -78,25 +87,16 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-13T05:25:59.298423+00:00"
-  },
-  {
-    "title": "Hyperliquid treasury Hyperion triples quarterly profits as HYPE holdings rise in value",
-    "url": "https://www.theblock.co/news/markets/2026-08-12-hyperliquid-treasury-hyperion-triples-quarterly-profits-as-hype-holdings-rise-in-value-411652",
-    "summary": "The company's HYPE holdings increased to $133 million during the second quarter, up from $71 million at the end of Q1.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-13T05:25:59.298481+00:00"
+    "fetched_at": "2026-08-13T07:07:36.183804+00:00"
   },
   {
     "title": "Anthropic investors bet on $2tn valuation in record IPO",
     "url": "https://www.ft.com/content/840ac156-af1c-4a82-b260-ae791072fcfa?syn-25a6b1a6=1",
-    "summary": "Rapid revenue growth fuels hope that the Claude maker can overcome challenges to become the biggest listing in history",
+    "summary": "Rapid revenue growth fuels hope that the Claude-maker can overcome challenges to become the biggest listing in history",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-13T05:26:00.615980+00:00"
+    "fetched_at": "2026-08-13T07:07:37.327442+00:00"
   },
   {
     "title": "Wall Street giants bet Nvidia\u2019s AI chips will defy the laws of finance",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-13T05:26:00.616048+00:00"
+    "fetched_at": "2026-08-13T07:07:37.327513+00:00"
   }
 ]
