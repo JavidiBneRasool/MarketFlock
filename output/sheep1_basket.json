@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-13T22:28:55.202639+00:00"
+    "fetched_at": "2026-08-13T23:29:08.371459+00:00"
   },
   {
     "title": "Tether completes first full financial audit, receives clean KPMG opinion",
@@ -15,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-13T22:28:55.202712+00:00"
+    "fetched_at": "2026-08-13T23:29:08.371538+00:00"
   },
   {
-    "title": "Asian Stocks Set for Gains as US Inflation Cools: Markets Wrap",
+    "title": "Asian Stocks Poised to Gain, Crude Holds Decline: Markets Wrap",
     "url": "https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap",
-    "summary": "Asian stocks were poised to extend gains Friday as further evidence of moderating US inflation and a pullback in oil prices reinforced bets that the Federal Reserve will refrain from raising interest rates next month.",
+    "summary": "Asian stocks were set to extend gains Friday as further evidence of moderating US inflation and a pullback in oil prices reinforced bets that the Federal Reserve will refrain from raising interest rates next month.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-13T22:28:56.142174+00:00"
+    "fetched_at": "2026-08-13T23:29:09.837564+00:00"
   },
   {
-    "title": "Reddit Shares Surge on S&P 500 Inclusion Later This Month",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-13/reddit-shares-surge-on-s-p-500-inclusion-later-this-month",
-    "summary": "Reddit Inc. will join the S&amp;P 500 next week as part of an off-cycle change, S&amp;P Dow Jones Indices said Thursday, sending the social networking platform\u2019s shares surging more than 10% after the bell.",
+    "title": "Latest Oil Market News and Analysis for Aug. 14",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-13/latest-oil-market-news-and-analysis-for-aug-14",
+    "summary": "Oil held a decline as traders monitored efforts toward a deal that could reopen the Strait of Hormuz, while fresh attacks on tankers and energy infrastructure kept the market on edge.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-13T22:28:56.142233+00:00"
+    "fetched_at": "2026-08-13T23:29:09.837618+00:00"
   },
   {
     "title": "Bitcoin\u2019s Bear Cycle Looks Familiar \u2014 And That Might Be the Bullish Case",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-13T22:28:55.442483+00:00"
+    "fetched_at": "2026-08-13T23:29:08.669063+00:00"
   },
   {
     "title": "White House to Host Crypto Industry Execs Next Week: Report",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-13T22:28:55.442547+00:00"
+    "fetched_at": "2026-08-13T23:29:08.669133+00:00"
+  },
+  {
+    "title": "'Bitcoin Is Burning': Red Team Turns to Chinese AI to Find Flaws",
+    "url": "https://decrypt.co/375609/bitcoin-burning-red-team-chinese-ai-kimi",
+    "summary": "Bitcoin Red Team member Calle said Chinese models, including Moonshot AI\u2019s Kimi K3, are finding bugs across Bitcoin\u2019s open-source software.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-13T23:29:08.837681+00:00"
   },
   {
     "title": "Anthropic's AI Agents Started a Virtual War. The Chat Logs Are Unhinged",
@@ -60,16 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-13T22:28:55.565572+00:00"
-  },
-  {
-    "title": "Solana Can Be the 'Everything Chain' as Crypto Apps Go Mainstream: 6th Man Ventures Co-Founder",
-    "url": "https://decrypt.co/375605/solana-everything-chain-crypto-apps-mainstream",
-    "summary": "6th Man Ventures co-founder Mike Dudas says Solana\u2019s infrastructure could carry crypto\u2019s next wave.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-13T22:28:55.565637+00:00"
+    "fetched_at": "2026-08-13T23:29:08.837738+00:00"
   },
   {
     "title": "Gemini shares slide after $108 million loss as Winklevoss says \u2018we still have work to do\u2019",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-13T22:28:55.660644+00:00"
+    "fetched_at": "2026-08-13T23:29:09.005547+00:00"
   },
   {
     "title": "Tether says KPMG issued \u2018clean\u2019 opinion in first full audit of USDT issuer\u2019s financials",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-13T22:28:55.660709+00:00"
+    "fetched_at": "2026-08-13T23:29:09.005613+00:00"
   },
   {
     "title": "US sells 30-year bonds at highest borrowing costs since 2001",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-13T22:28:56.756825+00:00"
+    "fetched_at": "2026-08-13T23:29:10.653382+00:00"
   },
   {
     "title": "Sun, sea and bombs in Odesa",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-13T22:28:56.756882+00:00"
+    "fetched_at": "2026-08-13T23:29:10.653442+00:00"
   }
 ]
