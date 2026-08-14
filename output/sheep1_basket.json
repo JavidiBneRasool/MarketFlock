@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-14T19:40:32.748097+00:00"
+    "fetched_at": "2026-08-14T20:19:46.262346+00:00"
   },
   {
     "title": "Kraken parent Payward revenue rises 17% as trading volume falls in Q2",
@@ -15,25 +15,34 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-14T19:40:32.748178+00:00"
+    "fetched_at": "2026-08-14T20:19:46.262421+00:00"
   },
   {
-    "title": "Retail Investors Do A Bad Job Rebalancing: Wilson",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-14/retail-investors-do-a-bad-job-rebalancing-wilson-video",
-    "summary": "Mike Wilson, chief US equity strategist & CIO at Morgan Stanley, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss how the average American does a 'bad job' rebalancing their portfolios. (Source: Bloomberg)",
+    "title": "Stocks Halt Rally After Signs of Consumer Slowdown: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap",
+    "summary": "Stocks fell from a record after the economy\u2019s main engine showed signs of cooling, overshadowing optimism around bets the Federal Reserve will stay on hold in September.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-14T19:40:33.699999+00:00"
+    "fetched_at": "2026-08-14T20:19:47.039872+00:00"
   },
   {
-    "title": "Chasing Stocks As Damaging As Selling At Bottom: Wilson",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-14/chasing-stocks-as-damaging-as-selling-at-bottom-wilson-video",
-    "summary": "Mike Wilson, chief US equity strategist & chief investment officer at Morgan Stanley, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss how long-term investors should approach their portfolio. (Source: Bloomberg)",
+    "title": "US Education Doesn't Teach People To Invest: Bitterly",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-14/us-education-doesn-t-teach-people-to-invest-bitterly-video",
+    "summary": "Kristen Bitterly, head of global Wealth at Work at Citi, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss retirement and how some become indifferent to planning. (Source: Bloomberg)",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-14T19:40:33.700068+00:00"
+    "fetched_at": "2026-08-14T20:19:47.039926+00:00"
+  },
+  {
+    "title": "Citi CEO Wants \u2018Good\u2019 Crypto Clarity Act To Get Passed",
+    "url": "https://bitcoinmagazine.com/news/citi-ceo-wants-clarity-act-passed",
+    "summary": "Bitcoin Magazine\n\nCiti CEO Wants &#8216;Good&#8217; Crypto Clarity Act To Get Passed\nCitigroup CEO Jane Fraser has said that while some improvements need to be made to the crypto Clarity Act, the bank wants a &#8220;good bill to go through.&#8221; The banking executive said that the bank was a &#822",
+    "source": "Bitcoin Magazine",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-14T20:19:46.577185+00:00"
   },
   {
     "title": "Bitcoin Treasury Strategy Bites Back After MSCI Announces Possible Index Removal",
@@ -42,16 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-14T19:40:33.023241+00:00"
+    "fetched_at": "2026-08-14T20:19:46.577247+00:00"
   },
   {
-    "title": "Israeli Bank Leumi to Debut Bitcoin Trading With Galaxy Digital",
-    "url": "https://bitcoinmagazine.com/news/israel-bank-leumi-to-debut-bitcoin-trading",
-    "summary": "Bitcoin Magazine\n\nIsraeli Bank Leumi to Debut Bitcoin Trading With Galaxy Digital\nThe bank, the biggest in Israel, first announced crypto trading plans back in 2022. \nThis post Israeli Bank Leumi to Debut Bitcoin Trading With Galaxy Digital first appeared on Bitcoin Magazine and is written by Mathew",
-    "source": "Bitcoin Magazine",
+    "title": "China's Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model",
+    "url": "https://decrypt.co/375684/china-z-ai-glm-5-3-top-open-weight-coding-model",
+    "summary": "The Chinese lab says the release beats comparably sized open models on code benchmarks. The blog's own numbers show it trails the closed frontier and at least one open rival.",
+    "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-14T19:40:33.023305+00:00"
+    "fetched_at": "2026-08-14T20:19:46.666343+00:00"
   },
   {
     "title": "SharpLink Will Stake $200M of Ethereum Through Lido's wstETH",
@@ -60,16 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-14T19:40:33.108000+00:00"
-  },
-  {
-    "title": "OpenAI Staff Blame Rush to Ship for Rogue Agent Hack",
-    "url": "https://decrypt.co/375670/openai-staff-blame-rush-ship-rogue-agent-hack",
-    "summary": "Current and former OpenAI employees reportedly say pressure to release new AI products made it harder to prioritize safety.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-14T19:40:33.108068+00:00"
+    "fetched_at": "2026-08-14T20:19:46.666397+00:00"
   },
   {
     "title": "Mizuho cuts BitGo price target to $11, but says Clarity Act delays could prove advantageous",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-14T19:40:33.180221+00:00"
+    "fetched_at": "2026-08-14T20:19:46.756303+00:00"
   },
   {
     "title": "\u2018Honestly, I don\u2019t care\u2019: Tether CEO dismisses critics following first KPMG audit",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-14T19:40:33.180289+00:00"
+    "fetched_at": "2026-08-14T20:19:46.756368+00:00"
   },
   {
     "title": "Investors pile back into US stocks as bullishness returns to Wall Street",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-14T19:40:34.270244+00:00"
+    "fetched_at": "2026-08-14T20:19:47.839276+00:00"
   },
   {
     "title": "Americans sour on Trump\u2019s economy as affordability strains intensify",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-14T19:40:34.270312+00:00"
+    "fetched_at": "2026-08-14T20:19:47.839366+00:00"
   }
 ]
