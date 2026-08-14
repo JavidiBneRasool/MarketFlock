@@ -1,39 +1,39 @@
 [
   {
+    "title": "Israel\u2019s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading",
+    "url": "https://cointelegraph.com/news/israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading",
+    "summary": "Bank Leumi customers will be able to buy, hold and sell three major cryptocurrencies directly through the bank\u2019s investment app beginning in early 2027.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-14T16:38:22.190441+00:00"
+  },
+  {
     "title": "Crypto Biz: Bitcoin\u2019s $116M self-custody wake-up call",
     "url": "https://cointelegraph.com/news/crypto-biz-bitcoin-self-custody-etf-inflows-strategy-riot-ai",
     "summary": "A $116 million Bitcoin wallet exploit puts self-custody under scrutiny as ETF inflows rebound, Strategy eyes more BTC and miners chase billions in AI deals.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-14T15:39:53.473188+00:00"
+    "fetched_at": "2026-08-14T16:38:22.190517+00:00"
   },
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-14T15:39:53.473263+00:00"
-  },
-  {
-    "title": "Stocks Fall on Signs US Consumer Is Slowing Down: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap",
-    "summary": "Wall Street is ending the week with stocks falling as signs of a slowdown in the main engine of the economy reinforced bets the Federal Reserve will hold rates steady to prevent further weakness.",
+    "title": "Ankur Crawford on Choosing a Job You Love",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-14/ankur-crawford-on-choosing-a-job-you-love-video",
+    "summary": "Ankur Crawford, Executive Vice President and Portfolio Manager of the Alger Capital Appreciation, Alger Focus Equity, and Alger Spectra Strategies joins Barry for a conversation about how she builds an investment strategy. They also discuss her journey from engineering to investment, along with unde",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-14T15:39:54.209864+00:00"
+    "fetched_at": "2026-08-14T16:38:23.314036+00:00"
   },
   {
-    "title": "US Stocks Slip From Highs After Consumer Demand Weakens",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-14/us-stock-futures-up-as-strong-earnings-benign-data-drive-gains",
-    "summary": "US equities slipped from all-time highs as new data showed that consumer spending softened in July.",
+    "title": "Treasuries Rise as Weak Retail Sales Dampen Fed Rate-Hike Expectations",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-14/treasuries-gain-as-weak-retail-sales-data-erode-rate-hike-bets",
+    "summary": "The US two-year yield extended its decline for a third straight week after soft July retail sales data further eroded expectations for Federal Reserve interest-rate hikes in the coming months.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-14T15:39:54.209927+00:00"
+    "fetched_at": "2026-08-14T16:38:23.314094+00:00"
   },
   {
     "title": "Israeli Bank Leumi to Debut Bitcoin Trading With Galaxy Digital",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-14T15:39:53.710034+00:00"
+    "fetched_at": "2026-08-14T16:38:22.523089+00:00"
   },
   {
     "title": "What the CLARITY Act Actually Does for Bitcoin",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-14T15:39:53.710094+00:00"
+    "fetched_at": "2026-08-14T16:38:22.523145+00:00"
+  },
+  {
+    "title": "Another Bitcoin Miner Sells Off BTC to Fund AI Data Center Pivot",
+    "url": "https://decrypt.co/375655/bitcoin-miner-sells-btc-ai-pivot-hyperscale",
+    "summary": "Bitcoin miner Hyperscale sold most of its Bitcoin but said it plans to rebuild its holdings through mining and future purchases.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-14T16:38:22.689366+00:00"
   },
   {
     "title": "Fake LinkedIn Crypto Job Scams Have Cost $11.8M: Singapore",
@@ -60,16 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-14T15:39:53.790835+00:00"
+    "fetched_at": "2026-08-14T16:38:22.689421+00:00"
   },
   {
-    "title": "Ireland\u2019s New AML Strategy Brings \u2018Enhanced Checks\u2019 on Private Crypto Wallets",
-    "url": "https://decrypt.co/375628/irelands-new-aml-strategy-brings-enhanced-checks-on-private-crypto-wallets",
-    "summary": "The country's first strategy of its kind also brings stricter due diligence for firms dealing with overseas crypto companies.",
-    "source": "Decrypt",
+    "title": "Binance to block transactions with HTX, 10 other exchanges under EU Russia sanctions",
+    "url": "https://www.theblock.co/news/regulation/2026-08-14-binance-block-transactions-htx-10-other-exchanges-eu-russia-sanctions-411858",
+    "summary": "Binance said it will no longer process transactions from 16 exchanges, including five already blocked, citing regulatory compliance needs.",
+    "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-14T15:39:53.790902+00:00"
+    "fetched_at": "2026-08-14T16:38:22.833097+00:00"
   },
   {
     "title": "Ethena treasury company StablecoinX shares jump 12% after revealing 20% stake in ENA supply",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-14T15:39:53.895523+00:00"
-  },
-  {
-    "title": "Hyperscale Data sells 685 bitcoin for $43 million to fund Michigan data center",
-    "url": "https://www.theblock.co/news/business/2026-08-14-hyperscale-data-sells-685-bitcoin-for-43-million-to-fund-michigan-data-center-411827",
-    "summary": "Hyperscale Data sold 685 bitcoin for approximately $43 million as it reduced debt and funded its Michigan AI data center.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-14T15:39:53.895586+00:00"
+    "fetched_at": "2026-08-14T16:38:22.833161+00:00"
   },
   {
     "title": "Investors pile back into US stocks as bullishness returns to Wall Street",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-14T15:39:54.767632+00:00"
+    "fetched_at": "2026-08-14T16:38:24.044738+00:00"
   },
   {
     "title": "The exodus from Israel",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-14T15:39:54.767697+00:00"
+    "fetched_at": "2026-08-14T16:38:24.044796+00:00"
   }
 ]
