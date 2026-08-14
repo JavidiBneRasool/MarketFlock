@@ -1,48 +1,48 @@
 [
   {
+    "title": "Ethereum Foundation pivots away from Poseidon in post-quantum plan",
+    "url": "https://cointelegraph.com/news/ethereum-foundation-drops-poseidon-post-quantum-plan",
+    "summary": "Advances in compact proofs have erased Poseidon\u2019s previous performance advantage, according to researcher Justin Drake.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-14T00:55:37.233881+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "City of Baltimore goes after prediction markets for sports betting",
     "url": "https://cointelegraph.com/news/baltimore-lawsuit-prediction-markets-kalshi-polymarket-sports-betting",
     "summary": "The city\u2019s complaint over gambling laws and deceptive trade practices included Robinhood, Webull and Coinbase as partners with prediction market platform Kalshi. ",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-13T23:29:08.371459+00:00",
+    "fetched_at": "2026-08-14T00:55:37.233959+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Tether completes first full financial audit, receives clean KPMG opinion",
-    "url": "https://cointelegraph.com/news/tether-completes-first-full-financial-audit-receives-clean-kpmg-opinion",
-    "summary": "KPMG\u2019s audit covered Tether\u2019s 2025 financial statements and found its reserves exceeded liabilities by $6.8 billion.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-13T23:29:08.371538+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Asian Stocks Poised to Gain, Crude Holds Decline: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-13/asian-stocks-set-for-gains-as-us-inflation-cools-markets-wrap",
-    "summary": "Asian stocks were set to extend gains Friday as further evidence of moderating US inflation and a pullback in oil prices reinforced bets that the Federal Reserve will refrain from raising interest rates next month.",
+    "title": "Diversified Said to Near Deal for Elliott-Backed Birch",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-13/diversified-said-to-near-deal-for-elliott-backed-birch",
+    "summary": "Diversified Energy Co. is in advanced talks to acquire Elliott Investment Management-backed oil and gas company Birch Resources for more than $1.7 billion in cash, according to people familiar with the matter.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-13T23:29:09.837564+00:00",
+    "fetched_at": "2026-08-14T00:55:38.440961+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Latest Oil Market News and Analysis for Aug. 14",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-13/latest-oil-market-news-and-analysis-for-aug-14",
-    "summary": "Oil held a decline as traders monitored efforts toward a deal that could reopen the Strait of Hormuz, while fresh attacks on tankers and energy infrastructure kept the market on edge.",
+    "title": "Costliest US Bond Sale Since 2001 Is Investor Warning to Bessent",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-13/us-braces-for-30-year-bond-auction-at-highest-yield-since-2001",
+    "summary": "The US government sold 30-year bonds at the highest interest rate in a quarter of a century, a testament to investors\u2019 demand for greater compensation to finance the nation\u2019s growing deficit.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-13T23:29:09.837618+00:00",
+    "fetched_at": "2026-08-14T00:55:38.441021+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-13T23:29:08.669063+00:00",
+    "fetched_at": "2026-08-14T00:55:37.490180+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-13T23:29:08.669133+00:00",
+    "fetched_at": "2026-08-14T00:55:37.490298+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-13T23:29:08.837681+00:00",
+    "fetched_at": "2026-08-14T00:55:37.659761+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-13T23:29:08.837738+00:00",
+    "fetched_at": "2026-08-14T00:55:37.659821+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-13T23:29:09.005547+00:00",
+    "fetched_at": "2026-08-14T00:55:37.787089+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-13T23:29:09.005613+00:00",
+    "fetched_at": "2026-08-14T00:55:37.787156+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-13T23:29:10.653382+00:00",
+    "fetched_at": "2026-08-14T00:55:39.102983+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-13T23:29:10.653442+00:00",
+    "fetched_at": "2026-08-14T00:55:39.103043+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
