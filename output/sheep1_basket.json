@@ -1,39 +1,39 @@
 [
   {
-    "title": "UK authorities continue probe into Nigel Farage\u2019s crypto \u2018gifts\u2019 after by-election win",
-    "url": "https://cointelegraph.com/news/uk-investigation-nigel-farage-crypto-donations-by-election",
-    "summary": "The UK lawmaker declared victory following a by-election, triggering a resumption of an investigation from the parliamentary commissioner for standards into his crypto donations.",
+    "title": "Dartmouth endowment\u2019s crypto exposure drops by $2M amid falling prices",
+    "url": "https://cointelegraph.com/news/dartmouth-endowment-crypto-investments-btc-eth-sol-dropped",
+    "summary": "The value of the university endowment\u2019s holdings in the Bitwise Solana staking ETF, Grayscale Ethereum staking ETF and BlackRock\u2019s iShares Bitcoin ETF dropped to about $12 million.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-14T18:37:54.839389+00:00"
+    "fetched_at": "2026-08-14T19:40:32.748097+00:00"
   },
   {
-    "title": "Israel\u2019s largest bank taps Galaxy to offer Bitcoin, Ether, Solana trading",
-    "url": "https://cointelegraph.com/news/israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading",
-    "summary": "Bank Leumi customers will be able to buy, hold and sell three major cryptocurrencies directly through the bank\u2019s investment app beginning in early 2027.",
+    "title": "Kraken parent Payward revenue rises 17% as trading volume falls in Q2",
+    "url": "https://cointelegraph.com/news/kraken-parent-payward-revenue-rises-as-trading-volume-falls-q2",
+    "summary": "Payward grew revenue despite weaker crypto spot activity, as funded accounts jumped 42% and a growing share of revenue came from outside transaction-based activity.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-14T18:37:54.839470+00:00"
+    "fetched_at": "2026-08-14T19:40:32.748178+00:00"
   },
   {
-    "title": "US Stocks Slip From Highs as Investors Weigh Consumer Demand",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-14/us-stock-futures-up-as-strong-earnings-benign-data-drive-gains",
-    "summary": "US equities slipped from all-time highs as new data showed that consumer spending softened in July.",
+    "title": "Retail Investors Do A Bad Job Rebalancing: Wilson",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-14/retail-investors-do-a-bad-job-rebalancing-wilson-video",
+    "summary": "Mike Wilson, chief US equity strategist & CIO at Morgan Stanley, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss how the average American does a 'bad job' rebalancing their portfolios. (Source: Bloomberg)",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-14T18:37:56.134340+00:00"
+    "fetched_at": "2026-08-14T19:40:33.699999+00:00"
   },
   {
-    "title": "The Equity and Credit Disconnect Is Getting Really Big Again",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-08-14/the-equity-and-credit-disconnect-is-getting-really-big-again",
-    "summary": "Are stocks missing something?",
+    "title": "Chasing Stocks As Damaging As Selling At Bottom: Wilson",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-14/chasing-stocks-as-damaging-as-selling-at-bottom-wilson-video",
+    "summary": "Mike Wilson, chief US equity strategist & chief investment officer at Morgan Stanley, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss how long-term investors should approach their portfolio. (Source: Bloomberg)",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-14T18:37:56.134394+00:00"
+    "fetched_at": "2026-08-14T19:40:33.700068+00:00"
   },
   {
     "title": "Bitcoin Treasury Strategy Bites Back After MSCI Announces Possible Index Removal",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-14T18:37:55.188059+00:00"
+    "fetched_at": "2026-08-14T19:40:33.023241+00:00"
   },
   {
     "title": "Israeli Bank Leumi to Debut Bitcoin Trading With Galaxy Digital",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-14T18:37:55.188121+00:00"
+    "fetched_at": "2026-08-14T19:40:33.023305+00:00"
+  },
+  {
+    "title": "SharpLink Will Stake $200M of Ethereum Through Lido's wstETH",
+    "url": "https://decrypt.co/375672/sharplink-stake-200m-ethereum-lido-wsteth",
+    "summary": "Sharplink plans to stake roughly 12% of its total Ethereum holdings through Lido, earning yield while staying active in DeFi.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-14T19:40:33.108000+00:00"
   },
   {
     "title": "OpenAI Staff Blame Rush to Ship for Rogue Agent Hack",
@@ -60,34 +69,25 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-14T18:37:55.350307+00:00"
+    "fetched_at": "2026-08-14T19:40:33.108068+00:00"
   },
   {
-    "title": "Coldcard Bitcoin Thefts Slow, But Losses Could Top $150 Million: Galaxy",
-    "url": "https://decrypt.co/375656/coldcard-bitcoin-thefts-slow-losses-top-150-million",
-    "summary": "Galaxy Research says the lull likely means vulnerable holders migrated, or were already emptied.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-14T18:37:55.350362+00:00"
-  },
-  {
-    "title": "Israel\u2019s largest bank taps Galaxy to offer bitcoin, ether and solana trading",
-    "url": "https://www.theblock.co/news/business/2026-08-14-israels-largest-bank-taps-galaxy-to-offer-bitcoin-ether-and-solana-trading-411868",
-    "summary": "Israel received an estimated $22 billion in onchain crypto value during the 12 months ending June 2025, according to Chainalysis.",
+    "title": "Mizuho cuts BitGo price target to $11, but says Clarity Act delays could prove advantageous",
+    "url": "https://www.theblock.co/news/markets/2026-08-14-mizuho-cuts-bitgo-price-target-to-11-but-says-clarity-act-delays-could-prove-advantageous-411878",
+    "summary": "Mizuho views the company as a \"high-growth/recurring revenue business,\" citing a 27% year-over-year increase in the customer base.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-14T18:37:55.489996+00:00"
+    "fetched_at": "2026-08-14T19:40:33.180221+00:00"
   },
   {
-    "title": "Binance to block transactions with HTX, 10 other exchanges under EU Russia sanctions",
-    "url": "https://www.theblock.co/news/regulation/2026-08-14-binance-block-transactions-htx-10-other-exchanges-eu-russia-sanctions-411858",
-    "summary": "Binance said it will no longer process transactions from 16 exchanges, including five already blocked, citing regulatory compliance needs.",
+    "title": "\u2018Honestly, I don\u2019t care\u2019: Tether CEO dismisses critics following first KPMG audit",
+    "url": "https://www.theblock.co/news/business/2026-08-14-honestly-i-dont-care-tether-ceo-dismisses-critics-first-kpmg-audit-411886",
+    "summary": "A source with direct knowledge told The Block that Tether does not publicly share its audited statements because it is a private company.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-14T18:37:55.490059+00:00"
+    "fetched_at": "2026-08-14T19:40:33.180289+00:00"
   },
   {
     "title": "Investors pile back into US stocks as bullishness returns to Wall Street",
@@ -96,15 +96,15 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-14T18:37:57.013731+00:00"
+    "fetched_at": "2026-08-14T19:40:34.270244+00:00"
   },
   {
-    "title": "The exodus from Israel",
-    "url": "https://www.ft.com/content/7a833951-9700-46e1-bc08-d47716504138?syn-25a6b1a6=1",
-    "summary": "Immigration is at the heart of the country\u2019s self-image. But people have been leaving",
+    "title": "Americans sour on Trump\u2019s economy as affordability strains intensify",
+    "url": "https://www.ft.com/content/66d3a2de-6591-443d-83b0-94f2224edbbf?syn-25a6b1a6=1",
+    "summary": "Consumer sentiment and retail sales fall as the war in Iran worsens cost of living pressures",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-14T18:37:57.013787+00:00"
+    "fetched_at": "2026-08-14T19:40:34.270312+00:00"
   }
 ]
