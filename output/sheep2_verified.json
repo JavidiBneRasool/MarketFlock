@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-15T03:28:25.064254+00:00",
+    "fetched_at": "2026-08-15T04:17:57.191138+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,7 +18,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-15T03:28:25.064329+00:00",
+    "fetched_at": "2026-08-15T04:17:57.191215+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,7 +30,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-15T03:28:26.167558+00:00",
+    "fetched_at": "2026-08-15T04:17:57.926667+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -42,7 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-15T03:28:26.167622+00:00",
+    "fetched_at": "2026-08-15T04:17:57.926731+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T03:28:25.438706+00:00",
+    "fetched_at": "2026-08-15T04:17:57.365375+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T03:28:25.438770+00:00",
+    "fetched_at": "2026-08-15T04:17:57.365441+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T03:28:25.570269+00:00",
+    "fetched_at": "2026-08-15T04:17:57.445677+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T03:28:25.570333+00:00",
+    "fetched_at": "2026-08-15T04:17:57.445744+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T03:28:25.644572+00:00",
+    "fetched_at": "2026-08-15T04:17:57.531767+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,31 +114,31 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T03:28:25.644641+00:00",
+    "fetched_at": "2026-08-15T04:17:57.531856+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Jane Street suffers $15bn hit after meltdown at Situational Awareness",
-    "url": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697?syn-25a6b1a6=1",
-    "summary": "Secretive Wall Street trading firm wrongfooted by July AI rout",
+    "title": "OpenAI upheaval mounts as Sam Altman readies IPO push",
+    "url": "https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee?syn-25a6b1a6=1",
+    "summary": "Executive exits and safety team changes unsettle staff as the ChatGPT maker prepares for a blockbuster listing",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-15T03:28:26.670214+00:00",
+    "fetched_at": "2026-08-15T04:17:58.439780+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Jane Street has paid up large to avoid its numbers leaking out",
-    "url": "https://www.ft.com/content/28a51284-98cc-4767-a306-0540d265687f",
-    "summary": "Cheap financing < privacy",
+    "title": "Which is the next No 1 city on Earth?",
+    "url": "https://www.ft.com/content/17cd713d-3db1-422b-adef-58b45ad7e50f?syn-25a6b1a6=1",
+    "summary": "Despite the decline of the west, there won\u2019t be one for decades yet",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-15T03:28:26.670276+00:00",
+    "fetched_at": "2026-08-15T04:17:58.439882+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
