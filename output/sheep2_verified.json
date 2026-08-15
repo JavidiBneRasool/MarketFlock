@@ -1,24 +1,24 @@
 [
   {
+    "title": "Kalshi ordered to stop broad range of prediction markets in Washington",
+    "url": "https://cointelegraph.com/news/kalshi-stop-prediction-market-contracts-washington",
+    "summary": "Kalshi must implement initial geofencing by Aug. 19 and a GeoComply multi-source geofencing system by Sept. 2.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-15T11:08:42.837813+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "Galaxy lowers CLARITY Act odds to 10%",
     "url": "https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10",
     "summary": "Galaxy cited unresolved ethics, stablecoin yield and developer protection issues, along with a narrow Senate window when lawmakers return in September.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-15T10:10:21.686606+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Gen Z favors ETFs and trades less than older cohorts: Binance",
-    "url": "https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance",
-    "summary": "Binance data showed Gen Z allocating a growing share of equity activity to ETFs while trading less frequently and using less leverage than older working-age cohorts.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-15T10:10:21.686677+00:00",
+    "fetched_at": "2026-08-15T11:08:42.837879+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,19 +30,19 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-15T10:10:22.865433+00:00",
+    "fetched_at": "2026-08-15T11:08:43.776804+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Money Managers Chase \u20ac500 Billion Historic German Pension Shift",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-15/money-managers-chase-500-billion-historic-german-pension-shift",
-    "summary": "One of the biggest reforms in Germany\u2019s pension system since Chancellor Otto von Bismarck founded it in the late 19th century is about to hand modern fund managers a new empire of cash to deploy.",
+    "title": "China Film\u2019s Sales Soar as Online Scorn Attracts Curious Viewers",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-15/china-film-s-sales-soar-as-online-scorn-attracts-curious-viewers",
+    "summary": "A Chinese animated film that generated only about $1,000 in ticket sales in its first 10 days at theaters became a social-media sensation after online ridicule helped propel its box-office revenue into six figures, according to local media reports.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-15T10:10:22.865493+00:00",
+    "fetched_at": "2026-08-15T11:08:43.776863+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T10:10:22.007805+00:00",
+    "fetched_at": "2026-08-15T11:08:43.022664+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T10:10:22.007867+00:00",
+    "fetched_at": "2026-08-15T11:08:43.022726+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T10:10:22.169510+00:00",
+    "fetched_at": "2026-08-15T11:08:43.110602+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T10:10:22.169569+00:00",
+    "fetched_at": "2026-08-15T11:08:43.110660+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T10:10:22.282713+00:00",
+    "fetched_at": "2026-08-15T11:08:43.196532+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T10:10:22.282774+00:00",
+    "fetched_at": "2026-08-15T11:08:43.196594+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-15T10:10:23.768800+00:00",
+    "fetched_at": "2026-08-15T11:08:44.295876+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-15T10:10:23.768864+00:00",
+    "fetched_at": "2026-08-15T11:08:44.295937+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
