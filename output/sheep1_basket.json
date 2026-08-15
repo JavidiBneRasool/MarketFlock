@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-15T09:14:37.591027+00:00"
+    "fetched_at": "2026-08-15T10:10:21.686606+00:00"
   },
   {
     "title": "Gen Z favors ETFs and trades less than older cohorts: Binance",
@@ -15,7 +15,16 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-15T09:14:37.591119+00:00"
+    "fetched_at": "2026-08-15T10:10:21.686677+00:00"
+  },
+  {
+    "title": "China Protests Japan PM, Defense Minister\u2019s Yasukuni Actions",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-15/china-protests-japan-pm-defense-minister-s-yasukuni-actions",
+    "summary": "China lodged a formal protest with Japan after Prime Minister Sanae Takaichi sent an offering to Yasukuni shrine and Defense Minister Shinjiro Koizumi visited it on the anniversary of Japan\u2019s surrender in World War II.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-08-15T10:10:22.865433+00:00"
   },
   {
     "title": "Money Managers Chase \u20ac500 Billion Historic German Pension Shift",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-15T09:14:38.267865+00:00"
-  },
-  {
-    "title": "Xi Urges Shift to Prevention in Disaster Management, Xinhua Says",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-15/xi-urges-shift-to-prevention-in-disaster-management-xinhua-says",
-    "summary": "President Xi Jinping called for China to shift disaster management toward prevention, saying safety and resilience should be integrated into planning and development, Xinhua News Agency reported on Saturday.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-15T09:14:38.267921+00:00"
+    "fetched_at": "2026-08-15T10:10:22.865493+00:00"
   },
   {
     "title": "Edelman Financial, Tudor Investment Reveal Significant Bitcoin Holdings",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T09:14:37.880535+00:00"
+    "fetched_at": "2026-08-15T10:10:22.007805+00:00"
   },
   {
     "title": "Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T09:14:37.880595+00:00"
+    "fetched_at": "2026-08-15T10:10:22.007867+00:00"
   },
   {
     "title": "France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T09:14:37.957247+00:00"
+    "fetched_at": "2026-08-15T10:10:22.169510+00:00"
   },
   {
     "title": "China's Z.AI Ships GLM-5.3, Calling It the Top Open-Weight Coding Model",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T09:14:37.957305+00:00"
+    "fetched_at": "2026-08-15T10:10:22.169569+00:00"
   },
   {
     "title": "OCC grants conditional approval for Trump-backed World Liberty National Trust bank",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T09:14:38.034597+00:00"
+    "fetched_at": "2026-08-15T10:10:22.282713+00:00"
   },
   {
     "title": "Mizuho cuts BitGo price target to $11, but says Clarity Act delays could prove advantageous",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T09:14:38.034656+00:00"
+    "fetched_at": "2026-08-15T10:10:22.282774+00:00"
   },
   {
     "title": "OpenAI upheaval mounts as Sam Altman readies IPO push",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-15T09:14:39.196745+00:00"
+    "fetched_at": "2026-08-15T10:10:23.768800+00:00"
   },
   {
     "title": "China poised to lift travel ban on Manus founders",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-15T09:14:39.196805+00:00"
+    "fetched_at": "2026-08-15T10:10:23.768864+00:00"
   }
 ]
