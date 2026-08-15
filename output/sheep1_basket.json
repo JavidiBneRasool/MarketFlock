@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-15T16:09:41.768665+00:00"
+    "fetched_at": "2026-08-15T17:10:27.987790+00:00"
   },
   {
     "title": "Bitcoin to $1M by 2030 is \u2018mathematically impossible\u2019 says Markus Thielen",
@@ -15,7 +15,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-15T16:09:41.768771+00:00"
+    "fetched_at": "2026-08-15T17:10:27.987882+00:00"
   },
   {
     "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
@@ -24,7 +24,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-15T16:09:42.631893+00:00"
+    "fetched_at": "2026-08-15T17:10:29.224176+00:00"
   },
   {
     "title": "Colombia Quake Tests New President Days Into Term",
@@ -33,7 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-15T16:09:42.631951+00:00"
+    "fetched_at": "2026-08-15T17:10:29.224230+00:00"
   },
   {
     "title": "Edelman Financial, Tudor Investment Reveal Significant Bitcoin Holdings",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T16:09:42.010101+00:00"
+    "fetched_at": "2026-08-15T17:10:28.334007+00:00"
   },
   {
     "title": "Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T16:09:42.010167+00:00"
+    "fetched_at": "2026-08-15T17:10:28.334071+00:00"
+  },
+  {
+    "title": "Apple Turns to Alibaba to Help Build AI Model for China",
+    "url": "https://decrypt.co/375724/apple-alibaba-build-ai-model-china",
+    "summary": "Apple is pairing its in-house model with Alibaba\u2019s Qwen as it prepares to bring Apple Intelligence to Chinese iPhones.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-15T17:10:28.473699+00:00"
   },
   {
     "title": "Meta Patents Cameras That Recognize Faces and Log Your Actions",
@@ -60,16 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T16:09:42.096752+00:00"
-  },
-  {
-    "title": "Trump-Linked World Liberty Gets Conditional Bank Charter for USD1 Stablecoin",
-    "url": "https://decrypt.co/375726/trump-world-liberty-bank-charter-usd1-stablecoin",
-    "summary": "The proposed World Liberty Trust Company would take over issuance of the USD1 stablecoin from BitGo.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-15T16:09:42.096813+00:00"
+    "fetched_at": "2026-08-15T17:10:28.473751+00:00"
   },
   {
     "title": "Trump, CFTC Chair Selig expected at Wednesday White House meeting with crypto and prediction market executives",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T16:09:42.185222+00:00"
+    "fetched_at": "2026-08-15T17:10:28.606472+00:00"
   },
   {
     "title": "OCC grants conditional approval for Trump-backed World Liberty National Trust bank",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T16:09:42.185286+00:00"
+    "fetched_at": "2026-08-15T17:10:28.606530+00:00"
   },
   {
     "title": "OpenAI upheaval mounts as Sam Altman readies IPO push",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-15T16:09:43.286600+00:00"
+    "fetched_at": "2026-08-15T17:10:30.061658+00:00"
   },
   {
     "title": "China poised to lift travel ban on Manus founders",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-15T16:09:43.286663+00:00"
+    "fetched_at": "2026-08-15T17:10:30.061715+00:00"
   }
 ]
