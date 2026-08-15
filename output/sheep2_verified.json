@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-15T20:09:08.405200+00:00",
+    "fetched_at": "2026-08-15T21:10:25.484034+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,7 +18,19 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-15T20:09:08.405316+00:00",
+    "fetched_at": "2026-08-15T21:10:25.484103+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Bally\u2019s Warns of Debt Covenant Breach Risk as It Seeks New Funds",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-14/bally-s-warns-of-going-concern-doubt-as-it-seeks-fresh-liquidity",
+    "summary": "Bally\u2019s Corp. warned investors of \u201csubstantial doubt\u201d that it will be able to continue as a going concern as the company risks running afoul of agreement with lenders.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-08-15T21:10:26.656591+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,19 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-15T20:09:09.286064+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Peru\u2019s Economy Unexpectedly Slows as Fishing, Agriculture Slump",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-15/peru-s-economy-unexpectedly-slows-as-fishing-agriculture-slump",
-    "summary": "Peru\u2019s economy unexpectedly slowed in June due to a slump in fishing and agriculture output amid unusual weather conditions.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-15T20:09:09.286125+00:00",
+    "fetched_at": "2026-08-15T21:10:26.656643+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T20:09:08.663656+00:00",
+    "fetched_at": "2026-08-15T21:10:25.782336+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T20:09:08.663739+00:00",
+    "fetched_at": "2026-08-15T21:10:25.782403+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T20:09:08.739704+00:00",
+    "fetched_at": "2026-08-15T21:10:25.963217+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T20:09:08.739759+00:00",
+    "fetched_at": "2026-08-15T21:10:25.963265+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T20:09:08.819805+00:00",
+    "fetched_at": "2026-08-15T21:10:26.113622+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T20:09:08.819872+00:00",
+    "fetched_at": "2026-08-15T21:10:26.113675+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-15T20:09:09.828895+00:00",
+    "fetched_at": "2026-08-15T21:10:27.391791+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-15T20:09:09.828960+00:00",
+    "fetched_at": "2026-08-15T21:10:27.391846+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
