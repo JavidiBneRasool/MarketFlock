@@ -1,24 +1,36 @@
 [
   {
+    "title": "Galaxy lowers CLARITY Act odds to 10%",
+    "url": "https://cointelegraph.com/news/galaxy-lowers-clarity-act-odds-10",
+    "summary": "Galaxy cited unresolved ethics, stablecoin yield and developer protection issues, along with a narrow Senate window when lawmakers return in September.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-15T09:14:37.591027+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "Gen Z favors ETFs and trades less than older cohorts: Binance",
     "url": "https://cointelegraph.com/news/gen-z-favors-etfs-and-trades-less-than-older-cohorts-binance",
     "summary": "Binance data showed Gen Z allocating a growing share of equity activity to ETFs while trading less frequently and using less leverage than older working-age cohorts.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-15T08:13:25.496366+00:00",
+    "fetched_at": "2026-08-15T09:14:37.591119+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Ireland plans industry standards for illicit crypto use",
-    "url": "https://cointelegraph.com/news/ireland-industry-standards-crypto-gambling-aml",
-    "summary": "The proposed policies under Ireland\u2019s AML framework included stricter measures on transfers from private crypto wallets and overseas digital asset companies.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
+    "title": "Money Managers Chase \u20ac500 Billion Historic German Pension Shift",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-15/money-managers-chase-500-billion-historic-german-pension-shift",
+    "summary": "One of the biggest reforms in Germany\u2019s pension system since Chancellor Otto von Bismarck founded it in the late 19th century is about to hand modern fund managers a new empire of cash to deploy.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-15T08:13:25.496440+00:00",
+    "fetched_at": "2026-08-15T09:14:38.267865+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,19 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-15T08:13:26.544212+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Modi Maps India\u2019s Growth Push as He Reaches Out to Students",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-15/modi-vows-chip-plants-nuclear-reactors-in-india-growth-push",
-    "summary": "India\u2019s Prime Minister Narendra Modi used his Independence Day speech to renew his pledge to make the country a developed nation within two decades and reach out to younger citizens following widespread student protests.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-15T08:13:26.544271+00:00",
+    "fetched_at": "2026-08-15T09:14:38.267921+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T08:13:25.761068+00:00",
+    "fetched_at": "2026-08-15T09:14:37.880535+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T08:13:25.761130+00:00",
+    "fetched_at": "2026-08-15T09:14:37.880595+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T08:13:25.873571+00:00",
+    "fetched_at": "2026-08-15T09:14:37.957247+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T08:13:25.873634+00:00",
+    "fetched_at": "2026-08-15T09:14:37.957305+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T08:13:25.989343+00:00",
+    "fetched_at": "2026-08-15T09:14:38.034597+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T08:13:25.989403+00:00",
+    "fetched_at": "2026-08-15T09:14:38.034656+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-15T08:13:27.375583+00:00",
+    "fetched_at": "2026-08-15T09:14:39.196745+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-15T08:13:27.375671+00:00",
+    "fetched_at": "2026-08-15T09:14:39.196805+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
