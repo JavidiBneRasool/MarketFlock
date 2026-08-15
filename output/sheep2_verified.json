@@ -1,24 +1,24 @@
 [
   {
+    "title": "Here\u2019s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-15T15:08:56.808340+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "Bitcoin to $1M by 2030 is \u2018mathematically impossible\u2019 says Markus Thielen",
     "url": "https://cointelegraph.com/magazine/bitcoin-1m-by-2030-is-mathematically-impossible-markus-thielen",
     "summary": "The trillions required to boost Bitcoin to a price of $1 million per coin is not going to happen by 2030... or perhaps ever, says party pooper Markus Thielen.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-15T14:10:45.988367+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Bitcoin could bottom in October, altcoins are \u2018basically dead,\u2019 Swan CEO says",
-    "url": "https://cointelegraph.com/markets/bitcoin-bottom-october-altcoins-basically-dead-swan-ceo",
-    "summary": "Klippsten said Bitcoin could bottom about a year after its previous peak and argued that crypto\u2019s best outcome is to become part of TradFi.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-15T14:10:45.988458+00:00",
+    "fetched_at": "2026-08-15T15:08:56.808413+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,7 +30,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-15T14:10:47.075442+00:00",
+    "fetched_at": "2026-08-15T15:08:57.962108+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -42,7 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-15T14:10:47.075497+00:00",
+    "fetched_at": "2026-08-15T15:08:57.962163+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T14:10:46.298618+00:00",
+    "fetched_at": "2026-08-15T15:08:57.223312+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,19 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T14:10:46.298687+00:00",
+    "fetched_at": "2026-08-15T15:08:57.223373+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Meta Patents Cameras That Recognize Faces and Log Your Actions",
+    "url": "https://decrypt.co/375698/meta-patents-cameras-recognize-faces-log-actions",
+    "summary": "The filing would turn raw footage into labeled clips of who did what, without anyone opting in.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-15T15:08:57.383484+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,19 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T14:10:46.444641+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "France Tax Data Leak Could Fuel Scams, Attacks Targeting Bitcoin Holders",
-    "url": "https://decrypt.co/375715/france-tax-data-leak-wrench-attacks-bitcoin",
-    "summary": "A hacker is reportedly selling personal and financial records tied to more than 678,000 taxpayers and businesses in France.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-15T14:10:46.444702+00:00",
+    "fetched_at": "2026-08-15T15:08:57.383538+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T14:10:46.555099+00:00",
+    "fetched_at": "2026-08-15T15:08:57.523727+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-15T14:10:46.555161+00:00",
+    "fetched_at": "2026-08-15T15:08:57.523786+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-15T14:10:47.879217+00:00",
+    "fetched_at": "2026-08-15T15:08:58.917730+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-15T14:10:47.879280+00:00",
+    "fetched_at": "2026-08-15T15:08:58.917787+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
