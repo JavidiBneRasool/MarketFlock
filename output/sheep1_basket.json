@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-16T14:11:24.524496+00:00"
+    "fetched_at": "2026-08-16T15:09:46.907002+00:00"
   },
   {
     "title": "Ethereum devs to narrow 66 proposals tied to Hegot\u00e1 upgrade",
@@ -15,7 +15,16 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-16T14:11:24.524571+00:00"
+    "fetched_at": "2026-08-16T15:09:46.907079+00:00"
+  },
+  {
+    "title": "Beef Prices Stay High as US Cattle Supply Shrinks",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-16/beef-prices-stay-high-as-us-cattle-supply-shrinks-video",
+    "summary": "Tyson Foods is cutting beef-processing capacity as the US cattle herd nears a five-decade low driving up livestock costs and contributing to persistent losses in beef business. Bloomberg News Agriculture Reporter Ilena Peng is on Bloomberg This Weekend and explains to hosts Joe Mathieu and Carol Mas",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-08-16T15:09:47.944777+00:00"
   },
   {
     "title": "Stock-Market Calm Masks Fast Shifting Investor Sentiment",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-16T14:11:25.446872+00:00"
-  },
-  {
-    "title": "Longevity Boom Reaches America\u2019s Pets",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-16/longevity-boom-reaches-america-s-pets-video",
-    "summary": "Pet owners are increasingly extending the longevity treatments humans pursue for themselves to their dogs, experimenting with supplements, red light therapy and drugs including rapamycin even as veterinarians urge caution about unproven treatments. Bloomberg News National Heath Care Reporter Anna Ed",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-16T14:11:25.446928+00:00"
+    "fetched_at": "2026-08-16T15:09:47.944830+00:00"
   },
   {
     "title": "Edelman Financial, Tudor Investment Reveal Significant Bitcoin Holdings",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-16T14:11:24.677039+00:00"
+    "fetched_at": "2026-08-16T15:09:47.127521+00:00"
   },
   {
     "title": "Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-16T14:11:24.677101+00:00"
+    "fetched_at": "2026-08-16T15:09:47.127588+00:00"
   },
   {
     "title": "People Are Turning to AI for Mental Health, California Wants It Banned",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-16T14:11:24.764823+00:00"
+    "fetched_at": "2026-08-16T15:09:47.236149+00:00"
   },
   {
     "title": "Apple Turns to Alibaba to Help Build AI Model for China",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-16T14:11:24.764876+00:00"
+    "fetched_at": "2026-08-16T15:09:47.236203+00:00"
+  },
+  {
+    "title": "Hackers exploited macOS Screen Sharing flaw to install Monero miners, Dutch cyber agency says",
+    "url": "https://www.theblock.co/news/defi/2026-08-16-hackers-exploited-macos-screen-sharing-flaw-to-install-monero-miners-dutch-cyber-agency-says-411932",
+    "summary": "U.S. officials rated the severity of the vulnerability a critical 9.8/10 on the CVSS scale, and experts are warning users to update their devices.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-16T15:09:47.347363+00:00"
   },
   {
     "title": "JPMorgan cut Polymarket\u2019s banking ties in October but still wants a role in a potential IPO: FT",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-16T14:11:24.868540+00:00"
-  },
-  {
-    "title": "Harvard leaves bitcoin ETF stake untouched in Q2 after cutting it 43% in the prior quarter",
-    "url": "https://www.theblock.co/news/markets/2026-08-15-harvard-leaves-bitcoin-etf-stake-untouched-in-q2-after-cutting-it-43-in-the-prior-quarter-411926",
-    "summary": "UAE-based Mubadala Investment Company and the Abu Dhabi Investment Council also retained their combined 22.9 million IBIT shares.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-16T14:11:24.868604+00:00"
+    "fetched_at": "2026-08-16T15:09:47.347429+00:00"
   },
   {
     "title": "Most US voters say they are worse off under Trump \u2014 FT poll",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-16T14:11:26.030978+00:00"
+    "fetched_at": "2026-08-16T15:09:48.491435+00:00"
   },
   {
     "title": "Are Americans making peace with the spectre of socialism?",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-16T14:11:26.031045+00:00"
+    "fetched_at": "2026-08-16T15:09:48.491499+00:00"
   }
 ]
