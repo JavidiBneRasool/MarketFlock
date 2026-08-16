@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-16T19:12:05.340263+00:00"
+    "fetched_at": "2026-08-16T20:08:22.007632+00:00"
   },
   {
     "title": "Ethereum devs to narrow 66 proposals tied to Hegot\u00e1 upgrade",
@@ -15,7 +15,16 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-16T19:12:05.340339+00:00"
+    "fetched_at": "2026-08-16T20:08:22.007708+00:00"
+  },
+  {
+    "title": "US 20-Year Bond Sale to Test Demand as Yield Curve Steepens",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-16/us-20-year-bond-sale-to-test-demand-as-yield-curve-steepens",
+    "summary": "The sale of 20-year government bonds this week will test investor appetite for long-term debt following a few record-breaking auctions.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-08-16T20:08:22.866264+00:00"
   },
   {
     "title": "Bloomberg This Weekend | Meta on Trial, the Race To Replace Gov. DeSantis, and Pet Longevity",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-16T19:12:06.155617+00:00"
-  },
-  {
-    "title": "Fed\u2019s Internal Rate Debate Faces New Scrutiny",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-16/fed-s-internal-rate-debate-faces-new-scrutiny-video",
-    "summary": "Minutes from the Federal Reserve\u2019s July meeting will offer a closer look at the debate that produced three dissents in favor of a quarter-point rate increase, an unusually visible split as policymakers contend with elevated inflation and mixed economic data. Joining Joe Mathieu and Carol Massar on B",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-16T19:12:06.155676+00:00"
+    "fetched_at": "2026-08-16T20:08:22.866331+00:00"
   },
   {
     "title": "Edelman Financial, Tudor Investment Reveal Significant Bitcoin Holdings",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-16T19:12:05.686012+00:00"
+    "fetched_at": "2026-08-16T20:08:22.232428+00:00"
   },
   {
     "title": "Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-16T19:12:05.686074+00:00"
+    "fetched_at": "2026-08-16T20:08:22.232511+00:00"
   },
   {
     "title": "Gemini 3.7 Flash Review: Google's Cheap Model Isn\u2019t Dumb Anymore",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-16T19:12:05.752957+00:00"
+    "fetched_at": "2026-08-16T20:08:22.355805+00:00"
   },
   {
     "title": "People Are Turning to AI for Mental Health, California Wants It Banned",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-16T19:12:05.753016+00:00"
+    "fetched_at": "2026-08-16T20:08:22.355866+00:00"
   },
   {
     "title": "Wallet provider SafePal says data breach exposed personal info of nearly 40,000 customers",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-16T19:12:05.830743+00:00"
+    "fetched_at": "2026-08-16T20:08:22.454567+00:00"
   },
   {
     "title": "Hackers exploited macOS Screen Sharing flaw to install Monero miners, Dutch cyber agency says",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-16T19:12:05.830803+00:00"
+    "fetched_at": "2026-08-16T20:08:22.454635+00:00"
   },
   {
     "title": "Most US voters say they are worse off under Trump \u2014 FT poll",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-16T19:12:06.708503+00:00"
+    "fetched_at": "2026-08-16T20:08:23.480967+00:00"
   },
   {
     "title": "California billionaires add millions to bolster fight against wealth tax",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-16T19:12:06.708570+00:00"
+    "fetched_at": "2026-08-16T20:08:23.481036+00:00"
   }
 ]
