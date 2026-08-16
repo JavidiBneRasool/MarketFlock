@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-16T13:22:30.191204+00:00"
+    "fetched_at": "2026-08-16T14:11:24.524496+00:00"
   },
   {
     "title": "Ethereum devs to narrow 66 proposals tied to Hegot\u00e1 upgrade",
@@ -15,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-16T13:22:30.191272+00:00"
+    "fetched_at": "2026-08-16T14:11:24.524571+00:00"
   },
   {
-    "title": "Iran Pressure Campaign Lacks Clear Off Ramp",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-16/iran-pressure-campaign-lacks-clear-off-ramp",
-    "summary": "Acting Principal Deputy Assistant Secretary for the Bureau of Near Eastern Affairs Jen Gavito and retired Vice Adm. Robert Harward join Bloomberg This Weekend and offer sharply different assessments of whether escalating US economic pressure can change Iran\u2019s calculus, with Gavito arguing sanctions ",
+    "title": "Stock-Market Calm Masks Fast Shifting Investor Sentiment",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-calm-masks-fast-shifting-investor-sentiment",
+    "summary": "While the recent equity-market turbulence is subsiding, options positioning shows how quickly investor sentiment can switch between the extremes of fear and greed.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-16T13:22:31.268791+00:00"
+    "fetched_at": "2026-08-16T14:11:25.446872+00:00"
   },
   {
-    "title": "By The Way: Headline Roundup",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-16/by-the-way-headline-roundup-video",
-    "summary": "Marathon wine, wedding party size, suit sales rise and Gen Z's different wealth plan: Bloomberg News' Lisa Mateo joins Joe Mathieu and Carol Massar on Bloomberg This Weekend to share headlines you may have missed from over the week. (Source: Bloomberg)",
+    "title": "Longevity Boom Reaches America\u2019s Pets",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-16/longevity-boom-reaches-america-s-pets-video",
+    "summary": "Pet owners are increasingly extending the longevity treatments humans pursue for themselves to their dogs, experimenting with supplements, red light therapy and drugs including rapamycin even as veterinarians urge caution about unproven treatments. Bloomberg News National Heath Care Reporter Anna Ed",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-16T13:22:31.268847+00:00"
+    "fetched_at": "2026-08-16T14:11:25.446928+00:00"
   },
   {
     "title": "Edelman Financial, Tudor Investment Reveal Significant Bitcoin Holdings",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-16T13:22:30.512887+00:00"
+    "fetched_at": "2026-08-16T14:11:24.677039+00:00"
   },
   {
     "title": "Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-16T13:22:30.512945+00:00"
+    "fetched_at": "2026-08-16T14:11:24.677101+00:00"
+  },
+  {
+    "title": "People Are Turning to AI for Mental Health, California Wants It Banned",
+    "url": "https://decrypt.co/375725/california-bill-ban-ai-chatbots-therapy-mental-health",
+    "summary": "A California bill is awaiting an Assembly vote to \"place guardrails\" around AI chatbots and prevent them from acting as therapists.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-16T14:11:24.764823+00:00"
   },
   {
     "title": "Apple Turns to Alibaba to Help Build AI Model for China",
@@ -60,16 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-16T13:22:30.629555+00:00"
-  },
-  {
-    "title": "Meta Patents Cameras That Recognize Faces and Log Your Actions",
-    "url": "https://decrypt.co/375698/meta-patents-cameras-recognize-faces-log-actions",
-    "summary": "The filing would turn raw footage into labeled clips of who did what, without anyone opting in.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-16T13:22:30.629597+00:00"
+    "fetched_at": "2026-08-16T14:11:24.764876+00:00"
   },
   {
     "title": "JPMorgan cut Polymarket\u2019s banking ties in October but still wants a role in a potential IPO: FT",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-16T13:22:30.745589+00:00"
+    "fetched_at": "2026-08-16T14:11:24.868540+00:00"
   },
   {
     "title": "Harvard leaves bitcoin ETF stake untouched in Q2 after cutting it 43% in the prior quarter",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-16T13:22:30.745646+00:00"
+    "fetched_at": "2026-08-16T14:11:24.868604+00:00"
   },
   {
     "title": "Most US voters say they are worse off under Trump \u2014 FT poll",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-16T13:22:32.005791+00:00"
+    "fetched_at": "2026-08-16T14:11:26.030978+00:00"
   },
   {
     "title": "Are Americans making peace with the spectre of socialism?",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-16T13:22:32.005850+00:00"
+    "fetched_at": "2026-08-16T14:11:26.031045+00:00"
   }
 ]
