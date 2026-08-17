@@ -1,39 +1,48 @@
 [
   {
+    "title": "CFTC seeks public input on AI compute futures contracts as CME eyes October launch",
+    "url": "https://cointelegraph.com/news/cftc-ai-compute-futures-cme-october-launch",
+    "summary": "The regulatory review could shape an emerging market that lets companies and investors trade and hedge the cost of increasingly scarce AI computing power.\n",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-17T18:20:18.506013+00:00"
+  },
+  {
     "title": "US Treasury moves forward with rules on GENIUS Act after July deadline",
     "url": "https://cointelegraph.com/news/us-treasury-public-comment-rules-genius-act",
     "summary": "The stablecoin bill signed into law last year is scheduled to go into effect in January 2027, potentially without finalized regulations from US government agencies.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-17T17:15:30.706297+00:00"
+    "fetched_at": "2026-08-17T18:20:18.506087+00:00"
   },
   {
-    "title": "Bitcoin hits $64K as gold gains while oil shakes off Trump Oman threat",
-    "url": "https://cointelegraph.com/markets/bitcoin-hits-64k-as-gold-gains-while-oil-shakes-off-trump-oman-threat",
-    "summary": "Bitcoin price strength saw BTC/USD pass $64,000 on 2% daily gains as gold pushed higher while US stocks wobbled on fresh US-Iran rhetoric.",
-    "source": "CoinTelegraph",
+    "title": "US Bond Selloff Drives 30-Year Yields to Highest Since 2007",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-17/us-bond-selloff-drives-30-year-yields-to-the-highest-since-2007",
+    "summary": "The yield on 30-year US Treasuries hit the highest in almost two decades, reflecting investor angst over surging government spending, a flood of long-dated bond sales, and inflation that\u2019s been stuck over the Federal Reserve\u2019s target for the past five years.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-08-17T18:20:20.019120+00:00"
+  },
+  {
+    "title": "Latest Oil Market News and Analysis for June 17",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-16/latest-oil-market-news-and-analysis-for-june-17",
+    "summary": "Oil climbed in thin summer trading as investors weighed fresh Middle East tensions against signs of ongoing shipments through the contested Strait of Hormuz.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-08-17T18:20:20.019176+00:00"
+  },
+  {
+    "title": "Investors Cash Out Fast of Bitcoin ETFs but Price Remains Stable",
+    "url": "https://bitcoinmagazine.com/news/investors-cash-out-of-bitcoin-etfs",
+    "summary": "Bitcoin Magazine\n\nInvestors Cash Out Fast of Bitcoin ETFs but Price Remains Stable\nThe Bitcoin investment vehicles were on a hot streak but investor sentiment last week changed. \nThis post Investors Cash Out Fast of Bitcoin ETFs but Price Remains Stable first appeared on Bitcoin Magazine and is writ",
+    "source": "Bitcoin Magazine",
     "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-17T17:15:30.706386+00:00"
-  },
-  {
-    "title": "Dollar Extends Slide as Traders Scale Back Fed Tightening Bets",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-17/dollar-extends-slide-as-traders-scale-back-fed-tightening-bets",
-    "summary": "The dollar fell to its weakest level in three months as investors scaled back expectations for further Federal Reserve interest-rate increases following a run of softer US economic data.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-17T17:15:32.273982+00:00"
-  },
-  {
-    "title": "Emerging Currencies Rise as Traders Cut Bets on Fed Rate Hikes",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-17/emerging-currencies-rise-to-record-high-as-fed-hike-bets-ease",
-    "summary": "Emerging-market currencies gained as easing bets on a Federal Reserve interest-rate hike next month undercut the dollar and supported risk appetite.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-17T17:15:32.274049+00:00"
+    "tier": 9,
+    "fetched_at": "2026-08-17T18:20:18.848399+00:00"
   },
   {
     "title": "US Treasury Asks For Public Input on Landmark Genius Act Crypto Legislation",
@@ -42,16 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-17T17:15:31.044798+00:00"
-  },
-  {
-    "title": "Strategy Goes Another Week Without Buying \u2014 Or Selling \u2014 Bitcoin, Builds Up Cash Reserve",
-    "url": "https://bitcoinmagazine.com/news/strategy-goes-another-week-without-buying",
-    "summary": "Bitcoin Magazine\n\nStrategy Goes Another Week Without Buying \u2014 Or Selling \u2014 Bitcoin, Builds Up Cash Reserve\u00a0\nStrategy last week sold MSTR shares for approximately $333.7 million and did not buy or sell any Bitcoin.\nThis post Strategy Goes Another Week Without Buying \u2014 Or Selling \u2014 Bitcoin, Builds Up ",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-17T17:15:31.044878+00:00"
+    "fetched_at": "2026-08-17T18:20:18.848463+00:00"
   },
   {
     "title": "Wall Street Pushback Halts SEC's Crypto Fundraising Framework, Sources Say",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-17T17:15:31.256544+00:00"
+    "fetched_at": "2026-08-17T18:20:19.024587+00:00"
   },
   {
     "title": "What Stripe's $7 Billion OpenRouter Deal Actually Means for AI",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-17T17:15:31.256610+00:00"
+    "fetched_at": "2026-08-17T18:20:19.024651+00:00"
   },
   {
     "title": "Bitcoin production slips again in July for CleanSpark, BitFuFu and Canaan",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-17T17:15:31.443552+00:00"
+    "fetched_at": "2026-08-17T18:20:19.223622+00:00"
   },
   {
     "title": "US Treasury seeks public comment on GENIUS Act stablecoin rules",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-17T17:15:31.443615+00:00"
+    "fetched_at": "2026-08-17T18:20:19.223679+00:00"
   },
   {
     "title": "Private credit under strain as troubled loans swell",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-17T17:15:33.166892+00:00"
+    "fetched_at": "2026-08-17T18:20:20.949526+00:00"
   },
   {
     "title": "Why Maga came for Europe",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-17T17:15:33.166958+00:00"
+    "fetched_at": "2026-08-17T18:20:20.949617+00:00"
   }
 ]
