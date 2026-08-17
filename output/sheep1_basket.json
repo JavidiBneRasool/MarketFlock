@@ -1,39 +1,39 @@
 [
   {
+    "title": "Bitmine nears 5% of Ethereum supply despite $8.4B in unrealized losses",
+    "url": "https://cointelegraph.com/news/bitmine-ethereum-supply-5-82-million-eth-staking",
+    "summary": "Tom Lee\u2019s Ethereum treasury company keeps buying the second-biggest crypto through the downturn, while more than 5 million staked ETH is projected to generate $287 million in annual rewards. ",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-17T16:12:58.968770+00:00"
+  },
+  {
     "title": "Here\u2019s what happened in crypto today",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-17T15:13:57.662241+00:00"
+    "fetched_at": "2026-08-17T16:12:58.968818+00:00"
   },
   {
-    "title": "Strategy raises $334M through stock sales but buys no Bitcoin",
-    "url": "https://cointelegraph.com/news/strategy-stock-sales-buys-no-bitcoin",
-    "summary": "Proceeds funded STRC dividends and repurchases, while $149.1 million was added to Strategy\u2019s US dollar reserve, which reached $4.8 billion.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-17T15:13:57.662318+00:00"
-  },
-  {
-    "title": "Copper Squeeze Builds With Spreads Surging and Price Near Record",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-17/copper-heads-toward-record-high-on-lme-as-supply-tensions-build",
-    "summary": "Copper rose toward a record on the London Metal Exchange, with soaring price spreads highlighting an increasingly acute squeeze in near-term supply.",
+    "title": "Gold Advances as Dollar Pushes Lower on Easing Fed Hike Bets",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-16/gold-steady-near-4-400-as-traders-weigh-us-data-and-rate-path",
+    "summary": "Gold extended a two-week advance as easing expectations for further Federal Reserve rate hikes put downward pressure on the dollar, making bullion cheaper for most buyers.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-17T15:13:58.474358+00:00"
+    "fetched_at": "2026-08-17T16:13:00.256342+00:00"
   },
   {
-    "title": "Stock Rally Falters on Renewed Middle East Tension: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
-    "summary": "Wall Street traders sent stocks and bonds wavering as fresh Middle East violence stoked concerns about an escalation of the war that has jolted global markets.",
+    "title": "Citadel Securities Says Spiking Yields Reflect Fed Policy Risk",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-17/citadel-securities-says-spiking-yields-reflect-fed-policy-risk",
+    "summary": "The Federal Reserve\u2019s reluctance to tighten monetary policy after a prolonged period of above-target inflation is keeping long-term bond yields at multiyear highs, posing a broader risk to markets, according to Citadel Securities.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-17T15:13:58.474431+00:00"
+    "fetched_at": "2026-08-17T16:13:00.256380+00:00"
   },
   {
     "title": "Strategy Goes Another Week Without Buying \u2014 Or Selling \u2014 Bitcoin, Builds Up Cash Reserve",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-17T15:13:57.907715+00:00"
+    "fetched_at": "2026-08-17T16:12:59.227343+00:00"
   },
   {
     "title": "Edelman Financial, Tudor Investment Reveal Significant Bitcoin Holdings",
@@ -51,25 +51,25 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-17T15:13:57.907782+00:00"
+    "fetched_at": "2026-08-17T16:12:59.227387+00:00"
   },
   {
-    "title": "Hackers Are Abusing a macOS Screen Sharing Flaw to Secretly Mine Monero",
-    "url": "https://decrypt.co/375749/hackers-macos-screen-sharing-secretly-mine-monero",
-    "summary": "The Dutch cyber agency says attackers exploited an authentication flaw in macOS Screen Sharing to gain root access and plant Monero miners, with public proof-of-concept code now circulating.",
+    "title": "What Stripe's $7 Billion OpenRouter Deal Actually Means for AI",
+    "url": "https://decrypt.co/375769/what-stripe-openrouter-deal-means-ai",
+    "summary": "Stripe just bought the layer that decides which AI model answers your prompt\u2014and it was already collecting the money for it.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-17T15:13:57.986324+00:00"
+    "fetched_at": "2026-08-17T16:12:59.363705+00:00"
   },
   {
-    "title": "Morning Minute: Trump To Meet Crypto, Prediction Market CEOs This Week",
-    "url": "https://decrypt.co/375760/morning-minute-trump-to-meet-crypto-prediction-market-ceos-this-week",
-    "summary": "The meeting comes while progress on the Clarity Act has been delayed and the SEC's latest rulemaking postponed.",
+    "title": "Tom Lee\u2019s Bitmine Buys Another $19 Million in Ethereum as Stash Nears 5% of Total Supply",
+    "url": "https://decrypt.co/375768/tom-lee-bitcoin-buys-19-million-ethereum",
+    "summary": "The firm says it's 96% of the way to owning 5% of Ethereum's total supply, according to Chairman Tom Lee.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-17T15:13:57.986417+00:00"
+    "fetched_at": "2026-08-17T16:12:59.363749+00:00"
   },
   {
     "title": "Harmony plans pre-attack rollback after exploiter forged 3 trillion ONE tokens",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-17T15:13:58.076552+00:00"
+    "fetched_at": "2026-08-17T16:12:59.537179+00:00"
   },
   {
     "title": "Bitmine adds 9,926 ETH, taking total holdings to roughly $11 billion",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-17T15:13:58.076611+00:00"
+    "fetched_at": "2026-08-17T16:12:59.537218+00:00"
   },
   {
     "title": "Private credit under strain as troubled loans swell",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-17T15:13:59.002611+00:00"
+    "fetched_at": "2026-08-17T16:13:01.325158+00:00"
   },
   {
     "title": "Why Maga came for Europe",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-17T15:13:59.002667+00:00"
+    "fetched_at": "2026-08-17T16:13:01.325198+00:00"
   }
 ]
