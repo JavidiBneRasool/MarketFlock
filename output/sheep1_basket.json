@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-17T07:41:46.873528+00:00"
+    "fetched_at": "2026-08-17T08:28:46.030254+00:00"
   },
   {
     "title": "Chainalysis sues US over $95M ICE contract with TRM Labs",
@@ -15,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-17T07:41:46.873608+00:00"
+    "fetched_at": "2026-08-17T08:28:46.030327+00:00"
+  },
+  {
+    "title": "Xi Ties Predecessor\u2019s Legacy to His Own Agenda as Risks Grow",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-17/xi-touts-party-led-growth-at-predecessor-s-birth-centenary",
+    "summary": "Chinese President Xi Jinping invoked the legacy of his predecessor Jiang Zemin to advance his own economic and global policy agenda, warning of \u201chigh winds and rough waters\u201d as China faces slowing growth and rising tensions abroad.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-08-17T08:28:46.998089+00:00"
   },
   {
     "title": "Technology Stocks Lift Equities as Treasuries Rise: Markets Wrap",
     "url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
-    "summary": "Technology stocks lifted global equities after stellar revenue growth at Anthropic PBC bolstered the view that massive spending on artificial intelligence will be sustained. Treasuries gained as oil prices fell.",
+    "summary": "Technology stocks lifted global equities after stellar revenue growth at Anthropic PBC bolstered the view that massive spending on artificial intelligence will be sustained. Treasury yields and the dollar fell.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-17T07:41:47.735970+00:00"
-  },
-  {
-    "title": "It's Not Looking Great for The Dollar: 3-Minutes MLIV",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-17/it-s-not-looking-great-for-the-dollar-3-minutes-mliv-video",
-    "summary": "Guy Johnson, Tom Mackenzie and Paul Dobson break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\"  (Source: Bloomberg)",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-17T07:41:47.736030+00:00"
+    "fetched_at": "2026-08-17T08:28:46.998147+00:00"
   },
   {
     "title": "Edelman Financial, Tudor Investment Reveal Significant Bitcoin Holdings",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-17T07:41:47.148477+00:00"
+    "fetched_at": "2026-08-17T08:28:46.312359+00:00"
   },
   {
     "title": "Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-17T07:41:47.148544+00:00"
+    "fetched_at": "2026-08-17T08:28:46.312444+00:00"
   },
   {
     "title": "Gemini 3.7 Flash Review: Google's Cheap Model Isn\u2019t Dumb Anymore",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-17T07:41:47.222695+00:00"
+    "fetched_at": "2026-08-17T08:28:46.407130+00:00"
   },
   {
     "title": "People Are Turning to AI for Mental Health, California Wants It Banned",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-17T07:41:47.222759+00:00"
+    "fetched_at": "2026-08-17T08:28:46.407188+00:00"
   },
   {
     "title": "Prediction market Novig sues Wisconsin AG in latest spat over sports contracts",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-17T07:41:47.295155+00:00"
+    "fetched_at": "2026-08-17T08:28:46.509147+00:00"
   },
   {
     "title": "Wallet provider SafePal says data breach exposed personal info of nearly 40,000 customers",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-17T07:41:47.295220+00:00"
+    "fetched_at": "2026-08-17T08:28:46.509207+00:00"
   },
   {
     "title": "Private credit under strain as troubled loans swell",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-17T07:41:48.394788+00:00"
+    "fetched_at": "2026-08-17T08:28:47.526998+00:00"
   },
   {
     "title": "Why Maga came for Europe",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-17T07:41:48.394849+00:00"
+    "fetched_at": "2026-08-17T08:28:47.527053+00:00"
   }
 ]
