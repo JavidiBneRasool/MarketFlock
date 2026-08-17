@@ -6,34 +6,34 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-17T10:19:22.032299+00:00"
+    "fetched_at": "2026-08-17T11:14:31.235915+00:00"
   },
   {
-    "title": "Greenlane\u2019s $70M BERA treasury ends Q2 valued at $16M",
-    "url": "https://cointelegraph.com/news/greenlane-70m-bera-treasury-valued-16m",
-    "summary": "Greenlane recorded a $19.1 million noncash valuation loss as BERA\u2019s price fell nearly 76% year to date.",
+    "title": "BitMart account demands founder explain funds status, Xia calls claims \u2018fabricated\u2019",
+    "url": "https://cointelegraph.com/news/bitmart-account-founder-explain-repayment-plan",
+    "summary": "BitMart\u2019s Chinese-language X account demanded an Aug. 19 repayment plan, while Sheldon Xia called its claims of blocked withdrawals and non-payment of salaries \u201cfabricated rumors.\u201d",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-17T10:19:22.032376+00:00"
+    "fetched_at": "2026-08-17T11:14:31.235997+00:00"
   },
   {
-    "title": "AI Debt Sales Are Keeping US Treasury Yields High",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-08-17/ai-debt-sales-are-keeping-us-treasury-yields-high",
-    "summary": "Corporate offerings reach almost $1.5 trillion year to date, up 36% from a year earlier.",
+    "title": "Latest Oil Market News and Analysis for June 17",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-16/latest-oil-market-news-and-analysis-for-june-17",
+    "summary": "Oil edged higher as fresh fighting in Lebanon and attacks on vessels in the Strait of Hormuz muddied the outlook for a deal to end the US-Iran war.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-17T10:19:23.128967+00:00"
+    "fetched_at": "2026-08-17T11:14:32.460029+00:00"
   },
   {
-    "title": "US Stock Futures Rise as Anthropic Powers AI Trade: Markets Wrap",
+    "title": "Stock Futures Rise as Anthropic Fuels AI Optimism: Markets Wrap",
     "url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
     "summary": "Technology stocks lifted global equities after stellar revenue growth at Anthropic PBC bolstered the view that massive spending on artificial intelligence will be sustained. The dollar touched a three-month low.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-17T10:19:23.129023+00:00"
+    "fetched_at": "2026-08-17T11:14:32.460087+00:00"
   },
   {
     "title": "Edelman Financial, Tudor Investment Reveal Significant Bitcoin Holdings",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-17T10:19:22.417700+00:00"
+    "fetched_at": "2026-08-17T11:14:31.451139+00:00"
   },
   {
     "title": "Abu Dhabi Sovereign Wealth Funds Keep Big Bitcoin Positions",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-17T10:19:22.417762+00:00"
+    "fetched_at": "2026-08-17T11:14:31.451209+00:00"
+  },
+  {
+    "title": "Paul Tudor Jones' Firm Buys Back Into BlackRock Bitcoin ETF After a Year of Selling",
+    "url": "https://decrypt.co/375745/paul-tudor-jones-buys-blackrock-bitcoin-etf",
+    "summary": "The macro fund raised its iShares Bitcoin Trust stake 18.9% to 688,529 shares worth $22.9 million in Q2, while sharply cutting its call options\u2014a shift from leveraged bets toward direct spot exposure.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-17T11:14:31.614017+00:00"
   },
   {
     "title": "Dutch Prosecutors Sell $2.5M of Crypto From Bankrupt Platform Knaken",
@@ -60,16 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-17T10:19:22.559105+00:00"
+    "fetched_at": "2026-08-17T11:14:31.614079+00:00"
   },
   {
-    "title": "SafePal Bitcoin Wallet Data Breach Stokes Fears of Physical Attacks",
-    "url": "https://decrypt.co/375743/safepal-bitcoin-wallet-data-breach",
-    "summary": "A flaw in an order-tracking plug-in of bitcoin wallet provider SafePal exposed names, addresses and phone numbers of nearly 40,000 customers.",
-    "source": "Decrypt",
+    "title": "Bitcoin miner HIVE inks five-year $350 million AI cloud contract, adds $70 million in annualized revenue",
+    "url": "https://www.theblock.co/news/business/2026-08-17-bitcoin-miner-hive-inks-five-year-350-million-ai-cloud-contract-411940",
+    "summary": "HIVE's BUZZ HPC signed a five-year, $350M GPU cloud deal, adding $70M in ARR, its second large NVIDIA cluster deal in two months.",
+    "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-17T10:19:22.559160+00:00"
+    "fetched_at": "2026-08-17T11:14:31.777687+00:00"
   },
   {
     "title": "Prediction market Novig sues Wisconsin AG in latest spat over sports contracts",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-17T10:19:22.691588+00:00"
-  },
-  {
-    "title": "Wallet provider SafePal says data breach exposed personal info of nearly 40,000 customers",
-    "url": "https://www.theblock.co/news/business/2026-08-16-wallet-provider-safepal-says-data-breach-exposed-personal-info-of-nearly-40000-customers-411934",
-    "summary": "SafePal said it found the root cause of the breach recently, though customers had posted online about being targeted by phishing attempts as early as July.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-17T10:19:22.691650+00:00"
+    "fetched_at": "2026-08-17T11:14:31.777749+00:00"
   },
   {
     "title": "Private credit under strain as troubled loans swell",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-17T10:19:23.730527+00:00"
+    "fetched_at": "2026-08-17T11:14:33.246473+00:00"
   },
   {
     "title": "Why Maga came for Europe",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-17T10:19:23.730585+00:00"
+    "fetched_at": "2026-08-17T11:14:33.246531+00:00"
   }
 ]
