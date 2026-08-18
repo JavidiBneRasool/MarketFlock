@@ -1,39 +1,39 @@
 [
   {
+    "title": "Bitcoin price spike to $64.5K was \u2018low-volume liquidity trap\u2019: Analysis",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-spike-to-645k-was-low-volume-liquidity-trap-analysis",
+    "summary": "Bitcoin derivatives markets created a short squeeze that took BTC price action 3% higher on Monday.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-18T10:15:55.777984+00:00"
+  },
+  {
     "title": "China adds 8 banks to digital yuan network as operator count hits 30",
     "url": "https://cointelegraph.com/news/china-adds-8-banks-to-digital-yuan-network-as-operator-count-hits-30",
     "summary": "The newly authorized lenders will begin offering e-CNY services after completing operational and technical preparations.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-18T09:20:13.082362+00:00"
+    "fetched_at": "2026-08-18T10:15:55.778065+00:00"
   },
   {
-    "title": "South Korea moves to block Polymarket over gambling concerns",
-    "url": "https://cointelegraph.com/news/south-korea-block-polymarket-gambling-concerns",
-    "summary": "The Korea Media and Communications Commission said Polymarket\u2019s structure and operations amount to illegal gambling despite its noncustodial design and smart contracts.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-18T09:20:13.082436+00:00"
-  },
-  {
-    "title": "Traders Short French Bonds as Fight Over Budget to Escalate",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-18/traders-short-french-bonds-as-fight-over-budget-set-to-escalate",
-    "summary": "Investors are turning bearish on French government bonds, as politicians ready for a fight over the 2027 budget before next year\u2019s presidential election.",
+    "title": "Target Bets on Trendy Snacks and Drinks in Grocery Revamp",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-18/target-bets-on-trendy-snacks-and-drinks-in-grocery-revamp",
+    "summary": "Target has long struggled with its grocery identity: whether it wants to be a discounts-driven everyday chain or a cool zeitgeisty retailer. Its latest big bet indicates it\u2019s chosen the latter. (Source: Bloomberg)",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-18T09:20:13.985691+00:00"
+    "fetched_at": "2026-08-18T10:15:56.782104+00:00"
   },
   {
-    "title": "Latest Oil Market News and Analysis for Aug. 18",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-17/latest-oil-market-news-and-analysis-for-aug-18",
-    "summary": "Oil held on to its recent rally as prospects for a near-term resolution of the US-Iran war receded, with a fresh vessel attack reported in the Strait of Hormuz.",
+    "title": "The Diamond Industry Wants You to Buy \"Natural\"",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-18/the-diamond-industry-wants-you-to-buy-natural",
+    "summary": "Over the past five years, lab-grown diamonds have shaken his industry to the core. Now, companies like De Beers are battling the avalanche of cheaper, near-identical synthetic gems. Stacey Vanek Smith reports. (Source: Bloomberg)",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-18T09:20:13.985747+00:00"
+    "fetched_at": "2026-08-18T10:15:56.782160+00:00"
   },
   {
     "title": "Losses Top $115M In Coldcard Bitcoin Hack: Galaxy Research",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-18T09:20:13.365219+00:00"
+    "fetched_at": "2026-08-18T10:15:56.117398+00:00"
   },
   {
     "title": "Jane Street Reveals Nearly $1B Bitcoin Position",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-18T09:20:13.365278+00:00"
+    "fetched_at": "2026-08-18T10:15:56.117456+00:00"
+  },
+  {
+    "title": "Bitpanda Hit With Europe's First Published MiCA Penalty in Austria",
+    "url": "https://decrypt.co/375841/bitpanda-europe-first-mica-penalty",
+    "summary": "Austria's Financial Market Authority fined the Vienna-based exchange 70,000 euros for procedural and disclosure breaches, an early marker of how EU regulators intend to enforce the bloc's new crypto rulebook.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-18T10:15:56.214387+00:00"
   },
   {
     "title": "Kraken Parent Payward Joins Glasswing, Gets Access to Claude Mythos to Hunt Security Flaws",
@@ -60,16 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-18T09:20:13.449994+00:00"
+    "fetched_at": "2026-08-18T10:15:56.214454+00:00"
   },
   {
-    "title": "Minnesota Says xAI's Grok Created 'Marketplace for Digital Sexual Violence'",
-    "url": "https://decrypt.co/375828/minnesota-xai-grok-marketplace-digital-sexual-violence",
-    "summary": "Elon Musk\u2019s AI firm says the state\u2019s first-of-its-kind nudification ban violates the First Amendment. Minnesota says it regulates a tool, not speech.",
-    "source": "Decrypt",
+    "title": "Blockchain Association backs SEC\u2019s proposal to scrap outdated NMS rules, citing tokenization benefits",
+    "url": "https://www.theblock.co/news/regulation/2026-08-18-blockchain-association-backs-secs-proposal-to-scrap-outdated-nms-rules-citing-tokenization-benefits-412069",
+    "summary": "The rules, established in 2005, have \"failed to achieve their stated purposes,\" the Blockchain Association said.",
+    "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-18T09:20:13.450100+00:00"
+    "fetched_at": "2026-08-18T10:15:56.283828+00:00"
   },
   {
     "title": "Kraken brings US stock trading to European Economic Area customers",
@@ -78,33 +87,24 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-18T09:20:13.520457+00:00"
+    "fetched_at": "2026-08-18T10:15:56.283897+00:00"
   },
   {
-    "title": "Cathie Wood\u2019s Ark Invest scoops up $15 million in Block Inc shares as stock dips 3%",
-    "url": "https://www.theblock.co/news/markets/2026-08-18-cathie-wood-ark-invest-15-million-block-inc-412060",
-    "summary": "The firm also bought $1 million worth of Securitize shares, which fell over 20% last week following disappointing Q2 results.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-18T09:20:13.520520+00:00"
-  },
-  {
-    "title": "Trump\u2019s cuts to South Korean drills stir doubts about US resolve in Asia",
-    "url": "https://www.ft.com/content/1d713822-e68f-4476-be94-ffab3418bfe4?syn-25a6b1a6=1",
-    "summary": "Decision comes as Pentagon pulls ships from Indo-Pacific to Middle East and Iran war depletes weapons stockpiles",
+    "title": "Global bond sell-off deepens amid fears over inflation and AI issuance",
+    "url": "https://www.ft.com/content/61354e68-c4ba-4716-b849-b332608c8c65?syn-25a6b1a6=1",
+    "summary": "Long-term government borrowing costs hit multi-decade highs",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-18T09:20:14.667206+00:00"
+    "fetched_at": "2026-08-18T10:15:57.497095+00:00"
   },
   {
-    "title": "Seoul rattled by Trump\u2019s threat to drills at heart of US alliance",
-    "url": "https://www.ft.com/content/377d4c1c-1cbc-46b2-8c34-f2d578c6d595?syn-25a6b1a6=1",
-    "summary": "US president\u2019s eleventh-hour demand to \u2018reduce\u2019 annual exercises and praise of Kim Jong Un unsettles ally",
+    "title": "AI hasn\u2019t gone rogue. It\u2019s worse than that",
+    "url": "https://www.ft.com/content/a9947be4-5c0c-47ee-acae-a2aeaf01a0a0?syn-25a6b1a6=1",
+    "summary": "Recent cyber attacks reflect what the technology was trained to do but safeguards are falling short",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-18T09:20:14.667275+00:00"
+    "fetched_at": "2026-08-18T10:15:57.497162+00:00"
   }
 ]
