@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-19T04:24:51.026649+00:00"
+    "fetched_at": "2026-08-19T05:18:33.582375+00:00"
   },
   {
     "title": "SEC proposes new crypto rules in absence of CLARITY Act",
@@ -15,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-19T04:24:51.026725+00:00"
+    "fetched_at": "2026-08-19T05:18:33.582458+00:00"
   },
   {
-    "title": "Global Chip Selloff Hits Stocks, Treasuries Steady: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-18/stock-market-today-dow-s-p-live-updates",
-    "summary": "A global selloff in semiconductor stocks deepened as investors retreated from one of the year\u2019s hottest trades amid elevated bond yields and geopolitical uncertainty. Treasuries steadied following recent losses.",
+    "title": "Korean Won Advances Past Key Psychological Level of 1,400 Per Dollar",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-19/korean-won-advances-past-key-psychological-level-of-1-400-per-dollar",
+    "summary": "The South Korean won strengthened past the key psychological level of 1,400 per dollar for the first time in more than 10 months, extending a recovery fueled by a booming semiconductor industry.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-19T04:24:51.932128+00:00"
+    "fetched_at": "2026-08-19T05:18:34.587724+00:00"
   },
   {
-    "title": "CXMT Rival YMTC Moves Closer to China\u2019s Next Marquee Chip IPO",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-19/cxmt-rival-ymtc-moves-closer-to-china-s-next-marquee-chip-ipo",
-    "summary": "Yangtze Memory Technologies Co. moved closer to an initial public offering in China, following in the footsteps of rival CXMT Corp.\u2019s near-record share sale.",
+    "title": "Hitachi Construction Shares Drop After $740 Million Block Trades",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-19/hitachi-construction-shares-drop-after-740-million-block-trade",
+    "summary": "Hitachi Construction Machinery Co.\u2019s shares fell the most in almost three weeks after its major shareholder Hitachi Ltd. offloaded all its holdings, in the latest move by the Japanese conglomerate to divest some of its assets to focus on core businesses.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-19T04:24:51.932187+00:00"
+    "fetched_at": "2026-08-19T05:18:34.587784+00:00"
   },
   {
     "title": "BitBox Warns Bitcoiners After Discovering \u2018Severe\u2019 Vulnerability In Firmware",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-19T04:24:51.352487+00:00"
+    "fetched_at": "2026-08-19T05:18:33.954575+00:00"
   },
   {
     "title": "SEC Proposes Crypto Rulebook as Clarity Act Stalls",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-19T04:24:51.352551+00:00"
+    "fetched_at": "2026-08-19T05:18:33.954643+00:00"
   },
   {
     "title": "Pennsylvania Cracks Down on AI Data Centers as Backlash Grows",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-19T04:24:51.429648+00:00"
+    "fetched_at": "2026-08-19T05:18:34.031205+00:00"
   },
   {
     "title": "Mozilla Tests an AI 'Smart Window' in Firefox\u2014But Only If You Opt In",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-19T04:24:51.429711+00:00"
+    "fetched_at": "2026-08-19T05:18:34.031270+00:00"
   },
   {
     "title": "Kalshi files to launch perpetual futures tied to US stock index, copper",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-19T04:24:51.500479+00:00"
+    "fetched_at": "2026-08-19T05:18:34.103355+00:00"
   },
   {
     "title": "Solana Policy Institute CEO says Clarity Act in \u2018August recess purgatory,\u2019 gives it 10% odds before midterms",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-19T04:24:51.500554+00:00"
+    "fetched_at": "2026-08-19T05:18:34.103428+00:00"
   },
   {
     "title": "Iran eyes military targets in Europe if Trump escalates war, insiders say",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-19T04:24:52.626318+00:00"
+    "fetched_at": "2026-08-19T05:18:35.256914+00:00"
   },
   {
     "title": "UAE suspends trade with Iran after saying it fired missiles at Gulf state",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-19T04:24:52.626385+00:00"
+    "fetched_at": "2026-08-19T05:18:35.256985+00:00"
   }
 ]
