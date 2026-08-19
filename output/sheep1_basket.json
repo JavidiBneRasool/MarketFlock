@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-19T22:12:09.775703+00:00"
+    "fetched_at": "2026-08-19T23:12:15.616391+00:00"
   },
   {
     "title": "Trump pushes for CLARITY Act passage alongside crypto leaders",
@@ -15,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-19T22:12:09.775779+00:00"
+    "fetched_at": "2026-08-19T23:12:15.616464+00:00"
   },
   {
-    "title": "Latest Oil Market News and Analysis for Aug. 19",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-19/latest-oil-market-news-and-analysis-for-aug-19",
-    "summary": "Oil held a four-day run of gains as traders assessed the standoff in the Middle East between Iran and the US, with signs some crude is being shipped through the Strait of Hormuz to global markets.",
+    "title": "BlackRock, Oaktree Seize Movie Servicer With $900 Million Debt",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-19/blackrock-oaktree-seize-movie-servicer-with-900-million-debt",
+    "summary": "BlackRock Inc.\u2019s HPS and Brookfield Corp.\u2019s Oaktree Capital Management took over a firm that provides lighting, rigging and other services for Hollywood productions, wiping out as much as $900 million of debt as the global entertainment industry struggles with changing economics, according to people",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-19T22:12:10.639770+00:00"
+    "fetched_at": "2026-08-19T23:12:17.423139+00:00"
   },
   {
-    "title": "Hong Kong Banks Turn to Student Housing as Property Bright Spot",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-19/hong-kong-banks-turn-to-student-housing-as-property-bright-spot",
-    "summary": "The aging Regal Oriental Hotel is hardly a Hong Kong hotspot, yet in recent weeks it\u2019s become a popular destination for bankers from some of the city\u2019s top lenders, some of whom made repeat visits.",
+    "title": "AIA Posts Growth in New Business Value on Hong Kong, China",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-19/aia-posts-growth-in-new-business-value-on-hong-kong-china",
+    "summary": "AIA Group Ltd. reported 13% growth in new business value in the first half of this year, led by strong sales in key markets including Hong Kong and China.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-19T22:12:10.639828+00:00"
+    "fetched_at": "2026-08-19T23:12:17.423196+00:00"
   },
   {
     "title": "Trump Urges Senate to Pass Crypto\u2019s CLARITY Act, Teases More Bitcoin Buys",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-19T22:12:10.001737+00:00"
+    "fetched_at": "2026-08-19T23:12:16.118816+00:00"
   },
   {
     "title": "Bitcoin Shortsellers Get Destroyed With $1.7B in Positions Liquidated Following BTC Price Jump",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-19T22:12:10.001810+00:00"
+    "fetched_at": "2026-08-19T23:12:16.118884+00:00"
+  },
+  {
+    "title": "Bitcoin's Sharpest Rally in Five Months Flips Markets From Bearish to Coin Flip",
+    "url": "https://decrypt.co/376030/bitcoin-rally-flips-markets-bearish-coin-flip",
+    "summary": "Bitcoin's steepest daily gain since March caught traders off guard, and Myriad's pump-or-dump market swung from 70-30 odds to nearly even in a single day.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-19T23:12:16.297694+00:00"
   },
   {
     "title": "Trump Says AI Could Be 'Bigger Than the Internet' as He Pushes Light-Touch Regulation",
@@ -60,16 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-19T22:12:10.100415+00:00"
+    "fetched_at": "2026-08-19T23:12:16.297754+00:00"
   },
   {
-    "title": "Trump Calls on Congress to Pass 'Fair Version' of Clarity Act at White House Crypto Meeting",
-    "url": "https://decrypt.co/376006/trump-pass-fair-version-clarity-white-house-crypto-meeting",
-    "summary": "Trump touted his administration\u2019s crypto policies and said regulators are working to bring Hyperliquid into the U.S. under a compliant framework.",
-    "source": "Decrypt",
+    "title": "Congress can still \u2018land this plane\u2019 on crypto bill as ethics talks stall, says Democratic Sen. Gallego",
+    "url": "https://www.theblock.co/news/regulation/2026-08-19-congress-can-still-land-this-plane-crypto-bill-ethics-talks-stall-democratic-sen-gallego-412272",
+    "summary": "Sen. Ruben Gallego says Congress can still \"land this plane,\" referring to the Clarity Act crypto bill, as concerns grow over an unfinished ethics deal.",
+    "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-19T22:12:10.100503+00:00"
+    "fetched_at": "2026-08-19T23:12:16.483511+00:00"
   },
   {
     "title": "HYPE token surges after Trump says CFTC is working to bring Hyperliquid to US in \u2018fully compliant fashion\u2019",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-19T22:12:10.191888+00:00"
-  },
-  {
-    "title": "Bitcoin hits $69,000, ether jumps 10% as Treasury buybacks, SEC crypto proposal fuel market rally",
-    "url": "https://www.theblock.co/news/markets/2026-08-19-bitcoin-69000-ether-jumps-treasury-buybacks-sec-crypto-proposal-fuel-market-rally-412248",
-    "summary": "The move triggered nearly $2 billion in crypto liquidations and lifted crypto-linked stocks, with Strategy and Bitmine gaining around 10%.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-19T22:12:10.191969+00:00"
+    "fetched_at": "2026-08-19T23:12:16.483578+00:00"
   },
   {
     "title": "US government debt hits $40tn as borrowing rises at historic rate",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-19T22:12:11.394996+00:00"
+    "fetched_at": "2026-08-19T23:12:18.212180+00:00"
   },
   {
     "title": "US Treasury to boost long-term bond purchases in bid to steady market",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-19T22:12:11.395063+00:00"
+    "fetched_at": "2026-08-19T23:12:18.212245+00:00"
   }
 ]
