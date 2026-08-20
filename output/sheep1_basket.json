@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-20T22:14:24.835778+00:00"
+    "fetched_at": "2026-08-20T23:14:15.865663+00:00"
   },
   {
     "title": "CFTC chair says agency will move forward on crypto regulation if CLARITY fails",
@@ -15,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-20T22:14:24.835853+00:00"
+    "fetched_at": "2026-08-20T23:14:15.865723+00:00"
   },
   {
-    "title": "Asian Stocks Set to Fall as Bonds Resume Decline: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-20/stock-market-today-dow-s-p-live-updates",
-    "summary": "Stocks in Asia were set to drop after US equities fell as oil prices and benchmark bond yields climbed, with investors betting that the Treasury\u2019s efforts to contain borrowing costs may offer only a temporary reprieve.",
+    "title": "Hua Hong, Kingboard, Zijin Gold May Join Hong Kong\u2019s Stock Index",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-20/hua-hong-kingboard-zijin-gold-may-join-hong-kong-s-stock-index",
+    "summary": "Hang Seng Indexes Co. may add chipmaker Hua Hong Grace Semiconductor Ltd., AI-related firm Kingboard Laminates Holdings Ltd. and miner Zijin Gold International Co. to Hong Kong\u2019s equity benchmark, according to analysts.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-20T22:14:25.760283+00:00"
+    "fetched_at": "2026-08-20T23:14:16.637059+00:00"
   },
   {
-    "title": "Broadcom Seeking $60B in AI Debt Deal",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-20/broadcom-seeking-60b-in-ai-debt-deal-video",
-    "summary": "Broadcom Inc.\u00a0is in talks with a group of lenders to raise more than $60 billion in debt for an AI chip financing deal that will benefit\u00a0Anthropic PBC\u00a0and other companies, according to people with knowledge of the matter. The financing, which is still being ironed out, may also include a roughly $30",
+    "title": "Latest Oil Market News and Analysis for Aug. 21",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-20/latest-oil-market-news-and-analysis-for-aug-21",
+    "summary": "Oil headed for a substantial weekly gain, as a US push to isolate Iran\u2019s economy raised the specter of further market disruption.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-20T22:14:25.760338+00:00"
+    "fetched_at": "2026-08-20T23:14:16.637107+00:00"
   },
   {
     "title": "Bitcoin Could Attract More Buyers As Fast Money Is Washed Out, Says Lyn Alden",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-20T22:14:25.133009+00:00"
+    "fetched_at": "2026-08-20T23:14:16.047916+00:00"
   },
   {
     "title": "Open Source vs. Source-Available: What the Coldcard Failure Teaches About Bitcoin Software Incentives",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-20T22:14:25.133082+00:00"
+    "fetched_at": "2026-08-20T23:14:16.047974+00:00"
+  },
+  {
+    "title": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC",
+    "url": "https://decrypt.co/376158/tensions-flare-cme-kalshi-clash-prediction-markets-dc",
+    "summary": "CME Group Chairman Terry Duffy and Kalshi co-founder Luana Lopes Lara traded barbs during a CFTC meeting over prediction markets, manipulation, and regulatory standards.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-20T23:14:16.119767+00:00"
   },
   {
     "title": "What's Next for Bitcoin After Historic Rally? Experts Weigh In",
@@ -60,16 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-20T22:14:25.205173+00:00"
-  },
-  {
-    "title": "Bitcoin Is Pumping But Prediction Market Traders Aren't Convinced",
-    "url": "https://decrypt.co/376103/bitcoin-price-pumping-prediction-next-move",
-    "summary": "Bitcoin's sharpest rally in five months flipped prediction-market odds from bearish to a coin flip\u2014but the longer-term bets still price in a crash.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-20T22:14:25.205227+00:00"
+    "fetched_at": "2026-08-20T23:14:16.119812+00:00"
   },
   {
     "title": "Kraken parent Payward explores becoming a \u2018full bank\u2019 outside the US",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-20T22:14:25.282078+00:00"
+    "fetched_at": "2026-08-20T23:14:16.179960+00:00"
   },
   {
     "title": "Ondo executive says tokenization is following the same path as early ETFs",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-20T22:14:25.282139+00:00"
+    "fetched_at": "2026-08-20T23:14:16.180013+00:00"
   },
   {
     "title": "US long-term bonds slide as Bessent intervention fails to soothe investors",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-20T22:14:26.445291+00:00"
+    "fetched_at": "2026-08-20T23:14:17.170638+00:00"
   },
   {
     "title": "The US Treasury is buying long bonds, but not very many",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-20T22:14:26.445345+00:00"
+    "fetched_at": "2026-08-20T23:14:17.170685+00:00"
   }
 ]
