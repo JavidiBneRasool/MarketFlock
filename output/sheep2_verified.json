@@ -1,48 +1,48 @@
 [
   {
+    "title": "GnosisDAO approves Gnosis Chain for Ethereum Economic Zone",
+    "url": "https://cointelegraph.com/news/gnosisdao-approves-gnosis-chain-ethereum-economic-zone",
+    "summary": "Gnosis Chain was approved to transition to an EEZ rollup, enabling it to settle directly to Ethereum rather than continue with an independent validator set.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-20T09:21:44.196864+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "BitGo Korea secures VASP registration for institutional crypto custody",
     "url": "https://cointelegraph.com/news/bitgo-korea-vasp-registration-institutional-crypto-custody",
     "summary": "Regulators reportedly accepted BitGo Korea\u2019s registration on Tuesday, two days before stricter VASP entry requirements took effect.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-20T08:22:50.449366+00:00",
+    "fetched_at": "2026-08-20T09:21:44.196935+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-20T08:22:50.449418+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Nick Bostrom on What Happens if AI Solves All of Our Problems",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-20/nick-bostrom-on-what-happens-if-ai-solves-all-of-our-problems",
-    "summary": "Are humans doomed no matter what?",
+    "title": "Palm Oil Hits Highest Since 2024 as Biofuels, El Ni\u00f1o Cut Supply",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-20/palm-oil-hits-highest-since-2024-as-biofuels-el-nino-cut-supply",
+    "summary": "Palm oil climbed to its highest level in about 20 months, as rising biofuel demand and mounting production risks from the strengthening El Ni\u00f1o underpin prices.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-20T08:23:00.093726+00:00",
+    "fetched_at": "2026-08-20T09:21:45.126363+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Odd Lots: What Happens if AI Solves Every Problem (Podcast)",
-    "url": "https://www.bloomberg.com/news/audio/2026-08-20/odd-lots-what-happens-if-ai-solves-every-problem-podcast",
-    "summary": "The philosopher Nick Bostrom was one of the first thinkers who mapped out the existential risk of AI. In his 2014 book, Superintelligence: Paths, Dangers, Strategies, he delved into various scenarios \u2014 like the now-famous \u201cpaperclip maximizer\u201d \u2014 to show the dangers that unfettered and highly intelli",
+    "title": "US Stocks Waver as Treasury Rally Starts to Fade: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-19/stock-market-today-dow-s-p-live-updates",
+    "summary": "A rebound in long-dated Treasuries ran out of steam and US stock futures struggled for direction as oil prices extended gains.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-20T08:23:00.093766+00:00",
+    "fetched_at": "2026-08-20T09:21:45.126419+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-20T08:22:50.721476+00:00",
+    "fetched_at": "2026-08-20T09:21:44.436002+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-20T08:22:50.721524+00:00",
+    "fetched_at": "2026-08-20T09:21:44.436070+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-20T08:22:50.879953+00:00",
+    "fetched_at": "2026-08-20T09:21:44.530783+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-20T08:22:50.880003+00:00",
+    "fetched_at": "2026-08-20T09:21:44.530842+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-20T08:22:51.001403+00:00",
+    "fetched_at": "2026-08-20T09:21:44.640781+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-20T08:22:51.001456+00:00",
+    "fetched_at": "2026-08-20T09:21:44.640849+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -122,11 +122,11 @@
   {
     "title": "Top US law firms hit by backlash over \u2018crazy\u2019 hiring of first-year students",
     "url": "https://www.ft.com/content/d70655c1-63b8-4142-aae8-82db916bc045?syn-25a6b1a6=1",
-    "summary": "Wall Street firms are recruiting ever-earlier drawing concern from students and executives",
+    "summary": "Wall Street firms are recruiting ever earlier, drawing concern from students and executives",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-20T08:23:00.932385+00:00",
+    "fetched_at": "2026-08-20T09:21:45.682343+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-20T08:23:00.932434+00:00",
+    "fetched_at": "2026-08-20T09:21:45.682407+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
