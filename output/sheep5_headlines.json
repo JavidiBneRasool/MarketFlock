@@ -2,8 +2,8 @@
   {
     "category": "Crypto",
     "headline": "Here\u2019s what happened in crypto today",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787350284",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787350284",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787353957",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787353957",
     "article": {
       "title": "Here\u2019s what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
@@ -11,7 +11,7 @@
       "source": "CoinTelegraph",
       "category": "Crypto",
       "tier": 10,
-      "fetched_at": "2026-08-21T22:11:16.181683+00:00",
+      "fetched_at": "2026-08-21T23:12:31.074328+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -22,8 +22,8 @@
   {
     "category": "Crypto",
     "headline": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787350287",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787350287",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787353960",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787353960",
     "article": {
       "title": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
       "url": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc",
@@ -31,7 +31,7 @@
       "source": "CoinTelegraph",
       "category": "Crypto",
       "tier": 10,
-      "fetched_at": "2026-08-21T22:11:16.181763+00:00",
+      "fetched_at": "2026-08-21T23:12:31.074424+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -42,8 +42,8 @@
   {
     "category": "Markets",
     "headline": "Lula Holds Lead Over Bolsonaro Six Weeks From Brazilian Election",
-    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1787350290",
-    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1787350290",
+    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1787353964",
+    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1787353964",
     "article": {
       "title": "Lula Holds Lead Over Bolsonaro Six Weeks From Brazilian Election",
       "url": "https://www.bloomberg.com/news/articles/2026-08-21/lula-holds-lead-over-bolsonaro-six-weeks-from-brazilian-election",
@@ -51,7 +51,7 @@
       "source": "Bloomberg Markets",
       "category": "Markets",
       "tier": 10,
-      "fetched_at": "2026-08-21T22:11:17.490255+00:00",
+      "fetched_at": "2026-08-21T23:12:31.816231+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -62,8 +62,8 @@
   {
     "category": "Markets",
     "headline": "Moderna, Merck Cancer Vax Gives Hope",
-    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1787350293",
-    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1787350293",
+    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1787353967",
+    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1787353967",
     "article": {
       "title": "Moderna, Merck Cancer Vax Gives Hope",
       "url": "https://www.bloomberg.com/news/videos/2026-08-21/moderna-merck-cancer-vax-gives-hope-video",
@@ -71,7 +71,7 @@
       "source": "Bloomberg Markets",
       "category": "Markets",
       "tier": 10,
-      "fetched_at": "2026-08-21T22:11:17.490309+00:00",
+      "fetched_at": "2026-08-21T23:12:31.816287+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -82,8 +82,8 @@
   {
     "category": "Crypto",
     "headline": "Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787350296",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787350296",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787353970",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787353970",
     "article": {
       "title": "Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital",
       "url": "https://bitcoinmagazine.com/news/pantera-capital-says-bitcoin-to-go-higher",
@@ -91,7 +91,7 @@
       "source": "Bitcoin Magazine",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-21T22:11:16.491383+00:00",
+      "fetched_at": "2026-08-21T23:12:31.281348+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -102,8 +102,8 @@
   {
     "category": "Crypto",
     "headline": "Legendary Investor Ray Dalio Touts Bitcoin \u2014 With Gold \u2014 To Hedge Against Incomi",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787350299",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787350299",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787353973",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787353973",
     "article": {
       "title": "Legendary Investor Ray Dalio Touts Bitcoin \u2014 With Gold \u2014 To Hedge Against Incoming Debt Crisis",
       "url": "https://bitcoinmagazine.com/news/ray-dalio-touts-bitcoin",
@@ -111,7 +111,7 @@
       "source": "Bitcoin Magazine",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-21T22:11:16.491458+00:00",
+      "fetched_at": "2026-08-21T23:12:31.281425+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -122,8 +122,8 @@
   {
     "category": "Crypto",
     "headline": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
-    "image_url": "https://loremflickr.com/1200/630/crypto%2Ctrading?lock=1787350302",
-    "image_fallback": "https://image.pollinations.ai/prompt/crypto%2Ctrading%20professional%20photo?width=800&height=600&nologo=true&seed=1787350302",
+    "image_url": "https://loremflickr.com/1200/630/crypto%2Ctrading?lock=1787353976",
+    "image_fallback": "https://image.pollinations.ai/prompt/crypto%2Ctrading%20professional%20photo?width=800&height=600&nologo=true&seed=1787353976",
     "article": {
       "title": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
       "url": "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit",
@@ -131,7 +131,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-21T22:11:16.635571+00:00",
+      "fetched_at": "2026-08-21T23:12:31.384620+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -142,8 +142,8 @@
   {
     "category": "Crypto",
     "headline": "Wall Street and Washington Fuel Bitcoin Rally: Here's What's Going On",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Cgold%2Ccoin?lock=1787350305",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Cgold%2Ccoin%20professional%20photo?width=800&height=600&nologo=true&seed=1787350305",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Cgold%2Ccoin?lock=1787353979",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Cgold%2Ccoin%20professional%20photo?width=800&height=600&nologo=true&seed=1787353979",
     "article": {
       "title": "Wall Street and Washington Fuel Bitcoin Rally: Here's What's Going On",
       "url": "https://decrypt.co/376244/wall-street-washington-bitcoin-rally",
@@ -151,7 +151,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-21T22:11:16.635628+00:00",
+      "fetched_at": "2026-08-21T23:12:31.384680+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -162,8 +162,8 @@
   {
     "category": "Crypto",
     "headline": "Grayscale moves closer to launching first Zcash ETF in US with fresh amended SEC",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787350309",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787350309",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787353982",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787353982",
     "article": {
       "title": "Grayscale moves closer to launching first Zcash ETF in US with fresh amended SEC filing",
       "url": "https://www.theblock.co/news/regulation/2026-08-21-grayscale-moves-closer-launching-first-zcash-etf-in-us-sec-amended-filing-412517",
@@ -171,7 +171,7 @@
       "source": "The Block",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-21T22:11:16.769104+00:00",
+      "fetched_at": "2026-08-21T23:12:31.455347+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -182,8 +182,8 @@
   {
     "category": "Crypto",
     "headline": "BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787350312",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787350312",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787353985",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787353985",
     "article": {
       "title": "BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
       "url": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485",
@@ -191,7 +191,7 @@
       "source": "The Block",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-21T22:11:16.769165+00:00",
+      "fetched_at": "2026-08-21T23:12:31.455408+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -202,8 +202,8 @@
   {
     "category": "Markets",
     "headline": "\u2018Betrayal\u2019: US ranchers lash out at Trump\u2019s plan to cut tax on beef imports",
-    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1787350315",
-    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1787350315",
+    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1787353989",
+    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1787353989",
     "article": {
       "title": "\u2018Betrayal\u2019: US ranchers lash out at Trump\u2019s plan to cut tax on beef imports",
       "url": "https://www.ft.com/content/7aabb591-ca73-4d87-96ad-dac9a210e1d0?syn-25a6b1a6=1",
@@ -211,7 +211,7 @@
       "source": "Financial Times",
       "category": "Markets",
       "tier": 9,
-      "fetched_at": "2026-08-21T22:11:18.578715+00:00",
+      "fetched_at": "2026-08-21T23:12:32.361767+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -222,8 +222,8 @@
   {
     "category": "Markets",
     "headline": "Natalie Harp, the devoted \u2018human printer\u2019 in Trump\u2019s entourage",
-    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1787350318",
-    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1787350318",
+    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1787353992",
+    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1787353992",
     "article": {
       "title": "Natalie Harp, the devoted \u2018human printer\u2019 in Trump\u2019s entourage",
       "url": "https://www.ft.com/content/0eb4e7ce-42e3-49af-ae27-645eb7676fad?syn-25a6b1a6=1",
@@ -231,7 +231,7 @@
       "source": "Financial Times",
       "category": "Markets",
       "tier": 9,
-      "fetched_at": "2026-08-21T22:11:18.578785+00:00",
+      "fetched_at": "2026-08-21T23:12:32.361838+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
