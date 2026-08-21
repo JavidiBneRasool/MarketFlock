@@ -1,39 +1,39 @@
 [
   {
+    "title": "Coldcard strengthens seed generation with firmware update",
+    "url": "https://cointelegraph.com/news/coldcard-upgrade-strengthen-seed-phrase-generation",
+    "summary": "Coinkite urged Coldcard users to generate new seed phrases, warning that existing vulnerable seeds remain unsafe despite the security upgrade.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-21T11:15:02.923312+00:00"
+  },
+  {
     "title": "Strategy Bitcoin treasury hits breakeven point as BTC price passes $77K",
     "url": "https://cointelegraph.com/markets/strategy-bitcoin-treasury-hits-breakeven-point-as-btc-price-passes-77k",
     "summary": "Bitcoin gains 20% in two days as Strategy sees its BTC treasury climb out of the red.\n",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-21T10:18:06.023266+00:00"
+    "fetched_at": "2026-08-21T11:15:02.923385+00:00"
   },
   {
-    "title": "Bitcoin ETFs draw $608M as Ether ETFs see largest inflow since October",
-    "url": "https://cointelegraph.com/markets/bitcoin-etfs-ether-etfs-largest-inflow-october",
-    "summary": "Bitcoin ETF inflows pushed August\u2019s total to a 2026 high of $2.07 billion as Bitcoin traded above $75,000 and Ether climbed to $2,357.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-21T10:18:06.023331+00:00"
-  },
-  {
-    "title": "Euro-Zone Business Activity Sees Surprise Improvement",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-21/euro-zone-business-activity-sees-surprise-improvement-video",
-    "summary": "Private-sector activity in the euro area unexpectedly improved slightly in August, thanks to the strongest manufacturing growth in more than four years. Bloomberg's Zoe Schneeweiss reports. (Source: Bloomberg)",
+    "title": "India\u2019s Nuclear Opening Comes With a High Security Bar",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-08-21/india-s-nuclear-opening-comes-with-a-high-security-bar",
+    "summary": "Investors seeking entry to the country\u2019s atomic power sector will likely face scrutiny in one area above all others \u2013 their ability to safeguard critical infrastructure.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-21T10:18:07.267329+00:00"
+    "fetched_at": "2026-08-21T11:15:03.703652+00:00"
   },
   {
-    "title": "RBI Deputy Gupta Sounds Upbeat on Economy, Sees 7% Growth",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-21/india-economic-growth-may-beat-rbi-s-6-7-forecast-gupta-says",
-    "summary": "India\u2019s economy may outperform the central bank\u2019s forecasts this financial year, according to Deputy Governor Poonam Gupta, as growth closer to 7% leaves policymakers watching for the need to raise borrowing costs if it further fans inflation.",
+    "title": "Post-Strike Movie Supply is Driving Theatre Demand, Vue Entertainment CEO says",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-21/vue-entertainment-ceo-on-movie-theatre-demand-video",
+    "summary": "Vue Entertainment CEO Tim Richards says the chain may see its strongest summer box office since the pandemic. \"What we are seeing this year is all the movies in the post-strike period now hitting out screens. But we are also seeing the studios and content-makers producing and releasing movies at unp",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-21T10:18:07.267373+00:00"
+    "fetched_at": "2026-08-21T11:15:03.703712+00:00"
   },
   {
     "title": "Bitcoin Could Attract More Buyers As Fast Money Is Washed Out, Says Lyn Alden",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-21T10:18:06.311675+00:00"
+    "fetched_at": "2026-08-21T11:15:03.246968+00:00"
   },
   {
     "title": "Open Source vs. Source-Available: What the Coldcard Failure Teaches About Bitcoin Software Incentives",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-21T10:18:06.311732+00:00"
+    "fetched_at": "2026-08-21T11:15:03.247038+00:00"
   },
   {
     "title": "Binance Opens the Door to AI Agents That Can Trade Crypto for You",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-21T10:18:06.426527+00:00"
+    "fetched_at": "2026-08-21T11:15:03.329929+00:00"
   },
   {
     "title": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-21T10:18:06.426579+00:00"
+    "fetched_at": "2026-08-21T11:15:03.329986+00:00"
+  },
+  {
+    "title": "Bitcoin surge toward $80K points to liquidity-driven momentum shift as ETF flows rebound: Bernstein",
+    "url": "https://www.theblock.co/news/markets/2026-08-21-bitcoin-surge-80k-liquidity-driven-momentum-shift-etf-flows-rebound-bernstein-412443",
+    "summary": "U.S. spot bitcoin ETF flows have also rebounded, while Strategy's bitcoin holdings are now back above their average purchase price.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-21T11:15:03.406033+00:00"
   },
   {
     "title": "Upbit trading volume spikes 273% as South Korean investors re-enter crypto",
@@ -78,16 +87,16 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-21T10:18:06.539044+00:00"
+    "fetched_at": "2026-08-21T11:15:03.406099+00:00"
   },
   {
-    "title": "Avalanche\u2019s Nahas: Token prices are down, but \u2018I\u2019ve never seen more opportunities\u2019 in crypto",
-    "url": "https://www.theblock.co/news/ecosystems/2026-08-21-avalanches-nahas-token-prices-are-down-but-ive-never-seen-more-opportunities-in-crypto-412431",
-    "summary": "Ava Labs CBO John Nahas says crypto prices are down, but real-world adoption is creating more opportunities across the sector.",
-    "source": "The Block",
-    "category": "Crypto",
+    "title": "Bitcoin and gold surge as Bessent\u2019s bond market intervention weighs on dollar",
+    "url": "https://www.ft.com/content/7e0c8dc0-e957-420a-bba3-d33666d919b8?syn-25a6b1a6=1",
+    "summary": "World\u2019s biggest cryptocurrency on track for best week in more than three years",
+    "source": "Financial Times",
+    "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-21T10:18:06.539101+00:00"
+    "fetched_at": "2026-08-21T11:15:04.161373+00:00"
   },
   {
     "title": "Scott Bessent takes on bond vigilantes in $32tn Treasury market",
@@ -96,15 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-21T10:18:08.038610+00:00"
-  },
-  {
-    "title": "What is Bessent doing \u2014 and will it work?",
-    "url": "https://www.ft.com/content/14b25583-c64d-4a97-9f6d-359908638e28?syn-25a6b1a6=1",
-    "summary": "US Treasury secretary has made a high-stakes bet he can beat back soaring borrowing costs",
-    "source": "Financial Times",
-    "category": "Markets",
-    "tier": 9,
-    "fetched_at": "2026-08-21T10:18:08.038660+00:00"
+    "fetched_at": "2026-08-21T11:15:04.161439+00:00"
   }
 ]
