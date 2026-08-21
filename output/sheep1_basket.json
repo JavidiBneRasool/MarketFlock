@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-21T17:17:44.986491+00:00"
+    "fetched_at": "2026-08-21T18:19:26.430469+00:00"
   },
   {
     "title": "Bitcoin rally sends crypto stocks soaring as miners, treasury companies jump",
@@ -15,16 +15,16 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-21T17:17:44.986541+00:00"
+    "fetched_at": "2026-08-21T18:19:26.430556+00:00"
   },
   {
-    "title": "What to Look Out for at the Fed\u2019s Jackson Hole Gathering",
-    "url": "https://www.bloomberg.com/news/newsletters/2026-08-21/what-to-look-out-for-at-the-fed-s-jackson-hole-gathering",
-    "summary": "On course for one of the most interesting symposiums in recent years.",
+    "title": "Allspring\u2019s Miletti Sees Jackson Hole as Bigger Risk Than Nvidia",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-21/allspring-s-miletti-sees-jackson-hole-as-bigger-risk-than-nvidia",
+    "summary": "Allspring Global Investments\u2019 Ann Miletti said Wall Street has more to worry about from next week\u2019s Jackson Hole economic symposium than earnings from AI bellwether Nvidia Corp.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-21T17:17:46.235292+00:00"
+    "fetched_at": "2026-08-21T18:19:27.575552+00:00"
   },
   {
     "title": "Stocks Bounce at End of Wild Week as Bitcoin Jumps: Markets Wrap",
@@ -33,7 +33,16 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-21T17:17:46.235338+00:00"
+    "fetched_at": "2026-08-21T18:19:27.575610+00:00"
+  },
+  {
+    "title": "Bitcoin Has Its Best Week Since 2023 as Shortsellers Continue To Get Wiped Out",
+    "url": "https://bitcoinmagazine.com/markets/bitcoin-has-best-week-since-2023",
+    "summary": "Bitcoin Magazine\n\nBitcoin Has Its Best Week Since 2023 as Shortsellers Continue To Get Wiped Out\nBitcoin's price continues to rise and those betting on it to fall are suffering. \nThis post Bitcoin Has Its Best Week Since 2023 as Shortsellers Continue To Get Wiped Out first appeared on Bitcoin Magazi",
+    "source": "Bitcoin Magazine",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-21T18:19:26.798814+00:00"
   },
   {
     "title": "Pakistan\u2019s Crypto Pitch: \u201cCome Build Here\u201d as Virtual Assets Act Moves Forward",
@@ -42,52 +51,43 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-21T17:17:45.295501+00:00"
+    "fetched_at": "2026-08-21T18:19:26.798882+00:00"
   },
   {
-    "title": "Bitcoin Price Roars Towards $80,000 Following Positive Regulatory News, US Buyback Pledge",
-    "url": "https://bitcoinmagazine.com/news/bitcoin-surges-towards-80000",
-    "summary": "Bitcoin Magazine\n\nBitcoin Price Roars Towards $80,000 Following Positive Regulatory News, US Buyback Pledge\nBitcoin has continued its rocket upwards, and blew past $79,000 on Friday. \nThis post Bitcoin Price Roars Towards $80,000 Following Positive Regulatory News, US Buyback Pledge first appeared o",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-21T17:17:45.295545+00:00"
-  },
-  {
-    "title": "Bitcoin ETFs Just Had Their Biggest Day Since May\u2014BlackRock Took 83% of It",
-    "url": "https://decrypt.co/376211/bitcoin-etfs-biggest-day-since-may",
-    "summary": "U.S. spot Bitcoin ETFs pulled in $606 million Thursday, the biggest haul since May. And altcoin funds finally showed up too.",
+    "title": "Washington Goes All-In on Crypto: Trump Pushes Clarity, SEC Rules, and CFTC Warnings",
+    "url": "https://decrypt.co/376204/washington-crypto-trump-clarity-sec-rules-cftc-warnings",
+    "summary": "Trump urged executives to pass a \"fair version\" of the Clarity Act, the CFTC warned it would write its own rules if the bill stalls, and the SEC abruptly advanced its first crypto fundraising framework.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-21T17:17:45.428620+00:00"
+    "fetched_at": "2026-08-21T18:19:26.922656+00:00"
   },
   {
-    "title": "XRP Erases Its Most Bearish Signal\u2014And the Ripple-Linked Coin Is Flying",
-    "url": "https://decrypt.co/376186/xrp-price-erases-death-cross",
-    "summary": "The token spent all August trapped under a bearish crossover. Today it closed above both moving averages for the first time since the pattern formed.",
+    "title": "Strategy Swings From $13 Billion Bitcoin Loss to $1.4 Billion Profit as BTC Rallies",
+    "url": "https://decrypt.co/376230/strategy-profit-bitcoin-holdings-btc-rallies",
+    "summary": "The Bitcoin treasury giant is sitting on roughly $1.4 billion in unrealized gains after Bitcoin climbed above its average acquisition price.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-21T17:17:45.428658+00:00"
+    "fetched_at": "2026-08-21T18:19:26.922716+00:00"
   },
   {
-    "title": "Strategy shares hit two-month high as STRC rebounds toward $100 alongside bitcoin",
-    "url": "https://www.theblock.co/news/markets/2026-08-21-strategy-shares-hit-two-month-high-strc-rebounds-toward-100-alongside-bitcoin-412467",
-    "summary": "Amid a two-month puase on BTC buys, Strategy shares (MSTR) rallied alongside bitcoin as STRC continued its recovery toward its $100 target.",
+    "title": "BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
+    "url": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485",
+    "summary": "The attacker transferred approximately 286.5 million BB from nine wallets before block production was eventually halted.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-21T17:17:45.525171+00:00"
+    "fetched_at": "2026-08-21T18:19:27.029056+00:00"
   },
   {
-    "title": "AI adoption in crypto crime rose 40% over the past year, TRM Labs says",
-    "url": "https://www.theblock.co/news/web3/2026-08-21-ai-adoption-in-crypto-crime-trm-412297",
-    "summary": "Crypto hackers are quickly picking up on AI developments to discover overlooked vulnerabilities and infiltrate IT firms, the report said.",
+    "title": "XRP leads broad altcoin rally as bitcoin\u2019s biggest weekly gain in two years lifts crypto",
+    "url": "https://www.theblock.co/news/markets/2026-08-21-xrp-leads-altcoin-rally-bitcoin-biggest-weekly-gain-in-two-years-lifts-crypto-412483",
+    "summary": "Amid this week's crypto rally, HYPE is up nearly 40%, while other altcoins such as XRP, ZEC and LINK have risen over 30%.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-21T17:17:45.525210+00:00"
+    "fetched_at": "2026-08-21T18:19:27.029120+00:00"
   },
   {
     "title": "Citadel offloads 80% of portfolio scooped up from Situational Awareness",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-21T17:17:47.270366+00:00"
+    "fetched_at": "2026-08-21T18:19:28.195958+00:00"
   },
   {
     "title": "What is Jane Street?",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-21T17:17:47.270403+00:00"
+    "fetched_at": "2026-08-21T18:19:28.196009+00:00"
   }
 ]
