@@ -1,39 +1,39 @@
 [
   {
+    "title": "MANTRA token sinks 18% to record low amid blockchain halt",
+    "url": "https://cointelegraph.com/markets/mantra-token-record-low-blockchain-halt",
+    "summary": "The token recovered to about $0.0044 after setting a new low, while exchanges paused deposits and withdrawals from the halted MANTRA Chain.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-21T05:21:47.053812+00:00"
+  },
+  {
     "title": "Capital.com plans UAE spot crypto services after affiliate wins licence",
     "url": "https://cointelegraph.com/news/capital-com-uae-spot-crypto-license",
     "summary": "UAE clients will be able to buy and hold crypto through Capital.com\u2019s app, expanding beyond price exposure through contracts for difference.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-21T04:26:48.895781+00:00"
+    "fetched_at": "2026-08-21T05:21:47.053890+00:00"
   },
   {
-    "title": "Bitcoin breaks above 200-day moving average for first time since November",
-    "url": "https://cointelegraph.com/markets/bitcoin-breaks-200-day-moving-average",
-    "summary": "The BTC price reclaimed its 200-day moving average for the first time in nine months as its rally gained momentum after the US Treasury expanded its bond buybacks.\n",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-21T04:26:48.895856+00:00"
-  },
-  {
-    "title": "Latest Oil Market News and Analysis for Aug. 21",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-20/latest-oil-market-news-and-analysis-for-aug-21",
-    "summary": "Oil headed for a substantial weekly gain, as a US push to isolate Iran\u2019s economy raised the specter of further market disruption.",
+    "title": "Australia\u2019s NAB Cuts Banker Jobs in Institutional Division",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-21/australia-s-nab-cuts-banker-jobs-in-institutional-division",
+    "summary": "National Australia Bank Ltd. is cutting jobs in its corporate and institutional division as it reorganizes some roles, according to people familiar with the matter.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-21T04:26:49.871254+00:00"
+    "fetched_at": "2026-08-21T05:21:48.015148+00:00"
   },
   {
-    "title": "Asian Bonds Follow Treasuries Lower, Stocks Rise: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-20/stock-market-today-dow-s-p-live-updates",
-    "summary": "Asian bonds declined and the dollar remained under pressure after a rally in Treasuries faded, with investors betting that US efforts to contain long-term borrowing costs through buybacks may offer only a temporary reprieve.",
+    "title": "WuXi AppTec Becomes Top Short Target as 80% Rally Draws Skeptics",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-21/wuxi-apptec-becomes-top-short-target-as-80-rally-draws-skeptics",
+    "summary": "Chinese biotech firm WuXi AppTec Co. has been one of the market\u2019s hottest stocks this year, but its rally is starting to attract a growing group of skeptics.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-21T04:26:49.871326+00:00"
+    "fetched_at": "2026-08-21T05:21:48.015208+00:00"
   },
   {
     "title": "Bitcoin Could Attract More Buyers As Fast Money Is Washed Out, Says Lyn Alden",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-21T04:26:49.251327+00:00"
+    "fetched_at": "2026-08-21T05:21:47.329306+00:00"
   },
   {
     "title": "Open Source vs. Source-Available: What the Coldcard Failure Teaches About Bitcoin Software Incentives",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-21T04:26:49.251398+00:00"
+    "fetched_at": "2026-08-21T05:21:47.329376+00:00"
   },
   {
     "title": "Tensions Flare as CME, Kalshi Execs Clash Over Prediction Markets in DC",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-21T04:26:49.352790+00:00"
+    "fetched_at": "2026-08-21T05:21:47.437010+00:00"
   },
   {
     "title": "What's Next for Bitcoin After Historic Rally? Experts Weigh In",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-21T04:26:49.352848+00:00"
+    "fetched_at": "2026-08-21T05:21:47.437067+00:00"
+  },
+  {
+    "title": "MANTRA freezes all transactions and network following unspecified incident",
+    "url": "https://www.theblock.co/news/defi/2026-08-21-mantra-freezes-network-412416",
+    "summary": "MANTRA Chain has halted the network and all transactions after discovering an incident, the nature of which remains undisclosed.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-21T05:21:47.527119+00:00"
   },
   {
     "title": "Bitcoin breaks through $75,500 while analyst calls current rally \u2018premature\u2019",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-21T04:26:49.453805+00:00"
-  },
-  {
-    "title": "CME CEO Terrence Duffy trades barbs with CFTC\u2019s Selig and Kalshi\u2019s COO over prediction market oversight",
-    "url": "https://www.theblock.co/news/regulation/2026-08-20-cme-ceo-terrence-duffy-trades-barbs-with-cftcs-selig-and-kalshis-coo-over-prediction-market-oversight-412397",
-    "summary": "A CFTC ommittee meeting exposed a sharp divide between the worlds of traditional finance and prediction market platforms.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-21T04:26:49.453879+00:00"
+    "fetched_at": "2026-08-21T05:21:47.527181+00:00"
   },
   {
     "title": "Scott Bessent takes on bond vigilantes in $32tn Treasury market",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-21T04:26:50.393854+00:00"
+    "fetched_at": "2026-08-21T05:21:48.550145+00:00"
   },
   {
     "title": "What is Bessent doing with the $32tn Treasury market \u2014 and will it work?",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-21T04:26:50.393925+00:00"
+    "fetched_at": "2026-08-21T05:21:48.550216+00:00"
   }
 ]
