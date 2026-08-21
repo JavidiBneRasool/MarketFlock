@@ -1,48 +1,48 @@
 [
   {
+    "title": "Solana cuts blockchain slot time to 350 milliseconds",
+    "url": "https://cointelegraph.com/news/solana-cuts-blockchain-slot-time-350-milliseconds",
+    "summary": "Solana reduced its slot time for the first time since genesis as it works toward a 200-millisecond target aimed at reducing network latency.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-21T14:22:29.870681+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "Laser Digital gets Japan\u2019s first crypto exchange approval in 4 years",
     "url": "https://cointelegraph.com/news/nomuras-laser-digital-japans-first-crypto-exchange-4-years",
     "summary": "Nomura-backed Laser Digital Japan received registration to provide domestic liquidity before expanding into institutional crypto trading.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-21T13:36:18.228824+00:00",
+    "fetched_at": "2026-08-21T14:22:29.870760+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Binance says employees questioned in UAE cleared and released",
-    "url": "https://cointelegraph.com/news/binance-employees-questioned-uae-released",
-    "summary": "Binance\u2019s employees were cleared and released after providing statements to UAE authorities about third-party fund flows through a company client account, a spokesperson told Cointelegraph.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-21T13:36:18.228895+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Nasdaq 100 Halts Five-Day Slump as Bitcoin Rallies: Markets Wrap",
+    "title": "Stocks Rise as Bonds Stabilize at End of Wild Week: Markets Wrap",
     "url": "https://www.bloomberg.com/news/articles/2026-08-20/stock-market-today-dow-s-p-live-updates",
     "summary": "Wall Street is ending a jittery week with stocks rising as bonds stabilized, with the revival of risk appetite extending a surge in cryptocurrencies.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-21T13:36:19.319767+00:00",
+    "fetched_at": "2026-08-21T14:22:46.021557+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "US Stocks Gain as Nasdaq 100 Looks to Snap Five-Day Slump",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-21/us-stock-futures-gain-as-nasdaq-100-looks-to-snap-five-day-slump",
-    "summary": "US stocks rose in early trading Friday, putting the Nasdaq 100 on track to end a five-day losing streak as bond yields stabilize and Bitcoin soars.",
+    "title": "Euro Could Go Lower From Here, Yu Says",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-21/euro-could-go-lower-from-here-yu-says-video",
+    "summary": "Geoffrey Yu, BNY senior market strategist, says he expects the momentum for European equities to continue from here, but he says the Euro could go lower. He speaks on \"Bloomberg Surveillance.\" (Source: Bloomberg)",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-21T13:36:19.319821+00:00",
+    "fetched_at": "2026-08-21T14:22:46.021611+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-21T13:36:18.507212+00:00",
+    "fetched_at": "2026-08-21T14:22:30.165852+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-21T13:36:18.507277+00:00",
+    "fetched_at": "2026-08-21T14:22:30.165924+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-21T13:36:18.637151+00:00",
+    "fetched_at": "2026-08-21T14:22:30.325020+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-21T13:36:18.637207+00:00",
+    "fetched_at": "2026-08-21T14:22:30.325076+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-21T13:36:18.760081+00:00",
+    "fetched_at": "2026-08-21T14:22:45.519026+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-21T13:36:18.760168+00:00",
+    "fetched_at": "2026-08-21T14:22:45.519098+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-21T13:36:20.126808+00:00",
+    "fetched_at": "2026-08-21T14:22:46.979708+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-21T13:36:20.126877+00:00",
+    "fetched_at": "2026-08-21T14:22:46.979775+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
