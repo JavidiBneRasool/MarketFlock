@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-22T05:15:48.057085+00:00"
+    "fetched_at": "2026-08-22T06:18:21.110469+00:00"
   },
   {
     "title": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
@@ -15,7 +15,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-22T05:15:48.057148+00:00"
+    "fetched_at": "2026-08-22T06:18:21.110551+00:00"
   },
   {
     "title": "Mexico Optimistic it Can Achieve Lower US Tariffs on Cars, Steel",
@@ -24,7 +24,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-22T05:17:31.185810+00:00"
+    "fetched_at": "2026-08-22T06:18:21.848343+00:00"
   },
   {
     "title": "Wall Street Week | AI Hits Wages, USMCA Under Pressure, Colorado River Crisis",
@@ -33,7 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-22T05:17:31.185865+00:00"
+    "fetched_at": "2026-08-22T06:18:21.848407+00:00"
   },
   {
     "title": "Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T05:15:48.370334+00:00"
+    "fetched_at": "2026-08-22T06:18:21.430892+00:00"
   },
   {
     "title": "Legendary Investor Ray Dalio Touts Bitcoin \u2014 With Gold \u2014 To Hedge Against Incoming Debt Crisis",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T05:15:48.370397+00:00"
+    "fetched_at": "2026-08-22T06:18:21.430963+00:00"
   },
   {
     "title": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T05:15:48.497414+00:00"
+    "fetched_at": "2026-08-22T06:18:21.517347+00:00"
   },
   {
     "title": "Wall Street and Washington Fuel Bitcoin Rally: Here's What's Going On",
@@ -69,7 +69,25 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T05:15:48.497461+00:00"
+    "fetched_at": "2026-08-22T06:18:21.517405+00:00"
+  },
+  {
+    "title": "Grayscale moves closer to launching first Zcash ETF in US with fresh amended SEC filing",
+    "url": "https://www.theblock.co/news/regulation/2026-08-21-grayscale-moves-closer-launching-first-zcash-etf-in-us-sec-amended-filing-412517",
+    "summary": "Grayscale is inching closer to launching its Zcash ETF, filing another amendment with the Securities and Exchange Commission on Friday.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-22T06:18:21.602994+00:00"
+  },
+  {
+    "title": "BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
+    "url": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485",
+    "summary": "The attacker transferred approximately 286.5 million BB from nine wallets before block production was eventually halted.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-22T06:18:21.603052+00:00"
   },
   {
     "title": "The Trump economy: $40tn debt, 6.7% mortgages and $5 diesel",
@@ -78,33 +96,15 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-22T05:17:32.060696+00:00"
+    "fetched_at": "2026-08-22T06:18:22.292125+00:00"
   },
   {
-    "title": "Canada vows to match US tariffs as trade talks collapse",
-    "url": "https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1",
-    "summary": "Mark Carney rejects \u2018unfair\u2019 deal as top Washington envoy criticises \u2018missed opportunity\u2019",
+    "title": "Who counts in Trump\u2019s America?",
+    "url": "https://www.ft.com/content/7c9cd212-58c6-44e1-b515-022271e4390d?syn-25a6b1a6=1",
+    "summary": "Gillian Tett on the president\u2019s bid to reform the 10-year census, and the explosive politics behind who gets included and who gets to decide",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-22T05:17:32.060750+00:00"
-  },
-  {
-    "title": "You can now Venmo your kid\u2019s college tuition. But should you?",
-    "url": "https://www.marketwatch.com/story/should-you-venmo-your-tuition-heres-what-to-know-as-colleges-add-new-payment-options-1a70ae96?mod=mw_rss_topstories",
-    "summary": "Some universities will begin accepting the nontraditional payment method as consumers seek flexible spending options.",
-    "source": "MarketWatch",
-    "category": "Stocks",
-    "tier": 9,
-    "fetched_at": "2026-08-22T05:17:32.395696+00:00"
-  },
-  {
-    "title": "Soon you can buy Medicare Advantage plans at Costco. What you need to know.",
-    "url": "https://www.marketwatch.com/story/soon-you-can-buy-medicare-advantage-plans-at-costco-what-you-need-to-know-34e03242?mod=mw_rss_topstories",
-    "summary": "The warehouse club becomes the latest consumer brand to offer health insurance.",
-    "source": "MarketWatch",
-    "category": "Stocks",
-    "tier": 9,
-    "fetched_at": "2026-08-22T05:17:32.395752+00:00"
+    "fetched_at": "2026-08-22T06:18:22.292189+00:00"
   }
 ]
