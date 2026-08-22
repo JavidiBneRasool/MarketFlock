@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-22T19:13:56.220142+00:00"
+    "fetched_at": "2026-08-22T20:09:23.571405+00:00"
   },
   {
     "title": "Here\u2019s what happened in crypto today",
@@ -15,7 +15,16 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-22T19:13:56.220214+00:00"
+    "fetched_at": "2026-08-22T20:09:23.571482+00:00"
+  },
+  {
+    "title": "Bloomberg Previews Jackson Hole Symposium",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-22/bloomberg-previews-jackson-hole-symposium-video",
+    "summary": "Bloomberg's Joe Weisenthal, Lisa Abramowicz, Tracy Alloway and Tom Keene preview the Jackson Hole Symposium as all eyes will be on Fed Chairman Kevin Marsh and his first annual symposium address. (Source: Bloomberg)",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-08-22T20:09:24.482219+00:00"
   },
   {
     "title": "Juicy Yields Draw Junk Bond Buyers to Investment-Grade AI Debt",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-22T19:13:57.231361+00:00"
-  },
-  {
-    "title": "Bloomberg This Weekend 8/22/2026",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-22/bloomberg-this-weekend-8-22-2026-video",
-    "summary": "The news doesn\u2019t stop when markets close. Hosts David Gura, Christina Ruffini and Alexis Christoforous bring clarity, context and a bit of humor to the weekend\u2019s biggest headlines, LIVE from New York. Joined by Former MI6 Chief Sir Richard Dearlove, American Whiskey Association President & CEO Micha",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-22T19:13:57.231413+00:00"
+    "fetched_at": "2026-08-22T20:09:24.482279+00:00"
   },
   {
     "title": "Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T19:13:56.446411+00:00"
+    "fetched_at": "2026-08-22T20:09:23.840095+00:00"
   },
   {
     "title": "Legendary Investor Ray Dalio Touts Bitcoin \u2014 With Gold \u2014 To Hedge Against Incoming Debt Crisis",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T19:13:56.446485+00:00"
+    "fetched_at": "2026-08-22T20:09:23.840183+00:00"
   },
   {
     "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T19:13:56.531454+00:00"
+    "fetched_at": "2026-08-22T20:09:23.920393+00:00"
   },
   {
     "title": "AI Has Made Bitcoin Software a Target\u2014This Group Is Fighting Back",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T19:13:56.531512+00:00"
+    "fetched_at": "2026-08-22T20:09:23.920456+00:00"
+  },
+  {
+    "title": "Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume",
+    "url": "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531",
+    "summary": "Combined ETF weekly trading volume more than tripled to $29 billion as bitcoin and ether prices rallied, though both categories are negative on the year.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-22T20:09:23.990913+00:00"
   },
   {
     "title": "Zcash hits eight-year high near $850 with futures volume near $10 billion amid Grayscale ETF push",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T19:13:56.592175+00:00"
-  },
-  {
-    "title": "Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
-    "url": "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521",
-    "summary": "The change should lead to faster transaction confirmations but is not designed to increase the overall throughput of the network.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-22T19:13:56.592233+00:00"
+    "fetched_at": "2026-08-22T20:09:23.990980+00:00"
   },
   {
     "title": "Mark Carney says Canada is now \u2018at war\u2019 with US over trade",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-22T19:13:57.730359+00:00"
+    "fetched_at": "2026-08-22T20:09:25.663850+00:00"
   },
   {
     "title": "Who counts in Trump\u2019s America?",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-22T19:13:57.730420+00:00"
+    "fetched_at": "2026-08-22T20:09:25.663925+00:00"
   }
 ]
