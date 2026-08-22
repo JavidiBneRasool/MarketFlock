@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-22T07:21:39.963377+00:00",
+    "fetched_at": "2026-08-22T08:15:24.429678+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,7 +18,19 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-22T07:21:39.963483+00:00",
+    "fetched_at": "2026-08-22T08:15:24.429758+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Vingroup Among Vietnam Stocks to Debut on FTSE\u2019s EM Index",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-21/vingroup-among-vietnam-stocks-to-make-debut-on-ftse-s-em-index",
+    "summary": "Vingroup JSC is among over 100 Vietnamese companies added to FTSE Russell\u2019s Global Equity Indexes late Friday, marking a key step in the country\u2019s long-awaited transition from frontier to secondary emerging market status.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-08-22T08:15:25.586963+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,19 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-22T07:21:40.777783+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Wall Street Week | AI Hits Wages, USMCA Under Pressure, Colorado River Crisis",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-21/wall-street-week-ai-hits-wages-colorado-river-crisis-video",
-    "summary": "This week, Former IBM CEO Sam Palmisano discusses why companies may benefit from having a \u201cPlan B\u201d for AI implementation. And, AI may not be causing mass layoffs yet, but early data suggest it is already slowing wage growth in exposed occupations.\nPlus, Canada may have dodged Trump\u2019s newest tariffs,",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-22T07:21:40.777842+00:00",
+    "fetched_at": "2026-08-22T08:15:25.587024+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T07:21:40.238841+00:00",
+    "fetched_at": "2026-08-22T08:15:24.616921+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T07:21:40.238918+00:00",
+    "fetched_at": "2026-08-22T08:15:24.616999+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T07:21:40.330978+00:00",
+    "fetched_at": "2026-08-22T08:15:24.738348+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T07:21:40.331040+00:00",
+    "fetched_at": "2026-08-22T08:15:24.738405+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T07:21:40.418680+00:00",
+    "fetched_at": "2026-08-22T08:15:24.864954+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T07:21:40.418744+00:00",
+    "fetched_at": "2026-08-22T08:15:24.865017+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-22T07:21:41.377476+00:00",
+    "fetched_at": "2026-08-22T08:15:26.287611+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-22T07:21:41.377531+00:00",
+    "fetched_at": "2026-08-22T08:15:26.287667+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"

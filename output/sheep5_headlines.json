@@ -2,8 +2,8 @@
   {
     "category": "Crypto",
     "headline": "Here\u2019s what happened in crypto today",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787383306",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787383306",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787386532",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787386532",
     "article": {
       "title": "Here\u2019s what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
@@ -11,7 +11,7 @@
       "source": "CoinTelegraph",
       "category": "Crypto",
       "tier": 10,
-      "fetched_at": "2026-08-22T07:21:39.963377+00:00",
+      "fetched_at": "2026-08-22T08:15:24.429678+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -22,8 +22,8 @@
   {
     "category": "Crypto",
     "headline": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787383309",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787383309",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787386535",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787386535",
     "article": {
       "title": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
       "url": "https://cointelegraph.com/markets/bitget-ceo-sees-bitcoin-near-current-levels-at-year-end-doubts-us-will-buy-btc",
@@ -31,7 +31,27 @@
       "source": "CoinTelegraph",
       "category": "Crypto",
       "tier": 10,
-      "fetched_at": "2026-08-22T07:21:39.963483+00:00",
+      "fetched_at": "2026-08-22T08:15:24.429758+00:00",
+      "credibility": "REVIEW",
+      "score": 6,
+      "verdict": "WARNING",
+      "decision": "PASS",
+      "flags": []
+    }
+  },
+  {
+    "category": "Markets",
+    "headline": "Vingroup Among Vietnam Stocks to Debut on FTSE\u2019s EM Index",
+    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1787386538",
+    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1787386538",
+    "article": {
+      "title": "Vingroup Among Vietnam Stocks to Debut on FTSE\u2019s EM Index",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/vingroup-among-vietnam-stocks-to-make-debut-on-ftse-s-em-index",
+      "summary": "Vingroup JSC is among over 100 Vietnamese companies added to FTSE Russell\u2019s Global Equity Indexes late Friday, marking a key step in the country\u2019s long-awaited transition from frontier to secondary emerging market status.",
+      "source": "Bloomberg Markets",
+      "category": "Markets",
+      "tier": 10,
+      "fetched_at": "2026-08-22T08:15:25.586963+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -42,8 +62,8 @@
   {
     "category": "Markets",
     "headline": "Mexico Optimistic it Can Achieve Lower US Tariffs on Cars, Steel",
-    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1787383312",
-    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1787383312",
+    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1787386541",
+    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1787386541",
     "article": {
       "title": "Mexico Optimistic it Can Achieve Lower US Tariffs on Cars, Steel",
       "url": "https://www.bloomberg.com/news/articles/2026-08-22/mexico-optimistic-it-can-achieve-lower-us-tariffs-on-cars-steel",
@@ -51,27 +71,7 @@
       "source": "Bloomberg Markets",
       "category": "Markets",
       "tier": 10,
-      "fetched_at": "2026-08-22T07:21:40.777783+00:00",
-      "credibility": "REVIEW",
-      "score": 6,
-      "verdict": "WARNING",
-      "decision": "PASS",
-      "flags": []
-    }
-  },
-  {
-    "category": "Markets",
-    "headline": "Wall Street Week | AI Hits Wages, USMCA Under Pressure, Colorado River Crisis",
-    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1787383315",
-    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1787383315",
-    "article": {
-      "title": "Wall Street Week | AI Hits Wages, USMCA Under Pressure, Colorado River Crisis",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-21/wall-street-week-ai-hits-wages-colorado-river-crisis-video",
-      "summary": "This week, Former IBM CEO Sam Palmisano discusses why companies may benefit from having a \u201cPlan B\u201d for AI implementation. And, AI may not be causing mass layoffs yet, but early data suggest it is already slowing wage growth in exposed occupations.\nPlus, Canada may have dodged Trump\u2019s newest tariffs,",
-      "source": "Bloomberg Markets",
-      "category": "Markets",
-      "tier": 10,
-      "fetched_at": "2026-08-22T07:21:40.777842+00:00",
+      "fetched_at": "2026-08-22T08:15:25.587024+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -82,8 +82,8 @@
   {
     "category": "Crypto",
     "headline": "Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787383318",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787383318",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787386544",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787386544",
     "article": {
       "title": "Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital",
       "url": "https://bitcoinmagazine.com/news/pantera-capital-says-bitcoin-to-go-higher",
@@ -91,7 +91,7 @@
       "source": "Bitcoin Magazine",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-22T07:21:40.238841+00:00",
+      "fetched_at": "2026-08-22T08:15:24.616921+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -102,8 +102,8 @@
   {
     "category": "Crypto",
     "headline": "Legendary Investor Ray Dalio Touts Bitcoin \u2014 With Gold \u2014 To Hedge Against Incomi",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787383321",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787383321",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787386548",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787386548",
     "article": {
       "title": "Legendary Investor Ray Dalio Touts Bitcoin \u2014 With Gold \u2014 To Hedge Against Incoming Debt Crisis",
       "url": "https://bitcoinmagazine.com/news/ray-dalio-touts-bitcoin",
@@ -111,7 +111,7 @@
       "source": "Bitcoin Magazine",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-22T07:21:40.238918+00:00",
+      "fetched_at": "2026-08-22T08:15:24.616999+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -122,8 +122,8 @@
   {
     "category": "Crypto",
     "headline": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
-    "image_url": "https://loremflickr.com/1200/630/crypto%2Ctrading?lock=1787383325",
-    "image_fallback": "https://image.pollinations.ai/prompt/crypto%2Ctrading%20professional%20photo?width=800&height=600&nologo=true&seed=1787383325",
+    "image_url": "https://loremflickr.com/1200/630/crypto%2Ctrading?lock=1787386551",
+    "image_fallback": "https://image.pollinations.ai/prompt/crypto%2Ctrading%20professional%20photo?width=800&height=600&nologo=true&seed=1787386551",
     "article": {
       "title": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
       "url": "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit",
@@ -131,7 +131,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-22T07:21:40.330978+00:00",
+      "fetched_at": "2026-08-22T08:15:24.738348+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -142,8 +142,8 @@
   {
     "category": "Crypto",
     "headline": "Wall Street and Washington Fuel Bitcoin Rally: Here's What's Going On",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Cgold%2Ccoin?lock=1787383328",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Cgold%2Ccoin%20professional%20photo?width=800&height=600&nologo=true&seed=1787383328",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Cgold%2Ccoin?lock=1787386554",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Cgold%2Ccoin%20professional%20photo?width=800&height=600&nologo=true&seed=1787386554",
     "article": {
       "title": "Wall Street and Washington Fuel Bitcoin Rally: Here's What's Going On",
       "url": "https://decrypt.co/376244/wall-street-washington-bitcoin-rally",
@@ -151,7 +151,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-22T07:21:40.331040+00:00",
+      "fetched_at": "2026-08-22T08:15:24.738405+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -162,8 +162,8 @@
   {
     "category": "Crypto",
     "headline": "Grayscale moves closer to launching first Zcash ETF in US with fresh amended SEC",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787383331",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787383331",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787386557",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787386557",
     "article": {
       "title": "Grayscale moves closer to launching first Zcash ETF in US with fresh amended SEC filing",
       "url": "https://www.theblock.co/news/regulation/2026-08-21-grayscale-moves-closer-launching-first-zcash-etf-in-us-sec-amended-filing-412517",
@@ -171,7 +171,7 @@
       "source": "The Block",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-22T07:21:40.418680+00:00",
+      "fetched_at": "2026-08-22T08:15:24.864954+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -182,8 +182,8 @@
   {
     "category": "Crypto",
     "headline": "BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787383334",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787383334",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787386560",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787386560",
     "article": {
       "title": "BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
       "url": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485",
@@ -191,7 +191,7 @@
       "source": "The Block",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-22T07:21:40.418744+00:00",
+      "fetched_at": "2026-08-22T08:15:24.865017+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -202,8 +202,8 @@
   {
     "category": "Markets",
     "headline": "Trump\u2019s challenge: $40tn debt, 6.7% mortgages and $5 diesel",
-    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1787383337",
-    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1787383337",
+    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1787386563",
+    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1787386563",
     "article": {
       "title": "Trump\u2019s challenge: $40tn debt, 6.7% mortgages and $5 diesel",
       "url": "https://www.ft.com/content/6cb399fa-9fba-4806-98a3-9572fe319622?syn-25a6b1a6=1",
@@ -211,7 +211,7 @@
       "source": "Financial Times",
       "category": "Markets",
       "tier": 9,
-      "fetched_at": "2026-08-22T07:21:41.377476+00:00",
+      "fetched_at": "2026-08-22T08:15:26.287611+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -222,8 +222,8 @@
   {
     "category": "Markets",
     "headline": "The bond scare and the balance of power",
-    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1787383340",
-    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1787383340",
+    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1787386566",
+    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1787386566",
     "article": {
       "title": "The bond scare and the balance of power",
       "url": "https://www.ft.com/content/5b459fd3-8170-4c43-8db3-3f76d4ab891d",
@@ -231,7 +231,7 @@
       "source": "Financial Times",
       "category": "Markets",
       "tier": 9,
-      "fetched_at": "2026-08-22T07:21:41.377531+00:00",
+      "fetched_at": "2026-08-22T08:15:26.287667+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
