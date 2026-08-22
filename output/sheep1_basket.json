@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-22T03:32:25.081154+00:00"
+    "fetched_at": "2026-08-22T04:20:27.748400+00:00"
   },
   {
     "title": "Bitget CEO sees Bitcoin near current levels at year-end, doubts US will buy BTC",
@@ -15,7 +15,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-22T03:32:25.081233+00:00"
+    "fetched_at": "2026-08-22T04:20:27.748474+00:00"
   },
   {
     "title": "Mexico Optimistic it Can Achieve Lower US Tariffs on Cars, Steel",
@@ -24,7 +24,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-22T03:33:46.458413+00:00"
+    "fetched_at": "2026-08-22T04:20:28.999539+00:00"
   },
   {
     "title": "Wall Street Week | AI Hits Wages, USMCA Under Pressure, Colorado River Crisis",
@@ -33,7 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-22T03:33:46.458473+00:00"
+    "fetched_at": "2026-08-22T04:20:28.999597+00:00"
   },
   {
     "title": "Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T03:32:25.442043+00:00"
+    "fetched_at": "2026-08-22T04:20:28.141183+00:00"
   },
   {
     "title": "Legendary Investor Ray Dalio Touts Bitcoin \u2014 With Gold \u2014 To Hedge Against Incoming Debt Crisis",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T03:32:25.442115+00:00"
+    "fetched_at": "2026-08-22T04:20:28.141253+00:00"
   },
   {
     "title": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T03:32:25.569730+00:00"
+    "fetched_at": "2026-08-22T04:20:28.293434+00:00"
   },
   {
     "title": "Wall Street and Washington Fuel Bitcoin Rally: Here's What's Going On",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T03:32:25.569788+00:00"
+    "fetched_at": "2026-08-22T04:20:28.293487+00:00"
   },
   {
     "title": "Grayscale moves closer to launching first Zcash ETF in US with fresh amended SEC filing",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T03:33:45.804433+00:00"
+    "fetched_at": "2026-08-22T04:20:28.425144+00:00"
   },
   {
     "title": "BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
@@ -87,16 +87,16 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T03:33:45.804494+00:00"
+    "fetched_at": "2026-08-22T04:20:28.425201+00:00"
   },
   {
-    "title": "\u2018Betrayal\u2019: US ranchers lash out at Trump\u2019s plan to cut tax on beef imports",
-    "url": "https://www.ft.com/content/7aabb591-ca73-4d87-96ad-dac9a210e1d0?syn-25a6b1a6=1",
-    "summary": "President claims unnamed foreign suppliers will provide 25% discount in run-up to midterm elections",
+    "title": "US says Canada rejects its trade deal offer",
+    "url": "https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1",
+    "summary": "Top Washington representative Jamieson Greer criticises Ottawa\u2019s \u2018missed opportunity\u2019",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-22T03:33:47.605745+00:00"
+    "fetched_at": "2026-08-22T04:20:29.744546+00:00"
   },
   {
     "title": "Natalie Harp, the devoted \u2018human printer\u2019 in Trump\u2019s entourage",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-22T03:33:47.605815+00:00"
+    "fetched_at": "2026-08-22T04:20:29.744610+00:00"
   }
 ]
