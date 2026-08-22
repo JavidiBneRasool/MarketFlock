@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-22T16:09:24.334503+00:00"
+    "fetched_at": "2026-08-22T17:10:24.101541+00:00"
   },
   {
     "title": "Here\u2019s what happened in crypto today",
@@ -15,7 +15,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-22T16:09:24.334594+00:00"
+    "fetched_at": "2026-08-22T17:10:24.101595+00:00"
   },
   {
     "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
@@ -24,7 +24,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-22T16:09:25.199591+00:00"
+    "fetched_at": "2026-08-22T17:10:25.190433+00:00"
   },
   {
     "title": "US Colleges Face a Shrinking Student Pipeline",
@@ -33,7 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-22T16:09:25.199643+00:00"
+    "fetched_at": "2026-08-22T17:10:25.190482+00:00"
   },
   {
     "title": "Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T16:09:24.607083+00:00"
+    "fetched_at": "2026-08-22T17:10:24.403716+00:00"
   },
   {
     "title": "Legendary Investor Ray Dalio Touts Bitcoin \u2014 With Gold \u2014 To Hedge Against Incoming Debt Crisis",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T16:09:24.607152+00:00"
+    "fetched_at": "2026-08-22T17:10:24.403769+00:00"
   },
   {
     "title": "AI Has Made Bitcoin Software a Target\u2014This Group Is Fighting Back",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T16:09:24.686606+00:00"
+    "fetched_at": "2026-08-22T17:10:24.538228+00:00"
   },
   {
     "title": "A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T16:09:24.686662+00:00"
+    "fetched_at": "2026-08-22T17:10:24.538269+00:00"
+  },
+  {
+    "title": "Solana cuts mainnet slot time to 350 milliseconds in first step toward 200ms goal",
+    "url": "https://www.theblock.co/news/ecosystems/2026-08-22-solana-cuts-mainnet-slot-time-to-350-milliseconds-in-first-step-toward-200ms-goal-412521",
+    "summary": "The change should lead to faster transaction confirmations but is not designed to increase the overall throughput of the network.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-22T17:10:24.673874+00:00"
   },
   {
     "title": "Grayscale moves closer to launching first Zcash ETF in US with fresh amended SEC filing",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T16:09:24.768096+00:00"
-  },
-  {
-    "title": "BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
-    "url": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485",
-    "summary": "The attacker transferred approximately 286.5 million BB from nine wallets before block production was eventually halted.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-22T16:09:24.768154+00:00"
+    "fetched_at": "2026-08-22T17:10:24.673917+00:00"
   },
   {
     "title": "Trump\u2019s challenge: $40tn debt, 6.7% mortgages and $5 diesel",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-22T16:09:26.008755+00:00"
+    "fetched_at": "2026-08-22T17:10:25.850907+00:00"
   },
   {
     "title": "Bossing the bond market around never works",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-22T16:09:26.008815+00:00"
+    "fetched_at": "2026-08-22T17:10:25.850952+00:00"
   }
 ]
