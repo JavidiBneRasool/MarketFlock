@@ -2,8 +2,8 @@
   {
     "category": "Crypto",
     "headline": "MiCA is coming for DeFi vaults, but regulation will be difficult",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787411339",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787411339",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787414971",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787414971",
     "article": {
       "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
       "url": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult",
@@ -11,7 +11,7 @@
       "source": "CoinTelegraph",
       "category": "Crypto",
       "tier": 10,
-      "fetched_at": "2026-08-22T15:08:51.622237+00:00",
+      "fetched_at": "2026-08-22T16:09:24.334503+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -22,8 +22,8 @@
   {
     "category": "Crypto",
     "headline": "Here\u2019s what happened in crypto today",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787411342",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787411342",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787414974",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787414974",
     "article": {
       "title": "Here\u2019s what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
@@ -31,7 +31,27 @@
       "source": "CoinTelegraph",
       "category": "Crypto",
       "tier": 10,
-      "fetched_at": "2026-08-22T15:08:51.622316+00:00",
+      "fetched_at": "2026-08-22T16:09:24.334594+00:00",
+      "credibility": "REVIEW",
+      "score": 6,
+      "verdict": "WARNING",
+      "decision": "PASS",
+      "flags": []
+    }
+  },
+  {
+    "category": "Markets",
+    "headline": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1787414977",
+    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1787414977",
+    "article": {
+      "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-22/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
+      "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players\u2019 knowledge of the news but also their confidence in their answers. Join Bloomberg's Alexis Christoforous, David Gura, and Christina Ruffini as they play and check out the quiz for yourself at Bloomberg.com (Source: Bl",
+      "source": "Bloomberg Markets",
+      "category": "Markets",
+      "tier": 10,
+      "fetched_at": "2026-08-22T16:09:25.199591+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -42,8 +62,8 @@
   {
     "category": "Markets",
     "headline": "US Colleges Face a Shrinking Student Pipeline",
-    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1787411346",
-    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1787411346",
+    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1787414980",
+    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1787414980",
     "article": {
       "title": "US Colleges Face a Shrinking Student Pipeline",
       "url": "https://www.bloomberg.com/news/videos/2026-08-22/us-colleges-face-a-shrinking-student-pipeline-video",
@@ -51,27 +71,7 @@
       "source": "Bloomberg Markets",
       "category": "Markets",
       "tier": 10,
-      "fetched_at": "2026-08-22T15:08:52.844719+00:00",
-      "credibility": "REVIEW",
-      "score": 6,
-      "verdict": "WARNING",
-      "decision": "PASS",
-      "flags": []
-    }
-  },
-  {
-    "category": "Markets",
-    "headline": "Sanctions Target Iran\u2019s Weakened Regional Network",
-    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1787411349",
-    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1787411349",
-    "article": {
-      "title": "Sanctions Target Iran\u2019s Weakened Regional Network",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-22/sanctions-target-iran-s-weakened-regional-network-video",
-      "summary": "The US is preparing a new campaign of economic pressure on Iran after diplomacy and months of fighting failed to produce a durable settlement, with President Donald Trump warning countries against maintaining trade ties with Tehran. Atlantic writer and Columbia University Institute of Global Politic",
-      "source": "Bloomberg Markets",
-      "category": "Markets",
-      "tier": 10,
-      "fetched_at": "2026-08-22T15:08:52.844772+00:00",
+      "fetched_at": "2026-08-22T16:09:25.199643+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -82,8 +82,8 @@
   {
     "category": "Crypto",
     "headline": "Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787411352",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787411352",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787414983",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787414983",
     "article": {
       "title": "Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital",
       "url": "https://bitcoinmagazine.com/news/pantera-capital-says-bitcoin-to-go-higher",
@@ -91,7 +91,7 @@
       "source": "Bitcoin Magazine",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-22T15:08:51.859694+00:00",
+      "fetched_at": "2026-08-22T16:09:24.607083+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -102,8 +102,8 @@
   {
     "category": "Crypto",
     "headline": "Legendary Investor Ray Dalio Touts Bitcoin \u2014 With Gold \u2014 To Hedge Against Incomi",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787411355",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787411355",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787414986",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787414986",
     "article": {
       "title": "Legendary Investor Ray Dalio Touts Bitcoin \u2014 With Gold \u2014 To Hedge Against Incoming Debt Crisis",
       "url": "https://bitcoinmagazine.com/news/ray-dalio-touts-bitcoin",
@@ -111,7 +111,27 @@
       "source": "Bitcoin Magazine",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-22T15:08:51.859761+00:00",
+      "fetched_at": "2026-08-22T16:09:24.607152+00:00",
+      "credibility": "REVIEW",
+      "score": 6,
+      "verdict": "WARNING",
+      "decision": "PASS",
+      "flags": []
+    }
+  },
+  {
+    "category": "Crypto",
+    "headline": "AI Has Made Bitcoin Software a Target\u2014This Group Is Fighting Back",
+    "image_url": "https://loremflickr.com/1200/630/crypto%2Ctrading?lock=1787414989",
+    "image_fallback": "https://image.pollinations.ai/prompt/crypto%2Ctrading%20professional%20photo?width=800&height=600&nologo=true&seed=1787414989",
+    "article": {
+      "title": "AI Has Made Bitcoin Software a Target\u2014This Group Is Fighting Back",
+      "url": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
+      "summary": "A group of 20-odd developers is scanning the Bitcoin ecosystem for AI-discoverable flaws, warning that cheap, powerful models have handed attackers unprecedented reach.",
+      "source": "Decrypt",
+      "category": "Crypto",
+      "tier": 9,
+      "fetched_at": "2026-08-22T16:09:24.686606+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -122,8 +142,8 @@
   {
     "category": "Crypto",
     "headline": "A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds",
-    "image_url": "https://loremflickr.com/1200/630/crypto%2Ctrading?lock=1787411358",
-    "image_fallback": "https://image.pollinations.ai/prompt/crypto%2Ctrading%20professional%20photo?width=800&height=600&nologo=true&seed=1787411358",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Cgold%2Ccoin?lock=1787414992",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Cgold%2Ccoin%20professional%20photo?width=800&height=600&nologo=true&seed=1787414992",
     "article": {
       "title": "A Third of the Post-ChatGPT Web Is AI-Written, Pew Finds",
       "url": "https://decrypt.co/376271/chatgpt-web-ai-written-pew",
@@ -131,27 +151,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-22T15:08:52.030971+00:00",
-      "credibility": "REVIEW",
-      "score": 6,
-      "verdict": "WARNING",
-      "decision": "PASS",
-      "flags": []
-    }
-  },
-  {
-    "category": "Crypto",
-    "headline": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Cgold%2Ccoin?lock=1787411361",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Cgold%2Ccoin%20professional%20photo?width=800&height=600&nologo=true&seed=1787411361",
-    "article": {
-      "title": "Coldcard Adds New Security Measures After $130 Million Bitcoin Exploit",
-      "url": "https://decrypt.co/376270/coldcard-new-security-after-bitcoin-exploit",
-      "summary": "Coinkite's latest firmware requires users to add their own randomness when generating wallet seeds and fixes additional security issues uncovered during a three-week review.",
-      "source": "Decrypt",
-      "category": "Crypto",
-      "tier": 9,
-      "fetched_at": "2026-08-22T15:08:52.031020+00:00",
+      "fetched_at": "2026-08-22T16:09:24.686662+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -162,8 +162,8 @@
   {
     "category": "Crypto",
     "headline": "Grayscale moves closer to launching first Zcash ETF in US with fresh amended SEC",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787411364",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787411364",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787414995",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787414995",
     "article": {
       "title": "Grayscale moves closer to launching first Zcash ETF in US with fresh amended SEC filing",
       "url": "https://www.theblock.co/news/regulation/2026-08-21-grayscale-moves-closer-launching-first-zcash-etf-in-us-sec-amended-filing-412517",
@@ -171,7 +171,7 @@
       "source": "The Block",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-22T15:08:52.162925+00:00",
+      "fetched_at": "2026-08-22T16:09:24.768096+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -182,8 +182,8 @@
   {
     "category": "Crypto",
     "headline": "BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787411367",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787411367",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787414999",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787414999",
     "article": {
       "title": "BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
       "url": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485",
@@ -191,7 +191,7 @@
       "source": "The Block",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-22T15:08:52.162981+00:00",
+      "fetched_at": "2026-08-22T16:09:24.768154+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -202,8 +202,8 @@
   {
     "category": "Markets",
     "headline": "Trump\u2019s challenge: $40tn debt, 6.7% mortgages and $5 diesel",
-    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1787411370",
-    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1787411370",
+    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1787415002",
+    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1787415002",
     "article": {
       "title": "Trump\u2019s challenge: $40tn debt, 6.7% mortgages and $5 diesel",
       "url": "https://www.ft.com/content/6cb399fa-9fba-4806-98a3-9572fe319622?syn-25a6b1a6=1",
@@ -211,7 +211,7 @@
       "source": "Financial Times",
       "category": "Markets",
       "tier": 9,
-      "fetched_at": "2026-08-22T15:08:53.681956+00:00",
+      "fetched_at": "2026-08-22T16:09:26.008755+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -222,8 +222,8 @@
   {
     "category": "Markets",
     "headline": "Bossing the bond market around never works",
-    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1787411373",
-    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1787411373",
+    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1787415005",
+    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1787415005",
     "article": {
       "title": "Bossing the bond market around never works",
       "url": "https://www.ft.com/content/b9e7a620-1018-4004-a3b0-3c85d494d21d?syn-25a6b1a6=1",
@@ -231,7 +231,7 @@
       "source": "Financial Times",
       "category": "Markets",
       "tier": 9,
-      "fetched_at": "2026-08-22T15:08:53.682036+00:00",
+      "fetched_at": "2026-08-22T16:09:26.008815+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
