@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-22T18:11:54.350782+00:00",
+    "fetched_at": "2026-08-22T19:13:56.220142+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,7 +18,19 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-22T18:11:54.350839+00:00",
+    "fetched_at": "2026-08-22T19:13:56.220214+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Juicy Yields Draw Junk Bond Buyers to Investment-Grade AI Debt",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-22/juicy-yields-draw-junk-bond-buyers-to-investment-grade-ai-debt",
+    "summary": "Companies looking to finance data center projects are increasingly turning to junk bond investors to help them raise billions of dollars, even for debt that is investment-grade.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-08-22T19:13:57.231361+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,19 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-22T18:11:55.102252+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-22/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-    "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players\u2019 knowledge of the news but also their confidence in their answers. Join Bloomberg's Alexis Christoforous, David Gura, and Christina Ruffini as they play and check out the quiz for yourself at Bloomberg.com (Source: Bl",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-22T18:11:55.102296+00:00",
+    "fetched_at": "2026-08-22T19:13:57.231413+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T18:11:54.459402+00:00",
+    "fetched_at": "2026-08-22T19:13:56.446411+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T18:11:54.459462+00:00",
+    "fetched_at": "2026-08-22T19:13:56.446485+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T18:11:54.536596+00:00",
+    "fetched_at": "2026-08-22T19:13:56.531454+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T18:11:54.536643+00:00",
+    "fetched_at": "2026-08-22T19:13:56.531512+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T18:11:54.627781+00:00",
+    "fetched_at": "2026-08-22T19:13:56.592175+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-22T18:11:54.627829+00:00",
+    "fetched_at": "2026-08-22T19:13:56.592233+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-22T18:11:55.810554+00:00",
+    "fetched_at": "2026-08-22T19:13:57.730359+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-22T18:11:55.810602+00:00",
+    "fetched_at": "2026-08-22T19:13:57.730420+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
