@@ -2,8 +2,8 @@
   {
     "category": "Crypto",
     "headline": "MiCA is coming for DeFi vaults, but regulation will be difficult",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787440163",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787440163",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787445273",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787445273",
     "article": {
       "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
       "url": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult",
@@ -11,7 +11,7 @@
       "source": "CoinTelegraph",
       "category": "Crypto",
       "tier": 10,
-      "fetched_at": "2026-08-22T23:09:16.421068+00:00",
+      "fetched_at": "2026-08-23T00:34:26.248991+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -22,8 +22,8 @@
   {
     "category": "Crypto",
     "headline": "Here\u2019s what happened in crypto today",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787440166",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787440166",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787445276",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787445276",
     "article": {
       "title": "Here\u2019s what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
@@ -31,7 +31,7 @@
       "source": "CoinTelegraph",
       "category": "Crypto",
       "tier": 10,
-      "fetched_at": "2026-08-22T23:09:16.421138+00:00",
+      "fetched_at": "2026-08-23T00:34:26.249091+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -42,8 +42,8 @@
   {
     "category": "Markets",
     "headline": "Bloomberg Previews Jackson Hole Symposium",
-    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1787440169",
-    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1787440169",
+    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1787445279",
+    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1787445279",
     "article": {
       "title": "Bloomberg Previews Jackson Hole Symposium",
       "url": "https://www.bloomberg.com/news/videos/2026-08-22/bloomberg-previews-jackson-hole-symposium-video",
@@ -51,27 +51,7 @@
       "source": "Bloomberg Markets",
       "category": "Markets",
       "tier": 10,
-      "fetched_at": "2026-08-22T23:09:17.389030+00:00",
-      "credibility": "REVIEW",
-      "score": 6,
-      "verdict": "WARNING",
-      "decision": "PASS",
-      "flags": []
-    }
-  },
-  {
-    "category": "Markets",
-    "headline": "Juicy Yields Draw Junk Bond Buyers to Investment-Grade AI Debt",
-    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1787440172",
-    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1787440172",
-    "article": {
-      "title": "Juicy Yields Draw Junk Bond Buyers to Investment-Grade AI Debt",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-22/juicy-yields-draw-junk-bond-buyers-to-investment-grade-ai-debt",
-      "summary": "Companies looking to finance data center projects are increasingly turning to junk bond investors to help them raise billions of dollars, even for debt that is investment-grade.",
-      "source": "Bloomberg Markets",
-      "category": "Markets",
-      "tier": 10,
-      "fetched_at": "2026-08-22T23:09:17.389087+00:00",
+      "fetched_at": "2026-08-23T00:34:27.124578+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -82,8 +62,8 @@
   {
     "category": "Crypto",
     "headline": "Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787440175",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787440175",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Cgold%2Ccoin?lock=1787445282",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Cgold%2Ccoin%20professional%20photo?width=800&height=600&nologo=true&seed=1787445282",
     "article": {
       "title": "Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital",
       "url": "https://bitcoinmagazine.com/news/pantera-capital-says-bitcoin-to-go-higher",
@@ -91,7 +71,7 @@
       "source": "Bitcoin Magazine",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-22T23:09:16.738161+00:00",
+      "fetched_at": "2026-08-23T00:34:26.484168+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -102,8 +82,8 @@
   {
     "category": "Crypto",
     "headline": "Legendary Investor Ray Dalio Touts Bitcoin \u2014 With Gold \u2014 To Hedge Against Incomi",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787440178",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787440178",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787445285",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787445285",
     "article": {
       "title": "Legendary Investor Ray Dalio Touts Bitcoin \u2014 With Gold \u2014 To Hedge Against Incoming Debt Crisis",
       "url": "https://bitcoinmagazine.com/news/ray-dalio-touts-bitcoin",
@@ -111,7 +91,7 @@
       "source": "Bitcoin Magazine",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-22T23:09:16.738238+00:00",
+      "fetched_at": "2026-08-23T00:34:26.484259+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -122,8 +102,8 @@
   {
     "category": "Crypto",
     "headline": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remote",
-    "image_url": "https://loremflickr.com/1200/630/crypto%2Ctrading?lock=1787440181",
-    "image_fallback": "https://image.pollinations.ai/prompt/crypto%2Ctrading%20professional%20photo?width=800&height=600&nologo=true&seed=1787440181",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787445288",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787445288",
     "article": {
       "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
       "url": "https://decrypt.co/376287/microsoft-perfect-10-exploit-hackers-run-code",
@@ -131,7 +111,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-22T23:09:16.828526+00:00",
+      "fetched_at": "2026-08-23T00:34:26.609726+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -142,8 +122,8 @@
   {
     "category": "Crypto",
     "headline": "AI Has Made Bitcoin Software a Target\u2014This Group Is Fighting Back",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Cgold%2Ccoin?lock=1787440184",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Cgold%2Ccoin%20professional%20photo?width=800&height=600&nologo=true&seed=1787440184",
+    "image_url": "https://loremflickr.com/1200/630/crypto%2Ctrading?lock=1787445291",
+    "image_fallback": "https://image.pollinations.ai/prompt/crypto%2Ctrading%20professional%20photo?width=800&height=600&nologo=true&seed=1787445291",
     "article": {
       "title": "AI Has Made Bitcoin Software a Target\u2014This Group Is Fighting Back",
       "url": "https://decrypt.co/376296/bitcoin-target-ai-red-team-group-fighting-back",
@@ -151,7 +131,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-22T23:09:16.828587+00:00",
+      "fetched_at": "2026-08-23T00:34:26.609794+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -162,8 +142,8 @@
   {
     "category": "Crypto",
     "headline": "Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October,",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787440187",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787440187",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Cgold%2Ccoin?lock=1787445294",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Cgold%2Ccoin%20professional%20photo?width=800&height=600&nologo=true&seed=1787445294",
     "article": {
       "title": "Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume",
       "url": "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531",
@@ -171,7 +151,7 @@
       "source": "The Block",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-22T23:09:16.913872+00:00",
+      "fetched_at": "2026-08-23T00:34:26.692152+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -182,8 +162,8 @@
   {
     "category": "Crypto",
     "headline": "Zcash hits eight-year high near $850 with futures volume near $10 billion amid G",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787440190",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787440190",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787445297",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787445297",
     "article": {
       "title": "Zcash hits eight-year high near $850 with futures volume near $10 billion amid Grayscale ETF push",
       "url": "https://www.theblock.co/news/ecosystems/2026-08-22-zcash-hits-eight-year-high-near-850-with-futures-volume-near-10-billion-amid-grayscale-etf-push-412528",
@@ -191,7 +171,7 @@
       "source": "The Block",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-22T23:09:16.913937+00:00",
+      "fetched_at": "2026-08-23T00:34:26.692223+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -202,8 +182,8 @@
   {
     "category": "Markets",
     "headline": "Mark Carney says Canada is now \u2018at war\u2019 with US over trade",
-    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1787440194",
-    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1787440194",
+    "image_url": "https://loremflickr.com/1200/630/wall%2Cstreet%2Ctrading?lock=1787445301",
+    "image_fallback": "https://image.pollinations.ai/prompt/wall%2Cstreet%2Ctrading%20professional%20photo?width=800&height=600&nologo=true&seed=1787445301",
     "article": {
       "title": "Mark Carney says Canada is now \u2018at war\u2019 with US over trade",
       "url": "https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1",
@@ -211,7 +191,7 @@
       "source": "Financial Times",
       "category": "Markets",
       "tier": 9,
-      "fetched_at": "2026-08-22T23:09:17.921605+00:00",
+      "fetched_at": "2026-08-23T00:34:27.704158+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -222,8 +202,8 @@
   {
     "category": "Markets",
     "headline": "Who counts in Trump\u2019s America?",
-    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1787440197",
-    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1787440197",
+    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1787445304",
+    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1787445304",
     "article": {
       "title": "Who counts in Trump\u2019s America?",
       "url": "https://www.ft.com/content/7c9cd212-58c6-44e1-b515-022271e4390d?syn-25a6b1a6=1",
@@ -231,7 +211,7 @@
       "source": "Financial Times",
       "category": "Markets",
       "tier": 9,
-      "fetched_at": "2026-08-22T23:09:17.921664+00:00",
+      "fetched_at": "2026-08-23T00:34:27.704229+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
