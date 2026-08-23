@@ -1,21 +1,30 @@
 [
   {
+    "title": "Fed study finds crypto investors driven by beliefs, easily swayed by returns",
+    "url": "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns",
+    "summary": "A Federal Reserve Bank of Cleveland study finds crypto investors hold sharply different views on returns and risk, while information about Bitcoin\u2019s past gains can increase both desired allocations and actual crypto purchases.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-23T16:10:52.976718+00:00"
+  },
+  {
     "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
     "url": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult",
     "summary": "Brussels is reviewing whether crypto lending should fall under MiCA, but DeFi lending vaults are making it harder to determine who, exactly, should be regulated.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-23T15:10:12.039537+00:00"
+    "fetched_at": "2026-08-23T16:10:52.976795+00:00"
   },
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
+    "title": "BTW: Headlines You May Have Missed",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-23/btw-headlines-you-may-have-missed-video",
+    "summary": "Cat lady Taylor Swift gets a dog, gap years get expensive, and the new and improved Burger King Whopper: Join Alexis Christoforous, David Gura and Christina Ruffini for this weeks headline roundup. (Source: Bloomberg)",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-23T15:10:12.039611+00:00"
+    "fetched_at": "2026-08-23T16:10:53.693909+00:00"
   },
   {
     "title": "AI Takes Center Court at the US Open",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-23T15:10:13.066306+00:00"
-  },
-  {
-    "title": "Fed Faces High Stakes Test at Jackson Hole",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-23/fed-faces-high-stakes-test-at-jackson-hole-video",
-    "summary": "Fed Chair Kevin Warsh heads into Jackson Hole under heightened scrutiny after the Treasury\u2019s intervention in the bond market raised questions about the traditional boundaries between fiscal and monetary policy. Host of Bloomberg Money Tom Keene and Veda Partners Co-Founder Henrietta Treyz are on Blo",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-23T15:10:13.066360+00:00"
+    "fetched_at": "2026-08-23T16:10:53.693973+00:00"
   },
   {
     "title": "Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-23T15:10:12.307653+00:00"
+    "fetched_at": "2026-08-23T16:10:53.228986+00:00"
   },
   {
     "title": "Legendary Investor Ray Dalio Touts Bitcoin \u2014 With Gold \u2014 To Hedge Against Incoming Debt Crisis",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-23T15:10:12.307728+00:00"
+    "fetched_at": "2026-08-23T16:10:53.229060+00:00"
   },
   {
     "title": "Robot Brains Could Have Their \u2018ChatGPT Moment\u2019 by 2027, ACE Robotics Chairman Says",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-23T15:10:12.408061+00:00"
+    "fetched_at": "2026-08-23T16:10:53.300380+00:00"
   },
   {
     "title": "Microsoft Fixes 'Perfect 10' Exploit That Could Have Let Hackers Run Code Remotely",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-23T15:10:12.408146+00:00"
+    "fetched_at": "2026-08-23T16:10:53.300443+00:00"
   },
   {
     "title": "Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-23T15:10:12.520974+00:00"
+    "fetched_at": "2026-08-23T16:10:53.375128+00:00"
   },
   {
     "title": "Zcash hits eight-year high near $850 with futures volume near $10 billion amid Grayscale ETF push",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-23T15:10:12.521040+00:00"
+    "fetched_at": "2026-08-23T16:10:53.375194+00:00"
   },
   {
     "title": "Anthropic\u2019s best AI model struggles to attract users as cheaper tools thrive",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-23T15:10:13.891158+00:00"
+    "fetched_at": "2026-08-23T16:10:54.233741+00:00"
   },
   {
     "title": "Government can bring robotics to life",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-23T15:10:13.891247+00:00"
+    "fetched_at": "2026-08-23T16:10:54.233806+00:00"
   }
 ]
