@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-23T02:16:42.869794+00:00",
+    "fetched_at": "2026-08-23T03:39:41.129262+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,19 +18,31 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-23T02:16:42.869864+00:00",
+    "fetched_at": "2026-08-23T03:39:41.129331+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Bloomberg Previews Jackson Hole Symposium",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-22/bloomberg-previews-jackson-hole-symposium-video",
-    "summary": "Bloomberg's Joe Weisenthal, Lisa Abramowicz, Tracy Alloway and Tom Keene preview the Jackson Hole Symposium as all eyes will be on Fed Chairman Kevin Marsh and his first annual symposium address. (Source: Bloomberg)",
+    "title": "New Zealand Opposition Vows to Restore RBNZ Dual Mandate",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-23/new-zealand-labour-opposition-vows-to-restore-rbnz-dual-mandate",
+    "summary": "New Zealand\u2019s main opposition Labour Party pledged to restore the central bank\u2019s dual mandate if it wins office in the Nov. 7 election, saying price stability and sustainable employment are both essential for a strong economy.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-23T02:16:43.801548+00:00",
+    "fetched_at": "2026-08-23T03:39:41.950311+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Malaysia Rules Out $1.9 Billion Takeover of Passport Supplier",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-23/malaysia-rules-out-1-9-billion-takeover-of-passport-supplier",
+    "summary": "Malaysia\u2019s government has ruled out a potential acquisition of Datasonic Technologies Sdn., which supplies the country\u2019s passports and national identity cards.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-08-23T03:39:41.950369+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -42,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-23T02:16:43.183815+00:00",
+    "fetched_at": "2026-08-23T03:39:41.402180+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-23T02:16:43.183891+00:00",
+    "fetched_at": "2026-08-23T03:39:41.402252+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-23T02:16:43.296538+00:00",
+    "fetched_at": "2026-08-23T03:39:41.513788+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-23T02:16:43.296600+00:00",
+    "fetched_at": "2026-08-23T03:39:41.513849+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-23T02:16:43.397630+00:00",
+    "fetched_at": "2026-08-23T03:39:41.619170+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-23T02:16:43.397698+00:00",
+    "fetched_at": "2026-08-23T03:39:41.619234+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-23T02:16:44.323660+00:00",
+    "fetched_at": "2026-08-23T03:39:42.519918+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-23T02:16:44.323721+00:00",
+    "fetched_at": "2026-08-23T03:39:42.519979+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
