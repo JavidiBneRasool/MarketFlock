@@ -2,8 +2,8 @@
   {
     "category": "Crypto",
     "headline": "Fed study finds crypto investors driven by beliefs, easily swayed by returns",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787512420",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787512420",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787515749",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787515749",
     "article": {
       "title": "Fed study finds crypto investors driven by beliefs, easily swayed by returns",
       "url": "https://cointelegraph.com/news/fed-study-finds-crypto-investors-driven-by-beliefs-easily-swayed-by-returns",
@@ -11,7 +11,7 @@
       "source": "CoinTelegraph",
       "category": "Crypto",
       "tier": 10,
-      "fetched_at": "2026-08-23T19:13:31.173696+00:00",
+      "fetched_at": "2026-08-23T20:09:01.057274+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -22,8 +22,8 @@
   {
     "category": "Crypto",
     "headline": "MiCA is coming for DeFi vaults, but regulation will be difficult",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787512423",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787512423",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787515752",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787515752",
     "article": {
       "title": "MiCA is coming for DeFi vaults, but regulation will be difficult",
       "url": "https://cointelegraph.com/magazine/mica-is-coming-for-defi-vaults-but-regulation-will-be-difficult",
@@ -31,7 +31,27 @@
       "source": "CoinTelegraph",
       "category": "Crypto",
       "tier": 10,
-      "fetched_at": "2026-08-23T19:13:31.173785+00:00",
+      "fetched_at": "2026-08-23T20:09:01.057351+00:00",
+      "credibility": "REVIEW",
+      "score": 6,
+      "verdict": "WARNING",
+      "decision": "PASS",
+      "flags": []
+    }
+  },
+  {
+    "category": "Markets",
+    "headline": "US Long Bonds Risk Deeper Selloff Without Clear Warsh Guidance",
+    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1787515755",
+    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1787515755",
+    "article": {
+      "title": "US Long Bonds Risk Deeper Selloff Without Clear Warsh Guidance",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/us-long-bonds-risk-deeper-selloff-without-clear-warsh-guidance",
+      "summary": "Bond investors will zero in on Kevin Warsh\u2019s Jackson Hole speech this week, with a further selloff in long-dated Treasuries at stake as markets look for clues on the Federal Reserve chairman\u2019s response to persistent inflation and fiscal concerns.",
+      "source": "Bloomberg Markets",
+      "category": "Markets",
+      "tier": 10,
+      "fetched_at": "2026-08-23T20:09:01.997290+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -42,8 +62,8 @@
   {
     "category": "Markets",
     "headline": "Bloomberg This Weekend 8/23/2026",
-    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1787512426",
-    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1787512426",
+    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1787515758",
+    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1787515758",
     "article": {
       "title": "Bloomberg This Weekend 8/23/2026",
       "url": "https://www.bloomberg.com/news/videos/2026-08-23/bloomberg-this-weekend-8-23-2026-video",
@@ -51,27 +71,7 @@
       "source": "Bloomberg Markets",
       "category": "Markets",
       "tier": 10,
-      "fetched_at": "2026-08-23T19:13:32.332921+00:00",
-      "credibility": "REVIEW",
-      "score": 6,
-      "verdict": "WARNING",
-      "decision": "PASS",
-      "flags": []
-    }
-  },
-  {
-    "category": "Markets",
-    "headline": "BTW: Headlines You May Have Missed",
-    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1787512429",
-    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1787512429",
-    "article": {
-      "title": "BTW: Headlines You May Have Missed",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-23/btw-headlines-you-may-have-missed-video",
-      "summary": "Cat lady Taylor Swift gets a dog, gap years get expensive, and the new and improved Burger King Whopper: Join Alexis Christoforous, David Gura and Christina Ruffini for this weeks headline roundup. (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "category": "Markets",
-      "tier": 10,
-      "fetched_at": "2026-08-23T19:13:32.332970+00:00",
+      "fetched_at": "2026-08-23T20:09:01.997344+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -82,8 +82,8 @@
   {
     "category": "Crypto",
     "headline": "Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787512432",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787512432",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787515761",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787515761",
     "article": {
       "title": "Smart Money Helping Support Bitcoin Rebound, Says Pantera Capital",
       "url": "https://bitcoinmagazine.com/news/pantera-capital-says-bitcoin-to-go-higher",
@@ -91,7 +91,7 @@
       "source": "Bitcoin Magazine",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-23T19:13:31.516853+00:00",
+      "fetched_at": "2026-08-23T20:09:01.325026+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -102,8 +102,8 @@
   {
     "category": "Crypto",
     "headline": "Legendary Investor Ray Dalio Touts Bitcoin \u2014 With Gold \u2014 To Hedge Against Incomi",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787512435",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787512435",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787515764",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787515764",
     "article": {
       "title": "Legendary Investor Ray Dalio Touts Bitcoin \u2014 With Gold \u2014 To Hedge Against Incoming Debt Crisis",
       "url": "https://bitcoinmagazine.com/news/ray-dalio-touts-bitcoin",
@@ -111,7 +111,7 @@
       "source": "Bitcoin Magazine",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-23T19:13:31.516928+00:00",
+      "fetched_at": "2026-08-23T20:09:01.325102+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -122,8 +122,8 @@
   {
     "category": "Crypto",
     "headline": "63% of Religious Books on Amazon Are Likely AI-Written, Study Finds",
-    "image_url": "https://loremflickr.com/1200/630/crypto%2Ctrading?lock=1787512438",
-    "image_fallback": "https://image.pollinations.ai/prompt/crypto%2Ctrading%20professional%20photo?width=800&height=600&nologo=true&seed=1787512438",
+    "image_url": "https://loremflickr.com/1200/630/crypto%2Ctrading?lock=1787515767",
+    "image_fallback": "https://image.pollinations.ai/prompt/crypto%2Ctrading%20professional%20photo?width=800&height=600&nologo=true&seed=1787515767",
     "article": {
       "title": "63% of Religious Books on Amazon Are Likely AI-Written, Study Finds",
       "url": "https://decrypt.co/376295/religious-books-amazon-ai-written-study",
@@ -131,7 +131,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-23T19:13:31.624128+00:00",
+      "fetched_at": "2026-08-23T20:09:01.401353+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -142,8 +142,8 @@
   {
     "category": "Crypto",
     "headline": "Robot Brains Could Have Their \u2018ChatGPT Moment\u2019 by 2027, ACE Robotics Chairman Sa",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Cgold%2Ccoin?lock=1787512441",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Cgold%2Ccoin%20professional%20photo?width=800&height=600&nologo=true&seed=1787512441",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Cgold%2Ccoin?lock=1787515770",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Cgold%2Ccoin%20professional%20photo?width=800&height=600&nologo=true&seed=1787515770",
     "article": {
       "title": "Robot Brains Could Have Their \u2018ChatGPT Moment\u2019 by 2027, ACE Robotics Chairman Says",
       "url": "https://decrypt.co/376265/robot-brains-chatgpt-moment-ace-robotics",
@@ -151,7 +151,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-23T19:13:31.624193+00:00",
+      "fetched_at": "2026-08-23T20:09:01.401447+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -162,8 +162,8 @@
   {
     "category": "Crypto",
     "headline": "Tether\u2019s $120 million Uruguay bitcoin mining project collapsed over a power cont",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787512444",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787512444",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1787515773",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1787515773",
     "article": {
       "title": "Tether\u2019s $120 million Uruguay bitcoin mining project collapsed over a power contract dispute: Reuters",
       "url": "https://www.theblock.co/news/business/2026-08-23-tethers-120-million-uruguay-bitcoin-mining-project-collapsed-over-a-power-contract-dispute-reuters-412536",
@@ -171,7 +171,7 @@
       "source": "The Block",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-23T19:13:31.724106+00:00",
+      "fetched_at": "2026-08-23T20:09:01.475691+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -182,8 +182,8 @@
   {
     "category": "Crypto",
     "headline": "Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October,",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787512447",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787512447",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1787515776",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1787515776",
     "article": {
       "title": "Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume",
       "url": "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531",
@@ -191,7 +191,7 @@
       "source": "The Block",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-08-23T19:13:31.724175+00:00",
+      "fetched_at": "2026-08-23T20:09:01.475758+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -202,8 +202,8 @@
   {
     "category": "Markets",
     "headline": "Warsh seeks to soothe investors\u2019 nerves as signs of economic strain mount",
-    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1787512450",
-    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1787512450",
+    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1787515780",
+    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1787515780",
     "article": {
       "title": "Warsh seeks to soothe investors\u2019 nerves as signs of economic strain mount",
       "url": "https://www.ft.com/content/40ae9cd3-fbc8-4a55-adaa-c24bc80481c9?syn-25a6b1a6=1",
@@ -211,7 +211,7 @@
       "source": "Financial Times",
       "category": "Markets",
       "tier": 9,
-      "fetched_at": "2026-08-23T19:13:32.807725+00:00",
+      "fetched_at": "2026-08-23T20:09:02.995838+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -222,8 +222,8 @@
   {
     "category": "Markets",
     "headline": "Are America\u2019s vast Gulf bases worth rebuilding?",
-    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1787512454",
-    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1787512454",
+    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1787515783",
+    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1787515783",
     "article": {
       "title": "Are America\u2019s vast Gulf bases worth rebuilding?",
       "url": "https://www.ft.com/content/6f664a31-ca24-4a16-a6e9-5978fdf2512c?syn-25a6b1a6=1",
@@ -231,7 +231,7 @@
       "source": "Financial Times",
       "category": "Markets",
       "tier": 9,
-      "fetched_at": "2026-08-23T19:13:32.807790+00:00",
+      "fetched_at": "2026-08-23T20:09:02.995910+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
