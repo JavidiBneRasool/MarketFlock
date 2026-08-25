@@ -1,39 +1,48 @@
 [
   {
+    "title": "DGrid AI token jumps 93% after launch as decentralized AI network goes live",
+    "url": "https://cointelegraph.com/news/dgrid-ai-token-jumps-96-after-launch-as-decentralized-ai-network-goes-live",
+    "summary": "DGAI nearly doubled in its first day of trading as DGrid expands its distributed AI inference network and rolls out hardware for its personal AI agent.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-25T16:22:10.188383+00:00"
+  },
+  {
     "title": "Bitcoin slips from $80K as gold cools with falling US bond yields",
     "url": "https://cointelegraph.com/markets/bitcoin-slips-from-80k-as-gold-cools-with-falling-us-bond-yields",
     "summary": "Bitcoin bulls battled for control of the $80,000 zone as gold came off its highest levels since mid-May on falling US bond yields.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-25T15:31:31.625094+00:00"
+    "fetched_at": "2026-08-25T16:22:10.188457+00:00"
   },
   {
-    "title": "Arcus launches tokenized perp positions on Robinhood Chain",
-    "url": "https://cointelegraph.com/news/arcus-tokenized-perp-positions-robinhood-chain",
-    "summary": "Arcus introduced transferable ERC-20 tokens for perpetual positions and lets tokenized stocks back leveraged trades without requiring users to sell their holdings.",
-    "source": "CoinTelegraph",
+    "title": "Kenya Airways Says It Will Unveil Investor Plan in Weeks",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-25/kenya-airways-says-it-will-unveil-investor-plan-in-weeks",
+    "summary": "Kenya Airways Plc said it\u2019s weeks away from unveiling a proposal to sell a stake to a strategic investor, almost a decade after the flag carrier first embarked on the plan.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-08-25T16:22:11.243594+00:00"
+  },
+  {
+    "title": "Odd Lots: What\u2019s Driving Africa\u2019s Economic Growth?",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-25/odd-lots-what-s-driving-africa-s-economic-growth-video",
+    "summary": "Africa has seen lots of economic growth in the last few years. According to the United Nations, growth across the continent is expected to reach 4.0% in 2026.\n\nJoe Studwell, author of How Africa Works: Success and Failure on the World's Last Developmental Frontier, joins Tracy Alloway and Joe Weisen",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-08-25T16:22:11.243653+00:00"
+  },
+  {
+    "title": "The Human Rights Foundation Announces Support for 16 Projects Worldwide",
+    "url": "https://bitcoinmagazine.com/news/human-rights-foundation-issues-more-grants",
+    "summary": "Bitcoin Magazine\n\nThe Human Rights Foundation Announces Support for 16 Projects Worldwide\nThe Human Rights Foundation has announced 500 million satoshis in new grants through its Bitcoin Development Fund. \nThis post The Human Rights Foundation Announces Support for 16 Projects Worldwide first appear",
+    "source": "Bitcoin Magazine",
     "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-25T15:31:31.625168+00:00"
-  },
-  {
-    "title": "UAE\u2019s Adnoc Spends $2.7 Billion on Ship-Buying Spree",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-25/adnoc-extends-2-7-billion-ship-buying-spree-as-uae-exports-soar",
-    "summary": "The biggest oil and gas producer in the United Arab Emirates has ordered two more liquefied natural gas carriers, extending a recent spree of vessel purchases that will help expand energy exports in the coming years.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-25T15:31:32.593083+00:00"
-  },
-  {
-    "title": "Wellington Launches Funds with Blackstone, Vanguard",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-24/wellington-launches-funds-with-blackstone-vanguard-video",
-    "summary": "Nick Samouilhan, portfolio manager at Wellington Management, joins Scarlet Fu and Eric Balchunas on \"ETF IQ.\" Blackstone\u00a0teamed up with\u00a0Wellington Management\u00a0and\u00a0Vanguard Group\u00a0to create two new funds that will give individual investors access to private assets.\n\nCORRECT: Earlier video contained a c",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-25T15:31:32.593140+00:00"
+    "tier": 9,
+    "fetched_at": "2026-08-25T16:22:10.535002+00:00"
   },
   {
     "title": "Bitcoin Tops $81,000 \u2014 Is the Debasement Trade Back?",
@@ -42,16 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-25T15:31:31.921406+00:00"
-  },
-  {
-    "title": "Cypher Tank Returns to Lugano, Expanding Its Bet on Bitcoin Founders",
-    "url": "https://bitcoinmagazine.com/news/cypher-tank-bitcoin-event-returns",
-    "summary": "Bitcoin Magazine\n\nCypher Tank Returns to Lugano, Expanding Its Bet on Bitcoin Founders\nCypher Tank Returns to Lugano for Second Season following last year's debut. \nThis post Cypher Tank Returns to Lugano, Expanding Its Bet on Bitcoin Founders first appeared on Bitcoin Magazine and is written by Mat",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-25T15:31:31.921470+00:00"
+    "fetched_at": "2026-08-25T16:22:10.535067+00:00"
   },
   {
     "title": "Crypto Fund Founder Convicted of Fraud Over Fake Trading Bot",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-25T15:31:32.032738+00:00"
+    "fetched_at": "2026-08-25T16:22:10.667720+00:00"
   },
   {
     "title": "Dozens of Fake Firefox Wallet Extensions Linked to Crypto-Stealing Malware",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-25T15:31:32.032811+00:00"
+    "fetched_at": "2026-08-25T16:22:10.667776+00:00"
+  },
+  {
+    "title": "Galaxy expands retail crypto lending with new BTC, ETH and SOL-backed credit line",
+    "url": "https://www.theblock.co/news/business/2026-08-25-galaxy-expands-retail-crypto-lending-new-btc-eth-sol-backed-credit-line-412718",
+    "summary": "The crypto-backed portfolio line of credit lets eligible GalaxyOne clients borrow cash against BTC, ETH &amp; SOL without selling their holdings.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-25T16:22:10.777402+00:00"
   },
   {
     "title": "Bitwise launches automated tokenized stock portfolios for Mag 7, AI and robotics themes",
@@ -78,33 +87,24 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-25T15:31:32.131532+00:00"
-  },
-  {
-    "title": "Robinhood Chain DEX Arcus launches pTokens to turn perp accounts into transferable ERC-20s",
-    "url": "https://www.theblock.co/news/defi/2026-08-25-robinhood-chain-dex-arcus-ptokens-perps-erc-20s-412696",
-    "summary": "Each pToken represents a pro-rata ownership stake in an underlying Arcus perpetuals account at a fixed market and leverage level.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-25T15:31:32.131591+00:00"
+    "fetched_at": "2026-08-25T16:22:10.777462+00:00"
   },
   {
     "title": "Canada announces $20bn retaliatory tariffs as US trade war escalates",
     "url": "https://www.ft.com/content/7ced71c2-03b8-4569-a68d-14624a7e83f2?syn-25a6b1a6=1",
-    "summary": "Hundreds of US goods will face increased levies after September 8",
+    "summary": "Hundreds of US goods will face increased levies from September 8",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-25T15:31:33.999949+00:00"
+    "fetched_at": "2026-08-25T16:22:11.906375+00:00"
   },
   {
-    "title": "The little-known French company trying to unseat Palantir in Europe",
-    "url": "https://www.ft.com/content/f4a1aa36-761b-4b5a-86a4-4be9abc5cd46?syn-25a6b1a6=1",
-    "summary": "ChapsVision pursues defence and intelligence contracts across the region as governments look to reduce reliance on US technology",
+    "title": "\u2018Embarrassing\u2019: US officials recoil from Trump\u2019s Canada attacks",
+    "url": "https://www.ft.com/content/3b7ac1fe-4761-4b4a-8fff-95c8c28566b9?syn-25a6b1a6=1",
+    "summary": "Deepening trade war between two long-term allies descends into insults and recrimination",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-25T15:31:34.000014+00:00"
+    "fetched_at": "2026-08-25T16:22:11.906444+00:00"
   }
 ]
