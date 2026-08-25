@@ -1,39 +1,39 @@
 [
   {
+    "title": "Here\u2019s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-25T19:21:45.817518+00:00"
+  },
+  {
     "title": "Bitcoin enters \u2018initial phase\u2019 of new bull market, but $83K remains key: CryptoQuant",
     "url": "https://cointelegraph.com/markets/bitcoin-enters-initial-phase-of-new-bull-market-but-83k-remains-key-cryptoquant",
     "summary": "CryptoQuant says Bitcoin\u2019s 24% rally has flipped key market indicators bullish, though rising profit-taking could bring near-term turbulence.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-25T18:21:07.330157+00:00"
+    "fetched_at": "2026-08-25T19:21:45.817599+00:00"
   },
   {
-    "title": "Solana transactions hit record 4.2B as SOL rallies 40%",
-    "url": "https://cointelegraph.com/news/solana-record-transactions-rwa-sol-price",
-    "summary": "Tokenized real-world assets on Solana are nearing $4 billion as network activity accelerates alongside a broader recovery in crypto markets.\n",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-25T18:21:07.330234+00:00"
-  },
-  {
-    "title": "Rescates de Pemex arrastran los bonos de M\u00e9xico a \u201ccategor\u00eda basura\u201d",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-25/rescates-de-pemex-arrastran-los-bonos-de-mexico-a-categoria-basura",
-    "summary": "M\u00e9xico fue durante a\u00f1os un referente de disciplina fiscal entre los mercados emergentes y, hasta hace poco, ostentaba una calificaci\u00f3n \u201cA\u201d en el mercado de bonos. Hoy est\u00e1 a un paso del grado especulativo y paga tasas de inter\u00e9s m\u00e1s altas que pa\u00edses vecinos m\u00e1s peque\u00f1os y con calificaciones creditic",
+    "title": "Stocks Rise Before Nvidia as Oil Drop Lifts Bonds: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-24/stock-market-today-dow-s-p-live-updates",
+    "summary": "Stocks rose as a decline in oil prices sent bond yields lower, with traders awaiting Nvidia Corp.\u2019s earnings for clues on whether the outlook for artificial intelligence remains intact.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-25T18:21:08.562429+00:00"
+    "fetched_at": "2026-08-25T19:21:46.924909+00:00"
   },
   {
-    "title": "Franklin\u2019s Araghi Says Nvidia Holders Want Map, Not Just a Beat",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-25/franklin-s-araghi-says-nvidia-holders-want-map-not-just-a-beat",
-    "summary": "Franklin Templeton\u2019s Sara Araghi said Nvidia Corp. needs to go beyond a headline earnings beat and provide investors with concrete detail on how it plans to deploy capital and sustain its spending plans.",
+    "title": "Short Squeeze in US Long Bonds Shows \u2018Bessent Put\u2019 at Work",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-25/short-squeeze-in-us-swaps-options-shows-bessent-put-at-work",
+    "summary": "Treasury Secretary Scott Bessent\u2019s surprise plan to tamp down US borrowing costs by expanding bond buybacks may have sparked fierce debate about its ultimate effectiveness, but key market metrics and positioning show that it\u2019s having an impact.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-25T18:21:08.562497+00:00"
+    "fetched_at": "2026-08-25T19:21:46.924968+00:00"
   },
   {
     "title": "US Opens a New Front Against Iran\u2019s Crypto Economy",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-25T18:21:07.616172+00:00"
+    "fetched_at": "2026-08-25T19:21:46.129608+00:00"
   },
   {
     "title": "The Human Rights Foundation Announces Support for 16 Projects Worldwide",
@@ -51,25 +51,34 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-25T18:21:07.616235+00:00"
+    "fetched_at": "2026-08-25T19:21:46.129667+00:00"
   },
   {
-    "title": "Gold Hits Three-Month High as Bitcoin Tests $80,000",
-    "url": "https://decrypt.co/376489/gold-price-three-month-high-bitcoin",
-    "summary": "Gold extended its August rally as a weaker dollar and falling yields boosted demand, while Bitcoin briefly climbed above $80,000 for the first time since May.",
+    "title": "Crypto Market Flips From Fear to 'Extreme Greed' for First Time Since 2024",
+    "url": "https://decrypt.co/376503/crypto-fear-greed-index-extreme-greed",
+    "summary": "The Crypto Fear and Greed Index was at 36, firmly in the fear zone, just a month ago.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-25T18:21:07.753618+00:00"
+    "fetched_at": "2026-08-25T19:21:46.271016+00:00"
   },
   {
-    "title": "Bitcoin Rally Is Outrunning the Rest of the Market: Here\u2019s Why",
-    "url": "https://decrypt.co/376446/bitcoins-price-rally-outrunning-market",
-    "summary": "Bitcoin gained roughly 24% this week while the broader crypto market grew by less, a mismatch that shows up clearly in Bitcoin's rising share of the total crypto market.",
+    "title": "Mistral and HUMAIN Are Building 'Sovereign AI' in Saudi Arabia",
+    "url": "https://decrypt.co/376514/mistral-humain-sovereign-ai-saudi-arabia",
+    "summary": "Mistral and HUMAIN announced plans to build sovereign AI infrastructure in Saudi Arabia and across the region\u2014a tie-up valued in the hundreds of millions of euros that deepens Gulf money flowing into European AI.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-25T18:21:07.753681+00:00"
+    "fetched_at": "2026-08-25T19:21:46.271070+00:00"
+  },
+  {
+    "title": "ZRO token surges as LayerZero unveils ATLAS exchange infrastructure built on Zero blockchain",
+    "url": "https://www.theblock.co/news/ecosystems/2026-08-25-zro-token-layerzero-atlas-exchange-infrastructure-zero-blockchain-412736",
+    "summary": "LayerZero has announced ATLAS, new exchange infrastructure built on its Zero blockchain for trading platforms and financial institutions.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-25T19:21:46.392411+00:00"
   },
   {
     "title": "Galaxy expands retail crypto lending with new BTC, ETH and SOL-backed credit line",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-25T18:21:07.950446+00:00"
-  },
-  {
-    "title": "Bitwise launches automated tokenized stock portfolios for Mag 7, AI and robotics themes",
-    "url": "https://www.theblock.co/news/business/2026-08-25-bitwise-launches-automated-tokenized-stock-portfolios-for-mag-7-ai-and-robotics-themes-412706",
-    "summary": "The portfolios, powered by Coinbase and implemented through Glider, will initially target themes including the Mag 7 and AI.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-25T18:21:07.950510+00:00"
+    "fetched_at": "2026-08-25T19:21:46.392487+00:00"
   },
   {
     "title": "Canada announces $20bn retaliatory tariffs as US trade war escalates",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-25T18:21:09.423476+00:00"
+    "fetched_at": "2026-08-25T19:21:48.724664+00:00"
   },
   {
     "title": "\u2018Embarrassing\u2019: US officials recoil from Trump\u2019s Canada attacks",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-25T18:21:09.423546+00:00"
+    "fetched_at": "2026-08-25T19:21:48.724728+00:00"
   }
 ]
