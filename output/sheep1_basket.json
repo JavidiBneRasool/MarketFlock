@@ -1,39 +1,39 @@
 [
   {
+    "title": "Galaxy puts Coldcard hack losses at 1,789 BTC, with 87% unmoved",
+    "url": "https://cointelegraph.com/news/coldcard-hack-galaxy-btc-lost-87-unmoved",
+    "summary": "Galaxy Research\u2019s latest tally shows that more than half of 221 Coldcard hack victim reports involved individual losses exceeding 1 Bitcoin.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-25T09:22:50.712873+00:00"
+  },
+  {
     "title": "Business owner faces up to 280 years over $24M crypto Ponzi scheme",
     "url": "https://cointelegraph.com/news/business-owner-280-years-24m-crypto-ponzi-scheme",
     "summary": "A federal jury convicted Brent Kovar of wire fraud, mail fraud and money laundering after he took $24 million from at least 400 investors.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-25T08:27:37.986448+00:00"
+    "fetched_at": "2026-08-25T09:22:50.712952+00:00"
   },
   {
-    "title": "Bitcoin ETFs add $338M as six-day inflow streak hits $2.26B",
-    "url": "https://cointelegraph.com/markets/bitcoin-etf-six-day-inflow-streak-2-26-billion",
-    "summary": "Bitcoin ETFs have drawn $2.26 billion over six trading days, while year-to-date net outflows have narrowed to about $2.57 billion.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-25T08:27:37.986528+00:00"
-  },
-  {
-    "title": "What Trump's New $100,000 H-1B Visa Fee Could Mean for India",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-25/trump-s-new-100-000-h-1b-visa-fee-s-impact-on-india-video",
-    "summary": "The Trump administration has revealed plans for a hefty new fee on H-1B visas after an earlier court defeat. With Indians making up nearly 70% of visas issued under the program, here\u2019s what the proposal could mean for the country. (Source: Bloomberg)",
+    "title": "Latest Oil Market News and Analysis for Aug. 25",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-24/latest-oil-market-news-and-analysis-for-aug-25",
+    "summary": "Oil extended Monday\u2019s drop as a US plan to ramp up economic pressure on Iran so far spared the country\u2019s trading partners from harsher measures for now.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-25T08:27:39.082899+00:00"
+    "fetched_at": "2026-08-25T09:22:51.805121+00:00"
   },
   {
-    "title": "Global Stocks Rise as Bitcoin Pushes Past $80,000: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-24/stock-market-today-dow-s-p-live-updates",
-    "summary": "Stocks rose as a selloff in chipmakers fizzled in a session marked by mostly modest moves across asset classes. The main exception was Bitcoin, which briefly surged past $80,000.",
+    "title": "Laopu Gold Growth Slows as Bullion Slide Hits Luxury Demand",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-25/laopu-gold-s-growth-slows-as-bullion-slide-hits-luxury-demand",
+    "summary": "Laopu Gold Co. reported a slower revenue and profit growth for the first half, missing analyst estimates as falling bullion prices dented Chinese consumers\u2019 appetite for its jewelry.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-25T08:27:39.082961+00:00"
+    "fetched_at": "2026-08-25T09:22:51.805178+00:00"
   },
   {
     "title": "Cypher Tank Returns to Lugano, Expanding Its Bet on Bitcoin Founders",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-25T08:27:38.242812+00:00"
+    "fetched_at": "2026-08-25T09:22:50.960968+00:00"
   },
   {
     "title": "UK Banks Still Blocking Bitcoin, Policy Group Tells Parliament",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-25T08:27:38.242874+00:00"
+    "fetched_at": "2026-08-25T09:22:50.961033+00:00"
   },
   {
     "title": "Hugging Face Explores $13 Billion Sale a Month After a Rogue OpenAI Agent Hacked It",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-25T08:27:38.375443+00:00"
+    "fetched_at": "2026-08-25T09:22:51.108703+00:00"
   },
   {
     "title": "Strive Buys $81.5 Million in Bitcoin After Issuing More Shares",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-25T08:27:38.375502+00:00"
+    "fetched_at": "2026-08-25T09:22:51.108763+00:00"
+  },
+  {
+    "title": "Las Vegas businessman faces 280 years in prison after $24 million crypto fraud conviction",
+    "url": "https://www.theblock.co/news/regulation/2026-08-25-las-vegas-businessman-24-million-crypto-fraud-412690",
+    "summary": "A federal jury convicted Las Vegas businessman Brent Kovar in a $24 million cryptocurrency scheme involving at least 400 investors.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-25T09:22:51.218600+00:00"
   },
   {
     "title": "Bitcoin holds above $80,000 backed by ETF flows; bull market case \u2018early but optimistic,\u2019 analyst says",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-25T08:27:38.499327+00:00"
-  },
-  {
-    "title": "Franklin Templeton partners with HashKey to offer tokenized money market fund in Asia",
-    "url": "https://www.theblock.co/news/business/2026-08-25-franklin-templeton-hashkey-tokenized-fund-412675",
-    "summary": "HashKey said it has launched the Franklin OnChain US Government Liquidity Fund on the platform's Earn channel.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-25T08:27:38.499394+00:00"
+    "fetched_at": "2026-08-25T09:22:51.218670+00:00"
   },
   {
     "title": "US grain farmers pummelled as Iran war triggers surge in costs",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-25T08:27:40.206094+00:00"
+    "fetched_at": "2026-08-25T09:22:52.581331+00:00"
   },
   {
     "title": "US affordability tracker: the data that could decide the 2026 midterm elections",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-25T08:27:40.206172+00:00"
+    "fetched_at": "2026-08-25T09:22:52.581400+00:00"
   }
 ]
