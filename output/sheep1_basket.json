@@ -1,39 +1,39 @@
 [
   {
+    "title": "Arcus launches tokenized perp positions on Robinhood Chain",
+    "url": "https://cointelegraph.com/news/arcus-tokenized-perp-positions-robinhood-chain",
+    "summary": "Arcus introduced transferable ERC-20 tokens for perpetual positions and lets tokenized stocks back leveraged trades without requiring users to sell their holdings.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-25T14:33:14.608141+00:00"
+  },
+  {
     "title": "Hugging Face hack exposes the open-weight AI cybersecurity paradox",
     "url": "https://cointelegraph.com/features/hugging-face-hack-exposes-the-open-weight-ai-cybersecurity-paradox",
     "summary": "Hugging Face relies on open weight Chinese models to defend itself from rogue AI agents. But a lack of safety guardrails makes those models potentially dangerous too.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-25T13:38:47.842472+00:00"
+    "fetched_at": "2026-08-25T14:33:14.608193+00:00"
   },
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-25T13:38:47.842544+00:00"
-  },
-  {
-    "title": "Oura, Aggreko IPO Plans Are Latest Sign of Europe Losing Out",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-25/oura-and-aggreko-ipo-plans-are-latest-signs-of-europe-losing-out",
-    "summary": "Fresh signs of European stock exchanges losing out to the US in attracting key IPOs have emerged this week, despite bourses and governments intensifying their efforts to win and retain listings.",
+    "title": "Hungary Cuts Key Interest Rate, Reviews Inflation Goal",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-25/hungary-cuts-interest-rate-again-with-inflation-at-decade-low",
+    "summary": "Hungary\u2019s central bank delivered a third consecutive interest rate cut, with policymakers set to review their inflation target after price growth eased to the lowest level in a decade.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-25T13:38:48.871360+00:00"
+    "fetched_at": "2026-08-25T14:33:15.817363+00:00"
   },
   {
-    "title": "Stocks Rise Before\u00a0Nvidia\u2019s\u00a0Earnings as Oil Falls: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-24/stock-market-today-dow-s-p-live-updates",
-    "summary": "Stocks rose as a decline in oil prices sent bond yields lower, with traders awaiting Nvidia Corp.\u2019s earnings for clues on whether the outlook for artificial intelligence remains intact.",
+    "title": "US Consumer Confidence Falls on Jobs, Business Outlook",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-25/us-consumer-confidence-falls-on-jobs-business-outlook-video",
+    "summary": "US consumer confidence fell in August to the worst since the start of the year as the Conference Board\u2019s gauge of confidence decreased 0.8 points to 89.4 after a downward revision to the prior month. Michael McKee breaks down the data on Bloomberg Television. (Source: Bloomberg)",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-25T13:38:48.871420+00:00"
+    "fetched_at": "2026-08-25T14:33:15.817399+00:00"
   },
   {
     "title": "Cypher Tank Returns to Lugano, Expanding Its Bet on Bitcoin Founders",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-25T13:38:48.208842+00:00"
+    "fetched_at": "2026-08-25T14:33:14.932274+00:00"
   },
   {
     "title": "UK Banks Still Blocking Bitcoin, Policy Group Tells Parliament",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-25T13:38:48.208900+00:00"
+    "fetched_at": "2026-08-25T14:33:14.932311+00:00"
+  },
+  {
+    "title": "Dozens of Fake Firefox Wallet Extensions Linked to Crypto-Stealing Malware",
+    "url": "https://decrypt.co/376432/dozens-of-fake-firefox-wallet-extensions-linked-to-crypto-stealing-malware",
+    "summary": "Forty are confirmed malicious, impersonating OKX, Rabby and TronLink to harvest recovery phrases from anyone who types one in.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-25T14:33:15.060162+00:00"
   },
   {
     "title": "Grayscale Launches Zcash ETF Following Critical Privacy Flaw That Rocked the Cryptocurrency",
@@ -60,16 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-25T13:38:48.334306+00:00"
-  },
-  {
-    "title": "Morning Minute: Coinbase Puts Tokenized Stocks on Base",
-    "url": "https://decrypt.co/376429/morning-minute-coinbase-puts-tokenized-stocks-on-base",
-    "summary": "These aren\u2019t derivatives tracking stock prices; each token has a direct claim on a share including its rights.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-25T13:38:48.334358+00:00"
+    "fetched_at": "2026-08-25T14:33:15.060198+00:00"
   },
   {
     "title": "Grayscale debuts first Zcash ETF of its kind as privacy coin surges",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-25T13:38:48.447714+00:00"
+    "fetched_at": "2026-08-25T14:33:15.172238+00:00"
   },
   {
     "title": "Las Vegas businessman faces 280 years in prison after $24 million crypto fraud conviction",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-25T13:38:48.447777+00:00"
+    "fetched_at": "2026-08-25T14:33:15.172275+00:00"
   },
   {
     "title": "China warns US it could retaliate over Iran sanctions",
@@ -96,15 +96,15 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-25T13:38:49.847501+00:00"
+    "fetched_at": "2026-08-25T14:33:16.966727+00:00"
   },
   {
-    "title": "Iranians queue for petrol as US blockade bites",
-    "url": "https://www.ft.com/content/e08d7f0e-f9fb-45a4-a1ef-025a75a5b776?syn-25a6b1a6=1",
-    "summary": "Long lines form in capital as officials warn that war and inflation are triggering fuel shortages",
+    "title": "Can Trump\u2019s \u2018economic D-day\u2019 force Iran to capitulate?",
+    "url": "https://www.ft.com/content/b6009dd2-7e97-4bbc-941d-cd0b8fc046b6?syn-25a6b1a6=1",
+    "summary": "Tehran made no concessions as a result of \u2018maximum pressure\u2019 sanctions eight years ago. Few expect it to yield this time",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-25T13:38:49.847558+00:00"
+    "fetched_at": "2026-08-25T14:33:16.966775+00:00"
   }
 ]
