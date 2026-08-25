@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-25T19:21:45.817518+00:00"
+    "fetched_at": "2026-08-25T20:14:57.461764+00:00"
   },
   {
     "title": "Bitcoin enters \u2018initial phase\u2019 of new bull market, but $83K remains key: CryptoQuant",
@@ -15,7 +15,16 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-25T19:21:45.817599+00:00"
+    "fetched_at": "2026-08-25T20:14:57.461881+00:00"
+  },
+  {
+    "title": "Treasuries Gain as Oil Drop Eases Pressure on Inflation, Bessent",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-25/treasuries-gain-as-oil-drop-eases-pressure-on-inflation-bessent",
+    "summary": "Treasuries gained as a decline in crude-oil prices eased inflation concerns and pressure on Treasury Secretary Scott Bessent, who has been trying to halt a months-long selloff that pushed the longest-dated yields to the highest in almost two decades.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-08-25T20:14:58.459094+00:00"
   },
   {
     "title": "Stocks Rise Before Nvidia as Oil Drop Lifts Bonds: Markets Wrap",
@@ -24,16 +33,16 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-25T19:21:46.924909+00:00"
+    "fetched_at": "2026-08-25T20:14:58.459155+00:00"
   },
   {
-    "title": "Short Squeeze in US Long Bonds Shows \u2018Bessent Put\u2019 at Work",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-25/short-squeeze-in-us-swaps-options-shows-bessent-put-at-work",
-    "summary": "Treasury Secretary Scott Bessent\u2019s surprise plan to tamp down US borrowing costs by expanding bond buybacks may have sparked fierce debate about its ultimate effectiveness, but key market metrics and positioning show that it\u2019s having an impact.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-25T19:21:46.924968+00:00"
+    "title": "Kraken Says \u2018Dust Attack\u2019 From Sanctioned HTX Wallet Locked Out Customers",
+    "url": "https://bitcoinmagazine.com/news/kraken-says-users-were-dust-attacked",
+    "summary": "Bitcoin Magazine\n\nKraken Says &#8216;Dust Attack&#8217; From Sanctioned HTX Wallet Locked Out Customers\nSomeone has sent crypto dust from sanctioned HTX to Kraken users. \nThis post Kraken Says &#8216;Dust Attack&#8217; From Sanctioned HTX Wallet Locked Out Customers first appeared on Bitcoin Magazin",
+    "source": "Bitcoin Magazine",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-25T20:14:57.770210+00:00"
   },
   {
     "title": "US Opens a New Front Against Iran\u2019s Crypto Economy",
@@ -42,16 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-25T19:21:46.129608+00:00"
+    "fetched_at": "2026-08-25T20:14:57.770275+00:00"
   },
   {
-    "title": "The Human Rights Foundation Announces Support for 16 Projects Worldwide",
-    "url": "https://bitcoinmagazine.com/news/human-rights-foundation-issues-more-grants",
-    "summary": "Bitcoin Magazine\n\nThe Human Rights Foundation Announces Support for 16 Projects Worldwide\nThe Human Rights Foundation has announced 500 million satoshis in new grants through its Bitcoin Development Fund. \nThis post The Human Rights Foundation Announces Support for 16 Projects Worldwide first appear",
-    "source": "Bitcoin Magazine",
+    "title": "What's the Deal With Nancy Pelosi and the Bloom Energy Stock Surge?",
+    "url": "https://decrypt.co/376516/nancy-pelosi-bloom-energy-stock-trade",
+    "summary": "Pelosi disclosed millions of dollars in Bloom Energy investments weeks after shares and options were purchased through her husband's accounts, including a purchase just before the company reported record earnings.",
+    "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-25T19:21:46.129667+00:00"
+    "fetched_at": "2026-08-25T20:14:57.865250+00:00"
   },
   {
     "title": "Crypto Market Flips From Fear to 'Extreme Greed' for First Time Since 2024",
@@ -60,16 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-25T19:21:46.271016+00:00"
-  },
-  {
-    "title": "Mistral and HUMAIN Are Building 'Sovereign AI' in Saudi Arabia",
-    "url": "https://decrypt.co/376514/mistral-humain-sovereign-ai-saudi-arabia",
-    "summary": "Mistral and HUMAIN announced plans to build sovereign AI infrastructure in Saudi Arabia and across the region\u2014a tie-up valued in the hundreds of millions of euros that deepens Gulf money flowing into European AI.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-25T19:21:46.271070+00:00"
+    "fetched_at": "2026-08-25T20:14:57.865311+00:00"
   },
   {
     "title": "ZRO token surges as LayerZero unveils ATLAS exchange infrastructure built on Zero blockchain",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-25T19:21:46.392411+00:00"
+    "fetched_at": "2026-08-25T20:14:57.960779+00:00"
   },
   {
     "title": "Galaxy expands retail crypto lending with new BTC, ETH and SOL-backed credit line",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-25T19:21:46.392487+00:00"
+    "fetched_at": "2026-08-25T20:14:57.960869+00:00"
   },
   {
     "title": "Canada announces $20bn retaliatory tariffs as US trade war escalates",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-25T19:21:48.724664+00:00"
+    "fetched_at": "2026-08-25T20:14:59.159141+00:00"
   },
   {
     "title": "\u2018Embarrassing\u2019: US officials recoil from Trump\u2019s Canada attacks",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-25T19:21:48.724728+00:00"
+    "fetched_at": "2026-08-25T20:14:59.159213+00:00"
   }
 ]
