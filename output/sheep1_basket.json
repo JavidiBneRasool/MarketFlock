@@ -1,39 +1,39 @@
 [
   {
+    "title": "Here\u2019s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-26T06:25:58.219526+00:00"
+  },
+  {
     "title": "US banking groups plan nationwide blockchain network for 2027",
     "url": "https://cointelegraph.com/news/us-banking-groups-nationwide-blockchain-network-2027",
     "summary": "BankChain joins a growing field of bank-led networks building shared infrastructure for tokenized deposits and onchain payments.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-26T05:21:46.243667+00:00"
+    "fetched_at": "2026-08-26T06:25:58.219596+00:00"
   },
   {
-    "title": "World Liberty Financial launches USD1 natively on Canton Network",
-    "url": "https://cointelegraph.com/news/world-liberty-financial-launches-usd1-natively-on-canton-network",
-    "summary": "USD1 is the sixth-largest stablecoin, with a market capitalization of more than $4 billion, according to industry data. ",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-26T05:21:46.243739+00:00"
-  },
-  {
-    "title": "Gold Holds Five-Day Gain as Traders Turn Focus to Fed Rate Path",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-25/gold-holds-five-day-gain-as-oil-drop-eases-inflation-concerns",
-    "summary": "Gold consolidated after a five-day rally, with investors turning their focus to the Federal Reserve\u2019s interest-rate path ahead of the annual Jackson Hole gathering this week.",
+    "title": "Pakistan\u2019s Sharif Orders Probe as Hospital Fire Kills 14 Infants",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-26/pakistan-s-sharif-orders-probe-as-hospital-fire-kills-14-infants",
+    "summary": "Fourteen infants were killed in a fire at one of the largest hospitals in Pakistan\u2019s capital early Wednesday, prompting Prime Minister Shehbaz Sharif to order an investigation.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-26T05:21:47.379820+00:00"
+    "fetched_at": "2026-08-26T06:25:59.114842+00:00"
   },
   {
-    "title": "Latest Oil Market News and Analysis for Aug. 26",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-25/latest-oil-market-news-and-analysis-for-aug-26",
-    "summary": "Oil fell for a third day as Iran and Oman discussed an \u201cinterim framework\u201d aimed at resuming shipping through the Strait of Hormuz.",
+    "title": "Stocks Rise in Runup to Nvidia, Oil Extends Slide: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-25/asian-stocks-set-to-gain-as-oil-extends-declines-markets-wrap",
+    "summary": "Stocks rose as Asian semiconductor makers advanced ahead of Nvidia Corp.\u2019s results, with traders looking to the chip bellwether\u2019s earnings for the next beat in the artificial intelligence trade. Oil extended its decline.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-26T05:21:47.379873+00:00"
+    "fetched_at": "2026-08-26T06:25:59.114902+00:00"
   },
   {
     "title": "Is Bitcoin Out of Its Bear Market? These Analysts Think So",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-26T05:21:46.574534+00:00"
+    "fetched_at": "2026-08-26T06:25:58.528142+00:00"
   },
   {
     "title": "Bitcoin Breakout Could Be Around the Corner as Asset Is No Longer Oversold: Fairlead Strategies\u2019 Katie Stockton",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-26T05:21:46.574602+00:00"
+    "fetched_at": "2026-08-26T06:25:58.528215+00:00"
   },
   {
     "title": "Elon Musk\u2019s SpaceX Plans $100 Billion Louisiana Spaceport",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-26T05:21:46.710114+00:00"
+    "fetched_at": "2026-08-26T06:25:58.638119+00:00"
   },
   {
     "title": "XRP Hot Streak Cools as Traders Hit a Wall: Where Does It Go Next?",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-26T05:21:46.710176+00:00"
+    "fetched_at": "2026-08-26T06:25:58.638178+00:00"
   },
   {
     "title": "Kalshi raised $1.12 billion via private equity offering since April, latest SEC filing shows",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-26T05:21:46.831510+00:00"
+    "fetched_at": "2026-08-26T06:25:58.741797+00:00"
   },
   {
     "title": "RockawayX acquires Relayer Capital to expand crypto offerings in US",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-26T05:21:46.831565+00:00"
+    "fetched_at": "2026-08-26T06:25:58.741855+00:00"
   },
   {
     "title": "Bessent\u2019s bond intervention puts US Treasury on collision course with Fed",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-26T05:21:48.162541+00:00"
+    "fetched_at": "2026-08-26T06:25:59.913474+00:00"
   },
   {
     "title": "How chicken conquered the world",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-26T05:21:48.162603+00:00"
+    "fetched_at": "2026-08-26T06:25:59.913535+00:00"
   }
 ]
