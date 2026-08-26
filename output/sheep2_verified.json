@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-26T13:43:48.399357+00:00",
+    "fetched_at": "2026-08-26T14:32:51.582633+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,31 +18,31 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-26T13:43:48.399407+00:00",
+    "fetched_at": "2026-08-26T14:32:51.582734+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Nvidia Earnings Give Investors a Barometer for State of AI Trade",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-26/nvidia-earnings-give-investors-a-barometer-for-state-of-ai-trade",
-    "summary": "Wall Street is eagerly anticipating Nvidia Corp.\u2019s earnings on Wednesday afternoon, not so much for what the numbers will say about the chip giant, but for what they mean to artificial intelligence investors and the market itself.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-26T13:43:49.610521+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Stocks, Bonds Fall as Data Keep Fed Bets in Play: Markets Wrap",
+    "title": "Treasury Yields Rise as Data Keep Fed Bets in Play: Markets Wrap",
     "url": "https://www.bloomberg.com/news/articles/2026-08-25/asian-stocks-set-to-gain-as-oil-extends-declines-markets-wrap",
-    "summary": "Stocks joined bonds lower after the latest batch of economic reports did little to alter bets the Federal Reserve will raise interest rates before the year is over.",
+    "summary": "Wall Street traders sent bonds lower and stocks wavered, with the latest economic reports doing little to alter bets the Federal Reserve will raise interest rates this year.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-26T13:43:49.610563+00:00",
+    "fetched_at": "2026-08-26T14:32:52.242541+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Alibaba Leaders\u2019 Buying Does Little to Ease Share Sale Fallout",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-26/jack-ma-s-buying-does-little-to-ease-alibaba-share-sale-fallout",
+    "summary": "Alibaba Group Holding Ltd.\u2019s efforts to revive sentiment after its $10 billion share placement has failed to dispel investor concerns over how it chose to finance its AI ambition.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-08-26T14:32:52.242605+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-26T13:43:48.774193+00:00",
+    "fetched_at": "2026-08-26T14:32:51.747156+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-26T13:43:48.774242+00:00",
+    "fetched_at": "2026-08-26T14:32:51.747228+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-26T13:43:48.887833+00:00",
+    "fetched_at": "2026-08-26T14:32:51.838717+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,19 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-26T13:43:48.887870+00:00",
+    "fetched_at": "2026-08-26T14:32:51.838774+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "SOL treasury firm DeFi Development launches real-time \u2018State of Solana\u2019 intelligence platform",
+    "url": "https://www.theblock.co/news/markets/2026-08-26-sol-treasury-firm-defi-development-launches-real-time-state-of-solana-intelligence-platform-412798",
+    "summary": "The Nasdaq-listed company holds roughly 2.3 million SOL worth about $208 million, while its shares have fallen 16% year to date.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-26T14:32:51.921008+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,19 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-26T13:43:48.994423+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Bernstein sees bitcoin reaching $150,000 by mid-2027 amid \u2018debasement trade,\u2019 but cuts Strategy target to $350",
-    "url": "https://www.theblock.co/news/markets/2026-08-26-bernstein-sees-bitcoin-reaching-150000-by-mid-2027-amid-debasement-trade-but-cuts-strategy-target-to-350-412778",
-    "summary": "Bernstein expects bitcoin to reach $150,000 by mid-2027 in its base case, before reaching a cycle peak of around $300,000 in 2029.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-26T13:43:48.994481+00:00",
+    "fetched_at": "2026-08-26T14:32:51.921082+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-26T13:43:50.367043+00:00",
+    "fetched_at": "2026-08-26T14:32:52.768556+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-26T13:43:50.367086+00:00",
+    "fetched_at": "2026-08-26T14:32:52.768623+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
