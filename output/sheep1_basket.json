@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-26T02:17:01.991432+00:00"
+    "fetched_at": "2026-08-26T03:42:23.514322+00:00"
   },
   {
     "title": "Here\u2019s what happened in crypto today",
@@ -15,16 +15,16 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-26T02:17:01.991506+00:00"
+    "fetched_at": "2026-08-26T03:42:23.514378+00:00"
   },
   {
-    "title": "Nasdaq Futures Fall Before Nvidia, Oil Declines: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-25/asian-stocks-set-to-gain-as-oil-extends-declines-markets-wrap",
-    "summary": "US equity-index futures dropped as investors turned cautious before Nvidia Corp.\u2019s earnings, with the results set to test confidence in the artificial intelligence trade. Asian bonds rose as oil extended its decline.",
+    "title": "Why China Is Defiant Even as US Threatens Iran Sanctions",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-26/why-china-is-defiant-even-as-us-threatens-iran-sanctions-video",
+    "summary": "China has thrown Tehran an economic lifeline as its biggest buyer of oil, and Xi appears in no rush to help Trump end a conflict that's pulling US resources from Asia. Bloomberg's Jill Disis breaks down the news. (Source: Bloomberg)",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-26T02:17:02.942719+00:00"
+    "fetched_at": "2026-08-26T03:42:24.978083+00:00"
   },
   {
     "title": "Latest Oil Market News and Analysis for Aug. 26",
@@ -33,7 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-26T02:17:02.942774+00:00"
+    "fetched_at": "2026-08-26T03:42:24.978125+00:00"
   },
   {
     "title": "Is Bitcoin Out of Its Bear Market? These Analysts Think So",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-26T02:17:02.265590+00:00"
+    "fetched_at": "2026-08-26T03:42:23.888923+00:00"
   },
   {
     "title": "Bitcoin Breakout Could Be Around the Corner as Asset Is No Longer Oversold: Fairlead Strategies\u2019 Katie Stockton",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-26T02:17:02.265662+00:00"
+    "fetched_at": "2026-08-26T03:42:23.888980+00:00"
   },
   {
     "title": "Elon Musk\u2019s SpaceX Plans $100 Billion Louisiana Spaceport",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-26T02:17:02.363497+00:00"
+    "fetched_at": "2026-08-26T03:42:24.053411+00:00"
   },
   {
     "title": "XRP Hot Streak Cools as Traders Hit a Wall: Where Does It Go Next?",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-26T02:17:02.363561+00:00"
+    "fetched_at": "2026-08-26T03:42:24.053462+00:00"
+  },
+  {
+    "title": "RockawayX acquires Relayer Capital to expand crypto offerings in US",
+    "url": "https://www.theblock.co/news/business/2026-08-25-rockawayx-relayer-capital-412743",
+    "summary": "Relayer will become the RockawayX Liquid Opportunities Fund, identifying 'undervalued liquid tokens and crypto-related equities.'",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-26T03:42:24.242076+00:00"
   },
   {
     "title": "ZRO token surges as LayerZero unveils ATLAS exchange infrastructure built on Zero blockchain",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-26T02:17:02.451200+00:00"
-  },
-  {
-    "title": "Galaxy expands retail crypto lending with new BTC, ETH and SOL-backed credit line",
-    "url": "https://www.theblock.co/news/business/2026-08-25-galaxy-expands-retail-crypto-lending-new-btc-eth-sol-backed-credit-line-412718",
-    "summary": "The crypto-backed portfolio line of credit lets eligible GalaxyOne clients borrow cash against BTC, ETH &amp; SOL without selling their holdings.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-26T02:17:02.451260+00:00"
+    "fetched_at": "2026-08-26T03:42:24.242124+00:00"
   },
   {
     "title": "Canada announces $20bn retaliatory tariffs as US trade war escalates",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-26T02:17:03.563437+00:00"
+    "fetched_at": "2026-08-26T03:42:26.038063+00:00"
   },
   {
     "title": "\u2018Embarrassing\u2019: US officials recoil from Trump\u2019s Canada attacks",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-26T02:17:03.563509+00:00"
+    "fetched_at": "2026-08-26T03:42:26.038119+00:00"
   }
 ]
