@@ -1,39 +1,48 @@
 [
   {
+    "title": "SHRINCS BIP published: Quantum-secure Bitcoin comes with a catch",
+    "url": "https://cointelegraph.com/magazine/shrincs-bip-is-published-quantum-secure-bitcoin-comes-with-a-catch",
+    "summary": "A new Bitcoin Improvement Proposal for the SHRINCS signature scheme has just been published to upgrade Bitcoin to quantum secure. Here\u2019s everything you need to know.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-27T02:20:46.802912+00:00"
+  },
+  {
     "title": "Better launches Bitcoin-backed mortgages powered by Coinbase",
     "url": "https://cointelegraph.com/news/better-launches-bitcoin-backed-mortgages-powered-by-coinbase",
     "summary": "Better and Coinbase have launched a crypto-backed mortgage product that lets US homebuyers pledge Bitcoin as collateral for a down payment without having to sell it.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-26T21:24:25.396671+00:00"
+    "fetched_at": "2026-08-27T02:20:46.802982+00:00"
   },
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
+    "title": "Activist Offers to Buy S-1 Stake From Samsung at 45% Premium",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-27/activist-tests-samsung-affiliate-directors-with-unusual-s-1-bid",
+    "summary": "An activist investor has offered a 45% premium for Samsung affiliates\u2019 stakes in S-1 Corp., setting up an early test of how board directors handle their expanded fiduciary duties under South Korea\u2019s revised corporate law.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-08-27T02:20:48.323790+00:00"
+  },
+  {
+    "title": "Economists See RBA Hike as Early as September After Hot CPI",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-26/economists-see-rba-rate-hike-as-early-as-september-after-hot-cpi",
+    "summary": "Australia\u2019s hot inflation spurred economists from Goldman Sachs Group Inc. to Commonwealth Bank to predict another interest-rate increase as early as next month, abandoning expectations of no change for the remainder of the year.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-08-27T02:20:48.323846+00:00"
+  },
+  {
+    "title": "Coinkite\u2019s Coldcard Bug Exposed Single-Sig Risk. Multi-Vendor Multisig Is the New Bitcoin Custody Baseline",
+    "url": "https://bitcoinmagazine.com/business/coinkites-coldcard-bug-exposed-single-sig-risk-multi-vendor-multisig-is-the-new-bitcoin-custody-baseline",
+    "summary": "Bitcoin Magazine\n\nCoinkite\u2019s Coldcard Bug Exposed Single-Sig Risk. Multi-Vendor Multisig Is the New Bitcoin Custody Baseline\nCoinkite now forces dice rolls and key-press entropy on new Coldcard seeds. The lasting lesson from the July\u2013August 2026 thefts is not to abandon self-custody \u2014 it is to stop ",
+    "source": "Bitcoin Magazine",
     "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-26T21:24:25.396732+00:00"
-  },
-  {
-    "title": "Private Equity Firms Find a New Way to Ride Out Cash Crunch",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-26/pe-firms-find-a-new-way-to-ride-out-cash-crunch-video",
-    "summary": "Bloomberg's Laura Benitez joins Dani Burger on \"Bloomberg Deals.\" Private equity managers are using structured equity deals to placate investors frustrated by a lack of cash returns, as many firms struggle to exit investments and send money back to investors. (Source: Bloomberg)",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-26T21:24:26.476890+00:00"
-  },
-  {
-    "title": "Lots of PE 'Zombie' Investments: Jeffries' Greenberg",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-26/lots-of-pe-zombie-investments-jeffries-greenberg-video",
-    "summary": "Jason Greenberg, Global Head of IB Strategy, Executive Chairman of TMT investment banking at Jefferies joins Dani Burger on \"Bloomberg Deals.\" They discuss software investments, AI dealmaking, and private equity's struggle to exit investments.  (Source: Bloomberg)",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-26T21:24:26.476956+00:00"
+    "tier": 9,
+    "fetched_at": "2026-08-27T02:20:47.150514+00:00"
   },
   {
     "title": "Billions Pour Into Bitcoin ETFs as Rally Rolls On",
@@ -42,34 +51,25 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-26T21:24:25.623205+00:00"
+    "fetched_at": "2026-08-27T02:20:47.150576+00:00"
   },
   {
-    "title": "Forget the Trump Bump \u2014 Bitcoin Would Be Fine Under Democrats, Says VanEck",
-    "url": "https://bitcoinmagazine.com/news/bitcoin-would-be-fine-under-democrats",
-    "summary": "Bitcoin Magazine\n\nForget the Trump Bump \u2014 Bitcoin Would Be Fine Under Democrats, Says VanEck\u00a0\nVanEck's Matthew Sigel has said that Bitcoin doesn't need a Republican president to do well. \nThis post Forget the Trump Bump \u2014 Bitcoin Would Be Fine Under Democrats, Says VanEck\u00a0 first appeared on Bitcoin ",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-26T21:24:25.623262+00:00"
-  },
-  {
-    "title": "What Traders Are Watching for Bitcoin's Next Move",
-    "url": "https://decrypt.co/376649/what-traders-watching-bitcoin-next-move",
-    "summary": "Bitcoin's monster rally just hit its first real test. Here's why each catalyst matters and how they could move the price from here.",
+    "title": "Russian Influence Network Used ChatGPT to Masquerade as Academic Experts",
+    "url": "https://decrypt.co/376662/russia-chatgpt-influence-campaign",
+    "summary": "The operation promoted a purported Israeli think tank that published copied scholarship under academics\u2019 names and circulated pro-Russian analysis across social media.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-26T21:24:25.793449+00:00"
+    "fetched_at": "2026-08-27T02:20:47.339830+00:00"
   },
   {
-    "title": "Galaxy Opens Retail Crypto-Backed Credit Lines on Bitcoin, Ethereum and Solana",
-    "url": "https://decrypt.co/376646/galaxy-crypto-credit-lines-bitcoin-ethereum-solana",
-    "summary": "GalaxyOne clients can borrow cash against Bitcoin, Ethereum, and staked Solana at 8.99% APR without selling a coin.",
+    "title": "Bill Gates Wants a Robot Tax and Jobs Humans Can't Be Fired From",
+    "url": "https://decrypt.co/376663/bill-gates-robot-tax-jobs-humans-cant-be-fired",
+    "summary": "Gates is calling for AI tokens and robots to be taxed so firms think twice before swapping out workers, plus a bracket of \"human reserved\" roles that stay off-limits to automation.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-26T21:24:25.793495+00:00"
+    "fetched_at": "2026-08-27T02:20:47.339884+00:00"
   },
   {
     "title": "Hyperliquid Policy Center, TradeXYZ urge CFTC to create path for US oil perpetuals",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-26T21:24:25.928494+00:00"
+    "fetched_at": "2026-08-27T02:20:47.525928+00:00"
   },
   {
     "title": "CryptoQuant says bitcoin has entered bull market but needs to cross $83,000 for \u2018official\u2019 confirmation",
@@ -87,24 +87,24 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-26T21:24:25.928549+00:00"
+    "fetched_at": "2026-08-27T02:20:47.525998+00:00"
   },
   {
-    "title": "Nvidia sales more than double to $96bn on bumper AI demand",
+    "title": "Nvidia projects 70% sales growth next year as it rebuts \u2018circular financing\u2019 criticism",
     "url": "https://www.ft.com/content/72908915-5e4a-457c-8c3a-aee8917a664a?syn-25a6b1a6=1",
-    "summary": "Chip giant\u2019s data centre division grew 117% as clients race for computing power",
+    "summary": "Chip giant says financing deals with customers are \u2018excellent\u2019 investments with \u2018limited\u2019 risk",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-26T21:24:27.102029+00:00"
+    "fetched_at": "2026-08-27T02:20:49.223932+00:00"
   },
   {
-    "title": "Nvidia\u2019s $200bn \u2018balance sheet-as-a-service\u2019",
-    "url": "https://www.ft.com/content/9a6947bf-9d4e-4489-80b9-2178ea657a67",
-    "summary": "Because \u2018vendor finance\u2019 are such ugly words",
+    "title": "Anthropic agrees $45bn AI data centre deal with UK start-up Nscale",
+    "url": "https://www.ft.com/content/0ec76ba3-5f7f-4085-88fb-acf21954bc85?syn-25a6b1a6=1",
+    "summary": "Claude maker is rushing to secure computing capacity to run and train its latest models",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-26T21:24:27.102080+00:00"
+    "fetched_at": "2026-08-27T02:20:49.223999+00:00"
   }
 ]
