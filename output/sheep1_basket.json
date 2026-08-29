@@ -1,21 +1,30 @@
 [
   {
+    "title": "Stellar tokenized RWA market more than quadruples to nearly $4B",
+    "url": "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth",
+    "summary": "Stellar\u2019s real-world asset market has expanded rapidly this year as institutional adoption and tokenization activity grow across the network.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-29T20:20:19.956996+00:00"
+  },
+  {
     "title": "Tokenized stock transfer volume jumps 415% in 30 days to $29.5B",
     "url": "https://cointelegraph.com/markets/tokenized-stock-transfer-volume-jumps-416-in-30-days-to-295b",
     "summary": "Tokenized equities saw a sharp rise in onchain activity as active addresses and holders more than doubled over the past month.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-29T17:58:17.529719+00:00"
+    "fetched_at": "2026-08-29T20:20:19.957074+00:00"
   },
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
+    "title": "Guggenheim Ties Weigh on Acrisure Debt, Dragging High-Yield Credit Markets",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-29/guggenheim-stain-piles-onto-biggest-junk-laggard-credit-weekly",
+    "summary": "It had already been a tough 2026 for Acrisure. Part fintech, part insurance broker, the firm said in late May it would cut 11% of its workforce, or some 2,250 people, as part of a sweeping overhaul to modernize operations. Some of its bonds and loans had fallen, but still remained above levels typic",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-29T17:58:17.529796+00:00"
+    "fetched_at": "2026-08-29T20:20:21.398313+00:00"
   },
   {
     "title": "Warsh Says Inflation Isn\u2019t Slowing, Vows to Reach 2% Target",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-29T17:58:18.372200+00:00"
-  },
-  {
-    "title": "Supercars Fuel a New Hybrid Boom",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-29/supercars-fuel-a-new-hybrid-boom-video",
-    "summary": "Hybrids are enjoying a resurgence as slower EV adoption and continued demand for combustion engines reshape the auto industry, with the technology increasingly appearing in high-performance and luxury cars. Co-host of Bloomberg's \"Hot Pursuit!\" Hannah Elliott explains to Christina Ruffini and Bailey",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-29T17:58:18.372252+00:00"
+    "fetched_at": "2026-08-29T20:20:21.398378+00:00"
   },
   {
     "title": "Bitcoin Cools Off After $3 Billion ETF-Driven Surge",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-29T17:58:17.842396+00:00"
+    "fetched_at": "2026-08-29T20:20:20.302316+00:00"
   },
   {
     "title": "Debasement Trade Is Here Thanks to Government Debt \u2014 And Bitcoin Will Benefit: Grayscale",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-29T17:58:17.842464+00:00"
+    "fetched_at": "2026-08-29T20:20:20.302385+00:00"
   },
   {
     "title": "Bernie Sanders Vows Legislation to 'Stop Flock and AI Mass Surveillance'",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-29T17:58:17.922017+00:00"
+    "fetched_at": "2026-08-29T20:20:20.517147+00:00"
   },
   {
     "title": "Bitcoin's Oldest Coins Are Waking Up in 2026 at a Pace Rarely Seen",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-29T17:58:17.922074+00:00"
+    "fetched_at": "2026-08-29T20:20:20.517206+00:00"
+  },
+  {
+    "title": "Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack",
+    "url": "https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061",
+    "summary": "MANTRA Chain, which lost $3.6 million, claimed the patch was only released 20 hours before the attack began and did not identify the flaw it fixed.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-29T20:20:20.685179+00:00"
   },
   {
     "title": "Former White House teleprompter operator ordered to pay $172,000 for Kalshi trades on mention markets",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-29T17:58:17.987211+00:00"
-  },
-  {
-    "title": "Ninth Circuit deals blow to Kalshi in Nevada sports betting fight, challenging CFTC\u2019s exclusive jurisdiction claim",
-    "url": "https://www.theblock.co/news/regulation/2026-08-28-ninth-circuit-deals-blow-to-kalshi-in-nevada-sports-betting-fight-challenging-cftcs-exclusive-jurisdiction-claim-413046",
-    "summary": "An appeals court sided with a lower court's ruling that  Kalshi failed to show that the federal government preempts Nevada\u2019s authority.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-29T17:58:17.987279+00:00"
+    "fetched_at": "2026-08-29T20:20:20.685245+00:00"
   },
   {
     "title": "Warsh puts Fed on collision course with Trump ahead of midterms",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-29T17:58:18.871901+00:00"
+    "fetched_at": "2026-08-29T20:20:22.544669+00:00"
   },
   {
     "title": "Warsh charts a forward-looking path for the Fed at Jackson Hole",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-29T17:58:18.871966+00:00"
+    "fetched_at": "2026-08-29T20:20:22.544744+00:00"
   }
 ]
