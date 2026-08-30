@@ -1,39 +1,39 @@
 [
   {
+    "title": "Saylor signals Strategy is \u2018Back\u2019 to Bitcoin buying",
+    "url": "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying",
+    "summary": "Michael Saylor\u2019s \u201cWe\u2019re Back\u201d post hints Strategy may resume Bitcoin buying after a two-month pause to strengthen its balance sheet.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-30T20:10:42.550816+00:00"
+  },
+  {
     "title": "Here\u2019s what happened in crypto today",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-30T17:01:10.518298+00:00"
+    "fetched_at": "2026-08-30T20:10:42.550885+00:00"
   },
   {
-    "title": "Russia\u2019s Sber eyes USDT loans, questions digital ruble demand",
-    "url": "https://cointelegraph.com/news/russia-sber-bank-bitcoin-ether-usdt-crypto-loans",
-    "summary": "Russia\u2019s largest bank, Sber, plans to accept USDT and Ether alongside Bitcoin as loan collateral as the country introduces regulated crypto trading under a new law.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-30T17:01:10.518375+00:00"
-  },
-  {
-    "title": "Aon Nears Deal to Buy Insurance Brokerage From KKR, WSJ Reports",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-30/aon-nears-deal-to-buy-insurance-brokerage-from-kkr-wsj-reports",
-    "summary": "Aon is nearing an agreement to buy insurance brokerage USI Insurance from private equity firm KKR &amp; Co. for around $17 billion, the Wall Street Journal reported, citing people familiar with the matter.",
+    "title": "Bond Investors Wary After Warsh Fans Wagers Fed Poised to Hike",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-30/bond-investors-wary-after-warsh-fans-wagers-fed-poised-to-hike",
+    "summary": "Bond investors at firms including ABN AMRO Investment Solutions and Brandywine Global Investment Management are voicing skepticism about mounting speculation that Federal Reserve Chairman Kevin Warsh is poised to raise interest rates.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-30T17:01:11.265705+00:00"
+    "fetched_at": "2026-08-30T20:10:43.319697+00:00"
   },
   {
-    "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-30/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-    "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players\u2019 knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, Christina Ruffini and Bailey Lipschultz as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomb",
+    "title": "Bloomberg This Weekend 08/30/2026",
+    "url": "https://www.bloomberg.com/news/videos/2026-08-30/bloomberg-this-weekend-08-30-2026-video",
+    "summary": "The news doesn\u2019t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend\u2019s biggest headlines, LIVE from New York. Joined by Space Network Co-Founder & COO Ross Hamilton, RUV Iceland Correspondent Ing\u00f3lfur Sigf\u00fasson, ABC New",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-30T17:01:11.265765+00:00"
+    "fetched_at": "2026-08-30T20:10:43.319749+00:00"
   },
   {
     "title": "Bitcoin Cools Off After $3 Billion ETF-Driven Surge",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-30T17:01:10.709667+00:00"
+    "fetched_at": "2026-08-30T20:10:42.755012+00:00"
   },
   {
     "title": "Debasement Trade Is Here Thanks to Government Debt \u2014 And Bitcoin Will Benefit: Grayscale",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-30T17:01:10.709742+00:00"
+    "fetched_at": "2026-08-30T20:10:42.755082+00:00"
+  },
+  {
+    "title": "Strategy\u2019s Bitcoin Is $2.8 Billion in Profit\u2014Is Saylor Teeing Up a Buy?",
+    "url": "https://decrypt.co/376884/strategy-bitcoin-2-8-billion-profit-saylor-btc-buy",
+    "summary": "A Bitcoin rally to around $79,000 lifted the company's 840,447 BTC roughly $2.8 billion above its cost basis, as Saylor's \"We're Back\" post fueled speculation that Strategy may resume buying.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-30T20:10:42.868610+00:00"
   },
   {
     "title": "After Their AI Models Hacked Real Companies, AI Labs Call for Stronger Cyber Defenses",
@@ -60,51 +69,42 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-30T17:01:10.812721+00:00"
+    "fetched_at": "2026-08-30T20:10:42.868672+00:00"
   },
   {
-    "title": "Bernie Sanders Vows Legislation to 'Stop Flock and AI Mass Surveillance'",
-    "url": "https://decrypt.co/376878/bernie-sanders-ban-flock-ai-surveillance",
-    "summary": "The Vermont senator warned that the surveillance company's 120,000-plus AI cameras are pushing the US toward a \"surveillance state,\" adding a prominent voice to a growing bipartisan backlash.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-30T17:01:10.812783+00:00"
-  },
-  {
-    "title": "Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply",
-    "url": "https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064",
-    "summary": "The affected tokens make up about 4% of FOGO's genesis supply and were worth about $3 million at the time of the incident.",
+    "title": "Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million",
+    "url": "https://www.theblock.co/news/defi/2026-08-30-crypto-com-linked-cronos-network-halts-after-tectonic-exploit-estimated-at-75-million-413069",
+    "summary": "Li says the attacker manipulated the price of Tectonic's illiquid TONIC token before borrowing against the inflated collateral, a Mango Markets-style hack.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-30T17:01:10.907382+00:00"
+    "fetched_at": "2026-08-30T20:10:42.972440+00:00"
   },
   {
-    "title": "Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack",
-    "url": "https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061",
-    "summary": "MANTRA Chain, which lost $3.6 million, claimed the patch was only released 20 hours before the attack began and did not identify the flaw it fixed.",
+    "title": "Chainalysis accuses ICE of unfairly steering $95 million blockchain contract to TRM Labs",
+    "url": "https://www.theblock.co/news/business/2026-08-30-chainalysis-accuses-ice-of-unfairly-steering-95-million-blockchain-contract-to-trm-labs-413066",
+    "summary": "The lawsuit asks a federal court to block the $95 million TRM contract and require ICE to conduct a full and open competition.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-30T17:01:10.907448+00:00"
+    "fetched_at": "2026-08-30T20:10:42.972500+00:00"
   },
   {
-    "title": "Rising bond yields add tens of billions to G7 countries\u2019 debt costs",
-    "url": "https://www.ft.com/content/bbe90db5-64ac-441d-87e4-e984c5ef8629?syn-25a6b1a6=1",
-    "summary": "World\u2019s biggest developed economies face higher financing costs since start of US-Iran war, weighing on public finances",
+    "title": "Big Tech profits get $160bn boost from gains on stakes in other AI companies",
+    "url": "https://www.ft.com/content/a5a0081f-e998-4c80-b967-cc535cbc4933?syn-25a6b1a6=1",
+    "summary": "Analysts say large paper windfalls on investments in OpenAI, Anthropic and SpaceX have muddied the tech sector\u2019s earnings metrics",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-30T17:01:11.785904+00:00"
+    "fetched_at": "2026-08-30T20:10:44.073992+00:00"
   },
   {
-    "title": "What\u2019s the fiscal hit from higher yields?",
-    "url": "https://www.ft.com/content/63311687-676b-4548-9bd8-3d7ad96d7ce5",
-    "summary": "A long answer to a simple question",
+    "title": "Americans feel they have lost their agency",
+    "url": "https://www.ft.com/content/63e8a4f3-7c18-4ddc-b3b7-e472159a7adf?syn-25a6b1a6=1",
+    "summary": "People increasingly blame large corporations for the sense that they have ever less control over their own lives",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-30T17:01:11.785961+00:00"
+    "fetched_at": "2026-08-30T20:10:44.074053+00:00"
   }
 ]
