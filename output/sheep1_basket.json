@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-29T22:52:48.522615+00:00"
+    "fetched_at": "2026-08-30T00:51:16.425481+00:00"
   },
   {
     "title": "Stellar tokenized RWA market more than quadruples to nearly $4B",
@@ -15,7 +15,16 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-29T22:52:48.522700+00:00"
+    "fetched_at": "2026-08-30T00:51:16.425552+00:00"
+  },
+  {
+    "title": "Day Traders Are Abandoning Korean Chip Leveraged ETFs in Droves",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-30/day-traders-are-abandoning-korean-chip-leveraged-etfs-in-droves",
+    "summary": "An onerous mock trading course is becoming an effective tool for South Korea to cool investor fervor over risky products that have turned the country\u2019s $4.3 trillion stock market extremely volatile.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-08-30T00:51:17.767290+00:00"
   },
   {
     "title": "Guggenheim Ties Weigh on Acrisure Debt, Dragging High-Yield Credit Markets",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-29T22:52:49.380357+00:00"
-  },
-  {
-    "title": "Warsh Says Inflation Isn\u2019t Slowing, Vows to Reach 2% Target",
-    "url": "https://www.bloomberg.com/news/videos/2026-08-29/warsh-says-inflation-isn-t-slowing-vows-to-reach-2-video",
-    "summary": "Warsh reiterated that policymakers have a \"firm, fixed target\" of 2% inflation at the 2026 Jackson Hole Economic Policy Symposium. Bloomberg's Maria Eloisa Capurro explains.  (Source: Bloomberg)",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-08-29T22:52:49.380419+00:00"
+    "fetched_at": "2026-08-30T00:51:17.767345+00:00"
   },
   {
     "title": "Bitcoin Cools Off After $3 Billion ETF-Driven Surge",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-29T22:52:48.799567+00:00"
+    "fetched_at": "2026-08-30T00:51:16.791229+00:00"
   },
   {
     "title": "Debasement Trade Is Here Thanks to Government Debt \u2014 And Bitcoin Will Benefit: Grayscale",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-29T22:52:48.799639+00:00"
+    "fetched_at": "2026-08-30T00:51:16.791296+00:00"
   },
   {
     "title": "Bernie Sanders Vows Legislation to 'Stop Flock and AI Mass Surveillance'",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-29T22:52:48.905836+00:00"
+    "fetched_at": "2026-08-30T00:51:16.915989+00:00"
   },
   {
     "title": "Bitcoin's Oldest Coins Are Waking Up in 2026 at a Pace Rarely Seen",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-29T22:52:48.905894+00:00"
+    "fetched_at": "2026-08-30T00:51:16.916046+00:00"
   },
   {
     "title": "Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-29T22:52:48.993320+00:00"
+    "fetched_at": "2026-08-30T00:51:17.031055+00:00"
   },
   {
     "title": "Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-29T22:52:48.993382+00:00"
+    "fetched_at": "2026-08-30T00:51:17.031113+00:00"
   },
   {
     "title": "Warsh puts Fed on collision course with Trump ahead of midterms",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-29T22:52:49.929150+00:00"
+    "fetched_at": "2026-08-30T00:51:18.553570+00:00"
   },
   {
     "title": "Warsh charts a forward-looking path for the Fed at Jackson Hole",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-29T22:52:49.929213+00:00"
+    "fetched_at": "2026-08-30T00:51:18.553641+00:00"
   }
 ]
