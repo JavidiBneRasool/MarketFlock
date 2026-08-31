@@ -1,39 +1,39 @@
 [
   {
+    "title": "Bitcoin\u2019s new quantum defenses, 18.9M SOL cancelled: Hodler\u2019s Digest",
+    "url": "https://cointelegraph.com/magazine/bitcoins-new-quantum-defenses-189m-sol-cancelled-hodlers-digest",
+    "summary": "Bitcoin moves toward a post quantum future, Solana validators agree to curb rampant inflation and the bull case from Bernstein is for Bitcoin to peak at $500K this cycle. ",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-08-31T01:03:58.330510+00:00"
+  },
+  {
     "title": "Saylor signals Strategy is \u2018Back\u2019 to Bitcoin buying",
     "url": "https://cointelegraph.com/news/saylor-signals-strategy-is-back-to-bitcoin-buying",
     "summary": "Michael Saylor\u2019s \u201cWe\u2019re Back\u201d post hints Strategy may resume Bitcoin buying after a two-month pause to strengthen its balance sheet.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-30T22:58:37.499744+00:00"
+    "fetched_at": "2026-08-31T01:03:58.330588+00:00"
   },
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-08-30T22:58:37.499808+00:00"
-  },
-  {
-    "title": "Oil Rises on Iran Tensions, US Stock Futures Dip: Markets Wrap",
+    "title": "Asian Stocks Drop on Hawkish Warsh Tone, Oil Gains: Markets Wrap",
     "url": "https://www.bloomberg.com/news/articles/2026-08-30/stock-market-today-dow-s-p-live-updates",
-    "summary": "Oil jumped in early Asia trading as Middle East tensions accelerated, while the dollar held gains after hawkish comments from Federal Reserve Chair Kevin Warsh fueled bets on a rate hike next month.",
+    "summary": "Asian stocks dropped and the dollar held its gains after hawkish comments from Federal Reserve Chair Kevin Warsh strengthened bets on an interest-rate hike next month. Oil climbed as Middle East tensions intensified.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-30T22:58:38.697135+00:00"
+    "fetched_at": "2026-08-31T01:03:59.514522+00:00"
   },
   {
-    "title": "Latest Oil Market News and Analysis for Aug. 31",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-30/latest-oil-market-news-and-analysis-for-aug-31",
-    "summary": "Oil surged after fresh fighting flared up in the Strait of Hormuz, highlighting risks to flows from the Middle East after months of conflict.",
+    "title": "Grand Canyon Flash Flood Leaves at Least 15 Missing",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-31/grand-canyon-flash-flood-leaves-at-least-15-missing",
+    "summary": "At least 15 people may be missing or unaccounted for after a flash flood in the Grand Canyon, the National Park Service said in a statement on Sunday.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-30T22:58:38.697186+00:00"
+    "fetched_at": "2026-08-31T01:03:59.514573+00:00"
   },
   {
     "title": "Bitcoin Cools Off After $3 Billion ETF-Driven Surge",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-30T22:58:37.843698+00:00"
+    "fetched_at": "2026-08-31T01:03:58.665756+00:00"
   },
   {
     "title": "Debasement Trade Is Here Thanks to Government Debt \u2014 And Bitcoin Will Benefit: Grayscale",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-30T22:58:37.843811+00:00"
+    "fetched_at": "2026-08-31T01:03:58.665820+00:00"
+  },
+  {
+    "title": "Ex-White House Teleprompter Operator Fined for Prediction Market Insider Trading",
+    "url": "https://decrypt.co/376909/white-house-teleprompter-fined-prediction-market-trading",
+    "summary": "Gabriel Perez used his access to Trump's speeches before delivery to bet on \"presidential mention market\" contracts, profiting more than $107,500 before the CFTC caught up with him.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-08-31T01:03:58.796765+00:00"
   },
   {
     "title": "Polygon Quietly Patched Security Flaws in Two Hard Forks Before Disclosing Them",
@@ -60,16 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-30T22:58:38.010647+00:00"
-  },
-  {
-    "title": "Bitcoin ETFs Snap Nine-Day Inflow Streak as Ethereum Funds Extend Their Run",
-    "url": "https://decrypt.co/376897/bitcoin-etfs-snap-streak-ethereum-funds-extend",
-    "summary": "Spot Bitcoin ETFs shed $201.9 million on Aug. 28, ending a nine-day inflow run, even as Ethereum funds extended a 10-day streak with fresh cash.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-30T22:58:38.010699+00:00"
+    "fetched_at": "2026-08-31T01:03:58.796819+00:00"
   },
   {
     "title": "Kalshi becomes exclusive prediction market partner of US Open: report",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-30T22:58:38.151664+00:00"
+    "fetched_at": "2026-08-31T01:03:58.932597+00:00"
   },
   {
     "title": "Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million",
@@ -87,16 +87,16 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-30T22:58:38.151720+00:00"
+    "fetched_at": "2026-08-31T01:03:58.932654+00:00"
   },
   {
-    "title": "Big Tech profits get $160bn boost from gains on stakes in other AI companies",
-    "url": "https://www.ft.com/content/a5a0081f-e998-4c80-b967-cc535cbc4933?syn-25a6b1a6=1",
-    "summary": "Analysts say large paper windfalls on investments in OpenAI, Anthropic and SpaceX have muddied the tech sector\u2019s earnings metrics",
+    "title": "US and Iran exchange fire for the first time in more than a month",
+    "url": "https://www.ft.com/content/f270814f-e836-44e8-80c2-ec1034f80519?syn-25a6b1a6=1",
+    "summary": "Oil prices rise after American military hits an island in the Strait of Hormuz and Tehran retaliates in Jordan",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-30T22:58:39.478506+00:00"
+    "fetched_at": "2026-08-31T01:04:00.289434+00:00"
   },
   {
     "title": "Americans feel they have lost their agency",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-30T22:58:39.478562+00:00"
+    "fetched_at": "2026-08-31T01:04:00.289508+00:00"
   }
 ]
