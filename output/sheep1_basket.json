@@ -1,39 +1,39 @@
 [
   {
-    "title": "BlackRock drives $217M Bitcoin ETF rebound as altcoin funds continue streaks",
-    "url": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-inflow-rebound",
-    "summary": "Ether ETFs extended their inflow streak to 11 trading sessions, while XRP and Solana funds each logged a 10th consecutive positive session.",
+    "title": "Bitfinex Securities lists tokenized notes tied to Strategy, Metaplanet",
+    "url": "https://cointelegraph.com/news/bitfinex-tokenized-strategy-metaplanet-notes",
+    "summary": "Five equity-backed notes issued through Luxembourg\u2019s ORO II fund will trade against dollars, USDT and Bitcoin for eligible non-US investors.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-01T05:48:41.432161+00:00"
+    "fetched_at": "2026-09-01T10:38:52.767054+00:00"
   },
   {
-    "title": "Thailand SEC proposes retail access to regulated overseas crypto derivatives",
-    "url": "https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives",
-    "summary": "Thailand\u2019s SEC seeks comments on rules requiring retail-accessible overseas crypto derivatives to trade on qualifying, centrally cleared exchanges.",
+    "title": "Singapore weighs recognizing some foreign-issued stablecoins",
+    "url": "https://cointelegraph.com/news/singapore-weighs-foreign-regulated-stablecoins-mas-framework",
+    "summary": "Singapore is considering allowing jointly issued cross-border stablecoins into its regulatory regime, revisiting its earlier decision to restrict the framework to domestic issuance.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-01T05:48:41.432239+00:00"
+    "fetched_at": "2026-09-01T10:38:52.767134+00:00"
   },
   {
-    "title": "Global Bond Yields Climb Back to Highest Since 2008",
-    "url": "https://www.bloomberg.com/news/videos/2026-09-01/global-bond-yields-climb-back-to-highest-since-2008-video",
-    "summary": "A selloff in global bonds sent yields back to the highest level in almost two decades as rising oil prices fueled inflation concerns and investors ramped up expectations that the Federal Reserve will raise interest rates. Bloomberg's Ven Ram reports. (Source: Bloomberg)",
+    "title": "Villanova Transforms Closed Campus Into $171 Million Expansion",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-01/villanova-transforms-closed-campus-into-171-million-expansion",
+    "summary": "When a neighboring college closed, Villanova University scooped up the campus, giving the powerhouse school the ability to add more students. (Source: Bloomberg)",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-01T05:48:42.276821+00:00"
+    "fetched_at": "2026-09-01T10:38:53.739592+00:00"
   },
   {
-    "title": "Taiwan's GlobalWafers on Expansion Plans",
-    "url": "https://www.bloomberg.com/news/videos/2026-09-01/taiwan-s-globalwafers-on-expansion-plans-video",
-    "summary": "Doris Hsu, Chairperson at GlobalWafers, discusses the company's US plans and business strategy from the sidelines of SEMICON Taiwan in Taipei. (Source: Bloomberg)",
+    "title": "Knicks and the Pope Boost Villanova's Profile as $170\u00a0Million Campus Opens",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-01/knicks-and-the-pope-boost-villanova-s-profile-as-170-million-campus-opens",
+    "summary": "When a neighboring college closed, the Catholic university scooped up the campus, giving the powerhouse school the ability to add more students.&nbsp;",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-01T05:48:42.276875+00:00"
+    "fetched_at": "2026-09-01T10:38:53.739654+00:00"
   },
   {
     "title": "Strategy Opposes MSCI Proposal, Says Bitcoin Treasury Firms Are Being Targeted a Second Time",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-01T05:48:41.708516+00:00"
+    "fetched_at": "2026-09-01T10:38:53.105133+00:00"
   },
   {
     "title": "Bitcoin Unfazed by Trump\u2019s Iran Threats",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-01T05:48:41.708585+00:00"
+    "fetched_at": "2026-09-01T10:38:53.105193+00:00"
+  },
+  {
+    "title": "UK's National Crime Agency Freezes $13.6M of Premier League Money in Sorare Probe: Report",
+    "url": "https://decrypt.co/377006/uks-national-crime-agency-freezes-13-6m-of-premier-league-money-in-sorare-probe-report",
+    "summary": "The sum was the first payment under a $163 million deal with the Messi-backed fantasy card game, now facing a gambling prosecution.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-09-01T10:38:53.192345+00:00"
   },
   {
     "title": "As Public Fury Mounts, Texas Pulls the Plug on Flock Surveillance Funding",
@@ -60,51 +69,42 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-01T05:48:41.804896+00:00"
+    "fetched_at": "2026-09-01T10:38:53.192404+00:00"
   },
   {
-    "title": "Strive Adds $143 Million in Bitcoin as Treasury Firms Pile Back In",
-    "url": "https://decrypt.co/376992/strive-adds-143-million-bitcoin",
-    "summary": "The Nasdaq-listed asset manager paid an average of $79,431 per coin, lifting its total stash to 23,156 BTC amid a wave of renewed treasury buying.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-09-01T05:48:41.804954+00:00"
-  },
-  {
-    "title": "Ark Invest buys $37 million worth of shares in Jack Dorsey\u2019s Block Inc",
-    "url": "https://www.theblock.co/news/markets/2026-09-01-ark-invest-buys-37-million-block-413195",
-    "summary": "Last month, Ark had purchased a bulk of Block shares after its second-quarter results that raised its full-year profit forecast to $12.5 billion",
+    "title": "Binance adds options on 1,000 US stocks and ETFs as monthly TradFi perpetual volume hits $433 billion",
+    "url": "https://www.theblock.co/news/business/2026-09-01-binance-adds-options-1000-us-stocks-etfs-monthly-tradfi-perpetual-volume-surge-413213",
+    "summary": "TradFi perpetual futures volume reached approximately $433.4 billion on Binance in August, up roughly 15 times since January.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-01T05:48:41.895819+00:00"
+    "fetched_at": "2026-09-01T10:38:53.263709+00:00"
   },
   {
-    "title": "DeFi Development Corp proposes $20 million preferred stock offering to buy more SOL",
-    "url": "https://www.theblock.co/news/business/2026-08-31-solana-defi-development-preferred-stock-offering-413190",
-    "summary": "The Nasdaq-listed company intends to use the proceeds to acquire more Solana and crypto-related investments.",
+    "title": "Kraken parent Payward to tokenize 100 London-listed stocks, with LSE 24 trading planned",
+    "url": "https://www.theblock.co/news/business/2026-09-01-kraken-parent-payward-to-tokenize-100-london-listed-stocks-with-lse-24-trading-planned-413208",
+    "summary": "Payward will tokenize 100 London-listed stocks as xStocks, with LSE 24 to support trading, subject to regulatory approval.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-01T05:48:41.895885+00:00"
+    "fetched_at": "2026-09-01T10:38:53.263771+00:00"
   },
   {
-    "title": "Japan\u2019s benchmark bond yield hits 3% for first time since 1996",
+    "title": "Global bond sell-off deepens amid inflation fears",
     "url": "https://www.ft.com/content/e6f5f97a-b199-444e-aaec-b8199359b08e?syn-25a6b1a6=1",
-    "summary": "US Treasury secretary Scott Bessent sends signal that he expects Bank of Japan to raise rates soon",
+    "summary": "UK borrowing costs rise to highest since 2008 while Japan yields hit levels not seen since 1990s",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-01T05:48:42.964474+00:00"
+    "fetched_at": "2026-09-01T10:38:54.467370+00:00"
   },
   {
-    "title": "Revolut\u2019s mission to dominate banking",
-    "url": "https://www.ft.com/content/f9f240f9-4077-421f-b320-6dc895d65fd1?syn-25a6b1a6=1",
-    "summary": "For years, it struggled to get a licence to operate as a bank. Now it wants to shake up the industry with an \u2018everything app\u2019",
+    "title": "Eurozone inflation rises to 3.3% in August",
+    "url": "https://www.ft.com/content/1b4d308c-3d49-4794-8280-187615c21876?syn-25a6b1a6=1",
+    "summary": "ECB expected to raise interest rates next week as higher energy prices bite",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-01T05:48:42.964554+00:00"
+    "fetched_at": "2026-09-01T10:38:54.467434+00:00"
   }
 ]
