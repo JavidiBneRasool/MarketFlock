@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-31T21:09:38.819185+00:00"
+    "fetched_at": "2026-09-01T00:51:12.371674+00:00"
   },
   {
     "title": "Ireland excludes crypto from new tax-advantaged investment accounts",
@@ -15,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-08-31T21:09:38.819262+00:00"
+    "fetched_at": "2026-09-01T00:51:12.371751+00:00"
   },
   {
-    "title": "Refiners Granted Highest Level of Biofuel Waivers Since 2017",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-31/us-grants-refiners-highest-level-of-biofuel-waivers-since-2017",
-    "summary": "The Trump administration granted smaller oil refineries the biggest amount of exemptions from mandates requiring them to blend renewable fuels since 2017.",
+    "title": "Australia Housing Boom Shows Signs of Cracking",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-01/australia-housing-boom-shows-signs-of-cracking-video",
+    "summary": "For the past three decades, rising Australian housing prices have enriched families and made property the engine of household wealth. Now the boom is under threat, and the consequences are rippling across the financial system. Bloomberg's Paul Allen looks at what that means for property buyers and s",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-31T21:09:40.169332+00:00"
+    "fetched_at": "2026-09-01T00:51:13.178618+00:00"
   },
   {
-    "title": "Brookfield Lines Up a $600 Million Payout in Niche Credit Market",
-    "url": "https://www.bloomberg.com/news/articles/2026-08-31/brookfield-lines-up-a-600-million-payout-in-niche-credit-market",
-    "summary": "HomeServe is in early discussions with lenders for an asset-backed transaction that would pay owner Brookfield Asset Management Ltd. a dividend of $600 million, according to people with knowledge of the matter.",
+    "title": "Asian Bonds Under Pressure as Oil Extends Advance: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-08-31/asian-stocks-to-fall-as-iran-flare-up-boosts-oil-markets-wrap",
+    "summary": "Asian bonds followed Treasuries lower as renewed geopolitical tensions drove oil prices higher, fueling inflation concerns and expectations for further monetary tightening.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-08-31T21:09:40.169392+00:00"
+    "fetched_at": "2026-09-01T00:51:13.178677+00:00"
   },
   {
     "title": "Strategy Opposes MSCI Proposal, Says Bitcoin Treasury Firms Are Being Targeted a Second Time",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-31T21:09:39.316866+00:00"
+    "fetched_at": "2026-09-01T00:51:12.630364+00:00"
   },
   {
     "title": "Bitcoin Unfazed by Trump\u2019s Iran Threats",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-31T21:09:39.316946+00:00"
+    "fetched_at": "2026-09-01T00:51:12.630426+00:00"
+  },
+  {
+    "title": "As Public Fury Mounts, Texas Pulls the Plug on Flock Surveillance Funding",
+    "url": "https://decrypt.co/376999/texas-bans-flock-surveillance-funding",
+    "summary": "Gov. Greg Abbott ordered state agencies to stop paying for the AI-powered license-plate readers as privacy concerns and officer-misuse scandals mount across Texas.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-09-01T00:51:12.740200+00:00"
   },
   {
     "title": "Strive Adds $143 Million in Bitcoin as Treasury Firms Pile Back In",
@@ -60,16 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-31T21:09:39.468114+00:00"
+    "fetched_at": "2026-09-01T00:51:12.740260+00:00"
   },
   {
-    "title": "George Santos Bet on Whether He'd Show Up to the State of the Union\u2014Kalshi Just Banned Him for Life",
-    "url": "https://decrypt.co/376985/george-santos-kalshi-lifetime-ban",
-    "summary": "The exchange found the former congressman placed large trades on his own State of the Union attendance, then made false statements to move prices, profiting nearly $18,000.",
-    "source": "Decrypt",
+    "title": "Robinhood Chain hits record $989 million in daily DEX volume as TVL grows",
+    "url": "https://www.theblock.co/news/markets/2026-08-31-robinhood-chain-activity-surges-in-august-as-dex-volume-near-1-billion-413136",
+    "summary": "Robinhood Chain DEX volume hit a record in the month of August as utility tokens gain ground on memecoins.",
+    "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-31T21:09:39.468183+00:00"
+    "fetched_at": "2026-09-01T00:51:12.813301+00:00"
   },
   {
     "title": "Solana fees hit record as validators double pace of inflation cuts",
@@ -78,33 +87,24 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-08-31T21:09:39.611969+00:00"
+    "fetched_at": "2026-09-01T00:51:12.813360+00:00"
   },
   {
-    "title": "Hyperliquid seeks US foothold through Kraken parent Payward in crypto perpetuals deal: Bloomberg",
-    "url": "https://www.theblock.co/news/markets/2026-08-31-hyperliquid-eyes-us-entry-kraken-parent-payward-perpetual-futures-deal-bloomberg-413129",
-    "summary": "Payward has reportedly presented the CFTC with an outline of the proposed structure, though regulatory approval is still pending.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-08-31T21:09:39.612042+00:00"
-  },
-  {
-    "title": "Trump says data centre critics \u2018want to end up backwards and poor\u2019",
-    "url": "https://www.ft.com/content/744c448c-858e-4398-85dc-a66cecd02abb?syn-25a6b1a6=1",
-    "summary": "US president urges voters to \u2018let Data Reign\u2019 as unpopular building boom roils midterm campaigns",
+    "title": "US Army secretary resigns after tension with Pete Hegseth",
+    "url": "https://www.ft.com/content/0d72d3c1-8786-44f0-b88a-ca41b6286a31?syn-25a6b1a6=1",
+    "summary": "Dan Driscoll latest senior military figure to quit, leaving a vacuum at top of the American armed forces",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-31T21:09:41.176227+00:00"
+    "fetched_at": "2026-09-01T00:51:13.875888+00:00"
   },
   {
-    "title": "The dawn of physical AI",
-    "url": "https://www.ft.com/content/fc8f86f2-96ad-4bfb-bba4-75326115aa24?syn-25a6b1a6=1",
-    "summary": "Wall Street and Silicon Valley have high hopes for AI that interacts with the real world. But unions and economists warn of its effects on jobs and wages",
+    "title": "Darializa Avila Chevalier: The face of America\u2019s socialist insurgency",
+    "url": "https://www.ft.com/content/2ca855a9-be0d-4915-b4f0-b48355c6aa4a?syn-25a6b1a6=1",
+    "summary": "The Democratic congressional candidate\u2019s improbable rise has spooked the party establishment",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-08-31T21:09:41.176287+00:00"
+    "fetched_at": "2026-09-01T00:51:13.875959+00:00"
   }
 ]
