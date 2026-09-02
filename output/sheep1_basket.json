@@ -1,39 +1,48 @@
 [
   {
-    "title": "Thailand adopts crypto Travel Rule with self-custodial wallet checks",
-    "url": "https://cointelegraph.com/news/thailand-crypto-travel-rule-self-custodial-wallet-checks",
-    "summary": "Thailand adopted a crypto Travel Rule requiring digital asset operators to verify control of self-custodial wallets and retain transaction data for five years.",
+    "title": "Sui DeFi protocol Full Sail to wind down after Switchboard incident",
+    "url": "https://cointelegraph.com/news/full-sail-sui-wind-down-switchboard-incident",
+    "summary": "Full Sail is shutting down after an attacker removed about $91,000 from three vaults during a security incident linked to oracle provider Switchboard.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-02T11:48:13.621860+00:00"
+    "fetched_at": "2026-09-02T15:28:10.277531+00:00"
   },
   {
-    "title": "Crypto industry urges SEC to avoid blanket novel ETF restrictions",
-    "url": "https://cointelegraph.com/news/crypto-industry-sec-novel-etf-restrictions",
-    "summary": "Grayscale, a16z, and the CCI asked the SEC to preserve existing classification rules and avoid treating novel exchange-traded products as a single category, while proposing different routes to clearer and faster reviews.",
+    "title": "BTC will hit $1M by 2030... but Arthur Hayes is buying ETH instead",
+    "url": "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead",
+    "summary": "Arthur Hayes says Bitcoin is going to grind higher from here, but Ethereum is his number one pick due to its potential to increase \u201c3x to 5x pretty quickly.\u201d",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-02T11:48:13.621935+00:00"
+    "fetched_at": "2026-09-02T15:28:10.277610+00:00"
   },
   {
-    "title": "Chevron to Invest $7 Billion to Boost Venezuelan Output",
-    "url": "https://www.bloomberg.com/news/videos/2026-09-02/chevron-to-invest-7-billion-to-boost-venezuelan-output-video",
-    "summary": "Chevron plans to more than double its oil production in Venezuela, investing $7 billion over the next five years. The company is making largest financial commitment so far in a US government-led push to revive the Latin American country\u2019s industry. Tyler Kendall reports on Bloomberg Television. (Sou",
+    "title": "New Leaks Draw Brazil Top Court Judge Deeper Into Banco Master Scandal",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-01/new-leaks-draw-brazil-top-court-judge-deeper-into-banco-master-scandal",
+    "summary": "A prominent Brazilian Supreme Court judge is facing renewed scrutiny over alleged ties to Banco Master SA after the release of text messages from the former owner of the failed lender.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-02T11:48:14.490830+00:00"
+    "fetched_at": "2026-09-02T15:28:11.213203+00:00"
   },
   {
-    "title": "US Diesel Hits Highest Since April as Wars Strain Supply",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-02/us-diesel-hits-highest-since-april-as-wars-strain-global-supply",
-    "summary": "US diesel advanced to the highest price since hitting a peak in April during the initial phase of the US-Iran war, highlighting the inflationary pressures menacing the global economy as the conflict drags on.",
+    "title": "The \u2018Permission Bottleneck\u2019 Coming for Stocks",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-09-02/the-permission-bottleneck-coming-for-stocks",
+    "summary": "The AI buildout has been lifting all boats.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-02T11:48:14.490886+00:00"
+    "fetched_at": "2026-09-02T15:28:11.213263+00:00"
+  },
+  {
+    "title": "Strategy CEO Defends Bitcoin Sale as the \u2018Right Trade\u2019",
+    "url": "https://bitcoinmagazine.com/news/strategy-ceo-phong-le-defends-bitcoin-sale",
+    "summary": "Bitcoin Magazine\n\nStrategy CEO Defends Bitcoin Sale as the &#8216;Right Trade&#8217;\u00a0\nStrategy CEO has reassured investors that the company has only sold a \"miniscule\" amount of its bitcoin. \nThis post Strategy CEO Defends Bitcoin Sale as the &#8216;Right Trade&#8217;\u00a0 first appeared on Bitcoin Maga",
+    "source": "Bitcoin Magazine",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-09-02T15:28:10.586859+00:00"
   },
   {
     "title": "Bitcoin Slides as US-Iran Tensions Escalate",
@@ -42,61 +51,52 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-02T11:48:14.008544+00:00"
+    "fetched_at": "2026-09-02T15:28:10.586921+00:00"
   },
   {
-    "title": "Bitcoin Defies Seasonal Slump With Third-Best August Ever",
-    "url": "https://bitcoinmagazine.com/news/bitcoin-has-its-third-best-august-ever",
-    "summary": "Bitcoin Magazine\n\nBitcoin Defies Seasonal Slump With Third-Best August Ever\nBitcoin usually has a summer lull but August was different, analysts have pointed out. \nThis post Bitcoin Defies Seasonal Slump With Third-Best August Ever first appeared on Bitcoin Magazine and is written by Mathew Di Salvo",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-09-02T11:48:14.008605+00:00"
-  },
-  {
-    "title": "Sality Botnet Dismantled After Eight Years of Stealing Bitcoin and Ethereum",
-    "url": "https://decrypt.co/377156/sality-botnet-dismantled-after-eight-years-of-stealing-bitcoin-and-ethereum",
-    "summary": "CrowdStrike and the DOJ isolated more than 15,000 infected machines in a malware takedown spanning four countries.",
+    "title": "Norway Moves to Regulate 'Pervert Glasses,' Weighs Facial Recognition Ban",
+    "url": "https://decrypt.co/377169/norway-moves-to-regulate-pervert-glasses-weighs-facial-recognition-ban",
+    "summary": "The country's consumer watchdog went further, urging retailers to stop selling the devices until the law is clear.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-02T11:48:14.088451+00:00"
+    "fetched_at": "2026-09-02T15:28:10.683381+00:00"
   },
   {
-    "title": "SEC Proposes First Transfer Agent Overhaul in 40 Years, Citing Tokenization",
-    "url": "https://decrypt.co/377149/sec-proposes-first-transfer-agent-overhaul-in-40-years-citing-tokenization",
-    "summary": "New Form TA-2 questions would make agents report how many share registers they keep on distributed ledgers.",
+    "title": "AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%",
+    "url": "https://decrypt.co/377162/ai-billionaires-fund-ad-blitz-as-data-center-opposition-hits-61",
+    "summary": "Marc Andreessen, Ben Horowitz and OpenAI's Greg Brockman have backed the super PAC behind the campaign, which faces surging opposition.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-02T11:48:14.088506+00:00"
+    "fetched_at": "2026-09-02T15:28:10.683438+00:00"
   },
   {
-    "title": "Japan-listed Remixpoint sells all ETH, SOL, XRP and DOGE holdings in shift to bitcoin-only crypto strategy",
-    "url": "https://www.theblock.co/news/business/2026-09-02-japan-listed-remixpoint-sells-all-eth-sol-xrp-and-doge-holdings-in-shift-to-bitcoin-only-crypto-strategy-413333",
-    "summary": "Bitcoin is now Remixpoint's only cryptocurrency holding, with approximately 1,506 BTC, worth around $115 million.",
+    "title": "Wyoming expands Chainlink partnership with onchain reserve verification for FRNT",
+    "url": "https://www.theblock.co/news/ecosystems/2026-09-02-wyoming-expands-chainlink-partnership-onchain-reserve-verification-frnt-413294",
+    "summary": "Last month, Wyoming\u2019s Stable Token Commission fully migrated FRNT from LayerZero to Chainlink CCIP after a security review.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-02T11:48:14.159120+00:00"
+    "fetched_at": "2026-09-02T15:28:10.786660+00:00"
   },
   {
-    "title": "Strategy CEO says selling bitcoin at $60,000 before buying at $80,000 was the \u2018right trade\u2019",
-    "url": "https://www.theblock.co/news/business/2026-09-02-strategy-ceo-says-selling-bitcoin-at-60000-before-buying-at-80000-was-the-right-trade-413323",
-    "summary": "Strategy CEO Phong Le defended selling bitcoin at $60,000 before buying at $80,000, citing corporate capital costs.",
+    "title": "Adam Back invests another $8.8 million in Capital B as bitcoin treasury firm targets 3,521 BTC",
+    "url": "https://www.theblock.co/news/business/2026-09-02-adam-back-invests-another-8-8-million-in-capital-b-as-bitcoin-treasury-firm-targets-3521-btc-413339",
+    "summary": "Capital B raised $8.8 million from Adam Back in a private placement as the French bitcoin treasury firm targets 3,521 BTC.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-02T11:48:14.159232+00:00"
+    "fetched_at": "2026-09-02T15:28:10.786731+00:00"
   },
   {
-    "title": "Russia secretly helping Iran develop supersonic cruise missiles",
-    "url": "https://www.ft.com/content/6cf367bc-95b0-4f1f-b149-a25684adefc3?syn-25a6b1a6=1",
-    "summary": "Leaks reveal programme behind one of the most significant known transfers of military technology from Moscow to Tehran",
+    "title": "Uber to axe 10% of its workforce in biggest cuts since pandemic",
+    "url": "https://www.ft.com/content/5eda86fe-1d2c-4a4e-9563-24a50aa734a4?syn-25a6b1a6=1",
+    "summary": "Ride-hailing group to eliminate 3,300 jobs as competition rises in food delivery sector and robotaxi race intensifies",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-02T11:48:15.089328+00:00"
+    "fetched_at": "2026-09-02T15:28:12.055048+00:00"
   },
   {
     "title": "Pentagon chaos deepens after Driscoll quits in clash with Hegseth",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-02T11:48:15.089395+00:00"
+    "fetched_at": "2026-09-02T15:28:12.055119+00:00"
   }
 ]
