@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-01T23:37:40.866466+00:00"
+    "fetched_at": "2026-09-02T01:42:17.015828+00:00"
   },
   {
     "title": "Binance expands TradFi push with options on 1,000 US stocks, ETFs",
@@ -15,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-01T23:37:40.866562+00:00"
+    "fetched_at": "2026-09-02T01:42:17.015907+00:00"
   },
   {
-    "title": "Asian Stocks Set to Fall as Oil Gains, Bonds Drop: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-01/stock-market-today-dow-s-p-live-updates",
-    "summary": "Asian stocks were set to decline as surging oil prices drove global bond yields higher and fueled concerns that resurgent inflation will force central banks to tighten monetary policy.",
+    "title": "Bessent\u2019s Bond Gains Wiped Out as Treasury Yields Jump Again",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-01/bessent-s-bond-gains-wiped-out-as-30-year-yields-jump-once-again",
+    "summary": "The yield on 30-year US government bonds climbed back to levels seen just before Treasury Secretary Scott Bessent expanded a buyback program in an effort to contain long-term borrowing costs.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-01T23:37:41.866478+00:00"
+    "fetched_at": "2026-09-02T01:42:18.349729+00:00"
   },
   {
-    "title": "Latest Oil Market News and Analysis for Sept. 2",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-01/latest-oil-market-news-and-analysis-for-sept-2",
-    "summary": "Oil advanced for a third session on heightened concerns about prolonged disruptions to energy flows through the Strait of Hormuz after an escalation of hostilities between the US and Iran.",
+    "title": "Insolvent Bathla Faces 24-Hour Deadline for Deal With Creditors",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-02/insolvent-bathla-faces-24-hour-deadline-for-deal-with-creditors",
+    "summary": "Insolvent Australian property developer Bathla Group faces a 24-hour timeframe for talks with its creditors to secure short-term funding, according to a person familiar with the matter, in its last-ditch effort to avert collapse.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-01T23:37:41.866551+00:00"
+    "fetched_at": "2026-09-02T01:42:18.349785+00:00"
   },
   {
     "title": "Bitcoin Slides as US-Iran Tensions Escalate",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-01T23:37:41.192461+00:00"
+    "fetched_at": "2026-09-02T01:42:17.463685+00:00"
   },
   {
     "title": "Bitcoin Defies Seasonal Slump With Third-Best August Ever",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-01T23:37:41.192521+00:00"
+    "fetched_at": "2026-09-02T01:42:17.463745+00:00"
   },
   {
     "title": "OpenClaw 2.0 Is Here: What Changed, Why It Took Two Months, and How It Stacks Up Against Hermes",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-01T23:37:41.297497+00:00"
+    "fetched_at": "2026-09-02T01:42:17.584273+00:00"
   },
   {
     "title": "Nvidia Invests $3.5 Billion in MediaTek to Expand Beyond GPUs",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-01T23:37:41.297576+00:00"
+    "fetched_at": "2026-09-02T01:42:17.584329+00:00"
   },
   {
     "title": "Buying memecoins with credit cards on Robinhood Wallet and Fomo appears to sidestep card-network crypto rules",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-01T23:37:41.398926+00:00"
+    "fetched_at": "2026-09-02T01:42:17.712839+00:00"
   },
   {
     "title": "Crypto treasury companies hit $340 billion market cap as altcoin DATs outperform",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-01T23:37:41.398989+00:00"
+    "fetched_at": "2026-09-02T01:42:17.712900+00:00"
   },
   {
     "title": "US launches further strikes on Iran as conflict flares up",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-01T23:37:42.409269+00:00"
+    "fetched_at": "2026-09-02T01:42:19.374343+00:00"
   },
   {
     "title": "US diesel prices soar as Trump hauls in refiners",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-01T23:37:42.409333+00:00"
+    "fetched_at": "2026-09-02T01:42:19.374406+00:00"
   }
 ]
