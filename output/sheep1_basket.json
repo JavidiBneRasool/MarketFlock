@@ -1,39 +1,39 @@
 [
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "title": "Kalshi US visits soar 1,500% as regulatory pressure mounts",
+    "url": "https://cointelegraph.com/news/kalshi-traffic-soars-regulatory-pressure-mounts",
+    "summary": "Kalshi\u2019s US web traffic climbed more than 1,500% in less than a year, while trading volume grew even faster and legal scrutiny of its sports contracts intensified.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-04T06:38:56.746770+00:00"
+    "fetched_at": "2026-09-04T11:50:01.389034+00:00"
   },
   {
-    "title": "El Salvador\u2019s post-review Bitcoin accumulation used no public funds: IMF",
-    "url": "https://cointelegraph.com/news/el-salvador-bitcoin-private-donations-imf",
-    "summary": "The IMF attributed Bitcoin added since June 2025 to private donations, addressing questions raised after El Salvador reported a $100 million acquisition.",
+    "title": "Trezor says data breach affects another 67K US customers",
+    "url": "https://cointelegraph.com/news/trezor-data-breach-affects-67k-us-customers",
+    "summary": "Trezor said an additional 67,000 US users were affected by its shipping provider\u2019s data breach, opening the path to potential phishing attacks and social engineering scams.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-04T06:38:56.746843+00:00"
+    "fetched_at": "2026-09-04T11:50:01.389105+00:00"
   },
   {
-    "title": "World Bank\u2019s Mishra Pushes Back on India GDP Doubts",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-04/world-bank-s-mishra-pushes-back-on-doubts-over-india-growth",
-    "summary": "A range of high-frequency indicators show India\u2019s economy is gaining momentum, said World Bank Executive Director Neelkanth Mishra, pushing back against skepticism over whether strong headline growth reflects conditions on the ground.",
+    "title": "Cocoa Trims Weekly Loss as Deficit Risks Cloud Supply Outlook",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-04/cocoa-trims-weekly-loss-as-deficit-risks-cloud-supply-outlook",
+    "summary": "Cocoa futures rose in New York and London, trimming a weekly decline, as the market grapples with the prospect of sufficient short-term supplies being followed by a deficit in the season ahead.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-04T06:38:57.693823+00:00"
+    "fetched_at": "2026-09-04T11:50:02.648461+00:00"
   },
   {
-    "title": "Markets Weigh Energy Supply Strain: Market Snapshot",
-    "url": "https://www.bloomberg.com/news/videos/2026-09-04/markets-weigh-energy-supply-strain-market-snapshot-video",
-    "summary": "A fresh flare up in tit-for-tat attacks between the US and Iran put the Strait of Hormuz back in focus as gas, oil and other commodity prices rallied this week. With negotiations between the two sides grinding to a halt and Europe nearing the end of summer, dwindling gas storage levels are threateni",
+    "title": "US Stocks and Treasuries Steady Ahead of Jobs Data: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-03/stock-market-today-dow-s-p-live-updates",
+    "summary": "US stocks and Treasuries held steady as traders waited to see whether Friday\u2019s payrolls report will offer the Federal Reserve enough justification to hold off on an interest-rate hike in September.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-04T06:38:57.693873+00:00"
+    "fetched_at": "2026-09-04T11:50:02.648514+00:00"
   },
   {
     "title": "Bitcoin Bear Market May Not Yet Be Over, Says Fidelity",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-04T06:38:57.071057+00:00"
+    "fetched_at": "2026-09-04T11:50:01.704344+00:00"
   },
   {
     "title": "Bitcoin-Gold Correlation Hits Six-Year High as Debasement Fears Mount",
@@ -51,60 +51,60 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-04T06:38:57.071139+00:00"
+    "fetched_at": "2026-09-04T11:50:01.704405+00:00"
   },
   {
-    "title": "Utah Becomes First State to Target VPNs in Age-Verification Crackdown",
-    "url": "https://decrypt.co/377370/utah-websites-check-vpn-age-verification",
-    "summary": "Privacy advocates say the law raises First Amendment questions the courts have yet to address.",
+    "title": "67,000 More Trezor Customers Exposed as Data Breach Widens",
+    "url": "https://decrypt.co/377389/67000-more-trezor-customers-exposed-as-data-breach-widens",
+    "summary": "Some records exposed in the breach date to 2019, years beyond the 90-day retention Trezor said its partners had agreed to.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-04T06:38:57.149547+00:00"
+    "fetched_at": "2026-09-04T11:50:01.833086+00:00"
   },
   {
-    "title": "Bitcoin Miner Ditches Site for AI Deal That Could Top $1.2 Billion",
-    "url": "https://decrypt.co/377363/bitcoin-mine-ai-deal-1-2-billion",
-    "summary": "The projected revenue requires two contract extensions, while an option for more computing capacity could bring the total above $3 billion.",
+    "title": "FinCEN Ties $12.7B to Crypto Scams Run From Asian Compounds",
+    "url": "https://decrypt.co/377386/fincen-ties-12-7b-to-crypto-scams-run-from-asian-compounds",
+    "summary": "Monthly reported sums rose 18% on average, and the compounds now appear to be spreading beyond Southeast Asia.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-04T06:38:57.149602+00:00"
+    "fetched_at": "2026-09-04T11:50:01.833138+00:00"
   },
   {
-    "title": "Coinbase seeks SEC greenlight to list 24/7 equity perpetuals",
-    "url": "https://www.theblock.co/news/regulation/2026-09-03-coinbase-seeks-sec-greenlight-to-list-24-7-equity-perpetuals-413487",
-    "summary": "Coinbase, the largest U.S. based crypto exchange, is seeking to list 24/7 equity products as perpetual gain momentum.",
+    "title": "El Salvador has not used public funds to accumulate bitcoin since June 2025, IMF says",
+    "url": "https://www.theblock.co/news/regulation/2026-09-04-el-salvador-has-not-used-public-funds-to-accumulate-bitcoin-since-june-2025-imf-says-413535",
+    "summary": "IMF says El Salvador used no public funds for bitcoin accumulation since June 2025, with purchases coming from private donations.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-04T06:38:57.222915+00:00"
+    "fetched_at": "2026-09-04T11:50:01.959854+00:00"
   },
   {
-    "title": "Crypto market cap surges to $2.82 trillion as Zcash leads rally alongside stocks",
-    "url": "https://www.theblock.co/news/markets/2026-09-03-crypto-market-cap-surges-2-82-trillion-zcash-leads-rally-alongside-stocks-413478",
-    "summary": "Crypto and related stocks like Strategy rallied as bitcoin topped $80,000 and Fed rate expectations remained split.",
+    "title": "Crypto firms urge SEC to speed ETF reviews and allow confidential draft filings",
+    "url": "https://www.theblock.co/news/regulation/2026-09-04-crypto-firms-urge-sec-to-speed-etf-reviews-and-allow-confidential-draft-filings-413532",
+    "summary": "In contrast, Jane Street and Charles Schwab raised concerns over rushed ETF launches and confidential filings limiting market scrutiny.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-04T06:38:57.222970+00:00"
+    "fetched_at": "2026-09-04T11:50:01.959909+00:00"
   },
   {
-    "title": "UK failing to capitalise on Brexit, top Trump trade official says",
-    "url": "https://www.ft.com/content/0d2beac3-ef62-4cbf-959e-b5c6b9703081?syn-25a6b1a6=1",
-    "summary": "Jamieson Greer says Britain\u2019s alignment with EU is a \u2018problem\u2019 for a US trade deal",
+    "title": "Manager of Norway\u2019s $2tn oil fund proposes slashing US Treasury holdings",
+    "url": "https://www.ft.com/content/ecc15aa6-6e7b-409d-8753-2fb6aadd0592?syn-25a6b1a6=1",
+    "summary": "Overhaul of bond positions suggested to Ministry of Finance aims to boost returns",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-04T06:38:58.493894+00:00"
+    "fetched_at": "2026-09-04T11:50:03.719568+00:00"
   },
   {
-    "title": "The rise of Texas",
-    "url": "https://www.ft.com/content/fff531fc-988c-4016-9b5b-25f2274f4d47?syn-25a6b1a6=1",
-    "summary": "For 30 years the state has profited from going the extra mile for business. Data centres are putting that to the test",
+    "title": "Fear not the bond market skinny dippers",
+    "url": "https://www.ft.com/content/3a232341-a470-4270-84a7-5c0e5782db3b?syn-25a6b1a6=1",
+    "summary": "Rising yields reflect higher AI-led growth, which means swimming costumes for all",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-04T06:38:58.493948+00:00"
+    "fetched_at": "2026-09-04T11:50:03.719627+00:00"
   }
 ]
