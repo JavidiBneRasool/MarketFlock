@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-05T18:38:41.273279+00:00"
+    "fetched_at": "2026-09-05T20:47:04.902855+00:00"
   },
   {
     "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
@@ -15,7 +15,16 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-05T18:38:41.273341+00:00"
+    "fetched_at": "2026-09-05T20:47:04.902946+00:00"
+  },
+  {
+    "title": "Trump Renames Lake Ontario, Canada Responds",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-05/trump-renames-lake-ontario-canada-responds-video",
+    "summary": "President Trump\u2019s decision to rename Lake Ontario to Lake America is making waves on both sides of the border.\nBloomberg News Shaquille Omari looks at how Canada and tech companies are responding. (Source: Bloomberg)",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-09-05T20:47:05.749444+00:00"
   },
   {
     "title": "Lutnick to Review Pentagon Deals Involving Cerberus Firms",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-05T18:38:42.580562+00:00"
-  },
-  {
-    "title": "Bloomberg This Weekend 09/05/2026",
-    "url": "https://www.bloomberg.com/news/videos/2026-09-05/bloomberg-this-weekend-09-05-2026-video",
-    "summary": "The news doesn\u2019t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend\u2019s biggest headlines, LIVE from New York. (Source: Bloomberg)",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-09-05T18:38:42.580608+00:00"
+    "fetched_at": "2026-09-05T20:47:05.749501+00:00"
   },
   {
     "title": "Hargreaves Lansdown Reverses Course, Rolls Out Bitcoin Trading",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-05T18:38:41.602187+00:00"
+    "fetched_at": "2026-09-05T20:47:05.155077+00:00"
   },
   {
     "title": "Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-05T18:38:41.602239+00:00"
+    "fetched_at": "2026-09-05T20:47:05.155140+00:00"
   },
   {
     "title": "Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-05T18:38:41.763216+00:00"
+    "fetched_at": "2026-09-05T20:47:05.251449+00:00"
   },
   {
     "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and Meme Coins",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-05T18:38:41.763264+00:00"
+    "fetched_at": "2026-09-05T20:47:05.251509+00:00"
+  },
+  {
+    "title": "UBS, Jane Street among firms with combined $75 million in Hyperliquid ETF holdings: Bloomberg",
+    "url": "https://www.theblock.co/news/defi/2026-09-05-ubs-jane-street-among-firms-with-combined-75-million-in-hyperliquid-etf-holdings-bloomberg-413616",
+    "summary": "Brazil's Wealth High Governance Asset Management held about $24 million worth of 21Shares' HYPE fund as of the end of June, the top HYPE ETF holder.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-09-05T20:47:05.334278+00:00"
   },
   {
     "title": "LeBron James teases Polymarket partnership in new social media video",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-05T18:38:41.929892+00:00"
-  },
-  {
-    "title": "President Trump says he wants Hyperliquid to enter the US \u2014 here\u2019s how it could happen",
-    "url": "https://www.theblock.co/news/regulation/2026-09-04-trump-wants-hyperliquid-enter-us-how-it-could-happen-413594",
-    "summary": "President Trump says his administration is working to bring Hyperliquid into the U.S., raising a deceptively simple question: How?",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-09-05T18:38:41.929946+00:00"
+    "fetched_at": "2026-09-05T20:47:05.334333+00:00"
   },
   {
     "title": "Trump and Musk Super Pacs boost spending on midterm elections",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-05T18:38:43.356353+00:00"
+    "fetched_at": "2026-09-05T20:47:06.377176+00:00"
   },
   {
     "title": "Pro-Israel groups fight to help Republicans keep control of Congress",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-05T18:38:43.356415+00:00"
+    "fetched_at": "2026-09-05T20:47:06.377241+00:00"
   }
 ]
