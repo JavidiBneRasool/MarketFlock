@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-05T13:40:33.972030+00:00"
+    "fetched_at": "2026-09-05T16:20:55.853725+00:00"
   },
   {
     "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
@@ -15,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-05T13:40:33.972103+00:00"
+    "fetched_at": "2026-09-05T16:20:55.853794+00:00"
   },
   {
-    "title": "By The Way: Headlines You Should See",
-    "url": "https://www.bloomberg.com/news/videos/2026-09-05/by-the-way-headlines-you-should-see-video",
-    "summary": "Canned cocktails, the science behind the Gen Z stare and the US Open becoming a food fest: Join Bloomberg's Lisa Mateo, Christina Ruffini and Jeff Mason to hear about the headlines from this week you may have missed but need to check out. Watch, on Bloomberg This Weekend! Live Saturday and Sunday, 7",
+    "title": "Jobs Surge Raises Odds of September Fed Hike",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-05/jobs-surge-raises-odds-of-september-fed-hike-video",
+    "summary": "On Bloomberg This Weekend, Seaport Research Partner Managing Director & Chief Equity Strategist Jonathan Golub says a stronger-than-expected US jobs report reinforces the case for the Federal Reserve to raise interest rates, despite President Donald Trump\u2019s calls for lower borrowing costs. Golub als",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-05T13:40:35.243417+00:00"
+    "fetched_at": "2026-09-05T16:20:57.083688+00:00"
   },
   {
-    "title": "AI May Transform How Humans Understand Animals",
-    "url": "https://www.bloomberg.com/news/videos/2026-09-05/ai-may-transform-how-humans-understand-animals-video",
-    "summary": "Researchers are using AI to analyze vast collections of animal vocalizations, looking for patterns that could help humans better understand how species such as crows communicate. Bloomberg Weekend Senior Writer Morgan Meaker is on Bloomberg This Weekend and says the technology could reshape humans\u2019 ",
+    "title": "The Hidden Cost of America\u2019s Bureaucracy",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-05/the-hidden-cost-of-america-s-bureaucracy-video",
+    "summary": "In her new book The Time Tax, Atlantic staff writer Annie Lowrey examines how paperwork, delays and administrative hurdles consume Americans\u2019 time and can make government benefits and services harder to access. Joining Christina Ruffini and Jeff Mason on Bloomberg This Weekend, Lowrey argues those b",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-05T13:40:35.243459+00:00"
+    "fetched_at": "2026-09-05T16:20:57.083743+00:00"
   },
   {
     "title": "Hargreaves Lansdown Reverses Course, Rolls Out Bitcoin Trading",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-05T13:40:34.274617+00:00"
+    "fetched_at": "2026-09-05T16:20:56.198183+00:00"
   },
   {
     "title": "Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed",
@@ -51,25 +51,34 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-05T13:40:34.274668+00:00"
+    "fetched_at": "2026-09-05T16:20:56.198245+00:00"
   },
   {
-    "title": "AI Just Solved a 350-Year-Old Math Problem By Writing the Longest Proof Ever",
-    "url": "https://decrypt.co/377491/ai-solved-350-year-old-math-problem",
-    "summary": "Anthropic says Claude spent 11 days turning Fermat's Last Theorem into 13 million lines of code a computer can check itself, no human trust required",
+    "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and Meme Coins",
+    "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
+    "summary": "Robinhood Chain is an Ethereum layer-2 network built with Arbitrum technology for tokenized assets, crypto apps, and on-chain financial products.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-05T13:40:34.392970+00:00"
+    "fetched_at": "2026-09-05T16:20:56.331330+00:00"
   },
   {
-    "title": "TikTok's Parent Company Just Borrowed $30 Billion to Go All-In on AI",
-    "url": "https://decrypt.co/377489/tiktok-bytedance-loan-ai",
-    "summary": "Nearly 30 banks backed the rare unsecured facility as TikTok\u2019s parent company spends heavily on AI chips, models, and overseas data centers.",
+    "title": "Update Your Browser: Google Patches Chrome Flaw Hackers Were Already Using",
+    "url": "https://decrypt.co/377501/google-chrome-zero-day-exploited",
+    "summary": "The update fixes a high-severity flaw in Chrome\u2019s V8 engine, but Google has not revealed who is using it or whom they targeted.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-05T13:40:34.393018+00:00"
+    "fetched_at": "2026-09-05T16:20:56.331385+00:00"
+  },
+  {
+    "title": "LeBron James teases Polymarket partnership in new social media video",
+    "url": "https://www.theblock.co/news/deals/2026-09-05-lebron-james-teases-polymarket-partnership-in-new-social-media-video-413608",
+    "summary": "The announcement comes after James' free agency decision generated $273 million in prediction market volume across platforms.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-09-05T16:20:56.460999+00:00"
   },
   {
     "title": "President Trump says he wants Hyperliquid to enter the US \u2014 here\u2019s how it could happen",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-05T13:40:34.496225+00:00"
-  },
-  {
-    "title": "Zcash tops $1,000 as ETF inflows ramp up and miners pile in",
-    "url": "https://www.theblock.co/news/markets/2026-09-04-zcash-tops-1000-etf-inflows-ramp-up-miners-pile-in-413580",
-    "summary": "Grayscale's ZCSH inflows climb as surging network competition cuts into miners\u2019 gains from the ZEC token's rally.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-09-05T13:40:34.496277+00:00"
+    "fetched_at": "2026-09-05T16:20:56.461078+00:00"
   },
   {
     "title": "Treasury sell-off piles pressure on weakest US borrowers",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-05T13:40:36.025844+00:00"
+    "fetched_at": "2026-09-05T16:20:57.788207+00:00"
   },
   {
     "title": "The gloves are starting to come off in markets",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-05T13:40:36.025894+00:00"
+    "fetched_at": "2026-09-05T16:20:57.788267+00:00"
   }
 ]
