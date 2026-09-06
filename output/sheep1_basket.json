@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-06T20:55:55.190918+00:00"
+    "fetched_at": "2026-09-06T22:30:59.803225+00:00"
   },
   {
     "title": "Satoshi-era Bitcoin wakes after 16 years of dormancy as 600 BTC moves",
@@ -15,7 +15,16 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-06T20:55:55.190997+00:00"
+    "fetched_at": "2026-09-06T22:30:59.803286+00:00"
+  },
+  {
+    "title": "Oil Edges Higher on Renewed Middle East Tensions: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-06/stock-market-today-dow-s-p-live-updates",
+    "summary": "Oil edged higher on renewed concern that escalating US-Iran tensions may disrupt crude supplies and stoke inflation after the two sides traded attacks over the weekend.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-09-06T22:31:00.949174+00:00"
   },
   {
     "title": "Bond Traders Brace for More Swings at Both Ends of US Yield Curve",
@@ -24,16 +33,16 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-06T20:55:56.244440+00:00"
+    "fetched_at": "2026-09-06T22:31:00.949214+00:00"
   },
   {
-    "title": "Bloomberg This Weekend 09/06/2026",
-    "url": "https://www.bloomberg.com/news/videos/2026-09-06/bloomberg-this-weekend-09-06-2026-video",
-    "summary": "The news doesn\u2019t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend\u2019s biggest headlines, LIVE from New York. Joined by BBC Chief International Correspondent Lyse Doucet, AFL-CIO President Liz Shuler, Michigan Rep. Hale",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-09-06T20:55:56.244491+00:00"
+    "title": "Alleged White-Hat Hackers Withdraw 4,000 bitcoin from Blockstream\u2019s Liquid Network Federation Reserves",
+    "url": "https://bitcoinmagazine.com/news/alleged-white-hat-hackers-withdraw-4000-bitcoin-from-blockstreams-liquid-network-federation-reserves",
+    "summary": "Bitcoin Magazine\n\nAlleged White-Hat Hackers Withdraw 4,000 bitcoin from Blockstream&#8217;s Liquid Network Federation Reserves\nLiquid Network said purported white-hat hackers withdrew about 4,000 bitcoin from the federation wallet that backs L-BTC. Bridge nodes are disabled and the sidechain is paus",
+    "source": "Bitcoin Magazine",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-09-06T22:31:00.128361+00:00"
   },
   {
     "title": "Hargreaves Lansdown Reverses Course, Rolls Out Bitcoin Trading",
@@ -42,16 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-06T20:55:55.487686+00:00"
-  },
-  {
-    "title": "Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed",
-    "url": "https://bitcoinmagazine.com/news/trezor-data-breach-worse-than-reported",
-    "summary": "Bitcoin Magazine\n\nTrezor Breach Worse Than Reported: Another 67,000 US Customers Exposed\nTrezor said that its third party shipping partner, ShipMonk, had not erased customer data. \nThis post Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed first appeared on Bitcoin Magazine and",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-09-06T20:55:55.487750+00:00"
+    "fetched_at": "2026-09-06T22:31:00.128409+00:00"
   },
   {
     "title": "OpenAI's GPT-6 Astra Is Shockingly Good at Almost Everything",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-06T20:55:55.580214+00:00"
+    "fetched_at": "2026-09-06T22:31:00.287200+00:00"
   },
   {
     "title": "XRP Gets Another Boost Through Ripple Deal With Florida Athletics",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-06T20:55:55.580277+00:00"
+    "fetched_at": "2026-09-06T22:31:00.287240+00:00"
+  },
+  {
+    "title": "Liquid Network pauses after purported \u2018white-hat\u2019 hackers withdraw $320 million in bitcoin",
+    "url": "https://www.theblock.co/news/defi/2026-09-06-liquid-network-pauses-after-purported-white-hat-hackers-withdraw-320-million-in-bitcoin-413626",
+    "summary": "The Bitcoin sidechain has been paused, with exchanges suspending LBTC deposits and withdrawals as Blockstream works to contact those responsible.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-09-06T22:31:00.489802+00:00"
   },
   {
     "title": "STONK surges 250% to $140 million market cap as stock-paired Solana launchpad StonkFun pulls volume to Raydium and Jupiter",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-06T20:55:55.648173+00:00"
-  },
-  {
-    "title": "Coinbase-backed Router Protocol to shut down, burn 303 million ROUTE tokens",
-    "url": "https://www.theblock.co/news/defi/2026-09-06-coinbase-backed-router-protocol-to-shut-down-burn-303-million-route-tokens-413618",
-    "summary": "The shutdown comes after attempts to commercialize, license or find a buyer for its technology failed to produce a sustainable business.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-09-06T20:55:55.648237+00:00"
+    "fetched_at": "2026-09-06T22:31:00.489852+00:00"
   },
   {
     "title": "Far-right AfD surges to first place in German state elections",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-06T20:55:56.720016+00:00"
+    "fetched_at": "2026-09-06T22:31:01.747150+00:00"
   },
   {
     "title": "Germany\u2019s Merz on the ropes after far right delivers devastating blow",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-06T20:55:56.720081+00:00"
+    "fetched_at": "2026-09-06T22:31:01.747200+00:00"
   }
 ]
