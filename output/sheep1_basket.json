@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-05T22:25:36.786919+00:00"
+    "fetched_at": "2026-09-06T00:19:39.432214+00:00"
   },
   {
     "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
@@ -15,7 +15,16 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-05T22:25:36.786998+00:00"
+    "fetched_at": "2026-09-06T00:19:39.432288+00:00"
+  },
+  {
+    "title": "Brazilian Court Suspends Permits, Halts Sigma Lithium\u2019s Mine",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-05/brazilian-court-suspends-permits-halts-sigma-lithium-s-mine",
+    "summary": "A Brazilian court ordered the suspension of all environmental permits for Sigma Minera\u00e7\u00e3o SA, an operating subsidiary of Sigma Lithium Corp., and the complete halt of mining activities for the company\u2019s Grota do Cirilo lithium project.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-09-06T00:19:40.696866+00:00"
   },
   {
     "title": "Trump Renames Lake Ontario, Canada Responds",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-05T22:25:38.064268+00:00"
-  },
-  {
-    "title": "Lutnick to Review Pentagon Deals Involving Cerberus Firms",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-04/lutnick-to-review-pentagon-deals-involving-cerberus-companies",
-    "summary": "Commerce Secretary Howard Lutnick has been chosen by the Department of Defense to review any transactions between the Pentagon and companies associated with Cerberus Capital Management, according to a US official.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-09-05T22:25:38.064342+00:00"
+    "fetched_at": "2026-09-06T00:19:40.696923+00:00"
   },
   {
     "title": "Hargreaves Lansdown Reverses Course, Rolls Out Bitcoin Trading",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-05T22:25:37.194922+00:00"
+    "fetched_at": "2026-09-06T00:19:39.777941+00:00"
   },
   {
     "title": "Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-05T22:25:37.194984+00:00"
+    "fetched_at": "2026-09-06T00:19:39.778004+00:00"
   },
   {
     "title": "Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-05T22:25:37.292944+00:00"
+    "fetched_at": "2026-09-06T00:19:39.913350+00:00"
   },
   {
     "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and Meme Coins",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-05T22:25:37.293006+00:00"
+    "fetched_at": "2026-09-06T00:19:39.913412+00:00"
   },
   {
     "title": "UBS, Jane Street among firms with combined $75 million in Hyperliquid ETF holdings: Bloomberg",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-05T22:25:37.390165+00:00"
+    "fetched_at": "2026-09-06T00:19:40.022519+00:00"
   },
   {
     "title": "LeBron James teases Polymarket partnership in new social media video",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-05T22:25:37.390229+00:00"
+    "fetched_at": "2026-09-06T00:19:40.022613+00:00"
   },
   {
     "title": "Trump and Musk Super Pacs boost spending on midterm elections",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-05T22:25:38.742172+00:00"
+    "fetched_at": "2026-09-06T00:19:41.344892+00:00"
   },
   {
     "title": "Pro-Israel groups fight to help Republicans keep control of Congress",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-05T22:25:38.742236+00:00"
+    "fetched_at": "2026-09-06T00:19:41.344958+00:00"
   }
 ]

@@ -2,8 +2,8 @@
   {
     "category": "Crypto",
     "headline": "Here\u2019s what happened in crypto today",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1788647143",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1788647143",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1788653986",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1788653986",
     "article": {
       "title": "Here\u2019s what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
@@ -11,7 +11,7 @@
       "source": "CoinTelegraph",
       "category": "Crypto",
       "tier": 10,
-      "fetched_at": "2026-09-05T22:25:36.786919+00:00",
+      "fetched_at": "2026-09-06T00:19:39.432214+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -22,8 +22,8 @@
   {
     "category": "Crypto",
     "headline": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1788647146",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1788647146",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1788653989",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1788653989",
     "article": {
       "title": "Poland upholds crypto bill veto as Zondacrypto scandal widens",
       "url": "https://cointelegraph.com/news/poland-upholds-crypto-bill-veto-zondacrypto-scandal-widens",
@@ -31,7 +31,27 @@
       "source": "CoinTelegraph",
       "category": "Crypto",
       "tier": 10,
-      "fetched_at": "2026-09-05T22:25:36.786998+00:00",
+      "fetched_at": "2026-09-06T00:19:39.432288+00:00",
+      "credibility": "REVIEW",
+      "score": 6,
+      "verdict": "WARNING",
+      "decision": "PASS",
+      "flags": []
+    }
+  },
+  {
+    "category": "Markets",
+    "headline": "Brazilian Court Suspends Permits, Halts Sigma Lithium\u2019s Mine",
+    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1788653992",
+    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1788653992",
+    "article": {
+      "title": "Brazilian Court Suspends Permits, Halts Sigma Lithium\u2019s Mine",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-05/brazilian-court-suspends-permits-halts-sigma-lithium-s-mine",
+      "summary": "A Brazilian court ordered the suspension of all environmental permits for Sigma Minera\u00e7\u00e3o SA, an operating subsidiary of Sigma Lithium Corp., and the complete halt of mining activities for the company\u2019s Grota do Cirilo lithium project.",
+      "source": "Bloomberg Markets",
+      "category": "Markets",
+      "tier": 10,
+      "fetched_at": "2026-09-06T00:19:40.696866+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -42,8 +62,8 @@
   {
     "category": "Markets",
     "headline": "Trump Renames Lake Ontario, Canada Responds",
-    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1788647149",
-    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1788647149",
+    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1788653996",
+    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1788653996",
     "article": {
       "title": "Trump Renames Lake Ontario, Canada Responds",
       "url": "https://www.bloomberg.com/news/videos/2026-09-05/trump-renames-lake-ontario-canada-responds-video",
@@ -51,27 +71,7 @@
       "source": "Bloomberg Markets",
       "category": "Markets",
       "tier": 10,
-      "fetched_at": "2026-09-05T22:25:38.064268+00:00",
-      "credibility": "REVIEW",
-      "score": 6,
-      "verdict": "WARNING",
-      "decision": "PASS",
-      "flags": []
-    }
-  },
-  {
-    "category": "Markets",
-    "headline": "Lutnick to Review Pentagon Deals Involving Cerberus Firms",
-    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1788647153",
-    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1788647153",
-    "article": {
-      "title": "Lutnick to Review Pentagon Deals Involving Cerberus Firms",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-04/lutnick-to-review-pentagon-deals-involving-cerberus-companies",
-      "summary": "Commerce Secretary Howard Lutnick has been chosen by the Department of Defense to review any transactions between the Pentagon and companies associated with Cerberus Capital Management, according to a US official.",
-      "source": "Bloomberg Markets",
-      "category": "Markets",
-      "tier": 10,
-      "fetched_at": "2026-09-05T22:25:38.064342+00:00",
+      "fetched_at": "2026-09-06T00:19:40.696923+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -82,8 +82,8 @@
   {
     "category": "Crypto",
     "headline": "Hargreaves Lansdown Reverses Course, Rolls Out Bitcoin Trading",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1788647156",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1788647156",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1788653999",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1788653999",
     "article": {
       "title": "Hargreaves Lansdown Reverses Course, Rolls Out Bitcoin Trading",
       "url": "https://bitcoinmagazine.com/news/hargreaves-lansdown-to-allow-bitcoin-etns",
@@ -91,7 +91,7 @@
       "source": "Bitcoin Magazine",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-09-05T22:25:37.194922+00:00",
+      "fetched_at": "2026-09-06T00:19:39.777941+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -102,8 +102,8 @@
   {
     "category": "Crypto",
     "headline": "Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1788647159",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1788647159",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1788654002",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1788654002",
     "article": {
       "title": "Trezor Breach Worse Than Reported: Another 67,000 US Customers Exposed",
       "url": "https://bitcoinmagazine.com/news/trezor-data-breach-worse-than-reported",
@@ -111,7 +111,7 @@
       "source": "Bitcoin Magazine",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-09-05T22:25:37.194984+00:00",
+      "fetched_at": "2026-09-06T00:19:39.778004+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -122,8 +122,8 @@
   {
     "category": "Crypto",
     "headline": "Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up",
-    "image_url": "https://loremflickr.com/1200/630/crypto%2Ctrading?lock=1788647162",
-    "image_fallback": "https://image.pollinations.ai/prompt/crypto%2Ctrading%20professional%20photo?width=800&height=600&nologo=true&seed=1788647162",
+    "image_url": "https://loremflickr.com/1200/630/crypto%2Ctrading?lock=1788654005",
+    "image_fallback": "https://image.pollinations.ai/prompt/crypto%2Ctrading%20professional%20photo?width=800&height=600&nologo=true&seed=1788654005",
     "article": {
       "title": "Ancient Bitcoin Wallet That Turned $120 Into $3 Million Wakes Up",
       "url": "https://decrypt.co/377510/ancient-bitcoin-wallet-3-million-wakes-up",
@@ -131,7 +131,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-09-05T22:25:37.292944+00:00",
+      "fetched_at": "2026-09-06T00:19:39.913350+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -142,8 +142,8 @@
   {
     "category": "Crypto",
     "headline": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and M",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Cgold%2Ccoin?lock=1788647165",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Cgold%2Ccoin%20professional%20photo?width=800&height=600&nologo=true&seed=1788647165",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Cgold%2Ccoin?lock=1788654008",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Cgold%2Ccoin%20professional%20photo?width=800&height=600&nologo=true&seed=1788654008",
     "article": {
       "title": "What Is Robinhood Chain? The Ethereum Layer-2 Network for Tokenized Stocks and Meme Coins",
       "url": "https://decrypt.co/resources/what-robinhood-chain-ethereum-layer-2-network-tokenized-stocks",
@@ -151,7 +151,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-09-05T22:25:37.293006+00:00",
+      "fetched_at": "2026-09-06T00:19:39.913412+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -162,8 +162,8 @@
   {
     "category": "Crypto",
     "headline": "UBS, Jane Street among firms with combined $75 million in Hyperliquid ETF holdin",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1788647168",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1788647168",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1788654011",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1788654011",
     "article": {
       "title": "UBS, Jane Street among firms with combined $75 million in Hyperliquid ETF holdings: Bloomberg",
       "url": "https://www.theblock.co/news/defi/2026-09-05-ubs-jane-street-among-firms-with-combined-75-million-in-hyperliquid-etf-holdings-bloomberg-413616",
@@ -171,7 +171,7 @@
       "source": "The Block",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-09-05T22:25:37.390165+00:00",
+      "fetched_at": "2026-09-06T00:19:40.022519+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -182,8 +182,8 @@
   {
     "category": "Crypto",
     "headline": "LeBron James teases Polymarket partnership in new social media video",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1788647171",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1788647171",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1788654014",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1788654014",
     "article": {
       "title": "LeBron James teases Polymarket partnership in new social media video",
       "url": "https://www.theblock.co/news/deals/2026-09-05-lebron-james-teases-polymarket-partnership-in-new-social-media-video-413608",
@@ -191,7 +191,7 @@
       "source": "The Block",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-09-05T22:25:37.390229+00:00",
+      "fetched_at": "2026-09-06T00:19:40.022613+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -202,8 +202,8 @@
   {
     "category": "Markets",
     "headline": "Trump and Musk Super Pacs boost spending on midterm elections",
-    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1788647174",
-    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1788647174",
+    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1788654017",
+    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1788654017",
     "article": {
       "title": "Trump and Musk Super Pacs boost spending on midterm elections",
       "url": "https://www.ft.com/content/d8fa06e5-5929-47c9-815c-47d2221fc9e9?syn-25a6b1a6=1",
@@ -211,7 +211,7 @@
       "source": "Financial Times",
       "category": "Markets",
       "tier": 9,
-      "fetched_at": "2026-09-05T22:25:38.742172+00:00",
+      "fetched_at": "2026-09-06T00:19:41.344892+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -222,8 +222,8 @@
   {
     "category": "Markets",
     "headline": "Pro-Israel groups fight to help Republicans keep control of Congress",
-    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1788647177",
-    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1788647177",
+    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1788654020",
+    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1788654020",
     "article": {
       "title": "Pro-Israel groups fight to help Republicans keep control of Congress",
       "url": "https://www.ft.com/content/c98f4d9b-ec17-4bc0-a137-dbd12a23cba6?syn-25a6b1a6=1",
@@ -231,7 +231,7 @@
       "source": "Financial Times",
       "category": "Markets",
       "tier": 9,
-      "fetched_at": "2026-09-05T22:25:38.742236+00:00",
+      "fetched_at": "2026-09-06T00:19:41.344958+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
