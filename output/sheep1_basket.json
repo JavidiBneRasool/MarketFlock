@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-07T23:06:51.361282+00:00"
+    "fetched_at": "2026-09-08T01:45:29.778880+00:00"
   },
   {
     "title": "UK financial watchdog weighs lifting prediction markets ban: Report",
@@ -15,25 +15,25 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-07T23:06:51.361358+00:00"
+    "fetched_at": "2026-09-08T01:45:29.778940+00:00"
+  },
+  {
+    "title": "Yen Advances to Six-Month High, Chip Stocks Rise: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-07/stock-market-today-dow-s-p-live-updates",
+    "summary": "The yen extended Monday\u2019s advance to reach the strongest level since February, aided by rising expectations of a Bank of Japan interest-rate increase next week. Gains in South Korean chip stocks helped support Asian equities.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-09-08T01:45:30.956250+00:00"
   },
   {
     "title": "Latest Oil Market News and Analysis for Sept. 8",
     "url": "https://www.bloomberg.com/news/articles/2026-09-07/latest-oil-market-news-and-analysis-for-sept-8",
-    "summary": "Oil extended gains as traders watched for details of an Iranian deal with Oman to manage shipping through the Strait of Hormuz, which could tighten Tehran\u2019s control over the crucial waterway.",
+    "summary": "Oil held gains near $100 a barrel as traders watched for details of an Iranian deal with Oman to manage shipping through the Strait of Hormuz, while strong Chinese buying tightened the market.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-07T23:06:52.902918+00:00"
-  },
-  {
-    "title": "Stocks in Asia Poised to Edge Down, Yen in Focus: Markets Wrap",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-07/stock-market-today-dow-s-p-live-updates",
-    "summary": "Asian stocks were set to edge lower as tensions in the Middle East pushed oil prices higher, adding to inflation concerns and keeping investors wary of the prospect of further monetary tightening. The yen held gains near its highest level since February.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-09-07T23:06:52.902975+00:00"
+    "fetched_at": "2026-09-08T01:45:30.956308+00:00"
   },
   {
     "title": "Liquid Gets 3,400 BTC Back After On-Chain Talks; White Hats Keep 598.5 BTC",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-07T23:06:51.722712+00:00"
+    "fetched_at": "2026-09-08T01:45:30.042000+00:00"
   },
   {
     "title": "Alleged White-Hat Hackers Withdraw 4,000 bitcoin from Blockstream\u2019s Liquid Network Federation Reserves",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-07T23:06:51.722805+00:00"
+    "fetched_at": "2026-09-08T01:45:30.042062+00:00"
   },
   {
     "title": "Your LG TV Might Still Be Listening to You\u2014Even When It Looks Like It\u2019s Off",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-07T23:06:51.890953+00:00"
+    "fetched_at": "2026-09-08T01:45:30.195320+00:00"
   },
   {
     "title": "OpenAI Chief Scientist Warns AI Labs May Need to Slow Down",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-07T23:06:51.891009+00:00"
+    "fetched_at": "2026-09-08T01:45:30.195367+00:00"
   },
   {
     "title": "Bitcoin holds near $80,000 despite renewed Fed rate hike fears as CPI test looms",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-07T23:06:52.069357+00:00"
+    "fetched_at": "2026-09-08T01:45:30.340695+00:00"
   },
   {
     "title": "DBS, Citi say they completed first weekend USD payment between Singapore and US via tokenized deposits",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-07T23:06:52.069425+00:00"
+    "fetched_at": "2026-09-08T01:45:30.340748+00:00"
   },
   {
     "title": "Republicans fear Trump has turned toxic on the campaign trail",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-07T23:06:53.641310+00:00"
+    "fetched_at": "2026-09-08T01:45:31.574693+00:00"
   },
   {
     "title": "US voters reel as fuel prices hit Labor Day record high",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-07T23:06:53.641375+00:00"
+    "fetched_at": "2026-09-08T01:45:31.574746+00:00"
   }
 ]
