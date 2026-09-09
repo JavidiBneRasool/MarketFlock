@@ -1,39 +1,48 @@
 [
   {
-    "title": "German finance ministry proposes 25% crypto tax starting 2028: Report",
-    "url": "https://cointelegraph.com/news/german-finance-ministry-25-crypto-tax-2028",
-    "summary": "The German Ministry of Finance is reportedly seeking to impose a 25% tax on cryptocurrencies, departing from current laws that make crypto gains tax-free after one year of holding.",
+    "title": "TRM Labs doubles valuation to $2B in Series C expansion",
+    "url": "https://cointelegraph.com/news/trm-labs-doubles-valuation-to-2b-in-series-c-expansion",
+    "summary": "The blockchain intelligence firm said its annual recurring revenue has quadrupled over the past three years as it expands its AI-powered investigations business.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-09T14:51:56.666925+00:00"
+    "fetched_at": "2026-09-09T18:05:50.894336+00:00"
   },
   {
-    "title": "10 of the greatest unsolved crypto mysteries",
-    "url": "https://cointelegraph.com/magazine/10-of-the-greatest-unsolved-crypto-mysteries",
-    "summary": "From the whereabouts of the CryptoQueen to a mysterious death involving a DeFi builder paranoid about the \u201cpedo elite,\u201d here are 10 crypto mysteries that still have no good answer.",
+    "title": "U.S. Bank tests proprietary stablecoin in cross-border Stellar transaction",
+    "url": "https://cointelegraph.com/news/us-bank-launches-usbdc-stablecoin-with-live-cross-border-payment",
+    "summary": "The pilot moved USBDC between the bank\u2019s North American and European entities on the public Stellar blockchain.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-09T14:51:56.666978+00:00"
+    "fetched_at": "2026-09-09T18:05:50.894387+00:00"
   },
   {
-    "title": "Europe Gas Prices Rise Above \u20ac80 for First Time Since 2023",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-09/europe-gas-prices-rise-above-80-for-first-time-since-2023",
-    "summary": "European natural gas surged above \u20ac80 a megawatt-hour for the first time in more than three years, intensifying the threat to the region\u2019s economy as the war in the Middle East drives up energy costs just as winter approaches.",
+    "title": "Stocks Fall as Oil Jump, Treasury Plan Lift Yields: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-08/stock-market-today-dow-s-p-live-updates",
+    "summary": "A resurgence in oil prices drove stocks and bonds lower, with losses deepening as the Treasury said it will purchase up to $6 billion of longer-dated government debt.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-09T14:51:57.823129+00:00"
+    "fetched_at": "2026-09-09T18:05:52.021646+00:00"
   },
   {
-    "title": "Dollar Eyes Seven-Month Low as Bessent Remarks Spur Yen Rise",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-09/dollar-eyes-seven-month-low-with-us-buybacks-inflation-in-focus",
-    "summary": "The dollar neared its lowest level in nearly seven months as the yen rallied after Treasury Secretary Scott Bessent challenged traders to test his resolve on supporting Japan\u2019s currency.",
+    "title": "Comcast Shares Slide as CFO Sees Irrational Internet Prices",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-09/comcast-shares-slide-as-cfo-sees-internet-prices-irrational",
+    "summary": "Comcast Corp. shares slid Wednesday after a top executive said competition will remain fierce for home fiber internet services with rivals offering prices that he called \u201cirrational.\u201d",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-09T14:51:57.823191+00:00"
+    "fetched_at": "2026-09-09T18:05:52.021683+00:00"
+  },
+  {
+    "title": "VerifiedX Launches $15 Million Financing Round to Deploy Institutional Bitcoin Infrastructure",
+    "url": "https://bitcoinmagazine.com/news/cantor-fitzgerald-working-with-verifiedx",
+    "summary": "Bitcoin Magazine\n\nVerifiedX Launches $15 Million Financing Round to Deploy Institutional Bitcoin Infrastructure\nCantor Fitzgerald is the investment banker on the round. The funding facilitates custody at BitGo, listings on tier-one exchanges and Bitcoin lending programs.\nThis post VerifiedX Launches",
+    "source": "Bitcoin Magazine",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-09-09T18:05:51.174946+00:00"
   },
   {
     "title": "Lummis Blasts Democrats Ahead of Clarity Act Vote \u2014 But Adds Bill Can Get Passed",
@@ -42,69 +51,60 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-09T14:51:56.977659+00:00"
+    "fetched_at": "2026-09-09T18:05:51.174994+00:00"
   },
   {
-    "title": "CoinCorner Launches Lloyd\u2019s-Insured Multisig Bitcoin Vault with AnchorWatch",
-    "url": "https://bitcoinmagazine.com/news/coincorner-debuts-multisig-vault",
-    "summary": "Bitcoin Magazine\n\nCoinCorner Launches Lloyd&#8217;s-Insured Multisig Bitcoin Vault with AnchorWatch\nBritish bitcoin exchange CoinCorner is debuting a multisig custody service. \nThis post CoinCorner Launches Lloyd&#8217;s-Insured Multisig Bitcoin Vault with AnchorWatch first appeared on Bitcoin Magaz",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-09-09T14:51:56.977708+00:00"
-  },
-  {
-    "title": "German Finance Ministry Drafts 25% Tax on Crypto Gains From 2027",
-    "url": "https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027",
-    "summary": "Anything bought before 2027 keeps the twelve-month exemption, so the change lands only on Germany's future crypto buyers.",
+    "title": "Apple Unveils Redesigned Siri AI and A20 Pro Chip as CEO John Ternus Makes Debut",
+    "url": "https://decrypt.co/377807/apple-redesigned-siri-ai-a20-pro-chip",
+    "summary": "The company's first fall keynote under new leadership paired a Gemini-powered Siri overhaul with Apple's first 2-nanometer chip, plus a $1,999 foldable iPhone that won't ship until October.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-09T14:51:57.133363+00:00"
+    "fetched_at": "2026-09-09T18:05:51.279913+00:00"
   },
   {
-    "title": "Morning Minute: Venice\u2019s VVV Token Soars After OpenAI Dispute",
-    "url": "https://decrypt.co/377761/morning-minute-venices-vvv-token-soars-after-openai-dispute",
-    "summary": "Concerns over frontier AI labs stealing user data has driven demand for private inference (or at least tokens tied to private inference).",
+    "title": "Secret Service Freezes $52.8 Million in Crypto Tied to Telegram Bazaar Behind Global Scams",
+    "url": "https://decrypt.co/377804/secret-service-freezes-crypto-telegram-bazaar-xinbi",
+    "summary": "Blockchain sleuths at Elliptic traced the money, Treasury sanctioned the marketplace, and Xinbi\u2014which ran $24 billion through a Telegram scam bazaar\u2014called the freeze unfair.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-09T14:51:57.133409+00:00"
+    "fetched_at": "2026-09-09T18:05:51.279952+00:00"
   },
   {
-    "title": "Ink Foundation, GSR and others open Charter Foundation to help cut token launch costs",
-    "url": "https://www.theblock.co/news/ecosystems/2026-09-09-ink-foundation-gsr-crypto-charter-foundation-token-launch-costs-414023",
-    "summary": "A group of crypto firms has launched Charter Foundation to offer a new framework to help founders reduce the cost of launching tokens.",
+    "title": "Solana treasury firm SkyAI faces board challenge from would-be acquirer Forward Industries, shareholder group",
+    "url": "https://www.theblock.co/news/business/2026-09-09-solana-treasury-firm-skyai-board-challenge-would-be-acquirer-forward-industries-shareholder-group-414061",
+    "summary": "SkyAI\u2019s proposed equity plan would authorize 5.145 million shares for stock-based compensation, representing roughly 7.2% additional dilution.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-09T14:51:57.279759+00:00"
+    "fetched_at": "2026-09-09T18:05:51.394174+00:00"
   },
   {
-    "title": "Tether, Fasanara launch $400 million fund for stablecoin-enabled private credit",
-    "url": "https://www.theblock.co/news/deals/2026-09-09-tether-fasanara-launch-400-million-fund-for-stablecoin-enabled-private-credit-414011",
-    "summary": "The firms seek up to $3 billion from institutional investors to deploy through Fasanara's global fintech lending network.",
+    "title": "Bitcoin miners are missing the crypto rally as exchanges, stablecoins surge",
+    "url": "https://www.theblock.co/news/markets/2026-09-09-bitcoin-miners-are-missing-the-crypto-rally-as-exchanges-stablecoins-surge-413848",
+    "summary": "Among tracked companies, only one bitcoin mining company has outperformed the cryptocurrency: Canaan (ticker CAN).",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-09T14:51:57.279802+00:00"
+    "fetched_at": "2026-09-09T18:05:51.394212+00:00"
   },
   {
-    "title": "Oil hits $100 for first time since July",
-    "url": "https://www.ft.com/content/c8921e49-1d06-4d27-ab38-7a1d8e3d43fe?syn-25a6b1a6=1",
-    "summary": "Brent crude advances as escalation in US-Iran war feeds fears of renewed global supply crunch",
+    "title": "Treasury yields jump as Bessent\u2019s $6bn buyback plan disappoints investors",
+    "url": "https://www.ft.com/content/2476992f-c9fe-4992-887d-f34c81c100ab?syn-25a6b1a6=1",
+    "summary": "10-year borrowing costs hit highest level in nearly three years despite upsized repurchase programme",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-09T14:51:58.660415+00:00"
+    "fetched_at": "2026-09-09T18:05:53.086393+00:00"
   },
   {
-    "title": "Iran turns to crypto to shore up economy",
-    "url": "https://www.ft.com/content/c1029e47-7487-4bd7-8ed4-7512b76f1834?syn-25a6b1a6=1",
-    "summary": "Authorities have quietly relaxed controls on foreign currency to encourage traders to repatriate much-needed funds",
+    "title": "\u2018I am the house now\u2019: Bessent warns traders not to bet against yen",
+    "url": "https://www.ft.com/content/38d718f6-110b-4822-9403-f7d12a48cfa8?syn-25a6b1a6=1",
+    "summary": "Comments follow July\u2019s rare joint intervention with Tokyo to support Japanese currency",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-09T14:51:58.660458+00:00"
+    "fetched_at": "2026-09-09T18:05:53.086441+00:00"
   }
 ]
