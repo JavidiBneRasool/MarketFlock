@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-12T01:52:39.857737+00:00",
+    "fetched_at": "2026-09-12T06:37:54.470434+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,7 +18,19 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-12T01:52:39.857833+00:00",
+    "fetched_at": "2026-09-12T06:37:54.470507+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "VinFast\u2019s Founder Hands CEO Role to Son Amid Expansion Push",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-12/vinfast-s-founder-hands-ceo-role-to-son-amid-expansion-push",
+    "summary": "Pham Nhat Quan Anh, chairman of VinFast Auto Ltd., will take over as global chief executive officer of the Vietnamese electric-vehicle maker, replacing his father and billionaire founder Pham Nhat Vuong amid an aggressive international push and growing losses.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-09-12T06:37:55.402073+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,19 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-12T01:52:40.830827+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Jon Ledecky Reflects on Sept. 11 and NYC Sports Scene",
-    "url": "https://www.bloomberg.com/news/videos/2026-09-11/jon-ledecky-reflects-on-sept-11-and-nyc-sports-scene-video",
-    "summary": "Jon Ledecky, NHL team New York Islanders co-owner, sat down with Bloomberg's Romaine Bostick to remember the events on Sept. 11, the power of sports and more. (Source: Bloomberg)",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-09-12T01:52:40.830889+00:00",
+    "fetched_at": "2026-09-12T06:37:55.402130+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-12T01:52:40.165265+00:00",
+    "fetched_at": "2026-09-12T06:37:54.769245+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-12T01:52:40.165332+00:00",
+    "fetched_at": "2026-09-12T06:37:54.769308+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-12T01:52:40.315607+00:00",
+    "fetched_at": "2026-09-12T06:37:54.876257+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-12T01:52:40.315668+00:00",
+    "fetched_at": "2026-09-12T06:37:54.876312+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-12T01:52:40.394498+00:00",
+    "fetched_at": "2026-09-12T06:37:54.954526+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-12T01:52:40.394557+00:00",
+    "fetched_at": "2026-09-12T06:37:54.954583+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,19 +126,19 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-12T01:52:41.524312+00:00",
+    "fetched_at": "2026-09-12T06:37:56.075673+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Houthis seize Red Sea islands in lightning offensive",
-    "url": "https://www.ft.com/content/976fa0d6-ed09-4a6f-be02-ff4317b45f40?syn-25a6b1a6=1",
-    "summary": "Advance against Saudi-backed forces cements Yemeni rebels\u2019 control over vital shipping artery and roils energy markets",
+    "title": "US limits air defence time slots for tankers sailing through Hormuz",
+    "url": "https://www.ft.com/content/d4b4105e-d91f-48bb-820e-64290e916f5e?syn-25a6b1a6=1",
+    "summary": "Shift to two specified times daily follows increase in Iranian attacks",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-12T01:52:41.524375+00:00",
+    "fetched_at": "2026-09-12T06:37:56.075738+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
