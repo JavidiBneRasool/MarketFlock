@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-12T19:47:01.430082+00:00"
+    "fetched_at": "2026-09-12T21:46:01.685920+00:00"
   },
   {
     "title": "North Korea using foreign talent to help infiltrate US companies: Report",
@@ -15,7 +15,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-12T19:47:01.430153+00:00"
+    "fetched_at": "2026-09-12T21:46:01.685992+00:00"
   },
   {
     "title": "SpaceX to Get Weighting Boost in Nasdaq 100 After Rebalance",
@@ -24,7 +24,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-12T19:47:02.694711+00:00"
+    "fetched_at": "2026-09-12T21:46:02.896164+00:00"
   },
   {
     "title": "Bloomberg This Weekend 09/12/2026",
@@ -33,7 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-12T19:47:02.694754+00:00"
+    "fetched_at": "2026-09-12T21:46:02.896215+00:00"
   },
   {
     "title": "Bitcoin\u2019s \u2018Unusual Mix\u2019: Bearish Inflation Print, Bullish Buyback Failure",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-12T19:47:01.811229+00:00"
+    "fetched_at": "2026-09-12T21:46:02.019508+00:00"
   },
   {
     "title": "Blockstream Tells Hackers To Return Remaining Bitcoin Stolen in Liquid Theft",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-12T19:47:01.811280+00:00"
+    "fetched_at": "2026-09-12T21:46:02.019572+00:00"
   },
   {
     "title": "Revolut Leaks Passports, Bitcoin Transaction Histories to Fake Government Request",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-12T19:47:01.924832+00:00"
+    "fetched_at": "2026-09-12T21:46:02.142605+00:00"
   },
   {
     "title": "GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-12T19:47:01.924881+00:00"
+    "fetched_at": "2026-09-12T21:46:02.142665+00:00"
+  },
+  {
+    "title": "CryptoQuant says bitcoin must clear resistance at $81,700 to confirm new bull market",
+    "url": "https://www.theblock.co/news/markets/2026-09-12-cryptoquant-bitcoin-resistance-support-levels-414519",
+    "summary": "Bitcoin's outlook remains bullish, but it needs to clear a significant range of resistance levels stretching to $88,700, CryptoQuant said.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-09-12T21:46:02.235560+00:00"
   },
   {
     "title": "Revolut says customer KYC, Bitcoin transaction data exposed after fake request from gov\u2019t domain",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-12T19:47:02.195836+00:00"
-  },
-  {
-    "title": "Crypto billionaires Ben Delo and Christopher Harborne each donate \u00a336 million to Farage\u2019s Reform UK",
-    "url": "https://www.theblock.co/news/regulation/2026-09-12-crypto-billionaires-ben-delo-and-christopher-harborne-each-donate-36-million-to-farages-reform-uk-414509",
-    "summary": "Meanwhile, the House of Lords is considering a bill which would halt crypto donations and cap overseas giving at \u00a3100,000 a year.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-09-12T19:47:02.195891+00:00"
+    "fetched_at": "2026-09-12T21:46:02.235627+00:00"
   },
   {
     "title": "Rivals Altman and Musk rally behind Dario Amodei\u2019s call for an AI slowdown",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-12T19:47:03.449000+00:00"
+    "fetched_at": "2026-09-12T21:46:03.587887+00:00"
   },
   {
     "title": "We are setting up a generation to fail at school",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-12T19:47:03.449053+00:00"
+    "fetched_at": "2026-09-12T21:46:03.587951+00:00"
   }
 ]
