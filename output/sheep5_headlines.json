@@ -2,8 +2,8 @@
   {
     "category": "Crypto",
     "headline": "Here\u2019s what happened in crypto today",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1789255842",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1789255842",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1789263876",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1789263876",
     "article": {
       "title": "Here\u2019s what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
@@ -11,7 +11,7 @@
       "source": "CoinTelegraph",
       "category": "Crypto",
       "tier": 10,
-      "fetched_at": "2026-09-12T23:30:35.579275+00:00",
+      "fetched_at": "2026-09-13T01:44:28.103530+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -22,8 +22,8 @@
   {
     "category": "Crypto",
     "headline": "North Korea using foreign talent to help infiltrate US companies: Report",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1789255845",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1789255845",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1789263879",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1789263879",
     "article": {
       "title": "North Korea using foreign talent to help infiltrate US companies: Report",
       "url": "https://cointelegraph.com/news/north-korea-using-foreign-talent-to-help-infiltrate-us-companies-report",
@@ -31,7 +31,27 @@
       "source": "CoinTelegraph",
       "category": "Crypto",
       "tier": 10,
-      "fetched_at": "2026-09-12T23:30:35.579349+00:00",
+      "fetched_at": "2026-09-13T01:44:28.103607+00:00",
+      "credibility": "REVIEW",
+      "score": 6,
+      "verdict": "WARNING",
+      "decision": "PASS",
+      "flags": []
+    }
+  },
+  {
+    "category": "Markets",
+    "headline": "Korea Tests Global Investor Appetite With Longer Trading Hours",
+    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1789263882",
+    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1789263882",
+    "article": {
+      "title": "Korea Tests Global Investor Appetite With Longer Trading Hours",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-13/korea-tests-global-investor-appetite-with-longer-trading-hours",
+      "summary": "South Korea\u2019s main stock exchange is extending into evening sessions, breaking with Asia\u2019s trading-hour norms to tap what it hopes will be sustained demand from global investors.",
+      "source": "Bloomberg Markets",
+      "category": "Markets",
+      "tier": 10,
+      "fetched_at": "2026-09-13T01:44:29.631416+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -42,8 +62,8 @@
   {
     "category": "Markets",
     "headline": "SpaceX to Get Weighting Boost in Nasdaq 100 After Rebalance",
-    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1789255848",
-    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1789255848",
+    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1789263886",
+    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1789263886",
     "article": {
       "title": "SpaceX to Get Weighting Boost in Nasdaq 100 After Rebalance",
       "url": "https://www.bloomberg.com/news/articles/2026-09-12/spacex-to-get-weighting-boost-in-nasdaq-100-after-rebalance",
@@ -51,27 +71,7 @@
       "source": "Bloomberg Markets",
       "category": "Markets",
       "tier": 10,
-      "fetched_at": "2026-09-12T23:30:36.446678+00:00",
-      "credibility": "REVIEW",
-      "score": 6,
-      "verdict": "WARNING",
-      "decision": "PASS",
-      "flags": []
-    }
-  },
-  {
-    "category": "Markets",
-    "headline": "Bloomberg This Weekend 09/12/2026",
-    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1789255851",
-    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1789255851",
-    "article": {
-      "title": "Bloomberg This Weekend 09/12/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-12/bloomberg-this-weekend-09-12-2026-video",
-      "summary": "The news doesn\u2019t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend\u2019s biggest headlines, LIVE from New York. Joined by Fmr. Ambassador to NATO Nick Burns, Council on Foreign Relations Ray Takeyh, Future of Life Institu",
-      "source": "Bloomberg Markets",
-      "category": "Markets",
-      "tier": 10,
-      "fetched_at": "2026-09-12T23:30:36.446736+00:00",
+      "fetched_at": "2026-09-13T01:44:29.631476+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -82,8 +82,8 @@
   {
     "category": "Crypto",
     "headline": "Bitcoin\u2019s \u2018Unusual Mix\u2019: Bearish Inflation Print, Bullish Buyback Failure",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1789255854",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1789255854",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1789263889",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1789263889",
     "article": {
       "title": "Bitcoin\u2019s \u2018Unusual Mix\u2019: Bearish Inflation Print, Bullish Buyback Failure",
       "url": "https://bitcoinmagazine.com/news/bitcoin-has-unusual-mix-says-coinshares",
@@ -91,7 +91,7 @@
       "source": "Bitcoin Magazine",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-09-12T23:30:35.824609+00:00",
+      "fetched_at": "2026-09-13T01:44:28.416504+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -102,8 +102,8 @@
   {
     "category": "Crypto",
     "headline": "Blockstream Tells Hackers To Return Remaining Bitcoin Stolen in Liquid Theft",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1789255857",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1789255857",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1789263892",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1789263892",
     "article": {
       "title": "Blockstream Tells Hackers To Return Remaining Bitcoin Stolen in Liquid Theft",
       "url": "https://bitcoinmagazine.com/news/blockstream-tells-demands-bitcoin",
@@ -111,7 +111,7 @@
       "source": "Bitcoin Magazine",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-09-12T23:30:35.824673+00:00",
+      "fetched_at": "2026-09-13T01:44:28.416567+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -122,8 +122,8 @@
   {
     "category": "Crypto",
     "headline": "Revolut Leaks Passports, Bitcoin Transaction Histories to Fake Government Reques",
-    "image_url": "https://loremflickr.com/1200/630/crypto%2Ctrading?lock=1789255860",
-    "image_fallback": "https://image.pollinations.ai/prompt/crypto%2Ctrading%20professional%20photo?width=800&height=600&nologo=true&seed=1789255860",
+    "image_url": "https://loremflickr.com/1200/630/crypto%2Ctrading?lock=1789263895",
+    "image_fallback": "https://image.pollinations.ai/prompt/crypto%2Ctrading%20professional%20photo?width=800&height=600&nologo=true&seed=1789263895",
     "article": {
       "title": "Revolut Leaks Passports, Bitcoin Transaction Histories to Fake Government Request",
       "url": "https://decrypt.co/378114/revolut-passports-bitcoin-activity-data-breach",
@@ -131,7 +131,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-09-12T23:30:35.918095+00:00",
+      "fetched_at": "2026-09-13T01:44:28.597336+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -142,8 +142,8 @@
   {
     "category": "Crypto",
     "headline": "GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Cgold%2Ccoin?lock=1789255863",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Cgold%2Ccoin%20professional%20photo?width=800&height=600&nologo=true&seed=1789255863",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Cgold%2Ccoin?lock=1789263898",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Cgold%2Ccoin%20professional%20photo?width=800&height=600&nologo=true&seed=1789263898",
     "article": {
       "title": "GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too",
       "url": "https://decrypt.co/378101/gpt-6-astra-openai-model-dumber-nerfed",
@@ -151,7 +151,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-09-12T23:30:35.918160+00:00",
+      "fetched_at": "2026-09-13T01:44:28.597402+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -162,8 +162,8 @@
   {
     "category": "Crypto",
     "headline": "CryptoQuant says bitcoin must clear resistance at $81,700 to confirm new bull ma",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1789255866",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1789255866",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1789263901",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1789263901",
     "article": {
       "title": "CryptoQuant says bitcoin must clear resistance at $81,700 to confirm new bull market",
       "url": "https://www.theblock.co/news/markets/2026-09-12-cryptoquant-bitcoin-resistance-support-levels-414519",
@@ -171,7 +171,7 @@
       "source": "The Block",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-09-12T23:30:36.010965+00:00",
+      "fetched_at": "2026-09-13T01:44:28.777967+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -182,8 +182,8 @@
   {
     "category": "Crypto",
     "headline": "Revolut says customer KYC, Bitcoin transaction data exposed after fake request f",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1789255869",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1789255869",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1789263905",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1789263905",
     "article": {
       "title": "Revolut says customer KYC, Bitcoin transaction data exposed after fake request from gov\u2019t domain",
       "url": "https://www.theblock.co/news/business/2026-09-12-revolut-says-customer-kyc-bitcoin-transaction-data-exposed-after-fake-request-from-govt-domain-414516",
@@ -191,7 +191,7 @@
       "source": "The Block",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-09-12T23:30:36.011031+00:00",
+      "fetched_at": "2026-09-13T01:44:28.778035+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -202,8 +202,8 @@
   {
     "category": "Markets",
     "headline": "Rivals Altman and Musk rally behind Dario Amodei\u2019s call for an AI slowdown",
-    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1789255872",
-    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1789255872",
+    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1789263908",
+    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1789263908",
     "article": {
       "title": "Rivals Altman and Musk rally behind Dario Amodei\u2019s call for an AI slowdown",
       "url": "https://www.ft.com/content/31220b59-b0c6-401c-a146-2b7b5d138837?syn-25a6b1a6=1",
@@ -211,7 +211,7 @@
       "source": "Financial Times",
       "category": "Markets",
       "tier": 9,
-      "fetched_at": "2026-09-12T23:30:37.050958+00:00",
+      "fetched_at": "2026-09-13T01:44:30.543598+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -222,8 +222,8 @@
   {
     "category": "Markets",
     "headline": "We are setting up a generation to fail at school",
-    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1789255876",
-    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1789255876",
+    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1789263911",
+    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1789263911",
     "article": {
       "title": "We are setting up a generation to fail at school",
       "url": "https://www.ft.com/content/724f8ecb-1e2b-4c7f-bbb6-14239abd50dd?syn-25a6b1a6=1",
@@ -231,7 +231,7 @@
       "source": "Financial Times",
       "category": "Markets",
       "tier": 9,
-      "fetched_at": "2026-09-12T23:30:37.051024+00:00",
+      "fetched_at": "2026-09-13T01:44:30.543662+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
