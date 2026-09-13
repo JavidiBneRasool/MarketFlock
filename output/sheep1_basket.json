@@ -1,39 +1,39 @@
 [
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "title": "Anthropic chief urges slowdown in AI development to safer pace",
+    "url": "https://cointelegraph.com/news/anthropic-chief-urges-slowdown-in-ai-development-to-safer-pace",
+    "summary": "OpenAI CEO Sam Altman agrees with safety concerns regarding AI development, says no initial share sale this year.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-13T06:53:51.754919+00:00"
+    "fetched_at": "2026-09-13T12:24:15.298526+00:00"
   },
   {
-    "title": "North Korea using foreign talent to help infiltrate US companies: Report",
-    "url": "https://cointelegraph.com/news/north-korea-using-foreign-talent-to-help-infiltrate-us-companies-report",
-    "summary": "The DPRK has turned to third-country IT workers to pass job interviews, after which, the positions are usually taken over by North Korean operatives.",
+    "title": "Revolut says customer data exposed through fake government email",
+    "url": "https://cointelegraph.com/news/revolut-says-customer-data-exposed-through-fake-government-email",
+    "summary": "Passports, selfies and financial transaction histories of some customers were revealed to a fraudster using a government agency domain.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-13T06:53:51.754971+00:00"
+    "fetched_at": "2026-09-13T12:24:15.298574+00:00"
   },
   {
-    "title": "RBI Said to Reject Tata Sons Request to Avoid An IPO",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-12/rbi-said-to-reject-tata-sons-request-to-avoid-a-public-listing",
-    "summary": "India\u2019s central bank rejected an application from Tata Sons Pvt. to surrender its status as a shadow lender, according to people familiar with the matter, signaling it expects the company to adhere with rules for such entities that include an initial public offering.",
+    "title": "Can Scotland\u2019s Abundant Wind Power a Data Center Boom?",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-13/can-scotland-s-abundant-wind-power-a-data-center-boom-video",
+    "summary": "Scotland produces far more wind power than its grid can handle, forcing turbines to be shut down when supply exceeds demand or transmission capacity. Developers now see a possible solution: build data centers close to the surplus power, turning wasted wind into compute capacity for AI and the digita",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-13T06:53:52.985598+00:00"
+    "fetched_at": "2026-09-13T12:24:16.465666+00:00"
   },
   {
-    "title": "Korea Tests Global Investor Appetite With Longer Trading Hours",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-13/korea-tests-global-investor-appetite-with-longer-trading-hours",
-    "summary": "South Korea\u2019s main stock exchange is extending into evening sessions, breaking with Asia\u2019s trading-hour norms to tap what it hopes will be sustained demand from global investors.",
+    "title": "Ukraine Says Passenger Train Headed to Warsaw Hit by Drone",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-13/ukraine-says-passenger-train-headed-to-warsaw-is-hit-by-drone",
+    "summary": "The locomotive of a passenger train traveling from Kyiv to Warsaw was hit by a Russian drone just kilometers from the Polish border on Sunday morning, Ukraine\u2019s foreign minister said, as Moscow\u2019s airstrikes push closer to NATO territory.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-13T06:53:52.985635+00:00"
+    "fetched_at": "2026-09-13T12:24:16.465708+00:00"
   },
   {
     "title": "Bitcoin\u2019s \u2018Unusual Mix\u2019: Bearish Inflation Print, Bullish Buyback Failure",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-13T06:53:52.102419+00:00"
+    "fetched_at": "2026-09-13T12:24:15.556812+00:00"
   },
   {
     "title": "Blockstream Tells Hackers To Return Remaining Bitcoin Stolen in Liquid Theft",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-13T06:53:52.102463+00:00"
+    "fetched_at": "2026-09-13T12:24:15.556859+00:00"
   },
   {
     "title": "Revolut Leaks Passports, Bitcoin Transaction Histories to Fake Government Request",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-13T06:53:52.219869+00:00"
+    "fetched_at": "2026-09-13T12:24:15.690593+00:00"
   },
   {
     "title": "GPT-6 Astra Users Say OpenAI's Newest Model Got Dumber. It Happened Before, Too",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-13T06:53:52.219920+00:00"
+    "fetched_at": "2026-09-13T12:24:15.690638+00:00"
   },
   {
     "title": "CryptoQuant says bitcoin must clear resistance at $81,700 to confirm new bull market",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-13T06:53:52.348325+00:00"
+    "fetched_at": "2026-09-13T12:24:15.801688+00:00"
   },
   {
     "title": "Revolut says customer KYC, Bitcoin transaction data exposed after fake request from gov\u2019t domain",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-13T06:53:52.348370+00:00"
+    "fetched_at": "2026-09-13T12:24:15.801739+00:00"
   },
   {
     "title": "Rivals Altman and Musk rally behind Dario Amodei\u2019s call for an AI slowdown",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-13T06:53:53.921666+00:00"
+    "fetched_at": "2026-09-13T12:24:17.556097+00:00"
   },
   {
     "title": "The anti-AI portfolio: fountain pens, Warhammer and film cameras",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-13T06:53:53.921716+00:00"
+    "fetched_at": "2026-09-13T12:24:17.556144+00:00"
   }
 ]
