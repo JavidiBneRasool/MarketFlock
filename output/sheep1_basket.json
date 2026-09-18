@@ -1,39 +1,39 @@
 [
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "title": "Dragonfly\u2019s Qureshi calls for end to Zcash dev fund after 2028",
+    "url": "https://cointelegraph.com/news/dragonflys-qureshi-end-zcash-dev-fund-2028",
+    "summary": "Industry watchers are debating the fate of the Zcash development fund after the ZEC token\u2019s rally pushed its value above $95 million.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-18T06:48:25.085738+00:00"
+    "fetched_at": "2026-09-18T11:56:55.639403+00:00"
   },
   {
-    "title": "Zcash targets November for NU7 mainnet upgrade with 25-second blocks",
-    "url": "https://cointelegraph.com/news/zcash-nu7-november-mainnet-activation",
-    "summary": "NU7 will cut Zcash block times to 25 seconds and preserve its halving schedule, with testnet activation planned for Oct. 6.",
+    "title": "Bitcoin adds to bull-market hopes as price metric prints fourth-ever bullish cross",
+    "url": "https://cointelegraph.com/markets/bitcoin-adds-to-bull-market-hopes-as-price-metric-prints-fourth-ever-bullish-cross",
+    "summary": "The Fisher Transform indicator produced a rare crossover for only the fourth time in Bitcoin\u2019s history.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-18T06:48:25.085825+00:00"
+    "fetched_at": "2026-09-18T11:56:55.639485+00:00"
   },
   {
-    "title": "Strategists Are Most Bullish on European Stocks in Eight Years",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-18/strategists-are-most-bullish-on-european-stocks-in-eight-years",
-    "summary": "Market strategists have given the most bullish September forecast on European stocks since 2018, as strong corporate earnings help offset the impact of high energy prices and rising bond yields, according to a Bloomberg survey.",
+    "title": "Latest Oil Market News and Analysis for Sept. 18",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-17/latest-oil-market-news-and-analysis-for-sept-18",
+    "summary": "Oil dropped for a third day, with supply concerns easing as traders look to the next round of diplomacy that\u2019ll shape the US-Iran war.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-18T06:48:26.500612+00:00"
+    "fetched_at": "2026-09-18T11:56:56.575511+00:00"
   },
   {
-    "title": "Horizons Middle East & Africa 9/18/2026 (Video)",
-    "url": "https://www.bloomberg.com/news/videos/2026-09-18/horizons-middle-east-africa-9-18-2026-video",
-    "summary": "",
+    "title": "US Stocks Steady as Tech Outperforms and Oil Falls: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-17/stock-market-today-dow-s-p-live-updates",
+    "summary": "Technology stocks were the standout performers as US equity futures steadied, making for a calmer end to a turbulent week. Oil fell for a third straight day.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-18T06:48:26.500673+00:00"
+    "fetched_at": "2026-09-18T11:56:56.575568+00:00"
   },
   {
     "title": "Dan Hillery: Digital Credit Could Rival BTC\u2019s $1.5 Trillion Market Cap",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-18T06:48:25.417574+00:00"
+    "fetched_at": "2026-09-18T11:56:55.967841+00:00"
   },
   {
     "title": "Treasury Sanctions Iranian Crypto Exchange BitBank Over Bitcoin Transfers to IRGC",
@@ -51,25 +51,34 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-18T06:48:25.417643+00:00"
+    "fetched_at": "2026-09-18T11:56:55.967912+00:00"
   },
   {
-    "title": "OpenAI Models Are Writing Their Own Jailbreak Instructions\u2014And Sometimes Obeying Them",
-    "url": "https://decrypt.co/378582/openai-models-ai-jailbreak-instructions-obeying",
-    "summary": "OpenAI's new transparency framework reveals AI models that invented fake \"breach alerts,\" coached themselves to hide mistakes, and smuggled a file onto the public internet to talk to each other.",
+    "title": "UAE, Sweden Arrest Seven Over $7.1M Crypto Laundering Ring Linked to Contract Killings",
+    "url": "https://decrypt.co/378611/uae-sweden-arrest-seven-over-7-1m-crypto-laundering-ring-linked-to-contract-killings",
+    "summary": "Investigators say tracing the network's crypto transactions exposed links to organized crime and murder-for-hire.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-18T06:48:25.580522+00:00"
+    "fetched_at": "2026-09-18T11:56:56.047321+00:00"
   },
   {
-    "title": "Security Experts Want the US and China to Promise Never to Let AI Control Nukes",
-    "url": "https://decrypt.co/378575/us-china-never-let-ai-control-nukes",
-    "summary": "Brookings researchers in the US and China are urging Washington and Beijing to agree to keep humans in control of nuclear weapons.",
+    "title": "Treasury Sanctions Crypto Exchange Behind Iran's Bitcoin Tolls on Hormuz Ships",
+    "url": "https://decrypt.co/378604/treasury-sanctions-crypto-exchange-behind-irans-bitcoin-tolls-on-hormuz-ships",
+    "summary": "OFAC says hundreds of millions of dollars in Bitcoin moved through BitBank to the Revolutionary Guards in two months.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-18T06:48:25.580604+00:00"
+    "fetched_at": "2026-09-18T11:56:56.047383+00:00"
+  },
+  {
+    "title": "Kevin O\u2019Leary is buying crypto again, says major stock exchange adoption is the \u2018watershed moment\u2019 to watch",
+    "url": "https://www.theblock.co/news/business/2026-09-18-kevin-oleary-is-buying-crypto-again-says-major-stock-exchange-adoption-is-the-watershed-moment-to-watch-415491",
+    "summary": "Kevin O'Leary says he is buying crypto again and watching for a major stock exchange to adopt a blockchain network.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-09-18T11:56:56.136807+00:00"
   },
   {
     "title": "Stablecoin payments firm dtcpay closes $25 million Series A with SBI Group investment",
@@ -78,25 +87,16 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-18T06:48:25.754356+00:00"
+    "fetched_at": "2026-09-18T11:56:56.136874+00:00"
   },
   {
-    "title": "US sanctions Iranian crypto exchange BitBank over alleged bitcoin transfers to IRGC",
-    "url": "https://www.theblock.co/news/regulation/2026-09-17-us-sanctions-iranian-crypto-exchange-bitbank-alleged-bitcoin-transfers-to-irgc-415462",
-    "summary": "Treasury said the previously sanctioned Hormuz Safe platform used BitBank to transfer payments collected since June.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-09-18T06:48:25.754413+00:00"
-  },
-  {
-    "title": "Bank of Japan raises rates to 31-year high after Fed move",
-    "url": "https://www.ft.com/content/97a0bed5-0580-4ccc-bd3c-fe9a714259e2?syn-25a6b1a6=1",
-    "summary": "Central bank cites inflation risks as it lifts interest rates by 0.25 percentage points to 1.25%",
+    "title": "Howard Buffett to succeed father Warren as Berkshire Hathaway chair",
+    "url": "https://www.ft.com/content/e26d8335-426a-4405-ae4c-433bd2696994",
+    "summary": "Conglomerate says the elder Buffett will step down as chair and take on role of chair emeritus",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-18T06:48:27.307612+00:00"
+    "fetched_at": "2026-09-18T11:56:57.283796+00:00"
   },
   {
     "title": "Medical AI has a proof problem",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-18T06:48:27.307672+00:00"
+    "fetched_at": "2026-09-18T11:56:57.283861+00:00"
   }
 ]
