@@ -1,39 +1,39 @@
 [
   {
+    "title": "Bastion wins conditional OCC approval for national trust bank charter",
+    "url": "https://cointelegraph.com/news/bastion-wins-conditional-occ-approval-for-national-trust-bank-charter",
+    "summary": "Bastion Platforms National Trust Company will offer stablecoin custody and wallets, payment infrastructure and white-label issuance from a single federally regulated entity.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-09-19T14:56:53.865601+00:00"
+  },
+  {
     "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
     "url": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report",
     "summary": "Former banking official gets four years in prison over false letters of credit and accepting $470,000 in cryptocurrency bribes.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-19T11:44:45.361396+00:00"
+    "fetched_at": "2026-09-19T14:56:53.865662+00:00"
   },
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-09-19T11:44:45.361471+00:00"
-  },
-  {
-    "title": "World Running Short of Supertankers Threatens Long-Haul Oil Flow",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-19/world-running-short-of-supertankers-threatens-long-haul-oil-flow",
-    "summary": "The soaring cost of moving oil around the world is making some long-distance crude trades uneconomical, threatening to disrupt flows at a time when fuel markets have never been tighter.",
+    "title": "Saudi Arabia Billionaires\u2019 Family Office Dubai Bet Adds to London Exodus",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-18/saudi-arabia-billionaires-family-office-dubai-bet-adds-to-london-exodus",
+    "summary": "An investment firm for one of Saudi Arabia\u2019s richest families is relocating from London to Dubai, according to people familiar with the matter, the latest example of private wealth outflows from the UK to the Gulf despite heightened uncertainty from the Iran war.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-19T11:44:46.258058+00:00"
+    "fetched_at": "2026-09-19T14:56:55.100669+00:00"
   },
   {
-    "title": "Europe\u2019s Winter Power Surge Is Biggest Since Energy Crisis",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-19/europe-s-winter-power-surge-is-biggest-since-energy-crisis",
-    "summary": "As Europe heads into winter, electricity markets are flashing their strongest warning since the energy crisis.",
+    "title": "SpaceX\u2019s Nasdaq 100 Weight Is Confirmed at 2.82% in Rebalance",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-19/spacex-s-nasdaq-100-weight-is-confirmed-at-2-82-in-rebalance",
+    "summary": "SpaceX will make up 2.82% of the Nasdaq 100 when the index\u2019s quarterly rebalance takes effect Monday, according to data obtained by Bloomberg, locking in a sharp increase from its current weighting of about 1.28%.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-19T11:44:46.258120+00:00"
+    "fetched_at": "2026-09-19T14:56:55.100717+00:00"
   },
   {
     "title": "European Central Bank President Blocked Binance\u2019s EU Entry: Report",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-19T11:44:45.687131+00:00"
+    "fetched_at": "2026-09-19T14:56:54.248599+00:00"
   },
   {
     "title": "CFTC Sends Proposal To Regulate Crypto Transactions Following Clarity Act Fail",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-19T11:44:45.687194+00:00"
+    "fetched_at": "2026-09-19T14:56:54.248649+00:00"
+  },
+  {
+    "title": "Solana's Heartbeat Quickens: Block Times Fall 17% in Latest Speed Upgrade",
+    "url": "https://decrypt.co/378674/solana-heartbeat-quickens-speed-upgrade",
+    "summary": "The network's clock just sped up again, but the extra speed goes to freshness, not capacity.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-09-19T14:56:54.379426+00:00"
   },
   {
     "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
@@ -60,16 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-19T11:44:45.764204+00:00"
-  },
-  {
-    "title": "Zcash Is Running\u2014Devs Want to Make It Faster",
-    "url": "https://decrypt.co/378667/zcash-upgrade-make-private-payments-3x-faster",
-    "summary": "A new upgrade would cut Zcash block time from 75 seconds to 25, while quietly rewriting how the network pays for its own security after 2031.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-09-19T11:44:45.764259+00:00"
+    "fetched_at": "2026-09-19T14:56:54.379469+00:00"
   },
   {
     "title": "Bitcoin reclaims $80,000, Solana and Hyperliquid rally as crypto markets shrug off Clarity setback",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-19T11:44:45.833417+00:00"
+    "fetched_at": "2026-09-19T14:56:54.512694+00:00"
   },
   {
     "title": "Grayscale\u2019s Zcash ETF plans 3-for-1 split after $233 million inflow surge",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-19T11:44:45.833480+00:00"
+    "fetched_at": "2026-09-19T14:56:54.512745+00:00"
   },
   {
     "title": "Investors warn Anthropic could struggle to sustain revenues post-IPO",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-19T11:44:46.880785+00:00"
+    "fetched_at": "2026-09-19T14:56:55.844355+00:00"
   },
   {
     "title": "OpenAI expects to burn $280bn by 2030",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-19T11:44:46.880848+00:00"
+    "fetched_at": "2026-09-19T14:56:55.844403+00:00"
   }
 ]
