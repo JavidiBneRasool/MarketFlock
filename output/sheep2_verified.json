@@ -1,48 +1,48 @@
 [
   {
+    "title": "Hong Kong jails former banker over $1.6B false credit, cryptocurrency bribes: Report",
+    "url": "https://cointelegraph.com/news/hong-kong-jails-former-banker-over-16b-false-credit-cryptocurrency-bribes-report",
+    "summary": "Former banking official gets four years in prison over false letters of credit and accepting $470,000 in cryptocurrency bribes.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-09-19T11:44:45.361396+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
     "title": "Here\u2019s what happened in crypto today",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-19T06:57:35.798789+00:00",
+    "fetched_at": "2026-09-19T11:44:45.361471+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Coinbase files to bring single-stock perpetual futures to US market",
-    "url": "https://cointelegraph.com/news/coinbase-files-to-bring-single-stock-perpetual-futures-to-us-market",
-    "summary": "Coinbase wants to bring 24/5 perpetual futures trading to individual US stocks, with its proposed contracts now awaiting regulatory approval.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-09-19T06:57:35.798853+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Bolivia Eliminates Diesel Subsidy After IMF Loan Approval",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-19/bolivia-eliminates-diesel-subsidy-after-imf-loan-approval-mu7ydf34",
-    "summary": "Bolivia\u2019s government has completely eliminated its diesel subsidy after the Senate approved a $1.9 billion loan from the International Monetary Fund that calls for spending curbs.",
+    "title": "World Running Short of Supertankers Threatens Long-Haul Oil Flow",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-19/world-running-short-of-supertankers-threatens-long-haul-oil-flow",
+    "summary": "The soaring cost of moving oil around the world is making some long-distance crude trades uneconomical, threatening to disrupt flows at a time when fuel markets have never been tighter.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-19T06:57:37.240762+00:00",
+    "fetched_at": "2026-09-19T11:44:46.258058+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Blackstone Sees India Nearing Tipping Point for Foreign Capital",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-19/blackstone-sees-india-nearing-tipping-point-for-foreign-capital",
-    "summary": "As Jon Gray recalls it, Blackstone Inc.\u2019s first foray into India started slowly and then ran into headwinds during the global financial crisis.",
+    "title": "Europe\u2019s Winter Power Surge Is Biggest Since Energy Crisis",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-19/europe-s-winter-power-surge-is-biggest-since-energy-crisis",
+    "summary": "As Europe heads into winter, electricity markets are flashing their strongest warning since the energy crisis.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-19T06:57:37.240811+00:00",
+    "fetched_at": "2026-09-19T11:44:46.258120+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-19T06:57:36.195732+00:00",
+    "fetched_at": "2026-09-19T11:44:45.687131+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-19T06:57:36.195791+00:00",
+    "fetched_at": "2026-09-19T11:44:45.687194+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-19T06:57:36.350033+00:00",
+    "fetched_at": "2026-09-19T11:44:45.764204+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-19T06:57:36.350082+00:00",
+    "fetched_at": "2026-09-19T11:44:45.764259+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-19T06:57:36.495126+00:00",
+    "fetched_at": "2026-09-19T11:44:45.833417+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-19T06:57:36.495183+00:00",
+    "fetched_at": "2026-09-19T11:44:45.833480+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,7 +126,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-19T06:57:37.891032+00:00",
+    "fetched_at": "2026-09-19T11:44:46.880785+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-19T06:57:37.891088+00:00",
+    "fetched_at": "2026-09-19T11:44:46.880848+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
