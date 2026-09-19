@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-19T21:51:53.165717+00:00",
+    "fetched_at": "2026-09-19T23:43:21.625408+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -18,19 +18,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-19T21:51:53.165798+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Trump Reignites Kennedy Center Fight",
-    "url": "https://www.bloomberg.com/news/videos/2026-09-19/trump-reignites-kennedy-center-fight-video",
-    "summary": "President Donald Trump\u2019s plans for the Kennedy Center are hitting legal roadblocks as questions mount over the landmark\u2019s future. Bloomberg\u2019s Shaquille Omari breaks down the escalating battle over one of Washington\u2019s most iconic cultural institutions. (Source: Bloomberg)",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-09-19T21:51:54.462082+00:00",
+    "fetched_at": "2026-09-19T23:43:21.625493+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -42,7 +30,19 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-19T21:51:54.462137+00:00",
+    "fetched_at": "2026-09-19T23:43:22.785147+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Companies Avoid Selling the Bonds Investors Crave: Credit Weekly",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-19/companies-avoid-selling-the-bonds-investors-crave-credit-weekly",
+    "summary": "Investors are clamoring for the kind of debt companies are reluctant to sell now: longer-term bonds.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-09-19T23:43:22.785202+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-19T21:51:53.585294+00:00",
+    "fetched_at": "2026-09-19T23:43:21.894969+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-19T21:51:53.585359+00:00",
+    "fetched_at": "2026-09-19T23:43:21.895034+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-19T21:51:53.753323+00:00",
+    "fetched_at": "2026-09-19T23:43:22.060159+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-19T21:51:53.753383+00:00",
+    "fetched_at": "2026-09-19T23:43:22.060214+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-19T21:51:53.898382+00:00",
+    "fetched_at": "2026-09-19T23:43:22.196269+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-19T21:51:53.898446+00:00",
+    "fetched_at": "2026-09-19T23:43:22.196331+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -126,19 +126,19 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-19T21:51:55.317792+00:00",
+    "fetched_at": "2026-09-19T23:43:23.597415+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "OpenAI expects to burn $280bn by 2030",
-    "url": "https://www.ft.com/content/6011d061-eee3-4193-b3b7-8ee4155f538c?syn-25a6b1a6=1",
-    "summary": "AI start-up has projected deeply negative cash flows as it invests in infrastructure and faces price pressures",
+    "title": "How should investors position for the robot apocalypse?",
+    "url": "https://www.ft.com/content/129a5052-ac31-4975-8a88-91ce09740a0b?syn-25a6b1a6=1",
+    "summary": "The end of human existence might be bad for financial markets",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-19T21:51:55.317854+00:00",
+    "fetched_at": "2026-09-19T23:43:23.597490+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
