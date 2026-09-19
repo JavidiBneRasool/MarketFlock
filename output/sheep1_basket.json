@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-18T23:42:51.175431+00:00"
+    "fetched_at": "2026-09-19T01:58:12.961156+00:00"
   },
   {
     "title": "Coinbase files to bring single-stock perpetual futures to US market",
@@ -15,7 +15,16 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-18T23:42:51.175483+00:00"
+    "fetched_at": "2026-09-19T01:58:12.961227+00:00"
+  },
+  {
+    "title": "Mark Walter\u2019s Lieutenants Give Prosecutors Firsthand Accounts",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-19/mark-walter-s-lieutenants-give-prosecutors-firsthand-accounts",
+    "summary": "Federal prosecutors have collected statements from some of billionaire Mark Walter\u2019s most senior executives as authorities probe dealings at his insurance companies and the investment firm he runs, Guggenheim Partners LLC, according to people with knowledge of the matter.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-09-19T01:58:14.123091+00:00"
   },
   {
     "title": "Wall Street Week | India\u2019s Growth Test, Bangalore\u2019s Infrastructure Problem, Cricket Attracts Capital",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-18T23:42:52.430178+00:00"
-  },
-  {
-    "title": "$370 'Home Alone Sundae' on The Plaza's Menu",
-    "url": "https://www.bloomberg.com/news/videos/2026-09-18/-370-home-alone-sundae-on-the-plaza-s-menu-video",
-    "summary": "Bloomberg's Lisa Mateo joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss New York City's Plaza Hotel as it is set to welcome events and guests tied to the United Nations General Assembly and the Qatar Economic Forum. The menu includes the $370 \"Home Alone Sundae\". (Source: Bloomberg)",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-09-18T23:42:52.430223+00:00"
+    "fetched_at": "2026-09-19T01:58:14.123158+00:00"
   },
   {
     "title": "European Central Bank President Blocked Binance\u2019s EU Entry: Report",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-18T23:42:51.448377+00:00"
+    "fetched_at": "2026-09-19T01:58:13.263285+00:00"
   },
   {
     "title": "CFTC Sends Proposal To Regulate Crypto Transactions Following Clarity Act Fail",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-18T23:42:51.448422+00:00"
+    "fetched_at": "2026-09-19T01:58:13.263348+00:00"
   },
   {
     "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-18T23:42:51.623320+00:00"
+    "fetched_at": "2026-09-19T01:58:13.382206+00:00"
   },
   {
     "title": "Zcash Is Running\u2014Devs Want to Make It Faster",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-18T23:42:51.623358+00:00"
+    "fetched_at": "2026-09-19T01:58:13.382259+00:00"
   },
   {
     "title": "Bitcoin reclaims $80,000, Solana and Hyperliquid rally as crypto markets shrug off Clarity setback",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-18T23:42:51.808198+00:00"
+    "fetched_at": "2026-09-19T01:58:13.520816+00:00"
   },
   {
     "title": "Grayscale\u2019s Zcash ETF plans 3-for-1 split after $233 million inflow surge",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-18T23:42:51.808244+00:00"
+    "fetched_at": "2026-09-19T01:58:13.520880+00:00"
   },
   {
     "title": "OpenAI expects to burn $280bn by 2030",
@@ -96,15 +96,15 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-18T23:42:53.190594+00:00"
+    "fetched_at": "2026-09-19T01:58:14.914720+00:00"
   },
   {
-    "title": "Trump says US has deal with Denmark for \u2018control\u2019 of Greenland\u2019s security",
-    "url": "https://www.ft.com/content/2ecc74bd-2fba-4ca6-9f1c-f0a927ed983c?syn-25a6b1a6=1",
-    "summary": "Danish government says agreement could be signed next week and will respect territory\u2019s sovereignty",
+    "title": "Google\u2019s Gemini agents hacked three companies in new AI safety incident",
+    "url": "https://www.ft.com/content/158740d1-fde7-4dbc-a282-5830c3201189?syn-25a6b1a6=1",
+    "summary": "Breakout during training exercises follows instances at rivals OpenAI and Anthropic as concerns grow over safety of frontier systems",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-18T23:42:53.190646+00:00"
+    "fetched_at": "2026-09-19T01:58:14.914787+00:00"
   }
 ]
