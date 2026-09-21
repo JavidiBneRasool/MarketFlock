@@ -1,24 +1,36 @@
 [
   {
-    "title": "North Korean fake recruiters infect 30K devices, steal $10.7M in crypto",
-    "url": "https://cointelegraph.com/news/north-korean-fake-recruiters-infect-30k-devices-steal-107m-in-crypto",
-    "summary": "North Korean cyber group WaterPlum targeted developers with fake jobs at crypto, AI and NFT companies, infecting at least 30,000 devices across more than 100 countries.",
+    "title": "ZetaChain holders approve plan to wind down L1, move ZETA to Solana",
+    "url": "https://cointelegraph.com/news/zetachain-shutdown-zeta-solana-migration",
+    "summary": "ZetaChain plans to wind down its Cosmos-based layer 1 and migrate ZETA to Solana, joining other crypto projects moving away from standalone chains.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-21T02:02:18.163513+00:00",
+    "fetched_at": "2026-09-21T08:17:16.136894+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
   },
   {
-    "title": "Who needs CLARITY anyway? ARB could see 70X increase: Hodler\u2019s Digest",
-    "url": "https://cointelegraph.com/magazine/who-needs-clarity-anyway-arb-could-see-70x-increase-asia-express",
-    "summary": "Crypto missed out CLARITY, but tokenized stocks were legalized and the Bitcoin Reserve advanced. Meanwhile Standard Chartered says Arbitrum\u2019s price could increase 70 times by 2030.",
+    "title": "Bank of Korea launches 24-hour won settlement pilot for foreign investors",
+    "url": "https://cointelegraph.com/news/bank-korea-won-settlement-pilot",
+    "summary": "The Bank of Korea\u2019s new network will let foreign investors settle won transactions during business hours in their home countries.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-21T02:02:18.163592+00:00",
+    "fetched_at": "2026-09-21T08:17:16.136975+00:00",
+    "credibility": "REVIEW",
+    "score": 6,
+    "verdict": "WARNING"
+  },
+  {
+    "title": "Dangote Refinery Seeks New York Listing After 2029 Expansion",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-20/dangote-refinery-seeks-new-york-listing-after-2029-expansion",
+    "summary": "Dangote Petroleum Refinery and Petrochemicals FZE will list shares on the New York Stock Exchange after doubling the capacity of one of the world\u2019s largest crude refining facilities, its billionaire founder said.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-09-21T08:17:17.409930+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -30,19 +42,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-21T02:02:19.305582+00:00",
-    "credibility": "REVIEW",
-    "score": 6,
-    "verdict": "WARNING"
-  },
-  {
-    "title": "Trump & Xi to Meet Amidst Friction on Wars, Tech, Trade",
-    "url": "https://www.bloomberg.com/news/videos/2026-09-21/trump-xi-to-meet-amidst-friction-on-wars-tech-trade-video",
-    "summary": "US President Donald Trump and Chinese President Xi Jinping prepare to meet in Washington with technological supremacy and unresolved economic friction at the top of the agenda. Ahead of an approaching trade truce deadline, discussions are likely to center on artificial intelligence competition, semi",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-09-21T02:02:19.305643+00:00",
+    "fetched_at": "2026-09-21T08:17:17.409988+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -54,7 +54,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-21T02:02:18.433180+00:00",
+    "fetched_at": "2026-09-21T08:17:16.412709+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -66,7 +66,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-21T02:02:18.433249+00:00",
+    "fetched_at": "2026-09-21T08:17:16.412777+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -78,7 +78,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-21T02:02:18.528242+00:00",
+    "fetched_at": "2026-09-21T08:17:16.560801+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -90,7 +90,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-21T02:02:18.528301+00:00",
+    "fetched_at": "2026-09-21T08:17:16.560856+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -102,7 +102,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-21T02:02:18.632784+00:00",
+    "fetched_at": "2026-09-21T08:17:16.719503+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -114,7 +114,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-21T02:02:18.632853+00:00",
+    "fetched_at": "2026-09-21T08:17:16.719573+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -122,11 +122,11 @@
   {
     "title": "German chancellor Merz vows to stay on despite \u2018disaster\u2019 in regional elections",
     "url": "https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3?syn-25a6b1a6=1",
-    "summary": "Partial results suggest CDU is set to fail to secure parliamentary representation in Mecklenburg-Vorpommern",
+    "summary": "Result leaves CDU without seats in state parliament in Mecklenburg-Vorpommern",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-21T02:02:20.047384+00:00",
+    "fetched_at": "2026-09-21T08:17:18.205815+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
@@ -138,7 +138,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-21T02:02:20.047458+00:00",
+    "fetched_at": "2026-09-21T08:17:18.205882+00:00",
     "credibility": "REVIEW",
     "score": 6,
     "verdict": "WARNING"
