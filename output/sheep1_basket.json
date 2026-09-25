@@ -1,39 +1,48 @@
 [
   {
+    "title": "Tether says it had \u2018limited\u2019 exposure to bank linked to $84M US seizure",
+    "url": "https://cointelegraph.com/news/us-authorities-seize-accounts-tether-bitfinex",
+    "summary": "US prosecutors alleged that a payments business illegally transferred hundreds of millions of dollars at the direction of EQIBank, where Tether holds some assets.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-09-25T19:38:50.722804+00:00"
+  },
+  {
     "title": "Here\u2019s what happened in crypto today",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
     "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-25T15:37:49.589531+00:00"
+    "fetched_at": "2026-09-25T19:38:50.722877+00:00"
   },
   {
-    "title": "Exchanges reporting crypto gains to IRS becomes tax nightmare",
-    "url": "https://cointelegraph.com/magazine/exchanges-reporting-crypto-gains-to-irs-becomes-tax-nightmare",
-    "summary": "The IRS can now see your crypto gains, but has no idea about the cost-basis. That\u2019s proving to be a big headache for some cryptocurrency investors.",
-    "source": "CoinTelegraph",
+    "title": "Stocks Climb as Oil Retreats on US-Iran Deal Hopes: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-24/stock-market-today-dow-s-p-live-updates",
+    "summary": "Hopes for a diplomatic way to the end the war in Iran drove oil prices lower, fueling a rebound in stocks and easing a selloff in Treasuries that had roiled financial markets around the world.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-09-25T19:38:51.763866+00:00"
+  },
+  {
+    "title": "Europe\u2019s Solar Boom Has a Storage Problem",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-12/europe-s-solar-boom-has-a-storage-problem-video",
+    "summary": "Solar has become Europe\u2019s largest source of power during summer months, helped by government incentives, falling technology costs and a rapid buildout across rooftops and utility-scale projects. But that success is creating a new problem: on sunny days, Europe can produce more solar power than the s",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-09-25T19:38:51.763920+00:00"
+  },
+  {
+    "title": "Bitcoin Treasury Strategy Proposes Daily Dividends For Preferred Stocks",
+    "url": "https://bitcoinmagazine.com/news/strategy-proposes-daily-dividends",
+    "summary": "Bitcoin Magazine\n\nBitcoin Treasury Strategy Proposes Daily Dividends For Preferred Stocks\nStrategy stockholders are being asked to attend a meeting to approve daily dividends on STRF, STRC, STRK, and STRD. \nThis post Bitcoin Treasury Strategy Proposes Daily Dividends For Preferred Stocks first appea",
+    "source": "Bitcoin Magazine",
     "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-09-25T15:37:49.589605+00:00"
-  },
-  {
-    "title": "Yen Rises as Japanese Officials Say Weak Currency Is a Problem",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-25/yen-heads-for-best-day-in-two-weeks-after-katayama-jawboning",
-    "summary": "The yen was headed for its best day in almost three weeks as Japanese officials discussed the problems tied to a weak currency in meetings with their US counterparts.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-09-25T15:37:50.724322+00:00"
-  },
-  {
-    "title": "Why Retail Investors Are Flooding Into ETFs",
-    "url": "https://www.bloomberg.com/news/videos/2026-09-25/why-retail-investors-are-flooding-into-etfs-video",
-    "summary": "Anna Paglia, Executive Vice President and Chief Business Officer at State Street Investment Management joined Bloomberg Open Interest to break down the ETF boom, explaining why retail investors now account for a much larger share of the market. She also sounds the alarm on the gamification of invest",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-09-25T15:37:50.724375+00:00"
+    "tier": 9,
+    "fetched_at": "2026-09-25T19:38:51.121188+00:00"
   },
   {
     "title": "Is US Defence Secretary Pete Hegseth a Bitcoiner? This Is What His Accounts Say",
@@ -42,34 +51,34 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-25T15:37:49.889842+00:00"
+    "fetched_at": "2026-09-25T19:38:51.121254+00:00"
   },
   {
-    "title": "Mitchell Askew Explains What 15M Inactive BTC Means for Bitcoin\u2019s Next Move",
-    "url": "https://bitcoinmagazine.com/videos/mitchell-askew-explains-what-15m-inactive-btc-means-for-bitcoins-next-move",
-    "summary": "Bitcoin Magazine\n\nMitchell Askew Explains What 15M Inactive BTC Means for Bitcoin\u2019s Next Move\nBitcoin is rallying despite macro headwinds. Mitchell Askew explains why on-chain data and 15M BTC in long-term supply signal seller exhaustion.\nThis post Mitchell Askew Explains What 15M Inactive BTC Means",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-09-25T15:37:49.889911+00:00"
-  },
-  {
-    "title": "Strategy Wants Its Preferred Stock Dividends to Accrue 365 Days a Year",
-    "url": "https://decrypt.co/379309/strategy-wants-its-preferred-stock-dividends-to-accrue-365-days-a-year",
-    "summary": "STRF, STRC, STRK and STRD would accrue dividends on weekends and holidays, in a move Strategy says will dampen volatility.",
+    "title": "Google Built an AI That Hunts Its Own Security Bugs",
+    "url": "https://decrypt.co/379364/google-built-ai-hunts-security-bugs",
+    "summary": "Google's PageBreak agent autonomously finds and verifies real vulnerabilities in its own web apps, cutting through the flood of noisy AI-generated security reports.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-25T15:37:50.032223+00:00"
+    "fetched_at": "2026-09-25T19:38:51.198436+00:00"
   },
   {
-    "title": "Morgan Stanley Joins NEXTPredict as Prediction Markets Bet on 'More Institutional' Play",
-    "url": "https://decrypt.co/379218/morgan-stanley-joins-nextpredict-as-prediction-markets-bet-on-more-institutional-play",
-    "summary": "The bulk of prediction market trades are still sports bets, while valuations are predicated on rising institutional interest.",
+    "title": "Circle and Tether Freeze Stablecoins Tied to Bitget Hack\u2014But Most Funds Slip Away",
+    "url": "https://decrypt.co/379365/circle-tether-freeze-stablecoins-bitget-hack",
+    "summary": "The two stablecoin issuers blacklisted a wallet labeled \"Bitget Exploiter 8,\" locking about $318,000 in USDC and USDT\u2014but the attacker swapped most funds into unfreezable ETH before they could act.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-25T15:37:50.032281+00:00"
+    "fetched_at": "2026-09-25T19:38:51.198494+00:00"
+  },
+  {
+    "title": "Man charged in $16 million crypto \u2018massive pig butchering\u2019 scam",
+    "url": "https://www.theblock.co/news/regulation/2026-09-25-man-charged-in-16-million-crypto-massive-pig-butchering-scam-416895",
+    "summary": "A man was charged for his role in defrauding someone of millions of dollars' worth of crypto in a \"massive pig butchering\" scam.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-09-25T19:38:51.273721+00:00"
   },
   {
     "title": "Magic Eden legacy approvals leave $5.7 million in NFTs exposed to exploit before rescue",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-25T15:37:50.309608+00:00"
-  },
-  {
-    "title": "Aave V4 on Base adds Coinbase tokenized stocks as collateral for USDC loans",
-    "url": "https://www.theblock.co/news/defi/2026-09-25-aave-v4-on-base-adds-coinbase-tokenized-stocks-as-collateral-for-usdc-loans-416372",
-    "summary": "Aave V4 added Apple, Nvidia, Tesla, and four more tokenized stocks as collateral for USDC loans for non-U.S. users.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-09-25T15:37:50.309683+00:00"
+    "fetched_at": "2026-09-25T19:38:51.273782+00:00"
   },
   {
     "title": "Houthis promise not to target European ships",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-25T15:37:51.655222+00:00"
+    "fetched_at": "2026-09-25T19:38:52.613280+00:00"
   },
   {
     "title": "Iran offers US new seven-day ceasefire proposal",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-25T15:37:51.655282+00:00"
+    "fetched_at": "2026-09-25T19:38:52.613341+00:00"
   }
 ]
