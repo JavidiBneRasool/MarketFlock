@@ -1,39 +1,39 @@
 [
   {
-    "title": "Canadian \u2018crypto king\u2019 set to represent himself at fraud trial",
-    "url": "https://cointelegraph.com/news/canada-aiden-pleterski-fraud-trial-crypto",
-    "summary": "Aiden Pleterski was allegedly behind a crypto Ponzi scheme between 2021 and 2022 that resulted in a kidnapping and related criminal charges.",
+    "title": "Here\u2019s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-29T00:41:44.948726+00:00"
+    "fetched_at": "2026-09-29T06:21:06.727761+00:00"
   },
   {
-    "title": "Blockchain.com eyes $500M IPO as crypto capital markets thaw: Report",
-    "url": "https://cointelegraph.com/news/blockchain-com-500m-ipo-bloomberg-reports",
-    "summary": "The crypto company is seeking a valuation of up to $6 billion, well below its 2022 peak, as recently listed crypto stocks struggle to hold their gains.",
+    "title": "Tether says it helped freeze $550M in Iran-linked USDT this year",
+    "url": "https://cointelegraph.com/news/tether-says-it-helped-freeze-550m-in-iran-linked-usdt-this-year",
+    "summary": "The disclosure came as Senate Democratic investigators alleged USDT had become a key part of Iran\u2019s shadow banking network.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-09-29T00:41:44.948783+00:00"
+    "fetched_at": "2026-09-29T06:21:06.727842+00:00"
   },
   {
-    "title": "Why Earnings Growth Remain a Key Buffer Against Yield Risks",
-    "url": "https://www.bloomberg.com/news/videos/2026-09-29/rodda-earnings-growth-key-buffer-against-yield-risks-video",
-    "summary": "Capital.com Senior Market Analyst Kyle Rodda argues that strong corporate earnings continue to buffer equities against rising bond yields and AI valuation risks. He also cautions that investor tolerance could fade quickly if profit growth expectations begin to fade. (Source: Bloomberg)",
+    "title": "What to Expect From Burnham's Speech to Labour Party (Video)",
+    "url": "https://www.bloomberg.com/news/videos/2026-09-29/what-to-expect-from-burnham-s-speech-to-labour-party-video",
+    "summary": "",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-29T00:41:46.159174+00:00"
+    "fetched_at": "2026-09-29T06:21:07.703031+00:00"
   },
   {
-    "title": "Latest Oil Market News and Analysis for Sept. 29",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-28/latest-oil-market-news-and-analysis-for-sept-29",
-    "summary": "Oil rose for a second day as a lack of progress in US-Iran talks and signs of strong demand outweighed a resumption of flows through a key pipeline from top exporter Saudi Arabia.",
+    "title": "Kenyan Court Pauses Building of $16 Billion Dangote Refinery",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-28/kenya-high-court-pauses-dangote-refinery-construction-in-lamu-mull11mq",
+    "summary": "A Kenyan court ordered construction to be paused on Aliko Dangote\u2019s $16 billion oil refinery in the East African nation, after a group of petitioners filed a case opposing the project.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-09-29T00:41:46.159211+00:00"
+    "fetched_at": "2026-09-29T06:21:07.703091+00:00"
   },
   {
     "title": "Belarus Approves the Country\u2019s First Crypto Banks: Report",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-29T00:41:45.327321+00:00"
+    "fetched_at": "2026-09-29T06:21:07.100544+00:00"
   },
   {
     "title": "UK Chancellor of the Exchequer Blasts Nigel Farage\u2019s \u2018Bitcoin Account\u2019",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-29T00:41:45.327362+00:00"
+    "fetched_at": "2026-09-29T06:21:07.100620+00:00"
   },
   {
     "title": "OpenAI Halts Model Training as Rogue Agents Target US Government Sites",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-29T00:41:45.463572+00:00"
+    "fetched_at": "2026-09-29T06:21:07.224099+00:00"
   },
   {
     "title": "A Clever RSA Attack Fooled a Hardware Vault\u2014Here's What It Means for Crypto",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-29T00:41:45.463611+00:00"
+    "fetched_at": "2026-09-29T06:21:07.224165+00:00"
+  },
+  {
+    "title": "Coinbase receives DCO approval from CFTC, completing full derivatives stack",
+    "url": "https://www.theblock.co/news/business/2026-09-28-coinbase-dco-approval-417105",
+    "summary": "This completes Coinbase's derivatives infrastructure, allowing it to list, broker, and clear fully collateralized products in-house.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-09-29T06:21:07.323024+00:00"
   },
   {
     "title": "Tether\u2019s USDT at center of Iran\u2019s shadow banking network, new Senate Report says",
@@ -78,33 +87,24 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-09-29T00:41:45.596084+00:00"
+    "fetched_at": "2026-09-29T06:21:07.323090+00:00"
   },
   {
-    "title": "Citi expands Coinbase partnership to power stablecoin payments for businesses",
-    "url": "https://www.theblock.co/news/business/2026-09-28-citi-coinbase-stablecoin-payments-corporate-clients-417082",
-    "summary": "Coinbase is expanding partnership with Citi to provide businesses with infrastructure connecting traditional fiat payments and stablecoins.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-09-29T00:41:45.596128+00:00"
-  },
-  {
-    "title": "Bond sell-off deepens and oil rises as Iran-US deal hopes fade",
-    "url": "https://www.ft.com/content/d751ad99-531d-4990-9a4c-ee89a9fc1b2d?syn-25a6b1a6=1",
-    "summary": "Brent crude jumps and 10-year Treasury yield surpasses 5.2% as hopes for US-Iran agreement fade",
+    "title": "Anthropic warns of \u2018existential risks to humanity\u2019 in IPO prospectus",
+    "url": "https://www.ft.com/content/c7685a7e-7745-4cbc-8053-4958d0ea449b?syn-25a6b1a6=1",
+    "summary": "Long-awaited S1 filing reports Claude maker lost $8bn last year on $4.6bn in revenue",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-29T00:41:46.934608+00:00"
+    "fetched_at": "2026-09-29T06:21:08.259949+00:00"
   },
   {
-    "title": "Why Europe\u2019s centre will hold",
-    "url": "https://www.ft.com/content/7783e1fd-5787-461f-be5d-63dad6eb0150?syn-25a6b1a6=1",
-    "summary": "The 1930s are not a good guide to the politics of the 21st century",
+    "title": "Nvidia turns to insurers to spread the risk of AI build-out",
+    "url": "https://www.ft.com/content/d6a9f5df-08d0-4f80-ad2d-5d8a17e2cc82?syn-25a6b1a6=1",
+    "summary": "World\u2019s largest listed company looks for new ways to draw Wall Street deeper into the financing of the AI boom",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-09-29T00:41:46.934655+00:00"
+    "fetched_at": "2026-09-29T06:21:08.260021+00:00"
   }
 ]
