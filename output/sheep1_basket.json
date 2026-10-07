@@ -1,39 +1,39 @@
 [
   {
-    "title": "Conduit sues Tether over allegedly freezing $2.8M without explanation",
-    "url": "https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze",
-    "summary": "The lawsuit alleged that Tether froze USDt funds in a Conduit wallet tied to an investigation launched by Brazilian authorities in 2024.",
+    "title": "Bitcoin.de trading remains halted as German regulator rejects MiCA application",
+    "url": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application",
+    "summary": "Trading on the platform has largely been suspended since June as its operator awaited MiCA authorization, with the company now looking to regulated partners to restart services.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-10-06T23:24:33.607056+00:00"
+    "fetched_at": "2026-10-07T03:00:52.457359+00:00"
   },
   {
-    "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
-    "url": "https://cointelegraph.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing",
-    "summary": "The proposed fund would hold ZEC directly, with Gemini Trust serving as custodian and Winklevoss Capital affiliates eyeing up to a $100 million investment.",
+    "title": "Pudgy Penguins-backed Abstract to shut down after \u2018tens of millions\u2019 in losses",
+    "url": "https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down",
+    "summary": "Igloo CEO Luca Netz said the company funded Abstract for 18 months but still failed to find product-market fit despite attracting major brands and a community of millions.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-10-06T23:24:33.607129+00:00"
+    "fetched_at": "2026-10-07T03:00:52.457444+00:00"
   },
   {
-    "title": "Latest Oil Market News and Analysis for Oct. 7",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-06/latest-oil-market-news-and-analysis-for-oct-7",
-    "summary": "Oil steadied as traders weighed increased flows through the Strait of Hormuz against a pickup in Iranian attacks against vessels.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-10-06T23:24:34.707568+00:00"
-  },
-  {
-    "title": "Record US Stocks to Set Tone for Asia, Oil Gains: Markets Wrap",
+    "title": "Asian Stocks Diverge From US Rally, Oil Advances: Markets Wrap",
     "url": "https://www.bloomberg.com/news/articles/2026-10-06/stock-market-today-dow-s-p-live-updates",
-    "summary": "Asian markets look poised to take their cue from Wall Street\u2019s record-breaking rally as earnings take center stage, though elevated oil prices threaten to keep interest rates and global bond yields higher for longer.",
+    "summary": "Asian stocks slipped, in contrast to Wall Street\u2019s record-setting rally, as enthusiasm over the earnings outlook failed to carry over to the region. Treasuries fell as oil climbed.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-10-06T23:24:34.707628+00:00"
+    "fetched_at": "2026-10-07T03:00:53.601218+00:00"
+  },
+  {
+    "title": "QatarEnergy Secures $3 Billion Loan From Four Chinese Banks",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-07/qatarenergy-secures-3-billion-loan-from-four-chinese-banks",
+    "summary": "State-owned QatarEnergy has secured a $3 billion loan from Chinese banks, according to people familiar with the matter, another sign that financial firms are still willing to lend to certain Gulf borrowers, despite the protracted US war with Iran.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-10-07T03:00:53.601281+00:00"
   },
   {
     "title": "Crypto Card Payments Hit Record $12.5 Billion as Stablecoin Adoption Surges",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-06T23:24:33.957514+00:00"
+    "fetched_at": "2026-10-07T03:00:52.700726+00:00"
   },
   {
     "title": "$350M St Cloud CEO: The First Credit Union to Put Bitcoin on Core Ledger | Jed Meyer",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-06T23:24:33.957584+00:00"
+    "fetched_at": "2026-10-07T03:00:52.700796+00:00"
   },
   {
     "title": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-06T23:24:34.094210+00:00"
+    "fetched_at": "2026-10-07T03:00:52.806995+00:00"
   },
   {
     "title": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-06T23:24:34.094268+00:00"
+    "fetched_at": "2026-10-07T03:00:52.807057+00:00"
+  },
+  {
+    "title": "Coinbase Pro to return; Deribit integration creates Coinbase Global Exchange",
+    "url": "https://www.theblock.co/news/business/2026-10-06-coinbase-pro-deribit-integration-coinbase-global-exchange-417867",
+    "summary": "Coinbase plans to relaunch Coinbase Pro by year-end and has completed its Deribit integration, creating Coinbase Global Exchange.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-10-07T03:00:52.902200+00:00"
   },
   {
     "title": "Pudgy Penguins-backed Ethereum L2 Abstract to shut down after losing \u2018tens of millions\u2019",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-06T23:24:34.197456+00:00"
-  },
-  {
-    "title": "Conduit sues Tether over $2.76 million freeze, says it has \u2018no legal entitlement\u2019 to funds",
-    "url": "https://www.theblock.co/news/regulation/2026-10-06-conduit-sues-tether-usdt-freeze-417831",
-    "summary": "Conduit is suing Tether in NY federal court, alleging the USDT issuer froze $2.76 million of its funds for over a year without explanation.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-10-06T23:24:34.197524+00:00"
+    "fetched_at": "2026-10-07T03:00:52.902271+00:00"
   },
   {
     "title": "SpaceX looks to raise $40bn to buy Nvidia chips in financing led by Apollo",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-10-06T23:24:35.387976+00:00"
+    "fetched_at": "2026-10-07T03:00:54.150808+00:00"
   },
   {
     "title": "S&P 500 hits record high as AI stocks shrug off bond market slump",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-10-06T23:24:35.388042+00:00"
+    "fetched_at": "2026-10-07T03:00:54.150879+00:00"
   }
 ]
