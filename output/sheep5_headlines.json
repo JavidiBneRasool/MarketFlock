@@ -2,8 +2,8 @@
   {
     "category": "Crypto",
     "headline": "Here\u2019s what happened in crypto today",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1791658867",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1791658867",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1791673294",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1791673294",
     "article": {
       "title": "Here\u2019s what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
@@ -11,7 +11,7 @@
       "source": "CoinTelegraph",
       "category": "Crypto",
       "tier": 10,
-      "fetched_at": "2026-10-10T19:00:59.767716+00:00",
+      "fetched_at": "2026-10-10T23:01:28.055731+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -22,8 +22,8 @@
   {
     "category": "Crypto",
     "headline": "Justin Sun says Tron\u2019s post-quantum cryptography has gone live on testnet",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1791658870",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1791658870",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1791673297",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1791673297",
     "article": {
       "title": "Justin Sun says Tron\u2019s post-quantum cryptography has gone live on testnet",
       "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet",
@@ -31,7 +31,27 @@
       "source": "CoinTelegraph",
       "category": "Crypto",
       "tier": 10,
-      "fetched_at": "2026-10-10T19:00:59.767785+00:00",
+      "fetched_at": "2026-10-10T23:01:28.055832+00:00",
+      "credibility": "REVIEW",
+      "score": 6,
+      "verdict": "WARNING",
+      "decision": "PASS",
+      "flags": []
+    }
+  },
+  {
+    "category": "Markets",
+    "headline": "AI Debt Issuance Defies Rising Yields as SpaceX, Broadcom Plan Major Deals",
+    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1791673300",
+    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1791673300",
+    "article": {
+      "title": "AI Debt Issuance Defies Rising Yields as SpaceX, Broadcom Plan Major Deals",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-10/ai-issuers-are-upending-longstanding-safety-valve-credit-weekly",
+      "summary": "When financing gets more expensive, companies usually slow down their bond sales. Tech companies have instead been ramping up this year, and talk this week of potential big financings from SpaceX and Broadcom Inc. only amplified investor fears about the wave of coming debt.",
+      "source": "Bloomberg Markets",
+      "category": "Markets",
+      "tier": 10,
+      "fetched_at": "2026-10-10T23:01:29.087179+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -42,8 +62,8 @@
   {
     "category": "Markets",
     "headline": "Strong Earnings Keep US Stocks in Favor",
-    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1791658873",
-    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1791658873",
+    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1791673303",
+    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1791673303",
     "article": {
       "title": "Strong Earnings Keep US Stocks in Favor",
       "url": "https://www.bloomberg.com/news/videos/2026-10-10/strong-earnings-keep-us-stocks-in-favor-video",
@@ -51,27 +71,7 @@
       "source": "Bloomberg Markets",
       "category": "Markets",
       "tier": 10,
-      "fetched_at": "2026-10-10T19:01:00.880883+00:00",
-      "credibility": "REVIEW",
-      "score": 6,
-      "verdict": "WARNING",
-      "decision": "PASS",
-      "flags": []
-    }
-  },
-  {
-    "category": "Markets",
-    "headline": "Phenomenal Time To Be Investor, Not Consumer: Amoroso",
-    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1791658876",
-    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1791658876",
-    "article": {
-      "title": "Phenomenal Time To Be Investor, Not Consumer: Amoroso",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-09/phenomenal-time-to-be-investor-not-consumer-amoroso-video",
-      "summary": "Anastasia Amoroso, chief investment strategist with Partners Group, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss the bullish sentiment in the stock market, the potential for volatility in the near future, and rising global yields.\n (Source: Bloomberg)",
-      "source": "Bloomberg Markets",
-      "category": "Markets",
-      "tier": 10,
-      "fetched_at": "2026-10-10T19:01:00.880941+00:00",
+      "fetched_at": "2026-10-10T23:01:29.087231+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -82,8 +82,8 @@
   {
     "category": "Crypto",
     "headline": "Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1791658879",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1791658879",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1791673307",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1791673307",
     "article": {
       "title": "Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC",
       "url": "https://bitcoinmagazine.com/news/meanwhile-bitcoin-raises-37-million",
@@ -91,7 +91,7 @@
       "source": "Bitcoin Magazine",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-10-10T19:01:00.069313+00:00",
+      "fetched_at": "2026-10-10T23:01:28.410355+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -102,8 +102,8 @@
   {
     "category": "Crypto",
     "headline": "\u2018We Know Where It Is\u2019: Treasury Secretary Threatens To Freeze $1B of Iran\u2019s Cryp",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1791658882",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1791658882",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1791673310",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1791673310",
     "article": {
       "title": "\u2018We Know Where It Is\u2019: Treasury Secretary Threatens To Freeze $1B of Iran\u2019s Crypto",
       "url": "https://bitcoinmagazine.com/news/treasury-to-seize-one-billion-of-iran-crypto",
@@ -111,7 +111,7 @@
       "source": "Bitcoin Magazine",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-10-10T19:01:00.069385+00:00",
+      "fetched_at": "2026-10-10T23:01:28.410427+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -122,8 +122,8 @@
   {
     "category": "Crypto",
     "headline": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
-    "image_url": "https://loremflickr.com/1200/630/crypto%2Ctrading?lock=1791658885",
-    "image_fallback": "https://image.pollinations.ai/prompt/crypto%2Ctrading%20professional%20photo?width=800&height=600&nologo=true&seed=1791658885",
+    "image_url": "https://loremflickr.com/1200/630/crypto%2Ctrading?lock=1791673313",
+    "image_fallback": "https://image.pollinations.ai/prompt/crypto%2Ctrading%20professional%20photo?width=800&height=600&nologo=true&seed=1791673313",
     "article": {
       "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
       "url": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
@@ -131,7 +131,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-10-10T19:01:00.180942+00:00",
+      "fetched_at": "2026-10-10T23:01:28.501295+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -142,8 +142,8 @@
   {
     "category": "Crypto",
     "headline": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $3",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Cgold%2Ccoin?lock=1791658889",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Cgold%2Ccoin%20professional%20photo?width=800&height=600&nologo=true&seed=1791658889",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Cgold%2Ccoin?lock=1791673316",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Cgold%2Ccoin%20professional%20photo?width=800&height=600&nologo=true&seed=1791673316",
     "article": {
       "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
       "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
@@ -151,7 +151,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-10-10T19:01:00.181001+00:00",
+      "fetched_at": "2026-10-10T23:01:28.501358+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -162,8 +162,8 @@
   {
     "category": "Crypto",
     "headline": "Kalshi is investigating bets on Trump\u2019s press secretary pick placed before annou",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1791658892",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1791658892",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1791673319",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1791673319",
     "article": {
       "title": "Kalshi is investigating bets on Trump\u2019s press secretary pick placed before announcement: WSJ",
       "url": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
@@ -171,7 +171,7 @@
       "source": "The Block",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-10-10T19:01:00.306777+00:00",
+      "fetched_at": "2026-10-10T23:01:28.588892+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -182,8 +182,8 @@
   {
     "category": "Crypto",
     "headline": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-wee",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1791658895",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1791658895",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1791673322",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1791673322",
     "article": {
       "title": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
       "url": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
@@ -191,7 +191,7 @@
       "source": "The Block",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-10-10T19:01:00.306839+00:00",
+      "fetched_at": "2026-10-10T23:01:28.588962+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -202,8 +202,8 @@
   {
     "category": "Markets",
     "headline": "Nvidia in talks to acquire US \u2018open\u2019 model start-up Reflection AI",
-    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1791658898",
-    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1791658898",
+    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1791673325",
+    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1791673325",
     "article": {
       "title": "Nvidia in talks to acquire US \u2018open\u2019 model start-up Reflection AI",
       "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a?syn-25a6b1a6=1",
@@ -211,7 +211,7 @@
       "source": "Financial Times",
       "category": "Markets",
       "tier": 9,
-      "fetched_at": "2026-10-10T19:01:01.638228+00:00",
+      "fetched_at": "2026-10-10T23:01:29.790601+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -222,8 +222,8 @@
   {
     "category": "Markets",
     "headline": "AI borrowing slows as investors grow wary of debt binge",
-    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1791658901",
-    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1791658901",
+    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1791673328",
+    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1791673328",
     "article": {
       "title": "AI borrowing slows as investors grow wary of debt binge",
       "url": "https://www.ft.com/content/9c13d40e-d2b2-45d5-921c-a68cd4b308f9?syn-25a6b1a6=1",
@@ -231,7 +231,7 @@
       "source": "Financial Times",
       "category": "Markets",
       "tier": 9,
-      "fetched_at": "2026-10-10T19:01:01.638289+00:00",
+      "fetched_at": "2026-10-10T23:01:29.790668+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",

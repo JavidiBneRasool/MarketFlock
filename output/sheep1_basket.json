@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-10-10T19:00:59.767716+00:00"
+    "fetched_at": "2026-10-10T23:01:28.055731+00:00"
   },
   {
     "title": "Justin Sun says Tron\u2019s post-quantum cryptography has gone live on testnet",
@@ -15,7 +15,16 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-10-10T19:00:59.767785+00:00"
+    "fetched_at": "2026-10-10T23:01:28.055832+00:00"
+  },
+  {
+    "title": "AI Debt Issuance Defies Rising Yields as SpaceX, Broadcom Plan Major Deals",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-10/ai-issuers-are-upending-longstanding-safety-valve-credit-weekly",
+    "summary": "When financing gets more expensive, companies usually slow down their bond sales. Tech companies have instead been ramping up this year, and talk this week of potential big financings from SpaceX and Broadcom Inc. only amplified investor fears about the wave of coming debt.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-10-10T23:01:29.087179+00:00"
   },
   {
     "title": "Strong Earnings Keep US Stocks in Favor",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-10-10T19:01:00.880883+00:00"
-  },
-  {
-    "title": "Phenomenal Time To Be Investor, Not Consumer: Amoroso",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-09/phenomenal-time-to-be-investor-not-consumer-amoroso-video",
-    "summary": "Anastasia Amoroso, chief investment strategist with Partners Group, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss the bullish sentiment in the stock market, the potential for volatility in the near future, and rising global yields.\n (Source: Bloomberg)",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-10-10T19:01:00.880941+00:00"
+    "fetched_at": "2026-10-10T23:01:29.087231+00:00"
   },
   {
     "title": "Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-10T19:01:00.069313+00:00"
+    "fetched_at": "2026-10-10T23:01:28.410355+00:00"
   },
   {
     "title": "\u2018We Know Where It Is\u2019: Treasury Secretary Threatens To Freeze $1B of Iran\u2019s Crypto",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-10T19:01:00.069385+00:00"
+    "fetched_at": "2026-10-10T23:01:28.410427+00:00"
   },
   {
     "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-10T19:01:00.180942+00:00"
+    "fetched_at": "2026-10-10T23:01:28.501295+00:00"
   },
   {
     "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-10T19:01:00.181001+00:00"
+    "fetched_at": "2026-10-10T23:01:28.501358+00:00"
   },
   {
     "title": "Kalshi is investigating bets on Trump\u2019s press secretary pick placed before announcement: WSJ",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-10T19:01:00.306777+00:00"
+    "fetched_at": "2026-10-10T23:01:28.588892+00:00"
   },
   {
     "title": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-10T19:01:00.306839+00:00"
+    "fetched_at": "2026-10-10T23:01:28.588962+00:00"
   },
   {
     "title": "Nvidia in talks to acquire US \u2018open\u2019 model start-up Reflection AI",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-10-10T19:01:01.638228+00:00"
+    "fetched_at": "2026-10-10T23:01:29.790601+00:00"
   },
   {
     "title": "AI borrowing slows as investors grow wary of debt binge",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-10-10T19:01:01.638289+00:00"
+    "fetched_at": "2026-10-10T23:01:29.790668+00:00"
   }
 ]
