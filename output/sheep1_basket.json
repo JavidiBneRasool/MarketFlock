@@ -1,39 +1,39 @@
 [
   {
-    "title": "OCC report finds debanking efforts tied to crypto activities",
-    "url": "https://cointelegraph.com/news/occ-trump-debanking-crypto-activities",
-    "summary": "The report from the US banking regulator did not include specific examples of debanking related to crypto, but mentioned it alongside ties to oil, gas and firearms.",
+    "title": "Here\u2019s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-10-14T17:39:40.021185+00:00"
+    "fetched_at": "2026-10-14T21:03:11.916862+00:00"
   },
   {
-    "title": "Standard Chartered pushes $2T stablecoin forecast to 2030 as transaction volumes grow",
-    "url": "https://cointelegraph.com/news/standard-chartered-stablecoin-forecast-2030-market-growth",
-    "summary": "The bank identified four distinct stablecoin markets, with USDC leading payments and AI transactions as competition intensifies over reserve yields.\n",
+    "title": "EU authority classifies Circle\u2019s USDC as \u2018significant\u2019 under MiCA",
+    "url": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica",
+    "summary": "The second-largest stablecoin by market cap will be overseen by French and EU authorities under its classification as a \u201csignificant e-money token.\u201c",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-10-14T17:39:40.021267+00:00"
+    "fetched_at": "2026-10-14T21:03:11.916942+00:00"
   },
   {
-    "title": "A elite empresarial busca aproxima\u00e7\u00e3o com Fl\u00e1vio Bolsonaro",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-14/elite-empresarial-busca-aproximacao-com-flavio-bolsonaro-video-mv8e67qc",
-    "summary": "A rep\u00f3rter Rachel Gamarski conta sobre como a elite empresarial busca aproxima\u00e7\u00e3o com Fl\u00e1vio Bolsonaro. Com produ\u00e7\u00e3o de Gisele Fernandes e edi\u00e7\u00e3o de Patricia Xavier\n (Source: Bloomberg)",
+    "title": "Container Ship Sinks in Strait of Hormuz as Attacks Ramp Up",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-14/cargo-ship-sinks-in-strait-of-hormuz-after-strike-triggers-fire",
+    "summary": "A cargo ship sank in the Strait of Hormuz after a strike that sparked a fire and the evacuation of crew members, the Maritime and Port Authority of Singapore said.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-10-14T17:39:41.261898+00:00"
+    "fetched_at": "2026-10-14T21:03:12.769998+00:00"
   },
   {
-    "title": "NYC Transit Agency Cuts Bond Refinancing 40% Amid Yield Spike",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-14/nyc-transit-agency-cuts-bond-refinancing-40-amid-yield-spike",
-    "summary": "The Metropolitan Transportation Authority, which operates New York City\u2019s subways, buses and commuter lines, cut a planned debt refinancing by about 40% as tax-exempt bond yields hovered near their highest levels in at least 15 years.",
+    "title": "Bitcoin Slides as Wall Street Risk Pullback Tests Bullish Turn",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-14/bitcoin-hits-lower-end-of-trading-range-as-risk-appetite-wanes",
+    "summary": "Bitcoin fell as much as 2.3% toward the lower end of its recent trading range, caught in a broader retreat from risk assets even as crypto analysts have turned sharply more bullish on the token.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-10-14T17:39:41.261959+00:00"
+    "fetched_at": "2026-10-14T21:03:12.770053+00:00"
   },
   {
     "title": "Kraken Parent Company Payward to Buy Saldo Bank in European Banking Push",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-14T17:39:40.329620+00:00"
+    "fetched_at": "2026-10-14T21:03:12.109905+00:00"
   },
   {
     "title": "Standard Chartered Debuts Bitcoin Trading For Wealthy UAE Clients",
@@ -51,43 +51,52 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-14T17:39:40.329716+00:00"
+    "fetched_at": "2026-10-14T21:03:12.109966+00:00"
   },
   {
-    "title": "'It Can Take Years': Coinbase Presses for Bitcoin Quantum Migration to Start Now",
-    "url": "https://decrypt.co/380963/coinbase-bitcoin-quantum-migration-start-now",
-    "summary": "In a detailed technical post, the exchange argued Bitcoin\u2019s multi-year migration to quantum-resistant cryptography must begin before any \u201cQ-Day,\u201d laying out requirements spanning block space, custody and dormant coins.",
+    "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
+    "url": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
+    "summary": "A new Chainalysis report found payments through Coinbase\u2019s x402 protocol surged from about 1,500 in mid-2025 to more than 138 million by Q3 2026, with U.S. wallets dominating spending on AI models.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-14T17:39:40.521119+00:00"
+    "fetched_at": "2026-10-14T21:03:12.200973+00:00"
   },
   {
-    "title": "Bitcoin Falls as Hot Inflation Puts a Fed Hike Back on the Table",
-    "url": "https://decrypt.co/380950/bitcoin-falls-hot-inflation-fed-hike-odds",
-    "summary": "September CPI hit 3.7%, above forecasts, sending Treasury yields higher and dragging crypto down with stocks.",
+    "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
+    "url": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
+    "summary": "Sberbank now holds both custody and exchange status under Russia's new crypto law, and plans to bring Bitcoin, Ethereum and USDT to apps used by 110 million retail clients.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-14T17:39:40.521182+00:00"
+    "fetched_at": "2026-10-14T21:03:12.201109+00:00"
   },
   {
-    "title": "Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns",
-    "url": "https://www.theblock.co/news/markets/2026-10-14-bitcoin-falls-below-82000-core-inflation-fed-rate-hike-418582",
-    "summary": "Bitcoin dropped below $82,000 after September's core CPI beat forecasts as analysts weigh price targets and an October hike.",
+    "title": "Patrick Witt exits White House crypto role as Clarity Act stalls",
+    "url": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611",
+    "summary": "Leadership at the White House is shifting once again, as Patrick Witt\u2019s tenure as the administration\u2019s top crypto adviser comes to an end.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-14T17:39:40.649126+00:00"
+    "fetched_at": "2026-10-14T21:03:12.287361+00:00"
   },
   {
-    "title": "Hex and PulseChain founder Richard Heart detained in Istanbul: reports",
-    "url": "https://www.theblock.co/news/regulation/2026-10-14-hex-pulsechain-founder-richard-heart-detained-istanbul-turkish-media-reports-418574",
-    "summary": "Turkish reports say $4 million and 64 watches were seized. Police have yet to confirm Heart\u2019s detention.",
+    "title": "Major shareholder presses SkyAI on Solana sales after treasury shrinks 70% in a month",
+    "url": "https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598",
+    "summary": "SkyAI's SOL treasury fell 70% in under a month, with 400,000 SOL unexplained. Bastion Trading won't tender at $3 a share and wants $3.50.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-14T17:39:40.649196+00:00"
+    "fetched_at": "2026-10-14T21:03:12.287418+00:00"
+  },
+  {
+    "title": "US chip stocks slide as inflation and AI debt fears unsettle investors",
+    "url": "https://www.ft.com/content/fb258413-e88d-47fe-98c8-f645adaea1e1?syn-25a6b1a6=1",
+    "summary": "Investors rush into Treasuries as sell-off triggers demand for haven assets",
+    "source": "Financial Times",
+    "category": "Markets",
+    "tier": 9,
+    "fetched_at": "2026-10-14T21:03:13.560425+00:00"
   },
   {
     "title": "US inflation jumps to 3.7% as Iran war drives up prices",
@@ -96,15 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-10-14T17:39:41.928701+00:00"
-  },
-  {
-    "title": "US grocery prices poised to climb as soaring fuel costs drive inflation",
-    "url": "https://www.ft.com/content/13929c26-1c01-41b2-b81a-d337fa5c9d27?syn-25a6b1a6=1",
-    "summary": "Food manufacturers warn of impact on consumers ahead of midterm elections",
-    "source": "Financial Times",
-    "category": "Markets",
-    "tier": 9,
-    "fetched_at": "2026-10-14T17:39:41.928770+00:00"
+    "fetched_at": "2026-10-14T21:03:13.560490+00:00"
   }
 ]
