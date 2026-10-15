@@ -1,39 +1,39 @@
 [
   {
-    "title": "Australia seeks feedback on crypto platform rules ahead of 2027 rollout",
-    "url": "https://cointelegraph.com/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout",
-    "summary": "The consultation follows Parliament\u2019s passage of digital asset legislation in April, with Australia\u2019s securities regulator now proposing capital, custody and trading standards for crypto platforms.",
+    "title": "Starknet opens vote on potential Ethereum L2 exit over quantum risks",
+    "url": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1",
+    "summary": "Starknet is asking STRK holders whether to explore becoming an independent layer-1 blockchain to reduce its dependence on Ethereum\u2019s quantum-security upgrade timeline.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-10-15T05:22:10.239282+00:00"
+    "fetched_at": "2026-10-15T10:28:12.357314+00:00"
   },
   {
-    "title": "Bitcoin miners plunge up to 13% in Wall Street\u2019s worst selloff since July",
-    "url": "https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july",
-    "summary": "TeraWulf, Core Scientific, Cipher Mining and IREN each lost more than 12% as hotter inflation hit AI infrastructure companies. ",
+    "title": "Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B",
+    "url": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3",
+    "summary": "Compromised suppliers, developer tools and infrastructure components outside security audits drove about 77% of the quarter\u2019s total losses, according to Hacken.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-10-15T05:22:10.239365+00:00"
+    "fetched_at": "2026-10-15T10:28:12.357386+00:00"
   },
   {
-    "title": "Oil Slides on Eased Middle East Supply Concerns",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-15/oil-slides-on-eased-middle-east-supply-concerns-video",
-    "summary": "Oil\u00a0fell as concerns about the supply disruptions caused by the conflict in the Middle East eased and the International Energy Agency raised its forecast for the war\u2019s impact on supply.\u00a0Bloomberg's Stuart Livingstone-Wallace reports. (Source: Bloomberg)",
+    "title": "Stocks Slide as AI Rout Drives Investors to Bonds: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-14/stock-market-today-dow-s-p-live-updates",
+    "summary": "Global equities fell as a selloff in the artificial-intelligence trade gathered speed and pushed investors toward the safety of bonds.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-10-15T05:22:11.311328+00:00"
+    "fetched_at": "2026-10-15T10:28:13.307170+00:00"
   },
   {
-    "title": "Treasury Haven Trade Bounces Back as Stocks Sink, Yields Entice",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-15/treasuries-extend-gains-as-equities-selloff-dents-risk-sentiment",
-    "summary": "US Treasuries led a global bond rally as a selloff in equities deepened risk aversion and spurred demand for haven assets.",
+    "title": "Gold Rallies With Treasuries as AI Selloff Boosts Haven Assets",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-14/gold-holds-loss-as-hot-inflation-lifts-october-rate-hike-bets",
+    "summary": "Gold rallied, bolstered by lower US Treasury yields as investors sought safety in bonds following an equity selloff.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-10-15T05:22:11.311386+00:00"
+    "fetched_at": "2026-10-15T10:28:13.307224+00:00"
   },
   {
     "title": "Russia\u2019s Central Bank Authorizes Sberbank to Exchange Cryptocurrencies",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-15T05:22:10.524654+00:00"
+    "fetched_at": "2026-10-15T10:28:12.647516+00:00"
   },
   {
     "title": "Kraken Parent Company Payward to Buy Saldo Bank in European Banking Push",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-15T05:22:10.524722+00:00"
+    "fetched_at": "2026-10-15T10:28:12.647578+00:00"
+  },
+  {
+    "title": "Brooklyn Prosecutors Take Down 112 Servers Behind Crypto Scam Targeting Russian Speakers",
+    "url": "https://decrypt.co/381000/brooklyn-prosecutors-take-down-112-servers-behind-crypto-scam-targeting-russian-speakers",
+    "summary": "The scammers also ran a fake recovery service, contacting victims weeks later with promises to get their stolen crypto back.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-10-15T10:28:12.759395+00:00"
   },
   {
     "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
@@ -60,16 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-15T05:22:10.616003+00:00"
-  },
-  {
-    "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
-    "url": "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
-    "summary": "Developer Brandon Thomas used Anthropic's Claude to build free, open-source replicas of Word, Excel and PowerPoint. They're rough, but they show how cheap cloning software has become.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-10-15T05:22:10.616062+00:00"
+    "fetched_at": "2026-10-15T10:28:12.759486+00:00"
   },
   {
     "title": "Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-15T05:22:10.700891+00:00"
+    "fetched_at": "2026-10-15T10:28:12.884010+00:00"
   },
   {
     "title": "Patrick Witt exits White House crypto role as Clarity Act stalls",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-15T05:22:10.700952+00:00"
+    "fetched_at": "2026-10-15T10:28:12.884068+00:00"
   },
   {
     "title": "Ukraine to resume strikes on Russian refineries, Zelenskyy says",
@@ -96,15 +96,15 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-10-15T05:22:12.119046+00:00"
+    "fetched_at": "2026-10-15T10:28:13.905033+00:00"
   },
   {
-    "title": "US floats unfreezing some Russian assets to restart Ukraine peace talks",
-    "url": "https://www.ft.com/content/54353d3a-afed-4fec-985a-50f3dfb9be8e?syn-25a6b1a6=1",
-    "summary": "European officials balked at proposal made by Donald Trump\u2019s negotiators during meeting in Miami",
+    "title": "EU leaders to urge Zelenskyy to rein in criticism of Trump",
+    "url": "https://www.ft.com/content/fb2110b4-50d2-4ff9-9886-f7b42c5b4579?syn-25a6b1a6=1",
+    "summary": "Ukrainian leader\u2019s comments about US president alarm European capitals",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-10-15T05:22:12.119111+00:00"
+    "fetched_at": "2026-10-15T10:28:13.905093+00:00"
   }
 ]
