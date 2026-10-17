@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-10-17T16:43:15.302182+00:00"
+    "fetched_at": "2026-10-17T18:55:50.772375+00:00"
   },
   {
     "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
@@ -15,7 +15,16 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-10-17T16:43:15.302263+00:00"
+    "fetched_at": "2026-10-17T18:55:50.772452+00:00"
+  },
+  {
+    "title": "Russia Sanctions Waived, AI Debt Concerns, Making 'GTA VI'",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-17/bloomberg-this-weekend-10-17-2026-video",
+    "summary": "The news doesn\u2019t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend\u2019s biggest headlines, LIVE from New York. Joined by International Rescue Committee CEO and Fmr. UK Foreign Secretary David Miliband, Fmr. Deputy Prime ",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-10-17T18:55:51.735773+00:00"
   },
   {
     "title": "India Frees \u2018Cockroach\u2019 Leader As Voter-List Row Simmers",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-10-17T16:43:16.256824+00:00"
-  },
-  {
-    "title": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-17/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-    "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players\u2019 knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, Christina Ruffini and David Gura as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-10-17T16:43:16.256884+00:00"
+    "fetched_at": "2026-10-17T18:55:51.735858+00:00"
   },
   {
     "title": "Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-17T16:43:15.554714+00:00"
+    "fetched_at": "2026-10-17T18:55:51.065977+00:00"
   },
   {
     "title": "BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-17T16:43:15.554784+00:00"
+    "fetched_at": "2026-10-17T18:55:51.066080+00:00"
+  },
+  {
+    "title": "Crypto Super PAC Fairshake Pours Millions More Into Defeating Sherrod Brown",
+    "url": "https://decrypt.co/381238/crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod-brown",
+    "summary": "An FEC filing shows the Fairshake affiliate Defend American Jobs disclosed roughly $7 million more in ads against the Ohio Democrat, pushing its total past $46 million\u2014days after the PAC expanded its map to 32 House races.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-10-17T18:55:51.163979+00:00"
   },
   {
     "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
@@ -60,16 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-17T16:43:15.683930+00:00"
+    "fetched_at": "2026-10-17T18:55:51.164037+00:00"
   },
   {
-    "title": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
-    "url": "https://decrypt.co/381202/chinese-startup-stepfun-phone-ai-agent",
-    "summary": "StepFun's STEPX Neo opened for pre-orders in China on Oct. 13 at 3,999 yuan, with an AI agent built into the operating system instead of bolted on as an app.",
-    "source": "Decrypt",
+    "title": "Turkey confirms Hex founder Richard Heart\u2019s arrest, says police seized $7.15 million and six cold wallets",
+    "url": "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852",
+    "summary": "Police reportedly seized $7.15 million in cash, six cold wallets, seven firearms and 1,400 rounds of ammunition in searches of 15 addresses.",
+    "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-17T16:43:15.684064+00:00"
+    "fetched_at": "2026-10-17T18:55:51.255922+00:00"
   },
   {
     "title": "Strive\u2019s bitcoin buying spree earns 27% price target hike from TD Cowen",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-17T16:43:15.781771+00:00"
-  },
-  {
-    "title": "Coinbase to power stablecoin-backed cards for Marqeta customers",
-    "url": "https://www.theblock.co/news/business/2026-10-16-coinbase-to-power-stablecoin-backed-cards-for-marqeta-customers-418833",
-    "summary": "The expanded partnership builds on Marqeta\u2019s work powering Coinbase\u2019s U.S. debit card offering in 2020.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-10-17T16:43:15.781830+00:00"
+    "fetched_at": "2026-10-17T18:55:51.255984+00:00"
   },
   {
     "title": "Zelenskyy says Starlink speed limits in Ukraine are a \u2018planned operation\u2019",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-10-17T16:43:17.262285+00:00"
+    "fetched_at": "2026-10-17T18:55:52.411286+00:00"
   },
   {
     "title": "Trump exempts Russia from further sanctions mandated by new law",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-10-17T16:43:17.262352+00:00"
+    "fetched_at": "2026-10-17T18:55:52.411352+00:00"
   }
 ]
