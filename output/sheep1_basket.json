@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-10-17T18:55:50.772375+00:00"
+    "fetched_at": "2026-10-17T21:07:21.684474+00:00"
   },
   {
     "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
@@ -15,7 +15,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-10-17T18:55:50.772452+00:00"
+    "fetched_at": "2026-10-17T21:07:21.684556+00:00"
   },
   {
     "title": "Russia Sanctions Waived, AI Debt Concerns, Making 'GTA VI'",
@@ -24,7 +24,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-10-17T18:55:51.735773+00:00"
+    "fetched_at": "2026-10-17T21:07:22.824967+00:00"
   },
   {
     "title": "India Frees \u2018Cockroach\u2019 Leader As Voter-List Row Simmers",
@@ -33,7 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-10-17T18:55:51.735858+00:00"
+    "fetched_at": "2026-10-17T21:07:22.825027+00:00"
   },
   {
     "title": "Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-17T18:55:51.065977+00:00"
+    "fetched_at": "2026-10-17T21:07:22.011718+00:00"
   },
   {
     "title": "BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-17T18:55:51.066080+00:00"
+    "fetched_at": "2026-10-17T21:07:22.011789+00:00"
   },
   {
     "title": "Crypto Super PAC Fairshake Pours Millions More Into Defeating Sherrod Brown",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-17T18:55:51.163979+00:00"
+    "fetched_at": "2026-10-17T21:07:22.137858+00:00"
   },
   {
     "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-17T18:55:51.164037+00:00"
+    "fetched_at": "2026-10-17T21:07:22.137919+00:00"
+  },
+  {
+    "title": "CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE",
+    "url": "https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859",
+    "summary": "Applied Optoelectronics told the WSJ it objected because it was unsure how tokenization would affect its stock price, liquidity and volatility.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-10-17T21:07:22.248435+00:00"
   },
   {
     "title": "Turkey confirms Hex founder Richard Heart\u2019s arrest, says police seized $7.15 million and six cold wallets",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-17T18:55:51.255922+00:00"
-  },
-  {
-    "title": "Strive\u2019s bitcoin buying spree earns 27% price target hike from TD Cowen",
-    "url": "https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839",
-    "summary": "Strive plans fresh funding for bitcoin purchases as TD Cowen sees warrant-related stock pressure easing.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-10-17T18:55:51.255984+00:00"
+    "fetched_at": "2026-10-17T21:07:22.248507+00:00"
   },
   {
     "title": "Zelenskyy says Starlink speed limits in Ukraine are a \u2018planned operation\u2019",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-10-17T18:55:52.411286+00:00"
+    "fetched_at": "2026-10-17T21:07:23.588453+00:00"
   },
   {
     "title": "Trump exempts Russia from further sanctions mandated by new law",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-10-17T18:55:52.411352+00:00"
+    "fetched_at": "2026-10-17T21:07:23.588521+00:00"
   }
 ]
