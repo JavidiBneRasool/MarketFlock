@@ -1,39 +1,39 @@
 [
   {
-    "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
-    "url": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent",
-    "summary": "\u201cThe digital euro will further stimulate innovation and competition in retail payments,\u201d according to the ECB president. ",
+    "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
+    "url": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says",
+    "summary": "Solana has had no reported mainnet outages in two years, but concentrations in stake, hosting and client software should be monitored, according to a report.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-10-17T09:49:34.393384+00:00"
+    "fetched_at": "2026-10-17T13:19:38.008803+00:00"
   },
   {
-    "title": "Bitget to discontinue services for some users in one-off exercise",
-    "url": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise",
-    "summary": "Bitget says user funds are safe and exchange will continue to operate during the change.",
+    "title": "Circle\u2019s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
+    "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report",
+    "summary": "Markets in Southeast Asia, Latin America, Africa and the Middle East see increasing demand for stablecoins. ",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-10-17T09:49:34.393460+00:00"
+    "fetched_at": "2026-10-17T13:19:38.008859+00:00"
   },
   {
-    "title": "David Byrne Explains How Forgotten Ideas Come Back to Life",
-    "url": "https://www.bloomberg.com/news/audio/2026-10-17/david-byrne-explains-how-forgotten-ideas-come-back-to-life",
-    "summary": "History is littered with ideas that have been tossed aside, only for them to gain relevance at some later date. Think of Moby-Dick: forgotten in Melville\u2019s time, but now regarded as the great American novel. Or the work of economist Hyman Minsky, which became influential a decade after his death, wh",
+    "title": "India Frees \u2018Cockroach\u2019 Leader As Voter-List Row Simmers",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-17/india-s-cockroach-protest-leader-faces-court-in-voter-list-row",
+    "summary": "The founder of India\u2019s \u201cCockroach\u201d protest movement was released on Saturday after being taken into police custody, his group\u2019s legal affairs head said, as a widening fight over the country\u2019s voter rolls keeps New Delhi on edge.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-10-17T09:49:35.637371+00:00"
+    "fetched_at": "2026-10-17T13:19:39.041379+00:00"
   },
   {
-    "title": "Lagarde Says Sustainable Finances Key for Economic Stability",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-17/lagarde-says-fiscal-sustainability-key-for-economic-stability",
-    "summary": "European Central Bank President Christine Lagarde stressed the importance of sound public finances when she addressed ministers in charge of budgets from around the world in Thailand.",
+    "title": "By The Way: Headlines You May Have Missed",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-17/by-the-way-headlines-you-may-have-missed-video",
+    "summary": "Tesla's Roadster, Zuckerberg vs pint of Guinness, retirees not spending for pleasure, and AI born false memories: Join Lisa Mateo, David Gura and Christina Ruffini for a roundup of headlines you may have missed, but gotta see. (Source: Bloomberg)",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-10-17T09:49:35.637424+00:00"
+    "fetched_at": "2026-10-17T13:19:39.041418+00:00"
   },
   {
     "title": "Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-17T09:49:34.640651+00:00"
+    "fetched_at": "2026-10-17T13:19:38.240792+00:00"
   },
   {
     "title": "BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-17T09:49:34.640719+00:00"
+    "fetched_at": "2026-10-17T13:19:38.240838+00:00"
+  },
+  {
+    "title": "TokenMaxxing: How to Get the Most Out of Your AI Models",
+    "url": "https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models",
+    "summary": "AI companies charge by the token, and most people burn them on jobs a cheap model could do. Here's how to spend less and get better results, from your first prompt to your first agent.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-10-17T13:19:38.344658+00:00"
   },
   {
     "title": "Tesla Roadster Rocket Is the Cool 'Flying' Car You Can\u2019t Have",
@@ -60,16 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-17T09:49:34.827497+00:00"
-  },
-  {
-    "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
-    "url": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot",
-    "summary": "Calif showed an untethered jailbreak on an iPhone 18 Pro running iOS 27.0.1 at Hexacon in Paris. It survived a reboot, but no tool or bug details are public yet.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-10-17T09:49:34.827554+00:00"
+    "fetched_at": "2026-10-17T13:19:38.344704+00:00"
   },
   {
     "title": "Strive\u2019s bitcoin buying spree earns 27% price target hike from TD Cowen",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-17T09:49:34.989659+00:00"
+    "fetched_at": "2026-10-17T13:19:38.448088+00:00"
   },
   {
     "title": "Coinbase to power stablecoin-backed cards for Marqeta customers",
@@ -87,7 +87,16 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-17T09:49:34.989718+00:00"
+    "fetched_at": "2026-10-17T13:19:38.448129+00:00"
+  },
+  {
+    "title": "Zelenskyy says Starlink speed limits in Ukraine are a \u2018planned operation\u2019",
+    "url": "https://www.ft.com/content/e26723df-9076-416c-957a-7fa3bd00b4d7?syn-25a6b1a6=1",
+    "summary": "President says restrictions only apply in Ukraine and are hampering efforts to intercept Russian attacks",
+    "source": "Financial Times",
+    "category": "Markets",
+    "tier": 9,
+    "fetched_at": "2026-10-17T13:19:39.765996+00:00"
   },
   {
     "title": "Trump exempts Russia from further sanctions mandated by new law",
@@ -96,15 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-10-17T09:49:36.416435+00:00"
-  },
-  {
-    "title": "Trump\u2019s press secretary Katie Zacharia fired after five days",
-    "url": "https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1",
-    "summary": "Exit comes amid deepening turmoil for White House as midterm elections loom",
-    "source": "Financial Times",
-    "category": "Markets",
-    "tier": 9,
-    "fetched_at": "2026-10-17T09:49:36.416504+00:00"
+    "fetched_at": "2026-10-17T13:19:39.766051+00:00"
   }
 ]
