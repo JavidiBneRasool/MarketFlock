@@ -1,39 +1,39 @@
 [
   {
-    "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
-    "url": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys",
-    "summary": "Cysic said the incident was limited to bridge message processing and minting and did not affect the mainnet or other operational systems.",
+    "title": "Here\u2019s what happened in crypto today",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-10-18T11:50:06.678551+00:00"
+    "fetched_at": "2026-10-18T14:59:34.367585+00:00"
   },
   {
-    "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
-    "url": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok",
-    "summary": "Police alleged the suspect was involved in cryptocurrency and foreign-currency exchanges for criminal groups across more than 133 accounts.",
+    "title": "Most Americans polled oppose betting on elections: Reuters",
+    "url": "https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters",
+    "summary": "The prediction market industry enables people to bet on US \u200celections and sporting events.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-10-18T11:50:06.678592+00:00"
+    "fetched_at": "2026-10-18T14:59:34.367640+00:00"
   },
   {
-    "title": "India Religious Festivities Turn Deadly, Killing At Least 33",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-18/kolkata-stampede-leaves-at-least-19-dead-dozens-injured",
-    "summary": "A stampede and a truck plowing into a crowd killed at least 33 people and injured dozens in two separate accidents during religious festivities in India.",
+    "title": "Trump\u2019s Latin America Allies Deepen Ties With Washington Lenders",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-18/trump-s-latin-america-allies-deepen-ties-with-washington-lenders",
+    "summary": "Latin America\u2019s rightward, market-friendly shift is reshaping its relationship with Donald Trump\u2019s Washington, including new flows of money from the multilateral lenders historically villainized in the region for pushing fiscal austerity.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-10-18T11:50:07.819340+00:00"
+    "fetched_at": "2026-10-18T14:59:35.496386+00:00"
   },
   {
-    "title": "Poland Investigates Suspected Violation of Its Airspace",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-18/poland-investigates-suspected-violation-of-its-airspace",
-    "summary": "Poland is investigating a possible violation of its airspace overnight, the Operational Command of the Armed Forces said.",
+    "title": "Rep. Veasey Calls for Scrutiny of Trump Russia Ties",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-18/rep-veasey-calls-for-scrutiny-of-trump-russia-ties-video",
+    "summary": "Rep. Marc Veasey, a Texas Democrat, tells Bloomberg This Weekend that President Donald Trump\u2019s recent moves involving Russia and Ukraine warrant greater congressional scrutiny, while warning that questions over Ukraine\u2019s access to US military technology could undermine allies\u2019 confidence in American",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-10-18T11:50:07.819371+00:00"
+    "fetched_at": "2026-10-18T14:59:35.496427+00:00"
   },
   {
     "title": "Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-18T11:50:06.872062+00:00"
+    "fetched_at": "2026-10-18T14:59:34.585536+00:00"
   },
   {
     "title": "BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-18T11:50:06.872099+00:00"
+    "fetched_at": "2026-10-18T14:59:34.585588+00:00"
+  },
+  {
+    "title": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
+    "url": "https://decrypt.co/381253/banks-hold-a-lever-over-stablecoin-adoption-bis-economists-say",
+    "summary": "A Bank for International Settlements working paper found that stablecoin growth slows when U.S. banks raise deposit rates, with Circle\u2019s USDC most sensitive.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-10-18T14:59:34.747564+00:00"
   },
   {
     "title": "Crypto Super PAC Fairshake Pours Millions More Into Defeating Sherrod Brown",
@@ -60,16 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-18T11:50:06.982095+00:00"
-  },
-  {
-    "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
-    "url": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
-    "summary": "The nine-member group, modeled on the Internet Engineering Task Force, aims to set open standards for testing quantum-resistance claims as forecasts place the first practical attack in the late 2020s.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-10-18T11:50:06.982124+00:00"
+    "fetched_at": "2026-10-18T14:59:34.747608+00:00"
   },
   {
     "title": "CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-18T11:50:07.116688+00:00"
+    "fetched_at": "2026-10-18T14:59:34.884442+00:00"
   },
   {
     "title": "Turkey confirms Hex founder Richard Heart\u2019s arrest, says police seized $7.15 million and six cold wallets",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-18T11:50:07.116726+00:00"
+    "fetched_at": "2026-10-18T14:59:34.884497+00:00"
   },
   {
     "title": "America\u2019s $10tn AI infrastructure boom is starting to fray",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-10-18T11:50:08.514624+00:00"
+    "fetched_at": "2026-10-18T14:59:36.374301+00:00"
   },
   {
     "title": "Global economy set for AI-driven surge, FT survey suggests",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-10-18T11:50:08.514659+00:00"
+    "fetched_at": "2026-10-18T14:59:36.374354+00:00"
   }
 ]
