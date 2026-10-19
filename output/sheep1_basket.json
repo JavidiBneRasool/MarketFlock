@@ -1,39 +1,39 @@
 [
   {
-    "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
-    "url": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds",
-    "summary": "Qubic says 87.1% of the stolen funds remain onchain and the rest were frozen at crypto exchange MEXC, as network validators prepare to vote on a recovery plan.",
+    "title": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
+    "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows",
+    "summary": "US spot Ether ETFs recorded around $955 million in October net outflows so far, while Bitcoin funds extended their weekly withdrawal streak to two weeks.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-10-19T02:26:27.616798+00:00"
+    "fetched_at": "2026-10-19T08:11:01.094137+00:00"
   },
   {
-    "title": "Richard Heart caught \u2018off-guard,\u2019 QDay gets even closer: Hodler\u2019s Digest",
-    "url": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest",
-    "summary": "HEX founder Richard Heart detained in early morning raid in Istanbul, Starknet plunges almost 50% as it votes to become an L1, and Bitwise says all signs point to Crypto Spring.",
+    "title": "Zoom adds \u2018proof of human\u2019 badges to show you\u2019re not a deepfake",
+    "url": "https://cointelegraph.com/news/zoom-proof-of-human-badges-world-id-ai-deepfakes",
+    "summary": "Sam Altman-backed World has rolled out biometric verification badges for Zoom enterprise users, aiming to combat AI deepfake impersonation and fraud.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-10-19T02:26:27.616898+00:00"
+    "fetched_at": "2026-10-19T08:11:01.094202+00:00"
   },
   {
-    "title": "Japan PM Takaichi Denies She\u2019s Driving Weak Yen, High Rates",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-19/japan-pm-takaichi-denies-she-s-driving-weak-yen-high-rates",
-    "summary": "Japanese Prime Minister Sanae Takaichi strongly denied the notion that she\u2019s responsible for a weak yen and high interest rates.",
+    "title": "Can Microbes Solve the Copper Problem?",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-19/can-microbes-solve-the-copper-problem-video",
+    "summary": "The global copper supply is on a collision course with growing electricity demand. Now some companies are turning to biomining, the process of using microbes to extract metals, to boost supply. (Source: Bloomberg)",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-10-19T02:26:28.474081+00:00"
+    "fetched_at": "2026-10-19T08:11:01.788463+00:00"
   },
   {
-    "title": "Japan Seeks to Quell Fiscal Fears With Outreach in English",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-19/japan-seeks-to-quell-fiscal-fears-with-outreach-in-english",
-    "summary": "Japanese Prime Minister Sanae Takaichi\u2019s administration is seeking to assuage persistent market reservations about her management of fiscal policy by providing foreign investors with more information in English.",
+    "title": "Don Wilson on the GPU Market\u2019s Trillion Dollar Question",
+    "url": "https://www.bloomberg.com/news/audio/2026-10-19/don-wilson-on-the-gpu-market-s-trillion-dollar-question",
+    "summary": "When we spoke to Don Wilson, founder and CEO of DRW, in Chicago last year, he told us he wanted to build a market for GPUs that would eventually be bigger than oil. A year\u2019s time in the age of AI is an eternity, and so for the first episode of this year\u2019s Chicago live show - recorded at City Winery ",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-10-19T02:26:28.474138+00:00"
+    "fetched_at": "2026-10-19T08:11:01.788512+00:00"
   },
   {
     "title": "Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-19T02:26:27.802560+00:00"
+    "fetched_at": "2026-10-19T08:11:01.290273+00:00"
   },
   {
     "title": "BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-19T02:26:27.802624+00:00"
+    "fetched_at": "2026-10-19T08:11:01.290328+00:00"
   },
   {
     "title": "MapQuest Now Shows Drivers Where Flock Cameras Are Watching",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-19T02:26:27.915801+00:00"
+    "fetched_at": "2026-10-19T08:11:01.360233+00:00"
   },
   {
     "title": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-19T02:26:27.915881+00:00"
+    "fetched_at": "2026-10-19T08:11:01.360277+00:00"
   },
   {
     "title": "World launches World ID suite for banks, makes Zoom deepfake check generally available",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-19T02:26:28.032631+00:00"
+    "fetched_at": "2026-10-19T08:11:01.435435+00:00"
   },
   {
     "title": "Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off",
@@ -87,24 +87,24 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-19T02:26:28.032699+00:00"
+    "fetched_at": "2026-10-19T08:11:01.435485+00:00"
   },
   {
-    "title": "US threatens Europe over Starlink restrictions",
-    "url": "https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa?syn-25a6b1a6=1",
-    "summary": "Ambassador Andrew Puzder warns about \u2018devastating\u2019 retaliation if Brussels goes ahead with plans to limit spectrum access for non-EU companies",
+    "title": "Rising interest rates derail property recovery as buyers recut deals",
+    "url": "https://www.ft.com/content/aef890f1-e3f5-4add-b1fc-6187e2658106?syn-25a6b1a6=1",
+    "summary": "\u2018Dire\u2019 mood in sector as surging bond yields threaten deals agreed just a few months ago",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-10-19T02:26:29.063923+00:00"
+    "fetched_at": "2026-10-19T08:11:02.250588+00:00"
   },
   {
-    "title": "St Petersburg endures biggest Ukrainian drone attack",
-    "url": "https://www.ft.com/content/734dad42-2eef-4a70-8947-c73997e49fd1?syn-25a6b1a6=1",
-    "summary": "Strikes hit tech infrastructure after Russia targets electricity substations in Ukraine",
+    "title": "Macron faces political firestorm after riots",
+    "url": "https://www.ft.com/content/19495e50-0f55-44b1-8d19-19244163a4e8?syn-25a6b1a6=1",
+    "summary": "Worst street violence in years comes six months before one of Europe\u2019s most closely watched elections",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-10-19T02:26:29.063980+00:00"
+    "fetched_at": "2026-10-19T08:11:02.250636+00:00"
   }
 ]
