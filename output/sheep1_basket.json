@@ -1,39 +1,48 @@
 [
   {
-    "title": "Bitcoin rally could revive treasury buying, but easy-money days over",
-    "url": "https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over",
-    "summary": "\u201cA return to last year\u2019s indiscriminate capital raising looks unlikely,\u201d said Bitfinex head of derivatives Jag Kooner.",
+    "title": "JPMorgan projects Bitcoin to outperform US stocks and gold over next decade",
+    "url": "https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns",
+    "summary": "JPMorgan included Bitcoin in its long-term capital market outlook for the first time but warned that volatility and unstable correlations limit its role in investment portfolios.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-10-20T03:50:03.140510+00:00"
+    "fetched_at": "2026-10-20T08:57:45.762405+00:00"
   },
   {
-    "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
-    "url": "https://cointelegraph.com/news/solana-treasury-skyai-sells-all-sol-holdings-launches-201m-buyback",
-    "summary": "The former medical device maker has liquidated its Solana treasury and is offering to repurchase shares and warrants using its $223.8 million cash holdings.",
+    "title": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
+    "url": "https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit",
+    "summary": "BlackRock\u2019s proposed Bitcoin fund would use options to limit potential losses and gains, adding another strategy to its existing Bitcoin and Ether ETF lineup.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-10-20T03:50:03.140591+00:00"
+    "fetched_at": "2026-10-20T08:57:45.762464+00:00"
   },
   {
-    "title": "Japan\u2019s 20-Year Bond Sale Sees Strongest Demand on Record",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-20/japan-s-20-year-bond-sale-sees-strongest-demand-on-record",
-    "summary": "Japan\u2019s 20-year government bond auction Tuesday saw the strongest demand on record as elevated yields underpinned buying.",
+    "title": "UK Unemployment Drops Ahead of Healey's Budget",
+    "url": "https://www.bloomberg.com/news/videos/2026-10-20/uk-unemployment-drops-ahead-of-healey-s-budget-video",
+    "summary": "UK joblessness fell to 4.7% in the three months through August, giving Chancellor of the Exchequer\u00a0John Healey an unexpected boost ahead of his budget\u00a0next week. Bloomberg's Morwenna Coniam reports. (Source: Bloomberg)",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-10-20T03:50:03.897488+00:00"
+    "fetched_at": "2026-10-20T08:57:46.816881+00:00"
   },
   {
-    "title": "Copper Holds Drop as Traders Gauge Risks From US Tariff Policy",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-20/copper-holds-drop-as-traders-gauge-risks-from-us-tariff-policy",
-    "summary": "Copper held a modest drop, as traders weighed the risk that a US tariff on imports of refined metal may not be adopted.",
+    "title": "Indonesia Stocks Rebound as Questions Persist Over Market Fix",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-20/indonesia-stocks-rebound-as-authorities-step-up-response-to-msci",
+    "summary": "Indonesian stocks rebounded after authorities moved to stave off a potential two-step downgrade by MSCI Inc., though questions remain over whether the measures go far enough to address the index provider\u2019s concerns.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-10-20T03:50:03.897548+00:00"
+    "fetched_at": "2026-10-20T08:57:46.816923+00:00"
+  },
+  {
+    "title": "Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants",
+    "url": "https://bitcoinmagazine.com/culture/pita-cafe-arizona-bitcoin",
+    "summary": "Bitcoin Magazine\n\nNow Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants\nSetting up a Lightning wallet took seconds, so we sent first-time users in Scottsdale to see how Arizona Bitcoin spending really works.\nThis post Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merc",
+    "source": "Bitcoin Magazine",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-10-20T08:57:46.016233+00:00"
   },
   {
     "title": "AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month",
@@ -42,16 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-20T03:50:03.404730+00:00"
-  },
-  {
-    "title": "The Architecture of Money: Mapping Financial Power in the Age of Bitcoin",
-    "url": "https://bitcoinmagazine.com/culture/the-architecture-of-money-mapping-financial-power-in-the-age-of-bitcoin",
-    "summary": "Bitcoin Magazine\n\nThe Architecture of Money: Mapping Financial Power in the Age of Bitcoin\nCarlijn Kingma, Thomas Bollen, and Martijn Jeroen van der Linden on The Waterworks of Money, the hidden structures of finance, and bitcoin's place in Europe's monetary future.\nThis post The Architecture of Mon",
-    "source": "Bitcoin Magazine",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-10-20T03:50:03.404831+00:00"
+    "fetched_at": "2026-10-20T08:57:46.016284+00:00"
   },
   {
     "title": "Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-20T03:50:03.484381+00:00"
+    "fetched_at": "2026-10-20T08:57:46.182204+00:00"
   },
   {
     "title": "Anthropic Gives 5% of Itself to the Public. Musk Answers by Giving Away SpaceX Shares",
@@ -69,42 +69,42 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-20T03:50:03.484444+00:00"
+    "fetched_at": "2026-10-20T08:57:46.182255+00:00"
   },
   {
-    "title": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT",
-    "url": "https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087",
-    "summary": "One of the world's largest investment managers, BlackRock has filed for another bitcoin fund, marking its third tied to the asset.",
+    "title": "BlackRock\u2019s IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025",
+    "url": "https://www.theblock.co/news/markets/2026-10-20-blackrock-ibit-bitcoin-etf-665-million-421102",
+    "summary": "Min Jung, associate researcher at Presto Research, said investors could be positioning for a potential 'catch-up trade' in bitcoin.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-20T03:50:03.561954+00:00"
+    "fetched_at": "2026-10-20T08:57:46.313227+00:00"
   },
   {
-    "title": "Mesh taps Visa to let users spend crypto without a separate card",
-    "url": "https://www.theblock.co/news/business/2026-10-19-mesh-visa-partner-spend-crypto-stablecoins-421058",
-    "summary": "Mesh and Visa will let users spend crypto and stablecoin balances from wallet apps, with no need to sell or transfer assets first.",
+    "title": "Blockchain Association says Treasury\u2019s GENIUS Act rollout needs clearer DeFi, foreign issuer rules",
+    "url": "https://www.theblock.co/news/regulation/2026-10-20-blockchain-association-clearer-rules-genius-act-421092",
+    "summary": "The group filed comments on Treasury's proposed rule implementing the GENIUS Act, which governs who can issue and sell payment stablecoins.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-20T03:50:03.562014+00:00"
+    "fetched_at": "2026-10-20T08:57:46.313276+00:00"
   },
   {
-    "title": "US defence stocks tumble as investors bet on Democratic election sweep",
-    "url": "https://www.ft.com/content/e73d0106-486b-4382-8ecc-5c96ac44fdff?syn-25a6b1a6=1",
-    "summary": "Donald Trump\u2019s proposed $500bn military spending boost at risk as bipartisan support for higher budget frays",
+    "title": "AI debt worries spark surge in default insurance trading",
+    "url": "https://www.ft.com/content/6dd31584-064c-4015-bf5d-e5747799ccd5?syn-25a6b1a6=1",
+    "summary": "Volumes of credit default swaps linked to big tech groups soar as investors seek protection against boom unravelling",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-10-20T03:50:04.427372+00:00"
+    "fetched_at": "2026-10-20T08:57:47.471742+00:00"
   },
   {
-    "title": "CME plans tungsten futures as demand for weapons rises",
-    "url": "https://www.ft.com/content/96d88d61-002d-4b5c-8e0b-4f50577518c5?syn-25a6b1a6=1",
-    "summary": "China has restricted exports of critical mineral used in armour-piercing munitions",
+    "title": "South Korean data centre builder tumbles 32% on trading debut",
+    "url": "https://www.ft.com/content/cddafc0a-1ae6-467b-84b8-34c172002b6a?syn-25a6b1a6=1",
+    "summary": "Shares in Elice sink in Seoul, adding to rising concern about AI valuations",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-10-20T03:50:04.427435+00:00"
+    "fetched_at": "2026-10-20T08:57:47.471788+00:00"
   }
 ]
