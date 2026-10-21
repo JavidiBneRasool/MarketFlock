@@ -1,39 +1,39 @@
 [
   {
+    "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
+    "url": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack",
+    "summary": "The network\u2019s validators approved a recovery plan and opened claims until May 1, 2027.",
+    "source": "CoinTelegraph",
+    "category": "Crypto",
+    "tier": 10,
+    "fetched_at": "2026-10-21T00:22:53.981043+00:00"
+  },
+  {
     "title": "Utah AG sues Kalshi, pursues profits from prediction market company",
     "url": "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets",
     "summary": "Derek Brown likened the prediction market company to a \u201cpublic nuisance\u201c that was \u201ccausing a significant and substantial ongoing harm\u201c to state residents.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-10-20T21:59:05.335398+00:00"
+    "fetched_at": "2026-10-21T00:22:53.981121+00:00"
   },
   {
-    "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
-    "url": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops",
-    "summary": "The firms are seeking clearer guidance on the classification of crypto assets and secondary-market trading as the SEC\u2019s public comment period comes to a close.",
-    "source": "CoinTelegraph",
-    "category": "Crypto",
-    "tier": 10,
-    "fetched_at": "2026-10-20T21:59:05.335482+00:00"
-  },
-  {
-    "title": "Surprising Netflix Is Not Looking at Other Opportunities: Fmr. Content Director",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-20/-netflix-is-lazy-former-content-dir-on-its-strategy-video",
-    "summary": "Simon Gallagher, Hanaging Director of SPG Global and a Former Netflix Content-Acquisition Director, says hiring Peter Rice signals a more commercial programming strategy. While niche titles can succeed, Gallagher argues Netflix should lean more toward broadly appealing films and shows to support gro",
+    "title": "Asian Shares, US Futures Rise on AI-Trade Revival: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-20/stock-market-today-dow-s-p-live-updates",
+    "summary": "Asian shares rose along with US equity-index futures as strong earnings from some of the biggest beneficiaries of the artificial intelligence boom revived optimism over the tech trade.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-10-20T21:59:06.146613+00:00"
+    "fetched_at": "2026-10-21T00:22:54.980799+00:00"
   },
   {
-    "title": "United Misses Estimates, Squeezed by Soaring Jet Fuel Costs",
-    "url": "https://www.bloomberg.com/news/articles/2026-10-20/united-airlines-misses-estimates-squeezed-by-soaring-fuel-costs",
-    "summary": "United Airlines Holdings Inc. forecast weaker-than-expected earnings for the final three months of the year, underscoring how soaring jet fuel prices are eating into airline profits despite resilient demand for air travel.",
+    "title": "Latest Oil Market News and Analysis for Oct. 21",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-20/latest-oil-market-news-and-analysis-for-oct-21",
+    "summary": "Oil steadied after a choppy session that saw traders parse conflicting headlines on efforts to end the US-Iran war.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-10-20T21:59:06.146672+00:00"
+    "fetched_at": "2026-10-21T00:22:54.980858+00:00"
   },
   {
     "title": "Liquid Network Announces Final Stages of Recovery Following Massive Hack",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-20T21:59:05.614796+00:00"
+    "fetched_at": "2026-10-21T00:22:54.325157+00:00"
   },
   {
     "title": "Swiss Financial Regulator Gives Green Light to Country\u2019s First Bitcoin ETF",
@@ -51,7 +51,16 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-20T21:59:05.614870+00:00"
+    "fetched_at": "2026-10-21T00:22:54.325227+00:00"
+  },
+  {
+    "title": "People Are Vibe Coding the Ads Out of Their Smart TVs: Here's How",
+    "url": "https://decrypt.co/381456/vibe-coding-ads-out-smart-tvs-heres-how",
+    "summary": "A viral Claude Code prompt lets Android TV owners switch off sponsored rows and tracking software and build their own home screens, with no root access and every change reversible.",
+    "source": "Decrypt",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-10-21T00:22:54.440119+00:00"
   },
   {
     "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
@@ -60,16 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-20T21:59:05.705967+00:00"
-  },
-  {
-    "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
-    "url": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
-    "summary": "J.P. Morgan Asset Management\u2019s 2027 Long-Term Capital Market Assumptions project a 10% annual return for Bitcoin over 10 to 15 years, though the firm isn\u2019t adding it to its main portfolio models.",
-    "source": "Decrypt",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-10-20T21:59:05.706036+00:00"
+    "fetched_at": "2026-10-21T00:22:54.440182+00:00"
   },
   {
     "title": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-20T21:59:05.789157+00:00"
+    "fetched_at": "2026-10-21T00:22:54.515054+00:00"
   },
   {
     "title": "Utah likens Kalshi to a \u2018back-alley gambling den\u2019 in lawsuit naming Susquehanna firms",
@@ -87,16 +87,16 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-20T21:59:05.789223+00:00"
+    "fetched_at": "2026-10-21T00:22:54.515121+00:00"
   },
   {
-    "title": "SpaceX and Tesla form special committees to study potential merger",
+    "title": "SpaceX and Tesla boards explore potential merger",
     "url": "https://www.ft.com/content/f2a2a578-5a2e-42ff-b4c9-8bafff271b37?syn-25a6b1a6=1",
-    "summary": "Elon Musk says combining his two public companies would be a \u2018good idea\u2019",
+    "summary": "Elon Musk says combining his two public companies would be a \u2018good idea\u2019 as the world approaches an AI singularity",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-10-20T21:59:06.698650+00:00"
+    "fetched_at": "2026-10-21T00:22:55.719682+00:00"
   },
   {
     "title": "AI debt worries spark surge in default insurance trading",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-10-20T21:59:06.698714+00:00"
+    "fetched_at": "2026-10-21T00:22:55.719746+00:00"
   }
 ]
