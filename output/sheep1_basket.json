@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-10-31T18:07:23.807620+00:00"
+    "fetched_at": "2026-10-31T21:59:37.584685+00:00"
   },
   {
     "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
@@ -15,7 +15,16 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-10-31T18:07:23.807682+00:00"
+    "fetched_at": "2026-10-31T21:59:37.584746+00:00"
+  },
+  {
+    "title": "Rubio Defends Russian G20 Presence Despite Criticism From Allies",
+    "url": "https://www.bloomberg.com/news/articles/2026-10-31/rubio-defends-russian-g20-presence-despite-criticism-from-allies",
+    "summary": "Secretary of State Marco Rubio defended the US decision to include Russia in this year\u2019s Group of 20 meetings after criticism from the European Union and other allies, calling dialogue the only way to end the war in Ukraine.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-10-31T21:59:38.108464+00:00"
   },
   {
     "title": "Senegal Lawmakers Reject Budget Again, Risking IMF Deal",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-10-31T18:07:24.904622+00:00"
-  },
-  {
-    "title": "Final Countdown to Midterm Elections, Tech Stocks Tank",
-    "url": "https://www.bloomberg.com/news/videos/2026-10-31/bloomberg-this-weekend-10-31-2026-video",
-    "summary": "The news doesn\u2019t stop when markets close. Hosts David Gura, Lisa Mateo and Nathan Hager bring clarity, context and a bit of humor to the weekend\u2019s biggest headlines, LIVE from New York. Joined by Medical Historian and \u201cSleuth-Hound\u201d Author Lindsey Fitzharris, European Commission Vice-President and F",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-10-31T18:07:24.904667+00:00"
+    "fetched_at": "2026-10-31T21:59:38.108506+00:00"
   },
   {
     "title": "MSTR Q3 2026 Earnings Call: Analyst Q&A",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-31T18:07:24.035301+00:00"
+    "fetched_at": "2026-10-31T21:59:37.731588+00:00"
   },
   {
     "title": "Mike Flaum: MSTR Performance \u201cMassively\u201d to the Upside During Next BTC Bull Run",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-31T18:07:24.035360+00:00"
+    "fetched_at": "2026-10-31T21:59:37.731644+00:00"
   },
   {
     "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-31T18:07:24.132844+00:00"
+    "fetched_at": "2026-10-31T21:59:37.785210+00:00"
   },
   {
     "title": "Why AI Models Cheat: Reward Hacking, Explained",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-31T18:07:24.132892+00:00"
+    "fetched_at": "2026-10-31T21:59:37.785251+00:00"
   },
   {
     "title": "Hackers hijack a dozen DeFi websites, all registered with Name.com, and steal about $138,000",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-31T18:07:24.254228+00:00"
+    "fetched_at": "2026-10-31T21:59:37.865653+00:00"
   },
   {
     "title": "Chainalysis says hacker using \u2018offensive agentic techniques\u2019 accessed its customers\u2019 names and emails",
@@ -87,7 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-10-31T18:07:24.254289+00:00"
+    "fetched_at": "2026-10-31T21:59:37.865711+00:00"
   },
   {
     "title": "Investors trim growth bets over fears of US economy\u2019s AI exposure",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-10-31T18:07:25.857433+00:00"
+    "fetched_at": "2026-10-31T21:59:38.623232+00:00"
   },
   {
     "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-10-31T18:07:25.857491+00:00"
+    "fetched_at": "2026-10-31T21:59:38.623284+00:00"
   }
 ]

@@ -2,8 +2,8 @@
   {
     "category": "Crypto",
     "headline": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1793470050",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1793470050",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1793483982",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1793483982",
     "article": {
       "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
       "url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished",
@@ -11,7 +11,7 @@
       "source": "CoinTelegraph",
       "category": "Crypto",
       "tier": 10,
-      "fetched_at": "2026-10-31T18:07:23.807620+00:00",
+      "fetched_at": "2026-10-31T21:59:37.584685+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -22,8 +22,8 @@
   {
     "category": "Crypto",
     "headline": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1793470053",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1793470053",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1793483985",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1793483985",
     "article": {
       "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
       "url": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo",
@@ -31,7 +31,27 @@
       "source": "CoinTelegraph",
       "category": "Crypto",
       "tier": 10,
-      "fetched_at": "2026-10-31T18:07:23.807682+00:00",
+      "fetched_at": "2026-10-31T21:59:37.584746+00:00",
+      "credibility": "REVIEW",
+      "score": 6,
+      "verdict": "WARNING",
+      "decision": "PASS",
+      "flags": []
+    }
+  },
+  {
+    "category": "Markets",
+    "headline": "Rubio Defends Russian G20 Presence Despite Criticism From Allies",
+    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1793483988",
+    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1793483988",
+    "article": {
+      "title": "Rubio Defends Russian G20 Presence Despite Criticism From Allies",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-31/rubio-defends-russian-g20-presence-despite-criticism-from-allies",
+      "summary": "Secretary of State Marco Rubio defended the US decision to include Russia in this year\u2019s Group of 20 meetings after criticism from the European Union and other allies, calling dialogue the only way to end the war in Ukraine.",
+      "source": "Bloomberg Markets",
+      "category": "Markets",
+      "tier": 10,
+      "fetched_at": "2026-10-31T21:59:38.108464+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -42,8 +62,8 @@
   {
     "category": "Markets",
     "headline": "Senegal Lawmakers Reject Budget Again, Risking IMF Deal",
-    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1793470056",
-    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1793470056",
+    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1793483991",
+    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1793483991",
     "article": {
       "title": "Senegal Lawmakers Reject Budget Again, Risking IMF Deal",
       "url": "https://www.bloomberg.com/news/articles/2026-10-31/senegal-lawmakers-reject-budget-again-putting-imf-deal-at-risk",
@@ -51,27 +71,7 @@
       "source": "Bloomberg Markets",
       "category": "Markets",
       "tier": 10,
-      "fetched_at": "2026-10-31T18:07:24.904622+00:00",
-      "credibility": "REVIEW",
-      "score": 6,
-      "verdict": "WARNING",
-      "decision": "PASS",
-      "flags": []
-    }
-  },
-  {
-    "category": "Markets",
-    "headline": "Final Countdown to Midterm Elections, Tech Stocks Tank",
-    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1793470060",
-    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1793470060",
-    "article": {
-      "title": "Final Countdown to Midterm Elections, Tech Stocks Tank",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-31/bloomberg-this-weekend-10-31-2026-video",
-      "summary": "The news doesn\u2019t stop when markets close. Hosts David Gura, Lisa Mateo and Nathan Hager bring clarity, context and a bit of humor to the weekend\u2019s biggest headlines, LIVE from New York. Joined by Medical Historian and \u201cSleuth-Hound\u201d Author Lindsey Fitzharris, European Commission Vice-President and F",
-      "source": "Bloomberg Markets",
-      "category": "Markets",
-      "tier": 10,
-      "fetched_at": "2026-10-31T18:07:24.904667+00:00",
+      "fetched_at": "2026-10-31T21:59:38.108506+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -82,8 +82,8 @@
   {
     "category": "Crypto",
     "headline": "MSTR Q3 2026 Earnings Call: Analyst Q&A",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1793470063",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1793470063",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1793483994",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1793483994",
     "article": {
       "title": "MSTR Q3 2026 Earnings Call: Analyst Q&A",
       "url": "https://bitcoinmagazine.com/videos/mstr-q3-2026-earnings-call-analyst-qa",
@@ -91,7 +91,7 @@
       "source": "Bitcoin Magazine",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-10-31T18:07:24.035301+00:00",
+      "fetched_at": "2026-10-31T21:59:37.731588+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -102,8 +102,8 @@
   {
     "category": "Crypto",
     "headline": "Mike Flaum: MSTR Performance \u201cMassively\u201d to the Upside During Next BTC Bull Run",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1793470066",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1793470066",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1793483998",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1793483998",
     "article": {
       "title": "Mike Flaum: MSTR Performance \u201cMassively\u201d to the Upside During Next BTC Bull Run",
       "url": "https://bitcoinmagazine.com/videos/mike-flaum-mstr-performance-massively-to-the-upside-during-next-btc-bull-run",
@@ -111,7 +111,7 @@
       "source": "Bitcoin Magazine",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-10-31T18:07:24.035360+00:00",
+      "fetched_at": "2026-10-31T21:59:37.731644+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -122,8 +122,8 @@
   {
     "category": "Crypto",
     "headline": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in Hist",
-    "image_url": "https://loremflickr.com/1200/630/crypto%2Ctrading?lock=1793470069",
-    "image_fallback": "https://image.pollinations.ai/prompt/crypto%2Ctrading%20professional%20photo?width=800&height=600&nologo=true&seed=1793470069",
+    "image_url": "https://loremflickr.com/1200/630/crypto%2Ctrading?lock=1793484001",
+    "image_fallback": "https://image.pollinations.ai/prompt/crypto%2Ctrading%20professional%20photo?width=800&height=600&nologo=true&seed=1793484001",
     "article": {
       "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
       "url": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
@@ -131,7 +131,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-10-31T18:07:24.132844+00:00",
+      "fetched_at": "2026-10-31T21:59:37.785210+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -142,8 +142,8 @@
   {
     "category": "Crypto",
     "headline": "Why AI Models Cheat: Reward Hacking, Explained",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Cgold%2Ccoin?lock=1793470072",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Cgold%2Ccoin%20professional%20photo?width=800&height=600&nologo=true&seed=1793470072",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Cgold%2Ccoin?lock=1793484004",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Cgold%2Ccoin%20professional%20photo?width=800&height=600&nologo=true&seed=1793484004",
     "article": {
       "title": "Why AI Models Cheat: Reward Hacking, Explained",
       "url": "https://decrypt.co/382274/why-ai-models-cheat-reward-hacking-explained",
@@ -151,7 +151,7 @@
       "source": "Decrypt",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-10-31T18:07:24.132892+00:00",
+      "fetched_at": "2026-10-31T21:59:37.785251+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -162,8 +162,8 @@
   {
     "category": "Crypto",
     "headline": "Hackers hijack a dozen DeFi websites, all registered with Name.com, and steal ab",
-    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1793470075",
-    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1793470075",
+    "image_url": "https://loremflickr.com/1200/630/bitcoin%2Ccryptocurrency?lock=1793484007",
+    "image_fallback": "https://image.pollinations.ai/prompt/bitcoin%2Ccryptocurrency%20professional%20photo?width=800&height=600&nologo=true&seed=1793484007",
     "article": {
       "title": "Hackers hijack a dozen DeFi websites, all registered with Name.com, and steal about $138,000",
       "url": "https://www.theblock.co/news/defi/2026-10-31-hackers-hijack-a-dozen-defi-websites-all-registered-with-name-com-and-steal-about-138000-432251",
@@ -171,7 +171,7 @@
       "source": "The Block",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-10-31T18:07:24.254228+00:00",
+      "fetched_at": "2026-10-31T21:59:37.865653+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -182,8 +182,8 @@
   {
     "category": "Crypto",
     "headline": "Chainalysis says hacker using \u2018offensive agentic techniques\u2019 accessed its custom",
-    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1793470078",
-    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1793470078",
+    "image_url": "https://loremflickr.com/1200/630/ethereum%2Cblockchain?lock=1793484010",
+    "image_fallback": "https://image.pollinations.ai/prompt/ethereum%2Cblockchain%20professional%20photo?width=800&height=600&nologo=true&seed=1793484010",
     "article": {
       "title": "Chainalysis says hacker using \u2018offensive agentic techniques\u2019 accessed its customers\u2019 names and emails",
       "url": "https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244",
@@ -191,7 +191,7 @@
       "source": "The Block",
       "category": "Crypto",
       "tier": 9,
-      "fetched_at": "2026-10-31T18:07:24.254289+00:00",
+      "fetched_at": "2026-10-31T21:59:37.865711+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -202,8 +202,8 @@
   {
     "category": "Markets",
     "headline": "Investors trim growth bets over fears of US economy\u2019s AI exposure",
-    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1793470081",
-    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1793470081",
+    "image_url": "https://loremflickr.com/1200/630/financial%2Cmarket?lock=1793484013",
+    "image_fallback": "https://image.pollinations.ai/prompt/financial%2Cmarket%20professional%20photo?width=800&height=600&nologo=true&seed=1793484013",
     "article": {
       "title": "Investors trim growth bets over fears of US economy\u2019s AI exposure",
       "url": "https://www.ft.com/content/56b0d5fa-829c-47b1-b07b-b4be18f60151?syn-25a6b1a6=1",
@@ -211,7 +211,7 @@
       "source": "Financial Times",
       "category": "Markets",
       "tier": 9,
-      "fetched_at": "2026-10-31T18:07:25.857433+00:00",
+      "fetched_at": "2026-10-31T21:59:38.623232+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
@@ -222,8 +222,8 @@
   {
     "category": "Markets",
     "headline": "OpenAI slashes funding target by $10bn as tech anxieties mount",
-    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1793470084",
-    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1793470084",
+    "image_url": "https://loremflickr.com/1200/630/stock%2Cexchange?lock=1793484016",
+    "image_fallback": "https://image.pollinations.ai/prompt/stock%2Cexchange%20professional%20photo?width=800&height=600&nologo=true&seed=1793484016",
     "article": {
       "title": "OpenAI slashes funding target by $10bn as tech anxieties mount",
       "url": "https://www.ft.com/content/7a3ad950-1b3b-4d9e-8c15-65a61ae6180f?syn-25a6b1a6=1",
@@ -231,7 +231,7 @@
       "source": "Financial Times",
       "category": "Markets",
       "tier": 9,
-      "fetched_at": "2026-10-31T18:07:25.857491+00:00",
+      "fetched_at": "2026-10-31T21:59:38.623284+00:00",
       "credibility": "REVIEW",
       "score": 6,
       "verdict": "WARNING",
