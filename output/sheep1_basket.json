@@ -1,39 +1,39 @@
 [
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+    "url": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack",
+    "summary": "The exchange says withdrawals surged after some services resumed but have since slowed, with the outflows representing a fraction of its roughly $171 billion in customer assets. ",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-11-01T22:30:33.647355+00:00"
+    "fetched_at": "2026-11-02T01:56:58.852867+00:00"
   },
   {
-    "title": "DeepSeek developing AI agent requiring less human input: Report",
-    "url": "https://cointelegraph.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report",
-    "summary": "The proposal comes amid intense competition among AI developers, including US companies Anthropic and OpenAI, the SCMP said.",
+    "title": "Billions flee Binance on reopen, THORChain founder opposes coin freeze: Hodler\u2019s Digest",
+    "url": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest",
+    "summary": "Binance has reopened withdrawals following the world\u2019s biggest ever hack, and THORChain co-founder argues it should not halt the protocol to comply with FBI demands.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-11-01T22:30:33.647399+00:00"
+    "fetched_at": "2026-11-02T01:56:58.852921+00:00"
   },
   {
-    "title": "Indonesia\u2019s MSCI Crisis Driven By Wash Trades and 5,000% Rallies",
-    "url": "https://www.bloomberg.com/news/features/2026-11-01/indonesia-s-msci-crisis-driven-by-wash-trades-and-5-000-rallies",
-    "summary": "Stock trading schemes that helped enrich Indonesia\u2019s tycoons have put the country on the verge of a costly MSCI downgrade.",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-11-01T22:30:34.716283+00:00"
-  },
-  {
-    "title": "Asian Stocks to Fall as Tech Rout Fuels AI Fears: Markets Wrap",
+    "title": "Stock Selloff Eases in Asian Trade, Oil Declines: Markets Wrap",
     "url": "https://www.bloomberg.com/news/articles/2026-11-01/stock-market-today-dow-s-p-live-updates",
-    "summary": "Asian stocks were set to fall, tracking Friday\u2019s sharp Wall Street selloff as a rout in technology shares deepened concerns that a rally in artificial intelligence may have gone too far.",
+    "summary": "A selloff in stocks eased during early Monday trading as Asian equities fell less than their Wall Street peers and US equity futures turned higher. Oil declined.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-11-01T22:30:34.716319+00:00"
+    "fetched_at": "2026-11-02T01:56:59.799627+00:00"
+  },
+  {
+    "title": "PBOC Conducts Overnight Reverse Repo as Policy Anchor Shifts",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-02/pboc-conducts-overnight-reverse-repo-as-policy-anchor-shifts",
+    "summary": "China\u2019s central bank launched daily overnight reverse repurchase operations on Monday, kicking off a revamped liquidity framework that establishes the short-term tool as its primary policy anchor.",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-11-02T01:56:59.799665+00:00"
   },
   {
     "title": "MSTR Q3 2026 Earnings Call: Analyst Q&A",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-01T22:30:33.948036+00:00"
+    "fetched_at": "2026-11-02T01:56:59.071335+00:00"
   },
   {
     "title": "Mike Flaum: MSTR Performance \u201cMassively\u201d to the Upside During Next BTC Bull Run",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-01T22:30:33.948079+00:00"
+    "fetched_at": "2026-11-02T01:56:59.071384+00:00"
   },
   {
     "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-01T22:30:34.033415+00:00"
+    "fetched_at": "2026-11-02T01:56:59.171455+00:00"
   },
   {
     "title": "How to Run an AI Model Locally\u2014And Why You Might Want To",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-01T22:30:34.033448+00:00"
+    "fetched_at": "2026-11-02T01:56:59.171494+00:00"
   },
   {
     "title": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-01T22:30:34.145600+00:00"
+    "fetched_at": "2026-11-02T01:56:59.305403+00:00"
   },
   {
     "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack",
@@ -87,24 +87,24 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-01T22:30:34.145635+00:00"
-  },
-  {
-    "title": "Michigan Democrat Haley Stevens endorses Republican instead of Abdul El-Sayed",
-    "url": "https://www.ft.com/content/d77e4c6f-0ac7-49ce-bca8-b30080bf9797?syn-25a6b1a6=1",
-    "summary": "Unity between Democratic progressives and moderates collapses in key Senate race after war of words over Israel",
-    "source": "Financial Times",
-    "category": "Markets",
-    "tier": 9,
-    "fetched_at": "2026-11-01T22:30:35.387350+00:00"
+    "fetched_at": "2026-11-02T01:56:59.305443+00:00"
   },
   {
     "title": "Trump makes final pitch to restive voters in midterms campaign",
     "url": "https://www.ft.com/content/75e8405b-124f-44aa-9c5e-0a33d0ee5b92?syn-25a6b1a6=1",
-    "summary": "Republican Party is defending its control of Congress against signs of a backlash to the president",
+    "summary": "Republican Party is defending its control of Congress against signs of backlash against president",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-11-01T22:30:35.387388+00:00"
+    "fetched_at": "2026-11-02T01:57:00.559673+00:00"
+  },
+  {
+    "title": "Inside the leaderless movement set to govern Serbia",
+    "url": "https://www.ft.com/content/4e09cf90-7395-4dc4-afa8-a4fa71abe2b3?syn-25a6b1a6=1",
+    "summary": "Secretive \u2018plenums\u2019, code names based on Teletubbies, and fury over corruption: how student rebels won a parliamentary victory",
+    "source": "Financial Times",
+    "category": "Markets",
+    "tier": 9,
+    "fetched_at": "2026-11-02T01:57:00.559716+00:00"
   }
 ]
