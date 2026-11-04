@@ -1,39 +1,39 @@
 [
   {
-    "title": "SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom",
-    "url": "https://cointelegraph.com/news/spacex-tokenization-okxice",
-    "summary": "SpaceX joined several other issuers objecting to OKXICE tokenized trading, months after crypto platforms offered tokens tied to its shares.",
+    "title": "US midterms election 2026 live: Crypto-backed Andy Barr wins Kentucky Senate seat",
+    "url": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto",
+    "summary": "Follow live coverage of the 2026 US midterm elections, including key congressional races, crypto-backed candidates and what the results could mean for digital asset regulation.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-11-03T22:07:19.365722+00:00"
+    "fetched_at": "2026-11-04T02:48:34.945978+00:00"
   },
   {
-    "title": "CFTC clears stock perpetual futures for trading on US exchanges",
-    "url": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges",
-    "summary": "US regulators are opening the door to stock-based perpetual futures, extending a popular crypto trading product into traditional markets amid ongoing legal disputes.",
+    "title": "1inch lawyer sees agencies driving US crypto regulation as midterms unfold",
+    "url": "https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold",
+    "summary": "Crypto executives expect US regulators to drive crypto policymaking regardless of the midterm election outcome.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-11-03T22:07:19.365799+00:00"
+    "fetched_at": "2026-11-04T02:48:34.946055+00:00"
   },
   {
-    "title": "Booking Sees Weaker Final Quarter as Prices, Unrest Hurt Travel",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/booking-sees-weaker-final-quarter-as-prices-unrest-hurt-travel",
-    "summary": "Booking Holdings Inc.\u2019s outlook for the fourth quarter fell short of analyst expectations as pricier flights and protests in Paris affected demand in October.",
+    "title": "Tax Cut Hopes Help Fuel Nifty\u2019s Rally to a Two-Month High",
+    "url": "https://www.bloomberg.com/news/newsletters/2026-11-04/tax-cut-hopes-help-fuel-nifty-s-rally-to-a-two-month-high",
+    "summary": "Global funds bought a net $2 billion of stocks in the final two weeks of October.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-11-03T22:07:20.301499+00:00"
+    "fetched_at": "2026-11-04T02:48:35.996112+00:00"
   },
   {
-    "title": "Dollar Rises Most in a Month on Higher US Yields, Strong Data",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-03/dollar-rises-with-us-yields-as-focus-on-iran-outweighs-election",
-    "summary": "The dollar advanced the most in a month, buoyed by climbing Treasury yields and solid economic data, while traders monitored developments in the Middle East for a sense of the greenback\u2019s direction.",
+    "title": "Gold Rises as Dollar and Yields Fall on Midterm Voting Signals",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-04/gold-steadies-as-traders-track-iran-talk-prospects-us-midterms",
+    "summary": "Gold rose as the dollar and Treasury yields fell after early US midterm results pointed to the Democrats gaining ground in both houses in an election dominated by voter frustration over inflationary cost pressures.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-11-03T22:07:20.301558+00:00"
+    "fetched_at": "2026-11-04T02:48:35.996170+00:00"
   },
   {
     "title": "Tether Holds 150,000 Bitcoin CEO Says, 50,000 More Than Its Reserve Report Shows",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-03T22:07:19.699814+00:00"
+    "fetched_at": "2026-11-04T02:48:35.267694+00:00"
   },
   {
     "title": "TD Cowen: Democratic Congress Would Sink CLARITY Act for Two Years",
@@ -51,25 +51,34 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-03T22:07:19.699893+00:00"
+    "fetched_at": "2026-11-04T02:48:35.267788+00:00"
   },
   {
-    "title": "Anthropic's AI Is Getting Cheaper to Use. That's Becoming a Problem for Its Business",
-    "url": "https://decrypt.co/382471/anthropic-ai-cheaper-use-problem-for-business",
-    "summary": "Claude's prices are falling, but Anthropic's computing expenses grew faster than sales in the latest quarter\u2014a tricky equation ahead of its IPO.",
+    "title": "OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'",
+    "url": "https://decrypt.co/382476/openai-ai-data-centers-rebrand-protect-power-grid",
+    "summary": "The ChatGPT maker says future facilities could ease pressure on power grids by cutting demand during emergencies.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-03T22:07:19.774928+00:00"
+    "fetched_at": "2026-11-04T02:48:35.345028+00:00"
   },
   {
-    "title": "CrowdStrike Launches AI Agent 'Kill Switch,' Plans to Acquire Fiddler AI",
-    "url": "https://decrypt.co/382467/crowdstrike-ai-agent-kill-switch-acquire-fiddler-ai",
-    "summary": "CrowdStrike's new kill switch lets security teams cut off unauthorized AI agents through a gateway, while its planned Fiddler acquisition aims to make autonomous software easier to monitor and audit.",
+    "title": "Tether Holds 150,000 Bitcoin, CEO Says\u2014About 50,000 More Than Its Reserve Report Shows",
+    "url": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says",
+    "summary": "Paolo Ardoino told the Plan \u20bf Forum in Lugano the company owns \u201cgive or take 150,000 Bitcoin,\u201d but its Q3 reserve report implies just 100,060.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-03T22:07:19.774990+00:00"
+    "fetched_at": "2026-11-04T02:48:35.345091+00:00"
+  },
+  {
+    "title": "SEC division views Canton Coin as digital commodity in no-action letter",
+    "url": "https://www.theblock.co/news/regulation/2026-11-03-sec-no-action-letter-canton-coin-digital-commodity-432492",
+    "summary": "SEC's Division of Corporation Finance won't recommend enforcement over Canton Coin's programmatic issuance, calling CC a digital commodity.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-11-04T02:48:35.410175+00:00"
   },
   {
     "title": "CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack",
@@ -78,33 +87,24 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-03T22:07:19.850613+00:00"
+    "fetched_at": "2026-11-04T02:48:35.410231+00:00"
   },
   {
-    "title": "Prediction markets bet on Democratic sweep of House, Senate in midterm elections",
-    "url": "https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461",
-    "summary": "Ahead of polls closing across the U.S., bettors on prediction markes are increasingly pricing in Democrats taking both the House and Senate.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-11-03T22:07:19.850675+00:00"
-  },
-  {
-    "title": "Americans vote in election that doubles as referendum on Trump\u2019s presidency",
+    "title": "Democrats score early victories in battle for Congress",
     "url": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
-    "summary": "Republicans battle to retain majorities in Senate and House of Representatives",
+    "summary": "High-stakes midterm election doubles as referendum on Donald Trump\u2019s presidency",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-11-03T22:07:20.990896+00:00"
+    "fetched_at": "2026-11-04T02:48:36.702796+00:00"
   },
   {
-    "title": "The FT\u2019s guide to election night",
-    "url": "https://www.ft.com/content/c3be88d4-37bb-4eff-8e12-34ab019012e5?syn-25a6b1a6=1",
-    "summary": "From key races to the money and issues at stake, here\u2019s everything you need to know ahead of tonight\u2019s results",
+    "title": "The head-spinning turbulence of Trump\u2019s second term",
+    "url": "https://www.ft.com/content/703f842f-599f-4267-a7c9-1ec1d00ded00?syn-25a6b1a6=1",
+    "summary": "From \u2018liberation day\u2019 and bond market turmoil to Maduro\u2019s capture, the goading of Zelenskyy and war in Iran, US politics has seen little like it",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-11-03T22:07:20.990962+00:00"
+    "fetched_at": "2026-11-04T02:48:36.702862+00:00"
   }
 ]
