@@ -1,39 +1,39 @@
 [
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "title": "Coinone warns of phishing, identity theft after customer data breach",
+    "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information",
+    "summary": "The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-11-15T01:24:31.929265+00:00"
+    "fetched_at": "2026-11-15T08:33:17.088073+00:00"
   },
   {
-    "title": "Microsoft confirms global outage resolved, rules out cyberattack",
-    "url": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out",
-    "summary": "Microsoft attributed the outage to a network capacity upgrade issue, confirming that the disruption was unrelated to cyberattacks or AI agents.",
+    "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+    "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak",
+    "summary": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-11-15T01:24:31.929319+00:00"
+    "fetched_at": "2026-11-15T08:33:17.088145+00:00"
   },
   {
-    "title": "(Digital) SpaceX Catches Starship in Novel Landing",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing",
-    "summary": "(Digital) SpaceX Catches Starship in Novel Landing  (Source: Bloomberg)",
+    "title": "State Street, Pictet Call Time on Europe\u2019s Stock Market Rally",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-15/state-street-pictet-call-time-on-europe-s-stock-market-rally",
+    "summary": "For weeks, European stocks have outshone other markets, pushing higher as AI ructions tripped up benchmarks elsewhere. Now, some investors and strategists say the rare stretch of outperformance is about to end.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-11-15T01:24:33.180738+00:00"
+    "fetched_at": "2026-11-15T08:33:18.316548+00:00"
   },
   {
-    "title": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly",
-    "summary": "US corporate bonds have been rallying in recent weeks, drawing the attention of money managers seeking shelter from turbulence in stocks.",
+    "title": "Crypto\u2019s Slow-Motion Selloff Leaves Traders Weary and Hopeless",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-15/crypto-s-slow-motion-selloff-leaves-traders-weary-and-hopeless",
+    "summary": "Bitcoin\u2019s latest selloff is testing the resolve of some of the cryptocurrency market\u2019s most committed investors, as a succession of setbacks pushes prices toward their lowest levels of the year and major sources of demand weaken.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-11-15T01:24:33.180783+00:00"
+    "fetched_at": "2026-11-15T08:33:18.316603+00:00"
   },
   {
     "title": "Bitcoin Price Falls 14% in a Week to $65,000 as Weekend Selling Breaks Friday\u2019s Low",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-15T01:24:32.282721+00:00"
+    "fetched_at": "2026-11-15T08:33:17.448027+00:00"
   },
   {
     "title": "Joe Carlasare on \u201cExtreme Fear\u201d in Bitcoin: \u201cI\u2019m A Buyer Here\u201d",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-15T01:24:32.282777+00:00"
+    "fetched_at": "2026-11-15T08:33:17.448096+00:00"
   },
   {
     "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia\u2019s CEO",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-15T01:24:32.378118+00:00"
+    "fetched_at": "2026-11-15T08:33:17.564031+00:00"
   },
   {
     "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
@@ -69,7 +69,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-15T01:24:32.378164+00:00"
+    "fetched_at": "2026-11-15T08:33:17.564088+00:00"
   },
   {
     "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
@@ -78,7 +78,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-15T01:24:32.471259+00:00"
+    "fetched_at": "2026-11-15T08:33:17.666032+00:00"
   },
   {
     "title": "Louisiana AG calls CFTC chair an \u2018obsequious standard bearer\u2019 for prediction markets following agency lawsuit",
@@ -87,24 +87,24 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-15T01:24:32.471313+00:00"
+    "fetched_at": "2026-11-15T08:33:17.666100+00:00"
   },
   {
-    "title": "US air travel chaos exposes system held together by \u2018string and duct tape\u2019",
-    "url": "https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063?syn-25a6b1a6=1",
-    "summary": "Decades of bipartisan neglect have left America\u2019s aviation infrastructure unfit for purpose, say experts",
+    "title": "Data centre construction stocks lose $4.2tn as boom in AI trade unravels",
+    "url": "https://www.ft.com/content/d5adde7e-68cc-455b-ba78-b39cc3676b7a?syn-25a6b1a6=1",
+    "summary": "Shares in AI \u2018picks and shovels\u2019 companies hit hard by tech sell-off",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-11-15T01:24:33.958150+00:00"
+    "fetched_at": "2026-11-15T08:33:19.309360+00:00"
   },
   {
-    "title": "Passengers face widespread disruption after US air traffic control outage",
-    "url": "https://www.ft.com/content/f66f9811-59a2-4e52-a944-c7ed81dabc50?syn-25a6b1a6=1",
-    "summary": "Thousands of flights delayed or cancelled as political blame game mounts",
+    "title": "What will Nvidia\u2019s post-Huang era look like?",
+    "url": "https://www.ft.com/content/0e2720d7-ba0a-4469-a854-30931f907bd3",
+    "summary": "The chip company has only itself to blame for a long list of adversaries",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-11-15T01:24:33.958203+00:00"
+    "fetched_at": "2026-11-15T08:33:19.309416+00:00"
   }
 ]
