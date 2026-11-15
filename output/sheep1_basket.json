@@ -6,7 +6,7 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-11-14T21:45:24.934502+00:00"
+    "fetched_at": "2026-11-15T01:24:31.929265+00:00"
   },
   {
     "title": "Microsoft confirms global outage resolved, rules out cyberattack",
@@ -15,7 +15,16 @@
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-11-14T21:45:24.934553+00:00"
+    "fetched_at": "2026-11-15T01:24:31.929319+00:00"
+  },
+  {
+    "title": "(Digital) SpaceX Catches Starship in Novel Landing",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-14/-digital-spacex-catches-starship-in-novel-landing",
+    "summary": "(Digital) SpaceX Catches Starship in Novel Landing  (Source: Bloomberg)",
+    "source": "Bloomberg Markets",
+    "category": "Markets",
+    "tier": 10,
+    "fetched_at": "2026-11-15T01:24:33.180738+00:00"
   },
   {
     "title": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
@@ -24,16 +33,7 @@
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-11-14T21:45:26.037459+00:00"
-  },
-  {
-    "title": "Nationwide Ground Stop Lifted, Nvidia Spy Scandal, Starship\u2019s Longest Test Flight",
-    "url": "https://www.bloomberg.com/news/videos/2026-11-14/bloomberg-this-weekend-11-14-2026-video",
-    "summary": "The news doesn\u2019t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend\u2019s biggest headlines, LIVE from New York. Joined by Former UK Prime Minister and \u201cEnding Alzheimer\u2019s\u201d Podcast Host David Cameron, Space Network Co-Foun",
-    "source": "Bloomberg Markets",
-    "category": "Markets",
-    "tier": 10,
-    "fetched_at": "2026-11-14T21:45:26.037513+00:00"
+    "fetched_at": "2026-11-15T01:24:33.180783+00:00"
   },
   {
     "title": "Bitcoin Price Falls 14% in a Week to $65,000 as Weekend Selling Breaks Friday\u2019s Low",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-14T21:45:25.227930+00:00"
+    "fetched_at": "2026-11-15T01:24:32.282721+00:00"
   },
   {
     "title": "Joe Carlasare on \u201cExtreme Fear\u201d in Bitcoin: \u201cI\u2019m A Buyer Here\u201d",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-14T21:45:25.227984+00:00"
+    "fetched_at": "2026-11-15T01:24:32.282777+00:00"
   },
   {
     "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia\u2019s CEO",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-14T21:45:25.367839+00:00"
+    "fetched_at": "2026-11-15T01:24:32.378118+00:00"
   },
   {
     "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-14T21:45:25.367884+00:00"
+    "fetched_at": "2026-11-15T01:24:32.378164+00:00"
+  },
+  {
+    "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
+    "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
+    "summary": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-11-15T01:24:32.471259+00:00"
   },
   {
     "title": "Louisiana AG calls CFTC chair an \u2018obsequious standard bearer\u2019 for prediction markets following agency lawsuit",
@@ -78,16 +87,16 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-14T21:45:25.475622+00:00"
+    "fetched_at": "2026-11-15T01:24:32.471313+00:00"
   },
   {
-    "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
-    "url": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
-    "summary": "U.S. spot crypto ETFs lost about $1.55 billion combined, and Avalanche funds' $227,000 was the only weekly inflow among the 15 categories SoSoValue tracks.",
-    "source": "The Block",
-    "category": "Crypto",
+    "title": "US air travel chaos exposes system held together by \u2018string and duct tape\u2019",
+    "url": "https://www.ft.com/content/9df17e1c-c77a-4f67-b5b4-1adb64bcd063?syn-25a6b1a6=1",
+    "summary": "Decades of bipartisan neglect have left America\u2019s aviation infrastructure unfit for purpose, say experts",
+    "source": "Financial Times",
+    "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-11-14T21:45:25.475673+00:00"
+    "fetched_at": "2026-11-15T01:24:33.958150+00:00"
   },
   {
     "title": "Passengers face widespread disruption after US air traffic control outage",
@@ -96,15 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-11-14T21:45:26.762683+00:00"
-  },
-  {
-    "title": "Record polar vortex breakdown raises cold weather risk",
-    "url": "https://www.ft.com/content/576640c4-8d35-4504-b1a5-f01c0ca1f5bc?syn-25a6b1a6=1",
-    "summary": "The early collapse of wind system that traps Arctic air is latest extreme atmospheric event",
-    "source": "Financial Times",
-    "category": "Markets",
-    "tier": 9,
-    "fetched_at": "2026-11-14T21:45:26.762730+00:00"
+    "fetched_at": "2026-11-15T01:24:33.958203+00:00"
   }
 ]
