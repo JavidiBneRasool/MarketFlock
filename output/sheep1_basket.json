@@ -1,39 +1,39 @@
 [
   {
-    "title": "Enterprise blockchain is going to come back from the dead",
-    "url": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead",
-    "summary": "With scalability, privacy tools and onchain liquidity improving, businesses may finally have the infrastructure to make enterprise blockchain work.",
+    "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
+    "url": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit",
+    "summary": "Silicon Valley executives are reportedly organizing a campaign to bring Huang back and are looking to gain White House support. ",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-11-15T20:40:43.659205+00:00"
+    "fetched_at": "2026-11-16T00:29:37.361254+00:00"
   },
   {
-    "title": "Here\u2019s what happened in crypto today",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-    "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
+    "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler\u2019s Digest",
+    "url": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest",
+    "summary": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A \u201cwar room\u201d has been set up by supporters to reinstate Nvidia boss Jensen Huang.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-11-15T20:40:43.659262+00:00"
+    "fetched_at": "2026-11-16T00:29:37.361337+00:00"
   },
   {
-    "title": "Roughed-Up Bond Traders Look to Fedspeak, Minutes for Next Move",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-15/roughed-up-bond-traders-look-to-fedspeak-minutes-for-next-move",
-    "summary": "Bond traders fresh off a bruising week will look to a slew of Federal Reserve speeches and the central bank\u2019s most recent meeting minutes for clues on interest rates after the market ramped up expectations for an extended cycle of hikes.",
+    "title": "US Futures Rebound After Two-Day Loss, Oil Slips: Markets Wrap",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates",
+    "summary": "US equity-index futures rose in early Asian trading, pointing to a tentative recovery in market sentiment after a bout of weakness late last week. Oil slipped.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-11-15T20:40:44.864137+00:00"
+    "fetched_at": "2026-11-16T00:29:38.477977+00:00"
   },
   {
-    "title": "Anthropic\u2019s IPO Makes Dario Amodei the New Face of the AI Boom",
-    "url": "https://www.bloomberg.com/news/features/2026-11-15/anthropic-s-ipo-makes-dario-amodei-the-new-face-of-the-ai-boom",
-    "summary": "The startup is set for the biggest IPO of all time, putting&nbsp;AI investors\u2019 hopes and dreams \u2014 and fears \u2014 onto a frontier model maker.",
+    "title": "IDR/USD: Indonesian Rupiah May Fall Further Past Record Low, Says Analysts",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/idr-usd-indonesian-rupiah-may-fall-further-past-record-low-says-analysts",
+    "summary": "Indonesian authorities may struggle to put a floor under Asia\u2019s worst-performing currency, according to strategists, as rising domestic political uncertainty and further capital outflows weigh on the rupiah.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-11-15T20:40:44.864185+00:00"
+    "fetched_at": "2026-11-16T00:29:38.478038+00:00"
   },
   {
     "title": "Bitcoin Price Falls 14% in a Week to $65,000 as Weekend Selling Breaks Friday\u2019s Low",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-15T20:40:43.963177+00:00"
+    "fetched_at": "2026-11-16T00:29:37.647541+00:00"
   },
   {
     "title": "Joe Carlasare on \u201cExtreme Fear\u201d in Bitcoin: \u201cI\u2019m A Buyer Here\u201d",
@@ -51,7 +51,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-15T20:40:43.963234+00:00"
+    "fetched_at": "2026-11-16T00:29:37.647613+00:00"
   },
   {
     "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
@@ -60,7 +60,7 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-15T20:40:44.070702+00:00"
+    "fetched_at": "2026-11-16T00:29:37.762986+00:00"
   },
   {
     "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
@@ -69,7 +69,16 @@
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-15T20:40:44.070747+00:00"
+    "fetched_at": "2026-11-16T00:29:37.763045+00:00"
+  },
+  {
+    "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
+    "url": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
+    "summary": "The price moves across the market led to $2 billion in crypto liquidations in a single 24-hour period over the weekend.",
+    "source": "The Block",
+    "category": "Crypto",
+    "tier": 9,
+    "fetched_at": "2026-11-16T00:29:37.868451+00:00"
   },
   {
     "title": "Traders claim $6 million profit by spotting BitGo\u2019s public pull request and frontrunning memecoin listing",
@@ -78,16 +87,7 @@
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-15T20:40:44.166160+00:00"
-  },
-  {
-    "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
-    "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
-    "summary": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.",
-    "source": "The Block",
-    "category": "Crypto",
-    "tier": 9,
-    "fetched_at": "2026-11-15T20:40:44.166210+00:00"
+    "fetched_at": "2026-11-16T00:29:37.868521+00:00"
   },
   {
     "title": "Jensen Huang discusses comeback as Nvidia CEO with allies",
@@ -96,7 +96,7 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-11-15T20:40:45.619995+00:00"
+    "fetched_at": "2026-11-16T00:29:39.101095+00:00"
   },
   {
     "title": "Bessent says Nvidia needs \u2018shake-up\u2019 with external CEO",
@@ -105,6 +105,6 @@
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-11-15T20:40:45.620047+00:00"
+    "fetched_at": "2026-11-16T00:29:39.101165+00:00"
   }
 ]
