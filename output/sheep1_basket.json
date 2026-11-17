@@ -1,39 +1,39 @@
 [
   {
-    "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
-    "url": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites",
-    "summary": "Researchers say attackers compromised scripts delivered through Optimizely, exposing visitors to malware designed to replace crypto wallet addresses and steal payment card details. ",
+    "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
+    "url": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit",
+    "summary": "Judge Jessica Clarke said the transactions did not involve false promises, but the ruling did not determine whether the brothers\u2019 conduct was ethical or violated other laws.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-11-17T01:13:01.350154+00:00"
+    "fetched_at": "2026-11-17T09:51:01.925680+00:00"
   },
   {
-    "title": "Nvidia shares fall 4% as board reportedly rules out Huang return",
-    "url": "https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return",
-    "summary": "The chipmaker\u2019s board is reportedly focused on investigating Huang\u2019s conduct, even as a petition calling for his reinstatement gathers more than 187,000 signatures.",
+    "title": "Goldman Sachs reports $1.22B in Ether ETFs as ETHA share count jumps",
+    "url": "https://cointelegraph.com/news/goldman-sachs-reports-122b-ether-etfs-etha-shares-jumps",
+    "summary": "Goldman Sachs increased its Ether ETF shares in Q3, bringing its reported holdings to $1.22 billion, while reshuffling its Bitcoin ETF positions.",
     "source": "CoinTelegraph",
     "category": "Crypto",
     "tier": 10,
-    "fetched_at": "2026-11-17T01:13:01.350217+00:00"
+    "fetched_at": "2026-11-17T09:51:01.925739+00:00"
   },
   {
-    "title": "Samuel Sekuritas Denies It Pumped Stock, Took Part in MSCI Trade",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/samuel-sekuritas-denies-it-pumped-stock-took-part-in-msci-trade",
-    "summary": "PT Samuel Sekuritas Indonesia and its owner, Eunice Satyono, denied that the firm carried out any illegal stock market transactions to spark the sudden rally in an Asian delicacy maker named PT Abadi Lestari Indonesia.",
+    "title": "Deutsche Bank Processed Payments Linked to Epstein: FT (Video)",
+    "url": "https://www.bloomberg.com/news/videos/2026-11-17/deutsche-bank-processed-payments-linked-to-epstein-ft-video",
+    "summary": "",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-11-17T01:13:02.084889+00:00"
+    "fetched_at": "2026-11-17T09:51:02.626991+00:00"
   },
   {
-    "title": "RBA Raised Rates as Price Risks Remained to Upside, Minutes Show",
-    "url": "https://www.bloomberg.com/news/articles/2026-11-17/rba-raised-rates-as-price-risks-remained-to-upside-minutes-show",
-    "summary": "A majority of the Australian central bank\u2019s nine-member board voted to raise interest rates two weeks ago on concerns that risks to the inflation outlook remained to the upside and consumer prices had stayed too high for too long.",
+    "title": "Oil Edges Up as Traders Weigh Mideast Threats and Ample Supply",
+    "url": "https://www.bloomberg.com/news/articles/2026-11-16/latest-oil-market-news-and-analysis-for-nov-17",
+    "summary": "Oil edged higher, erasing an earlier decline, as traders weighed threats in the Middle East against signs supplies are outpacing demand.",
     "source": "Bloomberg Markets",
     "category": "Markets",
     "tier": 10,
-    "fetched_at": "2026-11-17T01:13:02.084934+00:00"
+    "fetched_at": "2026-11-17T09:51:02.627061+00:00"
   },
   {
     "title": "Why Bitcoin\u2019s June Low May Not Be the Bottom \u2014 $58K the Key Test",
@@ -42,7 +42,7 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-17T01:13:01.553915+00:00"
+    "fetched_at": "2026-11-17T09:51:02.090580+00:00"
   },
   {
     "title": "Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5%",
@@ -51,60 +51,60 @@
     "source": "Bitcoin Magazine",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-17T01:13:01.553971+00:00"
+    "fetched_at": "2026-11-17T09:51:02.090636+00:00"
   },
   {
-    "title": "Alibaba's Qwen 4 Max Leads China's AI Agent Race\u2014But You Can't Download It",
-    "url": "https://decrypt.co/383395/alibaba-qwen-4-max-leads-china-ai-agent-race-cant-download-it",
-    "summary": "Alibaba's new flagship jumps ahead of Chinese rivals on agent and web design leaderboards, with cheaper API access. The closed model also previews the next generation of open Qwen releases.",
+    "title": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution",
+    "url": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
+    "summary": "A federal judge ruled prosecutors failed to prove the material misrepresentation needed for wire fraud, a year after a jury deadlocked.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-17T01:13:01.617200+00:00"
+    "fetched_at": "2026-11-17T09:51:02.161503+00:00"
   },
   {
-    "title": "Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again",
-    "url": "https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data",
-    "summary": "A second Trezor shipping partner was breached in three months, exposing buyers' addresses and order details.",
+    "title": "Solana Foundation Backs CoinGecko as Crypto Data Giant Eyes Trading",
+    "url": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading",
+    "summary": "CoinGecko has received backing from the Solana Foundation to expand into market intelligence and explore trading.",
     "source": "Decrypt",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-17T01:13:01.617248+00:00"
+    "fetched_at": "2026-11-17T09:51:02.161546+00:00"
   },
   {
-    "title": "CFTC backs blockchain-based derivatives infrastructure as Backpack, tZERO win approvals",
-    "url": "https://www.theblock.co/news/regulation/2026-11-16-cftc-blockchain-derivatives-exchange-approval-backpack-tzero-441591",
-    "summary": "The CFTC has approved the first set of applications to establish regulated derivatives and exchange clearing operations that use blockchain.",
+    "title": "Grayscale says crypto pullback offers \u2018compelling entry points\u2019 as bitcoin falls to $64,000",
+    "url": "https://www.theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083",
+    "summary": "Grayscale Head of Research Zach Pandl said crypto still has strong fundamental demand, such as institutional adoption of stablecoins.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-17T01:13:01.678377+00:00"
+    "fetched_at": "2026-11-17T09:51:02.237009+00:00"
   },
   {
-    "title": "Trezor hit by another shipping partner data leak, affecting 27,000 Skladon orders",
-    "url": "https://www.theblock.co/news/business/2026-11-16-trezor-hit-another-shipping-partner-data-leak-affecting-27000-skladon-orders-441524",
-    "summary": "Trezor warns of scam calls and physical security risks after customer addresses leak at shipping partner.",
+    "title": "Cathie Wood\u2019s Ark Invest loads up on crypto stocks while selling $85 million in Nvidia",
+    "url": "https://www.theblock.co/news/business/2026-11-17-ark-invest-buys-crypto-stocks-sells-nvidia-442080",
+    "summary": "Cathie Wood's Ark Invest bought additional shares in Block Inc., Circle, and Coinbase as the stocks traded lower on Monday.",
     "source": "The Block",
     "category": "Crypto",
     "tier": 9,
-    "fetched_at": "2026-11-17T01:13:01.678425+00:00"
+    "fetched_at": "2026-11-17T09:51:02.237060+00:00"
   },
   {
-    "title": "Nasdaq 100 sinks 2.7% in gloomy start to pivotal week for AI trade",
-    "url": "https://www.ft.com/content/12d927a9-98b1-40b9-8f75-01fb56a693d1?syn-25a6b1a6=1",
-    "summary": "US chip stocks fall as Nvidia sustains fresh bout of selling pressure",
+    "title": "Leak of 15mn Deutsche Bank files exposes systemic failures",
+    "url": "https://www.ft.com/content/df518845-ed97-4a38-8a38-7fa9d4d24003?syn-25a6b1a6=1",
+    "summary": "Email, internal probes and other documents throw new light on the career and leadership of chief executive Christian Sewing",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-11-17T01:13:02.842679+00:00"
+    "fetched_at": "2026-11-17T09:51:03.409222+00:00"
   },
   {
-    "title": "Nvidia board not considering reinstating Jensen Huang as chief executive",
-    "url": "https://www.ft.com/content/e5275763-d7e2-4857-8ac6-6b888111986a?syn-25a6b1a6=1",
-    "summary": "Co-founder of chipmaker resigned following extramarital affair with executive at Singapore-based customer",
+    "title": "German lender processed $582mn of suspicious payments linked to Epstein",
+    "url": "https://www.ft.com/content/72ac6fee-55f3-4db5-a1e3-873ef39c0b96?syn-25a6b1a6=1",
+    "summary": "Figure revealed by internal documents is substantially higher than previously known",
     "source": "Financial Times",
     "category": "Markets",
     "tier": 9,
-    "fetched_at": "2026-11-17T01:13:02.842730+00:00"
+    "fetched_at": "2026-11-17T09:51:03.409275+00:00"
   }
 ]
